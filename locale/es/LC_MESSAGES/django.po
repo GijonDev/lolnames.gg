@@ -15,19 +15,19 @@ msgid "Invalid name"
 msgstr "Nombre inválido"
 
 msgid "Invalid characters: "
-msgstr "Carácteres inválidos"
+msgstr "Caracteres inválidos"
 
 msgid "Maximum 16 characters"
-msgstr "Máximo 16 carácteres"
+msgstr "Máximo 16 caracteres"
 
 msgid "Must be two or more characters"
-msgstr "Debe tener 2 o mas carácteres"
+msgstr "Debe tener 2 o mas caracteres"
 
 msgid "Names can't contain 'riot'"
-msgstr "Los nombres no pueden tener la palabra 'riot'"
+msgstr "Los nombres no pueden contener 'Riot'"
 
 msgid "This is a problem with Riot's servers"
-msgstr "Esto es un problema con los servidores de Riot"
+msgstr "Ha ocurrido un problema en la conexión con los servidores de Riot"
 
 msgid "New Account"
 msgstr "Nueva cuenta"
@@ -60,10 +60,10 @@ msgid "Summoner Level High Scores"
 msgstr "Niveles más altos de invocador"
 
 msgid "All Upcoming Names"
-msgstr "Todos los próximos nombres"
+msgstr "Próximos nombres disponibles"
 
 msgid "Recently Available Names"
-msgstr "Nombres disponibles recientemente"
+msgstr "Nuevos nombres disponibles"
 
 msgid "Two Letter Names"
 msgstr "Nombres de dos letras"
@@ -84,7 +84,7 @@ msgid "No active game for %(name)s"
 msgstr "%(name)s no está actualmente en partida"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr "No hay invocados con el nombre \"%(name)s\" en %(región)s"
+msgstr "No hay cuentas con el nombre \"%(name)s\" en %(región)s"
 
 msgid "LoL Names"
 msgstr "Nombres de LoL"
@@ -93,7 +93,7 @@ msgid "Checker"
 msgstr "Verificador"
 
 msgid "Highscores"
-msgstr "Mayores Puntajes"
+msgstr "Mayores puntuaciones"
 
 msgid "Tools"
 msgstr "Herramientas"
@@ -147,28 +147,28 @@ msgid "How frequently do the lists update?"
 msgstr "¿Con qué frecuencia se actualizan las listas?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr "Las listas se actualizan aproximadamente una vez por hora. Un escaneo completo se hace cada semana"
+msgstr "Las listas se actualizan aproximadamente una vez cada hora. Se hace un escaneo completo cada semana."
 
 msgid "Why can't I take a name on a new account?"
-msgstr "¿Por qué no podría elegir un nombre para una cuenta nueva?"
+msgstr "¿Por qué no puedo elegir un nombre para una cuenta nueva?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "Si un nombre ya fue usado en una cuenta solo puedes obtenerlo mediante un cambio de nombre. Estos nombres son mostrados con un fondo verde. Si un nombre no ha sido tomado por un usuario entonces puedes elegirlo para una cuenta nueva. Estos nombres se muestran con un fondo azul."
+msgstr "Si un nombre ya está siendo usado en una cuenta solo puedes obtenerlo mediante un cambio de nombre. Estos nombres se muestran con un fondo verde. Si un nombre no ha sido usado todavía, puedes elegirlo para una cuenta nueva. Estos nombres se muestran con un fondo azul."
 
 msgid "What if the account is banned?"
 msgstr "¿Y qué si la cuenta está suspendida?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr "Si la cuenta está suspendida entonces va a ser mostrada como libre con un fondo verde, sin embargo no va a volver a estar disponible nunca a no ser que Riot cambie su política de cuentas suspendidas."
+msgstr "Si la cuenta está suspendida entonces va a ser mostrada como libre con un fondo verde, sin embargo no va a volver a estar disponible nunca, a no ser que Riot cambie su política de cuentas suspendidas."
 
 msgid "How can I get a 2 letter name?"
-msgstr "¿Cómo puedo tenes un nombre de 2 letras?"
+msgstr "¿Cómo puedo obtener un nombre de 2 letras?"
 
 msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
 msgstr "El mínimo de caracteres para un nombre de League of Legends es 3. Pon un espacio entre las letras: \"GG\" = \"G G\""
 
 msgid "What timezone is used?"
-msgstr "¿Cuál es la zona horaria usada?"
+msgstr "¿Que zona horaria se usa?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
 msgstr "Todos los horarios están especificados en UTC. Usa este <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">conversor de zonas horarias</a> para ajustarlos a tu hora local"
@@ -177,7 +177,7 @@ msgid "When exactly will the name become available?"
 msgstr "¿Cuándo exactamente estará disponible un nombre?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr "Normalmente los nombres son limpiados a la medianoche en horario UTC. Pero, en algunos casos he encontrado que ha tardado 48 horas. Fíjate cada pocas horas el día que muestra."
+msgstr "Normalmente los nombres son limpiados a la medianoche en horario UTC pero, en algunos casos, pueden llegar a tardar 48 horas. Fíjate cada pocas horas el día que muestra."
 
 msgid "Can you remove a name from a list for me?"
 msgstr "¿Puedes borrar un nombre de la lista por mí?"
@@ -195,13 +195,13 @@ msgid "Where should I report a bug?"
 msgstr "¿Dónde debería reportar un bug?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr "¿Por qué no están permitidos los nombres de campeones antes de Xayah y Rakan?"
+msgstr "¿Por qué no están permitidos los nombres de campeones previos a Xayah y Rakan?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
 msgstr "Riot ya dijo que no va a reservar los nombres de nuevos campeones."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr "Igualmente han baneado las cuentas con los nombres anteriores asi que nunca expirarán"
+msgstr "Igualmente, las cuentas con los nombres anteriores han sido baneadas así que nunca expirarán"
 
 msgid "Disclaimer"
 msgstr "Renuncia de Garantías"
@@ -399,16 +399,16 @@ msgid "Spells"
 msgstr "Hechizos"
 
 msgid "Solo Rank"
-msgstr "Rango en solitario"
+msgstr "Rango en clasificatoria"
 
 msgid "Winratio/Total"
-msgstr "Porcentaje de victoria/Total"
+msgstr "Porcentaje de victoria/derrota total"
 
 msgid "Runes"
 msgstr "Runas"
 
 msgid "Summoner Icon Statistics"
-msgstr "Estadísticas del icono de invocador"
+msgstr "Estadísticas de icono del invocador"
 
 msgid "Icon"
 msgstr "Icono"
