@@ -219,7 +219,7 @@ msgid "The best League of Legends summoner name generator. The generator will au
 msgstr "El mejor generador de nombres de invocador de League of Legends. El generador añadirá automáticamente carácteres especiales a nombres de League of Legends para verificar si están libres"
 
 msgid "Go"
-msgstr "Ahora"
+msgstr "Buscar"
 
 msgid "ERROR:"
 msgstr "ERROR:"
@@ -273,7 +273,7 @@ msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" no está en uso!</h4>"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr "Ver cuál nombre de invocador corresponde al ID de cuenta %(account_id)s"
+msgstr "Ver qué nombre de invocador corresponde al ID de cuenta %(account_id)s"
 
 msgid "Search for a summoner name using an account ID."
 msgstr "Buscar un nombre de invocador usando el ID de cuenta"
@@ -282,7 +282,7 @@ msgid "LoL Name by Account ID"
 msgstr "Nombre de LoL según su ID de cuenta."
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Buscar un usuario usando un ID de cuenta. Escribir el ID de cuenta de un invocador y encontrar su usuario."
+msgstr "Buscar un usuario usando un ID de cuenta. Escribe el ID de cuenta de un invocador y encuentra el usuario correspondiente."
 
 msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
 msgstr "<h4 class=\"text-center\">Account ID \"%(account_id)s\" fue encontrado!</h4> Último juego: %(date_game)s<br> Última actividad: %(date_active)s<br> Nombre actual: %(name)s<br> Nombres anteriores: <i>¡Próximamente!</i><br> Nivel actual: %(level)s"
@@ -291,19 +291,19 @@ msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(account_id)s\" no es propiedad!</h4>"
 
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
-msgstr "League of Legends de nivel más alto, nivel máximo de lol en juego, puntuación más alta, nivel más alto de lol, LoL, League of Legends, nombres, nivel de invocador superior, nivel de invocador más elevado, nivel de convocador, búsqueda, nombre de invocador LoL, tabla de clasificación, invocador, nivel de invocador tablas de clasificación"
+msgstr "nivel más alto,nivel máximo de lol en juego,puntuación más alta,nivel más alto del lol,LoL,League of Legends,nombres,nivel de invocador superior,nivel de invocador más elevado,nivel de invocador,Búsqueda,nombre de invocador,tabla de clasificación,Invocador,tablas de clasificación por nivel"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "Top %(number)s más altos de invocador de League of Legends"
+msgstr "Échale un vistazo al top %(number)s de invocadores con los niveles más altos!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Top niveles más altos de invocador de League of Legends"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr "Rastrear a quien tiene el mayor nivel en League of Legends. Las mayores puntuaciones pueden ser mostradas por todo el mundo o clasificadas según su región. Ver la clasificación de niveles de invocador."
+msgstr "Rastrear a quien tiene el mayor nivel en League of Legends. Las mayores puntuaciones pueden ser mostradas a nivel mundial o regional. Échale un vistazo a la clasificación por niveles."
 
 msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr "Las actualizaciones se toman un máximo de 10 minutos. Revisa el <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">Verificador de nombre de invocador</a> o la <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">Lista de próximos nombres que expirarán</a>."
+msgstr "Las actualizaciones tardan un máximo de 10 minutos. Revisa el <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">Verificador de nombre de invocador</a> o la <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">Lista de próximos nombres que expirarán</a>."
 
 msgid "Summoner Name"
 msgstr "Nombre de invocador"
@@ -315,10 +315,10 @@ msgid "Recheck"
 msgstr "Volver a comprobar"
 
 msgid "Click to update"
-msgstr "Click para actualizar."
+msgstr "Click para actualizar"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr "Ver cuando el nombre de invocador %(name)s está disponible"
+msgstr "Ver cuando el nombre de invocador %(name)s estará disponible"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Los mejores nombres de League of Legends. Inspector de nombres inactivos, listas generadas y búsquedas populares"
@@ -327,16 +327,16 @@ msgid "LoL Name Checker"
 msgstr "Inspector de nombres de LoL"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "Encontrar un buen nombre de usuario es difícil, ¡lo hacemos fácil! LoL Names GG proporciona un corrector de nombres de League of Legends, una base de datos de nombres ya disponibles generados y una lista de nombres próximos basados ​​en búsquedas anteriores. LoL Names GG es el lugar perfecto para obtener el mejor nombre de invocador de League of Legends. Por ejemplo, vea nuestra lista de tres letras o escriba el nombre de su sueño League of Legends y le avisaremos cuando esté disponible."
+msgstr "Encontrar un buen nombre de usuario es difícil pero, ¡nosotros lo hacemos fácil! lolnames.gg proporciona un comprobador de nombres de League of Legends, una base de datos de nombres ya disponibles generados y una lista de nombres próximamente disponibles basado en búsquedas anteriores. lolnames.gg es el lugar perfecto para obtener el mejor nombre de invocador de League of Legends. Por ejemplo, échale un vistazo a la lista de tres letras o escribe el nombre de tus sueños y te avisaremos cuando esté disponible."
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Usa esta página web para averiguar cuándo expirará un nombre de invocador"
 
 msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
-msgstr "<h4 class=\"text-center\">%(name)s está disponible!</h4>Último juego: %(date_last)s<br>Tomó %(months)s meses para la limpieza<br>La fecha de limpieza fue: %(date_expire)s"
+msgstr "<h4 class=\"text-center\">%(name)s estará disponible!</h4>Última partida: %(date_last)s<br>Tardó %(months)s meses en estar disponible.<br>La fecha de disponibilidad fue: %(date_expire)s"
 
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
-msgstr "<h4 class=\"text-center\">%(name)s está disponible en %(days)s días.</h4>Último juego: %(date_last)s<br>Tarda %(months)s meses para la limpieza<br>Fecha de limpieza (si está inactiva): %(date_expire)s<br>"
+msgstr "<h4 class=\"text-center\">%(name)s estará disponible en %(days)s días.</h4>Última partida: %(date_last)s<br>Tardará %(months)s meses en estar disponible.<br>Fecha de disponibilidad (si está inactiva): %(date_expire)s<br>"
 
 msgid "Current level:"
 msgstr "Nivel actual"
