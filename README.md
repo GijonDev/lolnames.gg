@@ -67,7 +67,7 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Italian - [OmegaDestroyer67](https://www.reddit.com/user/OmegaDestroyer67)
   * French - [roisorcier](https://www.reddit.com/user/roisorcier), [GABIG4B1](https://www.reddit.com/user/GABIG4B1)
   * Spanish - [AlanBitsch](https://www.reddit.com/user/AlanBitsch), [ferrytiuu](https://www.reddit.com/user/ferrytiuu), [VortexGutter](https://www.reddit.com/user/VortexGutter), [GijonDev](https://github.com/GijonDev)
-  * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous), Lorex
+  * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous), [Lorex](https://www.facebook.com/groups/lolhungary/)
   * Estonian - [shaw™](https://twitter.com/ShawiAE)
   * Serbian - [Novke](https://discord.gg/pqQEX6)
   * Swedish - [RS_Froggit](https://www.reddit.com/user/RS_Froggit)
