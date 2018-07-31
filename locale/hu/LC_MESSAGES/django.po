@@ -12,22 +12,22 @@ msgid "Summoner name..."
 msgstr "Idézői Név"
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Helytelen név"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Helytelen karakterek: "
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Maximum 16 karakter"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "Legalább 2 vagy több karakter kell legyen"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "A nevek nem tartalmazhatják a 'riot'-ot"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Ez egy probléma a Riot szervereivel"
 
 msgid "New Account"
 msgstr "LoL Név felhasználói ID alapján."
@@ -39,10 +39,10 @@ msgid "Generator"
 msgstr "Generátor"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "Nincs megfelelő változat a %(name) névhez, %(num_variants) választékból."
 
 msgid "Summoner name not in use"
-msgstr "Idézői Név"
+msgstr "Idézői név nincs használatban"
 
 msgid "Account ID Lookup"
 msgstr "Felhasználó ID Kereső"
@@ -60,31 +60,31 @@ msgid "Summoner Level High Scores"
 msgstr "Szint toplista"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Minden Közelgő Név"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Mostanában Elérhető Nevek"
 
 msgid "Two Letter Names"
-msgstr "LoL Nevek"
+msgstr "Két Betűs Nevek"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "Három Betűs Nevek"
 
 msgid "Four Letter Names"
-msgstr "LoL Nevek"
+msgstr "Négy Betűs Nevek"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Minden Lehetséges Név"
 
 msgid "Lists"
 msgstr "Listák"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "Nincs aktív játék a %(name) névre"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "Nincs idéző a \"%(name)s\" névvel a(z) %(region)s régión."
 
 msgid "LoL Names"
 msgstr "LoL Nevek"
@@ -111,7 +111,7 @@ msgid "Search by Account ID"
 msgstr "Keresés Felhasználó ID alapján"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Statisztikák"
 
 msgid "Summoner Levels"
 msgstr "Szint toplista"
@@ -231,13 +231,13 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "Egy lista az összes speciális karakterről, melyek engedélyezve vannak a League of Legends nevekben, és angol karaktereknek néznek ki."
 
 msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
-msgstr ""
+msgstr "Kisbetűs : àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
 
 msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
-msgstr ""
+msgstr "Nagybetűs: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
 
 msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
-msgstr ""
+msgstr "Szimbólumok: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
 
 msgid "Account ID Finder"
 msgstr "Felhasználó ID Kereső"
@@ -261,7 +261,7 @@ msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr "Utolsó meccs: %(date_game)s<br>Utoljára aktív: %(date_active)s<br>"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "Kattints és könyvjelzőzz és követéshez"
 
 msgid "Summoner ID"
 msgstr "Idéző"
@@ -303,7 +303,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Kövesd nyomon, hogy kinek a legnagyobb a szintje a League of Legendsben. Régió alapján rendezheted, vagy az egész világot nézheted. Tekintsd meg a szint toplistát."
 
 msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "A frissítéseknek maximum 10 perc kell hogy megjelenjenek. Nézd meg a <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">Idézői név keresőt</a> vagy a <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listán következő lejáró neveket</a>."
 
 msgid "Summoner Name"
 msgstr "Idézői Név"
@@ -339,7 +339,7 @@ msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> La
 msgstr "<h4 class=\"text-center\">%(name)s elérhető lesz %(days)s napon belül.</h4> Utolsó meccs: %(date_last)s<br> %(months)s hónap kell, hogy elérhető legyen<br> Ha inaktív marad, akkor elérhető lesz: %(date_expire)s<br>"
 
 msgid "Current level:"
-msgstr ""
+msgstr "Jelenlegi szint: "
 
 msgid "Add to Calendar"
 msgstr "Naptárba"
@@ -408,25 +408,25 @@ msgid "Runes"
 msgstr "Rúnák"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "Idézői Ikon Statisztikák"
 
 msgid "Icon"
-msgstr ""
+msgstr "Ikon"
 
 msgid "Number"
-msgstr ""
+msgstr "Szám"
 
 msgid "Usage"
-msgstr ""
+msgstr "Használat"
 
 msgid "Summoner Level Statistics"
 msgstr "Szint toplista"
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "Idézői szint eloszlás régió szerint"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "Idézők száma"
 
 msgid "Track League of Legends name changes!"
 msgstr "Kövesd a League of Legends névváltoztatásokat!"

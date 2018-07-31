@@ -20,7 +20,7 @@ Click the link to the text file with the translations
 | et | [Estonian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/et/LC_MESSAGES/django.po) | ➖ 81.56% |
 | fi | [Finnish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fi/LC_MESSAGES/django.po) | ❌ 0.00% |
 | fr | [French](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fr/LC_MESSAGES/django.po) | ✔ 100.00% |
-| hu | [Hungarian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/hu/LC_MESSAGES/django.po) | ➖ 81.56% |
+| hu | [Hungarian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/hu/LC_MESSAGES/django.po) | ✔ 100.00% |
 | id | [Indonesian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/id/LC_MESSAGES/django.po) | ❌ 0.00% |
 | it | [Italian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/it/LC_MESSAGES/django.po) | ✔ 100.00% |
 | ja | [Japanese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ja/LC_MESSAGES/django.po) | ➖ 56.74% |
@@ -67,7 +67,7 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Italian - [OmegaDestroyer67](https://www.reddit.com/user/OmegaDestroyer67)
   * French - [roisorcier](https://www.reddit.com/user/roisorcier), [GABIG4B1](https://www.reddit.com/user/GABIG4B1)
   * Spanish - [AlanBitsch](https://www.reddit.com/user/AlanBitsch), [ferrytiuu](https://www.reddit.com/user/ferrytiuu), [VortexGutter](https://www.reddit.com/user/VortexGutter), [GijonDev](https://github.com/GijonDev)
-  * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous)
+  * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous), Lorex
   * Estonian - [shaw™](https://twitter.com/ShawiAE)
   * Serbian - [Novke](https://discord.gg/pqQEX6)
   * Swedish - [RS_Froggit](https://www.reddit.com/user/RS_Froggit)
