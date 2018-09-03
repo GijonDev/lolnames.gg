@@ -39,7 +39,7 @@ msgid "Generator"
 msgstr "Generator"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr "Ne postoje slobodne opcije za ime %(name) od %(num_variants) kombinacija."
+msgstr "Ne postoje slobodne opcije za ime %(name)s od %(num_variants)s kombinacija."
 
 msgid "Summoner name not in use"
 msgstr "Ime"
@@ -243,7 +243,7 @@ msgid "Account ID Finder"
 msgstr "Pretraga ID-a naloga"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr "Pogledaj ID naloga %(name)'!"
+msgstr "Pogledaj ID naloga %(name)s'!"
 
 msgid "Search for a summoner's Account ID and Summoner ID."
 msgstr ""
@@ -318,7 +318,7 @@ msgid "Click to update"
 msgstr "Klikni da ažuriraš"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr "Pogledaj kada je ime slobodno!"
+msgstr "Pogledajte kada je ime primaoca %(name)s dostupna!"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Najbolja LOL imena. Provera neaktivnih imena, napravljene liste i popularne pretrage."
@@ -333,10 +333,10 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "Koristi ovaj sajt da saznaš kad će ime da bude dostpuno"
 
 msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
-msgstr "<h4 class=\"text-center\">%(name) je slobodno!</h4> Poslednja partija: %(date_last)s<br> Trebalo je %(months) meseci za ciscenje <br> Ime ocisceno %(date_expire)s"
+msgstr "<h4 class=\"text-center\">%(name)s je slobodno!</h4> Poslednja partija: %(date_last)s<br> Trebalo je %(months) meseci za ciscenje <br> Ime ocisceno %(date_expire)s"
 
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
-msgstr "<h4 class=\"text-center\">%(name) je slobodno za %(days)s days.</h4> poslednji gejm: %(date_last)s<br> Treba %(months) meseci za oslobodjenje <br> Datum oslobodjenja (u slucaju neaktivnosti): %(date_expire)s<br>"
+msgstr "<h4 class=\"text-center\">%(name)s je slobodno za %(days)s days.</h4> poslednji gejm: %(date_last)s<br> Treba %(months) meseci za oslobodjenje <br> Datum oslobodjenja (u slucaju neaktivnosti): %(date_expire)s<br>"
 
 msgid "Current level:"
 msgstr "Trenutni nivo"
