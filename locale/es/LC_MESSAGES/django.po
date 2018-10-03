@@ -21,7 +21,7 @@ msgid "Maximum 16 characters"
 msgstr "Máximo 16 caracteres"
 
 msgid "Must be two or more characters"
-msgstr "Debe tener 2 o mas caracteres"
+msgstr "Debe tener 2 o más caracteres"
 
 msgid "Names can't contain 'riot'"
 msgstr "Los nombres no pueden contener 'Riot'"
@@ -39,19 +39,19 @@ msgid "Generator"
 msgstr "Generador"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr "Ninguno disponible para %(name)s, de %(num_variants)s variantes."
+msgstr "No hay ninguna variación disponible para %(name)s, de %(num_variants)s variantes."
 
 msgid "Summoner name not in use"
-msgstr "Nombre de invocador fuera de uso"
+msgstr "Nombre de invocador inutilizado"
 
 msgid "Account ID Lookup"
-msgstr "Buscador de ID de cuenta"
+msgstr "Buscador de ID"
 
 msgid "Account ID"
 msgstr "ID de cuenta"
 
 msgid "Lookup name by Account ID"
-msgstr "Nombre de invocador según su ID de cuenta"
+msgstr "Nombre de invocador por ID de cuenta"
 
 msgid "Invalid Account ID"
 msgstr "ID de cuenta inválido"
@@ -63,7 +63,7 @@ msgid "All Upcoming Names"
 msgstr "Próximos nombres disponibles"
 
 msgid "Recently Available Names"
-msgstr "Nuevos nombres disponibles"
+msgstr "Nombres disponibles nuevos"
 
 msgid "Two Letter Names"
 msgstr "Nombres de dos letras"
@@ -114,10 +114,10 @@ msgid "Statistics"
 msgstr "Estadísticas"
 
 msgid "Summoner Levels"
-msgstr "Niveles de invocador"
+msgstr "Nivel de invocador"
 
 msgid "Summoner Icons"
-msgstr "Iconos de Invocador"
+msgstr "Icono de Invocador"
 
 msgid "FAQ"
 msgstr "Preguntas frecuentes"
@@ -138,7 +138,7 @@ msgid "Close"
 msgstr "Cerrar"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr "Esta sección contiene información acerca de <strong>LoL Names.GG</strong> y su uso. Si no puedes encontrar la respuesta a tu pregunta, siéntete libre de <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contactarme</a>."
+msgstr "Esta sección contiene información acerca de <strong>LoLNames.GG</strong> y su uso. Si no puedes encontrar la respuesta a tu pregunta, siéntete libre de <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contactarme</a>."
 
 msgid "Frequently Asked Questions"
 msgstr "Preguntas Frecuentes"
@@ -153,31 +153,31 @@ msgid "Why can't I take a name on a new account?"
 msgstr "¿Por qué no puedo elegir un nombre para una cuenta nueva?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "Si un nombre ya está siendo usado en una cuenta solo puedes obtenerlo mediante un cambio de nombre. Estos nombres se muestran con un fondo verde. Si un nombre no ha sido usado todavía, puedes elegirlo para una cuenta nueva. Estos nombres se muestran con un fondo azul."
+msgstr "Si un nombre ha sido usado ya en una cuenta, solo puedes obtenerlo mediante un cambio de nombre. Estos nombres se muestran con un fondo verde. Si un nombre no ha sido usado nunca, puedes elegirlo para una cuenta nueva. Estos nombres se muestran con un fondo azul."
 
 msgid "What if the account is banned?"
 msgstr "¿Y qué si la cuenta está suspendida?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr "Si la cuenta está suspendida entonces va a ser mostrada como libre con un fondo verde, sin embargo no va a volver a estar disponible nunca, a no ser que Riot cambie su política de cuentas suspendidas."
+msgstr "Si la cuenta está suspendida se mostrará entonces como "Libre", con un fondo verde. Sin embargo, no va a volver a estar disponible nunca, a no ser que Riot cambie su política de cuentas suspendidas."
 
 msgid "How can I get a 2 letter name?"
 msgstr "¿Cómo puedo obtener un nombre de 2 letras?"
 
 msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
-msgstr "El mínimo de caracteres para un nombre de League of Legends es 3. Pon un espacio entre las letras: \"GG\" = \"G G\""
+msgstr "El mínimo de caracteres para un nombre de League of Legends es 3. Puedes usar un espacio entre las letras: \"GG\" = \"G G\" para llegar a tres caracteres."
 
 msgid "What timezone is used?"
-msgstr "¿Que zona horaria se usa?"
+msgstr "¿Qué zona horaria se usa?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Todos los horarios están especificados en UTC. Usa este <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">conversor de zonas horarias</a> para ajustarlos a tu hora local"
+msgstr "Todos los horarios están especificados en UTC. Usa este <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">conversor de zonas horarias</a> para ajustarlos a tu hora local."
 
 msgid "When exactly will the name become available?"
-msgstr "¿Cuándo exactamente estará disponible un nombre?"
+msgstr "¿Cuándo estará disponible un nombre exactamente?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr "Normalmente los nombres son limpiados a la medianoche en horario UTC pero, en algunos casos, pueden llegar a tardar 48 horas. Fíjate cada pocas horas el día que muestra."
+msgstr "Normalmente los nombres son limpiados a medianoche en horario UTC pero, en algunos casos, puede llegar a tardar 48 horas. Fíjate cada pocas horas el día que aparece."
 
 msgid "Can you remove a name from a list for me?"
 msgstr "¿Puedes borrar un nombre de la lista por mí?"
@@ -303,7 +303,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Rastrear a quien tiene el mayor nivel en League of Legends. Las mayores puntuaciones pueden ser mostradas a nivel mundial o regional. Échale un vistazo a la clasificación por niveles."
 
 msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr "Las actualizaciones tardan un máximo de 10 minutos. Revisa el <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">Verificador de nombre de invocador</a> o la <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">Lista de próximos nombres que expirarán</a>."
+msgstr "La lista se actualiza cada 10 minutos. Revisa también el <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">Verificador de nombre de invocador</a> o la <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">Lista de próximos nombres que expirarán</a>."
 
 msgid "Summoner Name"
 msgstr "Nombre de invocador"
@@ -372,13 +372,13 @@ msgid "Name"
 msgstr "Nombre"
 
 msgid "Type"
-msgstr "Escribe"
+msgstr "Tipo de cambio"
 
 msgid "Availability (days)"
-msgstr "Disponibilidad (días)"
+msgstr "Disponibilidad (en días)"
 
 msgid "Name change only"
-msgstr "Solo cambio de nombre"
+msgstr "Cambio de nombre"
 
 msgid "New accounts or name change"
 msgstr "Nueva cuenta o cambio de nombre"
@@ -399,7 +399,7 @@ msgid "Spells"
 msgstr "Hechizos"
 
 msgid "Solo Rank"
-msgstr "Rango en clasificatoria"
+msgstr "Rango en Clasificatoria"
 
 msgid "Winratio/Total"
 msgstr "Porcentaje de victoria/derrota total"
@@ -408,7 +408,7 @@ msgid "Runes"
 msgstr "Runas"
 
 msgid "Summoner Icon Statistics"
-msgstr "Estadísticas de icono del invocador"
+msgstr "Estadísticas por icono de invocador"
 
 msgid "Icon"
 msgstr "Icono"
@@ -420,13 +420,13 @@ msgid "Usage"
 msgstr "Utilización"
 
 msgid "Summoner Level Statistics"
-msgstr "Nivel más alto de invocador"
+msgstr "Estadísticas por nivel de invocador"
 
 msgid "Summoner level distribution by region"
-msgstr "Distribución de nivel de invocador según la región"
+msgstr "Distribución de nivel de invocador por región"
 
 msgid "Number of Summoners"
 msgstr "Número de invocadores"
 
 msgid "Track League of Legends name changes!"
-msgstr "Rastrear cambios de nombres de League of Legends"
+msgstr "Rastrear cambios de nombre en League of Legends"
