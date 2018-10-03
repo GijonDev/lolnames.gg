@@ -158,7 +158,7 @@ msgstr "이미 계정에서 이름을 가져온 경우 이름을 통해서만 �
 msgid "What if the account is banned?"
 msgstr "계정이 금지되면 어떻게됩니까?"
 
-msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
+msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
 msgstr "계정이 금지 된 경우 녹색으로 표시 될 수 있습니다. 하지만, 폭동이 일어나지 않으면 무기한으로 사용할 수 없게됩니다. 금지 된 계정에 대한 정책을 변경합니다."
 
 msgid "How can I get a 2 letter name?"

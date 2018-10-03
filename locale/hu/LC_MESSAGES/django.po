@@ -158,7 +158,7 @@ msgstr "Ha egy név már foglalt, akkor csak névváltoztatással elérhető. Ez
 msgid "What if the account is banned?"
 msgstr "Mi van akkor, ha a felhasználó ki van tiltva?"
 
-msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
+msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
 msgstr "Akkor szintén zöld színnel jelezzük, de nem lesz elérhető (hacsak a Riot nem változtat ezen)"
 
 msgid "How can I get a 2 letter name?"

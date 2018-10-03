@@ -158,7 +158,7 @@ msgstr "Если имя уже занято другой учетной запи
 msgid "What if the account is banned?"
 msgstr "Что делать, если учетная запись забанена?"
 
-msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
+msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
 msgstr "Если учетная запись забанена, она может отображаться как свободная с зеленым фоном, однако она будет оставаться недоступной на неопределенный срок, если Riot не изменит свою политику к забаненым аккаунтам."
 
 msgid "How can I get a 2 letter name?"

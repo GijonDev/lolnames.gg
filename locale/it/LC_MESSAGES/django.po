@@ -158,7 +158,7 @@ msgstr "Se il nome è già stato preso da un altro utente lo puoi ottenere solo 
 msgid "What if the account is banned?"
 msgstr "E se l'utente è stato bandito?"
 
-msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
+msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
 msgstr "Se l'utente è stato bandito il nome potrebbe essere mostrato come libero con uno sfondo verde, tuttavia esso non sarà disponibile indefinitamente o finchè Riot non cambierà la regolamentazione sugli utenti banditi."
 
 msgid "How can I get a 2 letter name?"

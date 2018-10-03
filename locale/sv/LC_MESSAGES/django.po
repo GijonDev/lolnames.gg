@@ -158,7 +158,7 @@ msgstr "Om namnet redan är taget av ett konto så kan du endast få det via nam
 msgid "What if the account is banned?"
 msgstr "Vad om kontot är bannat?"
 
-msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
+msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
 msgstr "Om kontot är bannat så kan det visas som tillgängligt med grön bakgrund, men det kommer ändå att vara otagbart för alltid förutom om Riot skulle ändra sin policy om bannade konton."
 
 msgid "How can I get a 2 letter name?"

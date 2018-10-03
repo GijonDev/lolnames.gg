@@ -158,7 +158,7 @@ msgstr "Als een naam al in gebruik is door een ander account kun je het allen ve
 msgid "What if the account is banned?"
 msgstr "Wat als het account is verbannen?"
 
-msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
+msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
 msgstr "Also het account is verbannen kan het worden laten zien als ‘niet gebruikt’ met een groene achtergrond, maar het blijft voor altijd onbeschikbaar tenzij Riot hun plolicy over verbannen accounts verandert."
 
 msgid "How can I get a 2 letter name?"
