@@ -159,7 +159,7 @@ msgid "What if the account is banned?"
 msgstr "¿Y qué si la cuenta está suspendida?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr "Si la cuenta está suspendida se mostrará entonces como "Libre", con un fondo verde. Sin embargo, no va a volver a estar disponible nunca, a no ser que Riot cambie su política de cuentas suspendidas."
+msgstr "Si la cuenta está suspendida se mostrará entonces como \"Libre\", con un fondo verde. Sin embargo, no va a volver a estar disponible nunca, a no ser que Riot cambie su política de cuentas suspendidas."
 
 msgid "How can I get a 2 letter name?"
 msgstr "¿Cómo puedo obtener un nombre de 2 letras?"
