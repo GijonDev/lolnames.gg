@@ -93,7 +93,7 @@ msgid "Scan Summoner Name"
 msgstr ""
 
 msgid "LoL Names"
-msgstr ""
+msgstr "LoL ชื่อ"
 
 msgid "Checker"
 msgstr ""
@@ -132,7 +132,7 @@ msgid "Languages"
 msgstr ""
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr ""
+msgstr "LoL, League of Legends, ชื่อ, เครื่องกำเนิดไฟฟ้า, Checker, lol ไม่ได้ใช้งาน, ตัวตรวจสอบชื่อ lol, ตัวตรวจสอบชื่อลีก, ลีคุงชื่อ Checker, ชื่อผู้เรียกใช้งานพร้อมชื่อลีก, ค้นหา, ชื่อ LoL Summoner, Summoner"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr ""
@@ -330,7 +330,7 @@ msgid "See when the summoner name %(name)s is available!"
 msgstr ""
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
-msgstr ""
+msgstr "ชื่อ League of Legends ที่ดีที่สุด ตัวตรวจสอบชื่อที่ไม่ใช้งานสร้างรายการและการค้นหายอดนิยม"
 
 msgid "LoL Name Checker"
 msgstr ""

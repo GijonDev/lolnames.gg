@@ -297,7 +297,7 @@ msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(account_id)s\" не занят!</h4>"
 
 msgid "top level lol,"
-msgstr ""
+msgstr "топ лвл лол,топл лвл лол,топ лвл в лоле"
 
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
 msgstr "высший уровень лига легенд,максимальный уровень в игре, статистика, высший уровень лол, лол, лига легенд, имена, топ уровней призывателей, высший уровень призывателя, уровень призывателя, поиск, имя призывателя лол, таблица лидеров, призыватель, таблица лидеров по уровню призывателя"
