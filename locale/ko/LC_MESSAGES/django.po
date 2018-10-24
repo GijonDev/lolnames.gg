@@ -86,6 +86,12 @@ msgstr ""
 msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr ""
 
+msgid "Perfect Pickems"
+msgstr ""
+
+msgid "Scan Summoner Name"
+msgstr ""
+
 msgid "LoL Names"
 msgstr "LoL 소환사 이름"
 
@@ -290,6 +296,9 @@ msgstr ""
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
 msgstr ""
 
+msgid "top level lol,"
+msgstr ""
+
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
 msgstr ""
 
@@ -405,6 +414,36 @@ msgid "Winratio/Total"
 msgstr ""
 
 msgid "Runes"
+msgstr ""
+
+msgid "Pick'em"
+msgstr ""
+
+msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
+msgstr ""
+
+msgid "Pick'em Link"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Knockout"
+msgstr ""
+
+msgid "Predicted Winner"
+msgstr ""
+
+msgid "Scan Regions For Summoner Name"
+msgstr ""
+
+msgid "LoL Name Region Scanner"
+msgstr "LoL 소명사 검사기"
+
+msgid "LoL Name Region Scanner will check every region for a summoner name and if it exists it will provide the link to their op.gg page"
 msgstr ""
 
 msgid "Summoner Icon Statistics"

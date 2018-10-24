@@ -86,6 +86,12 @@ msgstr "Brak aktywnej gry dla %(name)s"
 msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "Brak nazwy przywoływacza z nazwą \"%(name)s\" na %(region)s"
 
+msgid "Perfect Pickems"
+msgstr ""
+
+msgid "Scan Summoner Name"
+msgstr "Nazwa przywoływacza"
+
 msgid "LoL Names"
 msgstr "LoL Nazwy"
 
@@ -290,6 +296,9 @@ msgstr "<h4 class=\"text-center\">ID konta \"%(account_id)s\" zostało znalezion
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(account_id)s\" nie jest własnością!</h4>"
 
+msgid "top level lol,"
+msgstr ""
+
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
 msgstr "najwyższy poziom league of legends,lol maksymalny poziom w grze,rekord,lol najwyższy poziom,LoL,League of Legends,Nazwy,najwyższy poziom przywoływacza,poziom przywoływacza,Szukaj,LoL nazwa Przywoływacza,tablica wyników,Przywoływacz,tablica wyników poziomu przywoływacza"
 
@@ -406,6 +415,36 @@ msgstr "% zwycięstw/Razem"
 
 msgid "Runes"
 msgstr "Runy"
+
+msgid "Pick'em"
+msgstr ""
+
+msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
+msgstr ""
+
+msgid "Pick'em Link"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Knockout"
+msgstr ""
+
+msgid "Predicted Winner"
+msgstr ""
+
+msgid "Scan Regions For Summoner Name"
+msgstr "Nazwa przywoływacza"
+
+msgid "LoL Name Region Scanner"
+msgstr "LoL Sprawdź nazwy"
+
+msgid "LoL Name Region Scanner will check every region for a summoner name and if it exists it will provide the link to their op.gg page"
+msgstr ""
 
 msgid "Summoner Icon Statistics"
 msgstr "Statystyki Ikon Przywoływacza"

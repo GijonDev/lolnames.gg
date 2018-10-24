@@ -86,6 +86,12 @@ msgstr "Keine Spiele für %(name)s gefunden"
 msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "Kein Beschwörer mit dem Namen: \"%(name)s\" in %(region)s."
 
+msgid "Perfect Pickems"
+msgstr ""
+
+msgid "Scan Summoner Name"
+msgstr "Beschwörernamen"
+
 msgid "LoL Names"
 msgstr "LoL Beschwörernamen"
 
@@ -290,6 +296,9 @@ msgstr "<h4 class=\"text-center\">Account ID \"%(account_id)s\" wurde gefunden!<
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(account_id)s\" ist nicht in belegt!</h4>"
 
+msgid "top level lol,"
+msgstr ""
+
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
 msgstr "höchste level league of legends, lol maximales Level im Spiel, Rekord, lol höchstes level, LoL, League of Legends, Namen, Top Beschwörernamen, höchstes Beschwörerlevel, Beschwörerlevel,Suche, LoL Beschwörernamen,Bestenliste,Beschwörer,Beschwörerlevel Bestenliste"
 
@@ -406,6 +415,36 @@ msgstr "Winrate/Total"
 
 msgid "Runes"
 msgstr "Runen"
+
+msgid "Pick'em"
+msgstr ""
+
+msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
+msgstr ""
+
+msgid "Pick'em Link"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Knockout"
+msgstr ""
+
+msgid "Predicted Winner"
+msgstr ""
+
+msgid "Scan Regions For Summoner Name"
+msgstr "Beschwörernamen"
+
+msgid "LoL Name Region Scanner"
+msgstr "LoL Namen Überprüfer"
+
+msgid "LoL Name Region Scanner will check every region for a summoner name and if it exists it will provide the link to their op.gg page"
+msgstr ""
 
 msgid "Summoner Icon Statistics"
 msgstr "Beschwörersymbol Statistiken"
