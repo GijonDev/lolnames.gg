@@ -756,6 +756,15 @@ msgstr "完美的选择"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "2018年英雄联盟世界锦标赛小组赛期间，唯一一位仍然有机会获得完美选秀权的球员加上所有647完美皮克"
 
+msgid "<p>The last update was 12:44:39 24-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
+msgstr "<p>最后一次更新是UTC时间12:44:39，即2018年10月24日。为此页添加书签并重新登录<iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe>进行下一次更新。 </p>"
+
+msgid "<p>Number of possible perfect scores remaining: <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq (EUW)</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick'ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">main op.gg</a></p>"
+msgstr "<p>剩余可能的完美分数： <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq（EUW）</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick&#39;ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">主要的op.gg</a> </p>"
+
+msgid "<p>Highest possible scores: <b>84</b> total, <b>64</b> group and <b>20</b> knockout. The current highest knockout score is <b>20</b>.</p>"
+msgstr "<p>最高分： <b>84</b>分， <b>64</b>组和<b>20</b>淘汰赛。目前最高的淘汰赛得分为<b>20分</b> 。 </p>"
+
 msgid "Pick'em Link"
 msgstr "Pick'em Link"
 
@@ -770,6 +779,12 @@ msgstr "昏死"
 
 msgid "Predicted Winner"
 msgstr "预测获胜者"
+
+msgid "Group Stage 50+ Points Predictions (outer) compared with 64 points (inner)"
+msgstr "小组阶段50+点预测（外部）与64点（内部）相比"
+
+msgid "All Player Predictions (outer) compared with 64 points (inner)"
+msgstr "所有玩家预测（外部）与64分（内部）相比"
 
 msgid "Summoner Icon Statistics"
 msgstr "召唤者图标统计"

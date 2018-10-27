@@ -756,6 +756,15 @@ msgstr "完璧なピックアップ"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "レジェンド・オブ・レジェンズ・ワールド・チャンピオンシップ（2018年リーグ）のグループステージで、完璧なピックアップと647完璧なピックアップを揃えた唯一のプレーヤーをご覧ください"
 
+msgid "<p>The last update was 12:44:39 24-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
+msgstr "<p>最終更新日は、UTCの2018年10月24日12:44:39でした。このページをブックマークしてもう一度チェックインしてください<iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe>次の更新のために。 </p>"
+
+msgid "<p>Number of possible perfect scores remaining: <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq (EUW)</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick'ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">main op.gg</a></p>"
+msgstr "<p>可能な完全得点の数： <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq（EUW）</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">ピックアップ</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">メインop.gg</a> </p>"
+
+msgid "<p>Highest possible scores: <b>84</b> total, <b>64</b> group and <b>20</b> knockout. The current highest knockout score is <b>20</b>.</p>"
+msgstr "<p>可能な限り最高のスコア<b>：84、</b>合計<b>64</b>基<b>、20</b>ノックアウト。現在の最高ノックアウトスコアは<b>20</b>です。 </p>"
+
 msgid "Pick'em Link"
 msgstr "ピックアップリンク"
 
@@ -770,6 +779,12 @@ msgstr "ノックアウト"
 
 msgid "Predicted Winner"
 msgstr "予想される勝者"
+
+msgid "Group Stage 50+ Points Predictions (outer) compared with 64 points (inner)"
+msgstr "グループステージ50+ポイント予測（外側）は64ポイント（内側）"
+
+msgid "All Player Predictions (outer) compared with 64 points (inner)"
+msgstr "すべてのプレイヤー予測（外側）が64ポイント（内側）"
 
 msgid "Summoner Icon Statistics"
 msgstr "召喚獣のアイコンの統計"
