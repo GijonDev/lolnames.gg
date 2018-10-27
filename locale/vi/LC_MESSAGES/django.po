@@ -10,76 +10,76 @@ msgstr ""
 
 
 msgid "Summoner name..."
-msgstr ""
+msgstr "Tên người triệu hồi..."
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Tên không hợp lệ"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Ký tự không hợp lệ:"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Tối đa 16 ký tự"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "Phải là hai hoặc nhiều ký tự"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Tên không thể chứa &#39;bạo động&#39;"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Đây là vấn đề với máy chủ của Riot"
 
 msgid "New Account"
-msgstr ""
+msgstr "Tài khoản mới"
 
 msgid "Name Change"
-msgstr ""
+msgstr "Thay đổi tên"
 
 msgid "Generator"
-msgstr ""
+msgstr "Máy phát điện"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
 msgstr ""
 
 msgid "Summoner name not in use"
-msgstr ""
+msgstr "Tên người triệu tập không được sử dụng"
 
 msgid "Account ID Lookup"
-msgstr ""
+msgstr "Tra cứu ID tài khoản"
 
 msgid "Account ID"
-msgstr ""
+msgstr "ID tài khoản"
 
 msgid "Lookup name by Account ID"
-msgstr ""
+msgstr "Tra cứu tên bằng ID tài khoản"
 
 msgid "Invalid Account ID"
-msgstr ""
+msgstr "ID tài khoản không hợp lệ"
 
 msgid "Summoner Level High Scores"
-msgstr ""
+msgstr "Summoner Level Điểm cao"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Tất cả các tên sắp tới"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Tên có sẵn gần đây"
 
 msgid "Two Letter Names"
-msgstr ""
+msgstr "Hai tên thư"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "Ba tên thư"
 
 msgid "Four Letter Names"
-msgstr ""
+msgstr "Bốn tên thư"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Tất cả các tên có sẵn"
 
 msgid "Lists"
-msgstr ""
+msgstr "Danh sách"
 
 msgid "No active game for %(name)s"
 msgstr ""
@@ -88,340 +88,340 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr ""
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Perfect Pickems"
 
 msgid "LoL Names"
 msgstr "LoL Tên"
 
 msgid "Checker"
-msgstr ""
+msgstr "Người kiểm tra"
 
 msgid "Highscores"
-msgstr ""
+msgstr "Điểm cao"
 
 msgid "Tools"
-msgstr ""
+msgstr "Công cụ"
 
 msgid "Lookup Match Details"
-msgstr ""
+msgstr "Chi tiết trận đấu tìm kiếm"
 
 msgid "Track Name Changes"
-msgstr ""
+msgstr "Theo dõi tên thay đổi"
 
 msgid "Lookup Account ID"
-msgstr ""
+msgstr "Tra cứu ID tài khoản"
 
 msgid "Search by Account ID"
-msgstr ""
+msgstr "Tìm kiếm theo ID tài khoản"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Số liệu thống kê"
 
 msgid "Summoner Levels"
-msgstr ""
+msgstr "Cấp độ Summoner"
 
 msgid "Summoner Icons"
-msgstr ""
+msgstr "Biểu tượng Summoner"
 
 msgid "FAQ"
-msgstr ""
+msgstr "Câu hỏi thường gặp"
 
 msgid "Languages"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "kiểm tra tên lol"
 
 msgid "league name checker"
-msgstr ""
+msgstr "kiểm tra tên giải đấu"
 
 msgid "lol names"
-msgstr ""
+msgstr "tên lol"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "Trình kiểm tra tên của Liên minh Huyền thoại"
 
 msgid "lol name check"
-msgstr ""
+msgstr "kiểm tra tên lol"
 
 msgid "league names"
-msgstr ""
+msgstr "tên giải đấu"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "tên checker lol"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "Tên liên minh huyền thoại"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "người kiểm tra tên người triệu tập"
 
 msgid "league name availability"
-msgstr ""
+msgstr "tính khả dụng của tên giải đấu"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "tên sẵn có của lol"
 
 msgid "lol nick"
-msgstr ""
+msgstr "lol nick"
 
 msgid "available league names"
-msgstr ""
+msgstr "tên giải đấu có sẵn"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr ""
+msgstr "Câu hỏi thường gặp về tên người triệu tập"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
+msgstr "Câu hỏi thường gặp về quy tắc thay đổi tên người triệu tập League of Legends."
 
 msgid "Close"
-msgstr ""
+msgstr "Gần"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
+msgstr "Phần này chứa rất nhiều thông tin liên quan đến <strong>LoL Names.GG</strong> và việc sử dụng nó. Nếu bạn không thể tìm thấy câu trả lời cho câu hỏi của bạn, <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">hãy liên hệ với tôi</a> ."
 
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Các câu hỏi thường gặp"
 
 msgid "How frequently do the lists update?"
-msgstr ""
+msgstr "Tần suất các danh sách cập nhật?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
+msgstr "Danh sách sẽ cập nhật khoảng một lần mỗi giờ. Một rescan đầy đủ được thực hiện mỗi tuần."
 
 msgid "Why can't I take a name on a new account?"
-msgstr ""
+msgstr "Tại sao tôi không thể có tên trên tài khoản mới?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr ""
+msgstr "Nếu một tên đã được thực hiện bởi một tài khoản, bạn chỉ có thể lấy nó thông qua một thay đổi tên. Những tên này được hiển thị với một nền màu xanh lá cây. Nếu một người dùng hiện tại không lấy tên, bạn có thể mang tên đó trên một tài khoản hoàn toàn mới. Những tên này được hiển thị với một nền màu xanh."
 
 msgid "What if the account is banned?"
-msgstr ""
+msgstr "Nếu tài khoản bị cấm thì sao?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
-msgstr ""
+msgstr "Nếu tài khoản bị cấm, nó có thể được hiển thị như là miễn phí với một nền màu xanh lá cây, tuy nhiên nó sẽ vẫn không có sẵn vô thời hạn trừ khi Riot thay đổi chính sách của họ trên các tài khoản bị cấm."
 
 msgid "How can I get a 2 letter name?"
-msgstr ""
+msgstr "Làm thế nào tôi có thể nhận được một tên 2 chữ cái?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "Các ký tự tối thiểu cho tên của Liên Minh Huyền Thoại là 3. Bạn có thể đặt khoảng cách giữa các ký tự để sửa lỗi này."
 
 msgid "What timezone is used?"
-msgstr ""
+msgstr "Múi giờ nào được sử dụng?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
+msgstr "Tất cả múi giờ đều ở dạng UTC. Sử dụng công cụ <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">chuyển đổi múi giờ</a> này để điều chỉnh chúng theo giờ địa phương của bạn."
 
 msgid "When exactly will the name become available?"
-msgstr ""
+msgstr "Khi nào tên chính xác sẽ có sẵn?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "Thông thường tên được làm sạch vào lúc nửa đêm UTC. Tuy nhiên, trong một số trường hợp tôi đã tìm thấy nó đã mất 48 giờ. Kiểm tra vài giờ một lần vào ngày được liệt kê."
 
 msgid "Can you remove a name from a list for me?"
-msgstr ""
+msgstr "Bạn có thể xóa tên khỏi danh sách cho tôi không?"
 
 msgid "No. All the names are automatically scanned."
-msgstr ""
+msgstr "Không. Tất cả các tên đều được quét tự động."
 
 msgid "Where should I report an incorrect translation?"
-msgstr ""
+msgstr "Tôi nên báo cáo bản dịch không chính xác ở đâu?"
 
 msgid "Contact me here."
-msgstr ""
+msgstr "Liên hệ với tôi ở đây."
 
 msgid "Where should I report a bug?"
-msgstr ""
+msgstr "Tôi nên báo cáo lỗi ở đâu?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "Tại sao không có tên nhà vô địch Xayah và Rakan trước được phép?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "Riot cho biết họ sẽ không còn đặt tên cho các nhà vô địch mới nữa."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "Tuy nhiên họ đã cấm các tài khoản của các tên cũ để họ sẽ không bao giờ hết hạn."
 
 msgid "Disclaimer"
-msgstr ""
+msgstr "Tuyên bố từ chối trách nhiệm"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "máy phát điện tên lol"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "Trình tạo tên của Liên minh Huyền thoại"
 
 msgid "league name generator"
-msgstr ""
+msgstr "máy tạo tên giải đấu"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "máy phát điện tên lol"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "Trình tạo tên của Liên minh Huyền thoại"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "-bộ tạo tên summoner"
 
 msgid "league names generator"
-msgstr ""
+msgstr "máy phát tên giải đấu"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "trình tạo tên người dùng lol"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "tên máy phát điện lol"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "lol máy phát điện"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "Trình tạo tên người dùng của Liên minh Huyền thoại"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "Trình tạo thẻ câu lạc bộ lol"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "Trình tạo tên summoner lol"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "trình tạo biệt hiệu lol"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "tên máy phát điện lol"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "Trình tạo tên summoner của Liên minh Huyền thoại"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "máy phát điện biệt danh lol"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "ign máy phát điện lol"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "máy phát điện nick"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "Các nhân vật đặc biệt của Liên Minh Huyền Thoại"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr ""
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr ""
+msgstr "Máy tạo tên League of Legends tốt nhất! Sử dụng nó để thêm các ký tự đặc biệt vào bất kỳ tên và chương trình nào có sẵn."
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "LoL Name Generator"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr ""
+msgstr "Trình tạo tên summoner của Liên minh Huyền thoại hay nhất. Máy phát sẽ tự động thêm các ký tự đặc biệt vào tên Liên minh Huyền thoại và kiểm tra xem chúng có miễn phí hay không."
 
 msgid "Go"
-msgstr ""
+msgstr "Đi"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "LỖI:"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr ""
+msgstr "Điều này sẽ thêm các ký tự đặc biệt vào tên và kiểm tra xem chúng có sẵn hay không."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr ""
+msgstr "Danh sách tất cả các ký tự đặc biệt chữ hoa và chữ thường được cho phép trong tên của người triệu hồi League of Legends và trông giống như chữ cái tiếng Anh."
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Chữ thường:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Trường hợp trên:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "Ký hiệu:"
 
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Trình tìm kiếm ID tài khoản"
 
 msgid "lol id"
-msgstr ""
+msgstr "lol id"
 
 msgid "summoner id"
-msgstr ""
+msgstr "id người triệu hồi"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "công cụ tìm tài khoản lol"
 
 msgid "account finder"
-msgstr ""
+msgstr "công cụ tìm tài khoản"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "công cụ tìm id lol"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol summoner id"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "Id tài khoản League of Legends"
 
 msgid "lol account id"
-msgstr ""
+msgstr "id tài khoản lol"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "summoner id lol"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "Liên minh tìm kiếm liên minh huyền thoại"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "Id người triệu tập liên minh Huyền thoại"
 
 msgid "lol id search"
-msgstr ""
+msgstr "tìm kiếm id lol"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "Tra cứu tài khoản League of Legends"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "Id liên minh huyền thoại"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "summoner id Liên minh huyền thoại"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr ""
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr ""
+msgstr "Tìm kiếm ID tài khoản và ID người triệu tập của người triệu tập."
 
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "Trình tìm kiếm ID tài khoản LoL"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr ""
+msgstr "Nhập tên người triệu tập và tìm ID tài khoản của họ. Nếu họ đổi tên, ID tài khoản sẽ vẫn giữ nguyên."
 
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Trận đấu cuối cùng"
 
 msgid "Last active"
-msgstr ""
+msgstr "Hoạt động lần cuối"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "Nhấp và đánh dấu để theo dõi"
 
 msgid "Summoner ID"
-msgstr ""
+msgstr "ID người triệu tập"
 
 msgid "Level"
-msgstr ""
+msgstr "Cấp độ"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr ""
@@ -430,160 +430,160 @@ msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr ""
 
 msgid "Search for a summoner name using an account ID."
-msgstr ""
+msgstr "Tìm kiếm tên người triệu tập bằng ID tài khoản."
 
 msgid "LoL Name by Account ID"
-msgstr ""
+msgstr "Tên LoL theo ID tài khoản"
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr ""
+msgstr "Tra cứu tên người dùng bằng ID tài khoản. Nhập ID tài khoản của người summoner và tìm tên người dùng của họ."
 
 msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Tên thật"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Tên trước"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "Sắp có!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Cấp độ hiện tại"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "cấp cao nhất trong Liên Minh Huyền Thoại"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "lol cấp cao nhất"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "cấp độ Liên Minh Huyền Thoại cao nhất"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "mức cao nhất trong lol"
 
 msgid "highest league level"
-msgstr ""
+msgstr "cấp cao nhất"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "cấp cao nhất trên Liên Minh Huyền Thoại"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "cầu thủ giải đấu cấp cao nhất"
 
 msgid "top level lol"
-msgstr ""
+msgstr "cấp cao nhất lol"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "trình chơi lol cấp cao nhất"
 
 msgid "lol level"
-msgstr ""
+msgstr "cấp độ lol"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "Người chơi cấp cao nhất của Liên Minh Huyền Thoại"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "ai là cấp cao nhất trong Liên Minh Huyền Thoại"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "cấp độ cao nhất trong Liên Minh Huyền Thoại là gì"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "cấp cao nhất trong Liên Minh Huyền Thoại ngay bây giờ"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "bảng xếp hạng cấp summoner"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
 
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "Cấp summoner hàng đầu trong League of Legends!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr ""
+msgstr "Theo dõi ai có cấp độ summoner cao nhất trong League of Legends. Điểm số cao có thể được hiển thị trên toàn thế giới hoặc được sắp xếp theo khu vực. Xem bảng xếp hạng cấp summoner."
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Bảng xếp hạng này cập nhật ít nhất một lần mỗi ngày. Đánh dấu trang này và kiểm tra lại sau để biết các cập nhật mới."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "tên người triệu hồi"
 
 msgid "Region"
-msgstr ""
+msgstr "Khu vực"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Cấp độ hiện tại"
 
 msgid "Check now"
-msgstr ""
+msgstr "Kiểm tra ngay"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "Danh sách tên League of Legends"
 
 msgid "names for lol"
-msgstr ""
+msgstr "tên cho lol"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "nickname lol"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "tên cho Liên Minh Huyền Thoại"
 
 msgid "best lol names"
-msgstr ""
+msgstr "tốt nhất lol tên"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "Biệt hiệu của Liên minh huyền thoại"
 
 msgid "lol names list"
-msgstr ""
+msgstr "danh sách tên lol"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "tên tốt nhất trong lol"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "Tên của Liên Minh Huyền Thoại có sẵn"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "tên League of Legends thú vị"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "cool lol tên"
 
 msgid "lol name list"
-msgstr ""
+msgstr "danh sách tên lol"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "biệt hiệu cho lol"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "tên tốt nhất cho lol"
 
 msgid "name for lol"
-msgstr ""
+msgstr "tên cho lol"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "biệt danh cho Liên Minh Huyền Thoại"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "danh sách tên lol tốt nhất"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "tên tốt nhất cho League of Legends"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "tên không hoạt động lol"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr ""
@@ -592,13 +592,13 @@ msgid "The best League of Legends names. Inactive name checker, generated lists 
 msgstr "Tên League of Legends tốt nhất. Trình kiểm tra tên không hoạt động, danh sách được tạo và các tìm kiếm phổ biến."
 
 msgid "LoL Name Checker"
-msgstr ""
+msgstr "Trình kiểm tra tên LoL"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr ""
+msgstr "Tìm kiếm một tên người dùng tốt là khó, chúng tôi làm cho nó dễ dàng! LoL Names GG cung cấp một bộ kiểm tra tên League of Legends, một cơ sở dữ liệu về các tên đã tạo sẵn và danh sách các tên sắp tới dựa trên các tìm kiếm trước đó. LoL Names GG là nơi hoàn hảo để có được tên summoner League of Legends tốt nhất. Ví dụ: xem danh sách ba tên thư của chúng tôi hoặc nhập vào tên Liên minh Huyền thoại mơ ước của bạn và chúng tôi sẽ cho bạn biết khi nào nó có sẵn!"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr ""
+msgstr "Sử dụng trang web này để tìm khi tên người triệu tập sẽ hết hạn."
 
 msgid "%(name)s is available!"
 msgstr ""
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "Ngày dọn dẹp cũ là"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,281 +616,281 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Ngày dọn dẹp (nếu không hoạt động)"
 
 msgid "Current level:"
-msgstr ""
+msgstr "Cấp độ hiện tại:"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "Đọc câu hỏi thường gặp"
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "Thêm vào Lịch"
 
 msgid "%(name)s is probably available!"
 msgstr ""
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr ""
+msgstr "Nếu tên này không thể được thực hiện bây giờ tài khoản gần như chắc chắn bị cấm và tên sẽ không bao giờ hết hạn."
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "Thêm các ký tự đặc biệt"
 
 msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "Tên này hiện không được sử dụng."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Nó có sẵn cho các tài khoản mới."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "danh sách tên liên minh huyền thoại"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "tên cho giải đấu huyền thoại"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "giải vô địch huyền thoại"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "liên minh huyền thoại tên có sẵn"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "giải đấu mát mẻ của truyền thuyết tên"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "biệt hiệu cho giải đấu huyền thoại"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "tên tốt nhất cho giải đấu huyền thoại"
 
 msgid "Lists of all the best summoner names!"
-msgstr ""
+msgstr "Danh sách tất cả các tên summoner tốt nhất!"
 
 msgid "Select a list and region"
-msgstr ""
+msgstr "Chọn danh sách và khu vực"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr ""
+msgstr "Thường xuyên cập nhật, sắp xếp danh sách các tên summoner League of Legend hiện có tốt nhất hiện có. Tìm danh sách với tất cả các tên summoner tốt nhất."
 
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 msgid "Type"
-msgstr ""
+msgstr "Kiểu"
 
 msgid "Availability (days)"
-msgstr ""
+msgstr "Tính khả dụng (ngày)"
 
 msgid "Recheck"
-msgstr ""
+msgstr "Kiểm tra lại"
 
 msgid "Name change only"
-msgstr ""
+msgstr "Chỉ thay đổi tên"
 
 msgid "Click to update"
-msgstr ""
+msgstr "Nhấp để cập nhật"
 
 msgid "New accounts or name change"
-msgstr ""
+msgstr "Thay đổi tên hoặc tài khoản mới"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "Tra cứu đối sánh hoạt động"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "tìm kiếm so khớp lol"
 
 msgid "active match lol"
-msgstr ""
+msgstr "trận đấu hoạt động lol"
 
 msgid "lol active match"
-msgstr ""
+msgstr "lol hoạt động phù hợp"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "lol tra cứu"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "lol tra cứu trận đấu hiện tại"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "lol tra cứu trò chơi"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "xem chi tiết trận đấu League of Legends hiện tại"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Xem chi tiết trận đấu trong League of Legends hiện tại của bạn bao gồm xếp hạng đối thủ, tỷ lệ và cấp độ thắng."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr ""
+msgstr "Sử dụng trang này để tìm kiếm chi tiết trận đấu hiện hoạt cho các summoner hiện có trong game."
 
 msgid "Summoner"
-msgstr ""
+msgstr "Summoner"
 
 msgid "Champion"
-msgstr ""
+msgstr "Quán quân"
 
 msgid "Spells"
-msgstr ""
+msgstr "Phép thuật"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "Xếp hạng Solo"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "Winratio / Tổng cộng"
 
 msgid "Runes"
-msgstr ""
+msgstr "Runes"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "Pick&#39;em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "pick&#39;ems hoàn hảo"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "Xem cầu thủ duy nhất vẫn có cơ hội chọn lựa hoàn hảo cộng với tất cả 647 pickems hoàn hảo từ vòng bảng của Liên đoàn Vô địch Thế giới Huyền thoại 2018"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Liên kết Pick&#39;em"
 
 msgid "Total"
-msgstr ""
+msgstr "Toàn bộ"
 
 msgid "Group"
-msgstr ""
+msgstr "Nhóm"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Hạ gục"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Người chiến thắng dự đoán"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "Thống kê biểu tượng Summoner"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "lol summoner các biểu tượng"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "Biểu tượng summoner League of Legends"
 
 msgid "lol icon"
-msgstr ""
+msgstr "biểu tượng lol"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "biểu tượng summoner"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "biểu tượng summoner"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "sử dụng biểu tượng lol"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "biểu tượng League of Legends phổ biến nhất"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "Xem tất cả các biểu tượng summoner được sử dụng nhiều nhất và ít được sử dụng nhất trong Liên minh Huyền thoại"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Bảng này hiển thị tất cả các biểu tượng summoner được sử dụng nhiều nhất và hiếm nhất trong League of Legends cho bản vá hiện tại trên tất cả các vùng."
 
 msgid "Icon"
-msgstr ""
+msgstr "Biểu tượng"
 
 msgid "Number"
-msgstr ""
+msgstr "Con số"
 
 msgid "Usage"
-msgstr ""
+msgstr "Sử dụng"
 
 msgid "Summoner Level Statistics"
-msgstr ""
+msgstr "Thống kê cấp Summoner"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "số liệu thống kê summoner"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "số liệu thống kê triệu hồi lol"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "số liệu thống kê lol"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "cấp độ summoner lol"
 
 msgid "level in lol"
-msgstr ""
+msgstr "cấp trong lol"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "số liệu thống kê summoner lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "thống kê lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Xem tất cả số liệu thống kê cấp summoner của Liên minh Huyền Thoại"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Biểu đồ này so sánh tất cả các summoner giữa cấp 100 và 125 trên tất cả các vùng."
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "Phân phối cấp độ summoner theo vùng"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "Số lượng Summoner"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "lịch sử thay đổi tên lol"
 
 msgid "league name change history"
-msgstr ""
+msgstr "lịch sử thay đổi tên giải đấu"
 
 msgid "lol name history"
-msgstr ""
+msgstr "lịch sử tên lol"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "Tên trước đây của Liên Minh Huyền Thoại"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "Lịch sử thay đổi tên League of Legends"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "lol tên trước"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "Lịch sử tên League of Legends"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "Thay đổi tên League of Legends"
 
 msgid "league name history"
-msgstr ""
+msgstr "lịch sử tên giải đấu"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "lịch sử tên summoner"
 
 msgid "lol name change"
-msgstr ""
+msgstr "thay đổi tên lol"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "lol tên tracker"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "trình theo dõi thay đổi tên giải đấu"
 
 msgid "Track League of Legends name changes!"
-msgstr ""
+msgstr "Theo dõi các thay đổi về tên của Liên Minh Huyền Thoại!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "Bước 1: Tra cứu ID tài khoản"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "Bước 2: Tìm kiếm theo ID tài khoản và dấu trang để theo dõi"
 

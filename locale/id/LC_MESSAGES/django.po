@@ -10,76 +10,76 @@ msgstr ""
 
 
 msgid "Summoner name..."
-msgstr ""
+msgstr "Nama Summoner ..."
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Salah nama"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Karakter yang salah:"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Maksimal 16 karakter"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "Harus terdiri dari dua karakter atau lebih"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Nama tidak boleh berisi &#39;huru hara&#39;"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Ini masalah dengan server Riot"
 
 msgid "New Account"
-msgstr ""
+msgstr "Akun baru"
 
 msgid "Name Change"
-msgstr ""
+msgstr "Perubahan Nama"
 
 msgid "Generator"
-msgstr ""
+msgstr "Generator"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
 msgstr ""
 
 msgid "Summoner name not in use"
-msgstr ""
+msgstr "Nama Summoner tidak digunakan"
 
 msgid "Account ID Lookup"
-msgstr ""
+msgstr "Pencarian ID Akun"
 
 msgid "Account ID"
-msgstr ""
+msgstr "ID Akun"
 
 msgid "Lookup name by Account ID"
-msgstr ""
+msgstr "Cari nama berdasarkan ID Akun"
 
 msgid "Invalid Account ID"
-msgstr ""
+msgstr "ID Akun Tidak Valid"
 
 msgid "Summoner Level High Scores"
-msgstr ""
+msgstr "Summoner Level High Scores"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Semua Nama Yang Mendatang"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Baru-baru ini Nama Tersedia"
 
 msgid "Two Letter Names"
-msgstr ""
+msgstr "Dua Nama Surat"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "Tiga Nama Surat"
 
 msgid "Four Letter Names"
-msgstr ""
+msgstr "Empat Nama Surat"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Semua Nama Yang Tersedia"
 
 msgid "Lists"
-msgstr ""
+msgstr "Daftar"
 
 msgid "No active game for %(name)s"
 msgstr ""
@@ -88,340 +88,340 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr ""
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Pickems Sempurna"
 
 msgid "LoL Names"
 msgstr "LoL Nama"
 
 msgid "Checker"
-msgstr ""
+msgstr "Pemeriksa"
 
 msgid "Highscores"
-msgstr ""
+msgstr "Nilai yang tinggi"
 
 msgid "Tools"
-msgstr ""
+msgstr "Alat-alat"
 
 msgid "Lookup Match Details"
-msgstr ""
+msgstr "Detail Pencocokan Pencocokan"
 
 msgid "Track Name Changes"
-msgstr ""
+msgstr "Lacak Perubahan Nama"
 
 msgid "Lookup Account ID"
-msgstr ""
+msgstr "Cari ID Akun"
 
 msgid "Search by Account ID"
-msgstr ""
+msgstr "Cari berdasarkan ID Akun"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Statistik"
 
 msgid "Summoner Levels"
-msgstr ""
+msgstr "Tingkat Summoner"
 
 msgid "Summoner Icons"
-msgstr ""
+msgstr "Ikon Summoner"
 
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgid "Languages"
-msgstr ""
+msgstr "Bahasa"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "nama lol checker"
 
 msgid "league name checker"
-msgstr ""
+msgstr "pemeriksa nama liga"
 
 msgid "lol names"
-msgstr ""
+msgstr "nama lol"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "Pemeriksa nama League of Legends"
 
 msgid "lol name check"
-msgstr ""
+msgstr "memeriksa nama lol"
 
 msgid "league names"
-msgstr ""
+msgstr "nama liga"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "lol checker nama"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "Nama League of Legends"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "pemanggil nama summoner"
 
 msgid "league name availability"
-msgstr ""
+msgstr "ketersediaan nama liga"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "Ketersediaan nama lol"
 
 msgid "lol nick"
-msgstr ""
+msgstr "lol nick"
 
 msgid "available league names"
-msgstr ""
+msgstr "nama liga yang tersedia"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr ""
+msgstr "Pertanyaan yang Sering Diajukan tentang nama summoner"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
+msgstr "Pertanyaan umum tentang aturan perubahan nama summoner League of Legends."
 
 msgid "Close"
-msgstr ""
+msgstr "Dekat"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
+msgstr "Bagian ini berisi banyak informasi, terkait dengan <strong>LoL Names.GG</strong> dan penggunaannya. Jika Anda tidak dapat menemukan jawaban atas pertanyaan Anda, jangan ragu untuk <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">menghubungi saya</a> ."
 
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Pertanyaan yang Sering Diajukan"
 
 msgid "How frequently do the lists update?"
-msgstr ""
+msgstr "Seberapa sering daftar diperbarui?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
+msgstr "Daftar ini akan diperbarui setiap satu jam sekali. Pemindaian ulang penuh dilakukan setiap minggu."
 
 msgid "Why can't I take a name on a new account?"
-msgstr ""
+msgstr "Mengapa saya tidak dapat mengambil nama di akun baru?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr ""
+msgstr "Jika nama sudah diambil oleh akun Anda hanya dapat memperolehnya melalui perubahan nama. Nama-nama ini ditampilkan dengan latar belakang hijau. Jika nama tidak diambil oleh pengguna saat ini, Anda dapat mengambilnya di akun baru. Nama-nama ini ditampilkan dengan latar belakang biru."
 
 msgid "What if the account is banned?"
-msgstr ""
+msgstr "Bagaimana jika akun itu dilarang?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
-msgstr ""
+msgstr "Jika akun itu diblokir itu dapat ditampilkan sebagai gratis dengan latar belakang hijau, namun itu akan tetap tidak tersedia tanpa batas kecuali Riot mengubah kebijakan mereka pada akun yang terlarang."
 
 msgid "How can I get a 2 letter name?"
-msgstr ""
+msgstr "Bagaimana saya bisa mendapatkan nama 2 huruf?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "Karakter minimum untuk nama League of Legends adalah 3. Anda dapat menempatkan spasi di antara karakter untuk memperbaiki ini."
 
 msgid "What timezone is used?"
-msgstr ""
+msgstr "Zona waktu apa yang digunakan?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
+msgstr "Semua zona waktu dalam UTC. Gunakan <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">konverter zona waktu</a> ini untuk menyesuaikannya dengan waktu lokal Anda."
 
 msgid "When exactly will the name become available?"
-msgstr ""
+msgstr "Kapan tepatnya nama itu akan tersedia?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "Biasanya nama dibersihkan pada tengah malam UTC. Namun, dalam beberapa kasus saya telah menemukan itu telah memakan waktu 48 jam. Periksa setiap beberapa jam pada hari itu terdaftar."
 
 msgid "Can you remove a name from a list for me?"
-msgstr ""
+msgstr "Bisakah Anda menghapus nama dari daftar untuk saya?"
 
 msgid "No. All the names are automatically scanned."
-msgstr ""
+msgstr "Tidak. Semua nama dipindai secara otomatis."
 
 msgid "Where should I report an incorrect translation?"
-msgstr ""
+msgstr "Di mana saya harus melaporkan terjemahan yang salah?"
 
 msgid "Contact me here."
-msgstr ""
+msgstr "Hubungi saya di sini."
 
 msgid "Where should I report a bug?"
-msgstr ""
+msgstr "Di mana saya harus melaporkan bug?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "Mengapa tidak ada nama juara Xayah dan Rakan yang diizinkan?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "Riot mengatakan mereka tidak akan lagi menyimpan nama-nama juara baru."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "Namun mereka melarang akun dari nama lama sehingga mereka tidak akan pernah kadaluwarsa."
 
 msgid "Disclaimer"
-msgstr ""
+msgstr "Penolakan"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "pembangkit nama lol"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "Generator nama League of Legends"
 
 msgid "league name generator"
-msgstr ""
+msgstr "generator nama liga"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "nama lol generator"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "Generator nama League of Legends"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "summoner name generator"
 
 msgid "league names generator"
-msgstr ""
+msgstr "generator nama liga"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "lol generator nama pengguna"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "lol pembangkit listrik"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "lol ign generator"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "Generator nama pengguna League of Legends"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "lol club tag generator"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "lol summoner name generator"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "lol generator julukan"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "nama generator lol"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "Penggali nama summoner League of Legends"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "lol nama panggilan generator"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "ign pembangkit lol"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "lol generator nick"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "Karakter khusus League of Legends"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr ""
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr ""
+msgstr "Generator nama League of Legends terbaik! Gunakan untuk menambahkan karakter khusus ke nama dan acara apa saja yang tersedia."
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "LoL Name Generator"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr ""
+msgstr "Generator nama summoner League of Legends terbaik. Generator secara otomatis akan menambahkan karakter khusus ke nama League of Legends dan memeriksa apakah mereka gratis."
 
 msgid "Go"
-msgstr ""
+msgstr "Pergi"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "KESALAHAN:"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr ""
+msgstr "Ini akan menambahkan karakter khusus ke nama dan memeriksa untuk melihat apakah mereka tersedia."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr ""
+msgstr "Daftar semua karakter khusus huruf besar dan huruf kecil yang diizinkan dalam nama summoner League of Legends dan terlihat seperti huruf inggris."
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Huruf kecil:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Huruf besar:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "Simbol:"
 
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Pencari ID Akun"
 
 msgid "lol id"
-msgstr ""
+msgstr "id lol"
 
 msgid "summoner id"
-msgstr ""
+msgstr "id summoner"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "pencari akun lol"
 
 msgid "account finder"
-msgstr ""
+msgstr "pencari akun"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "pencari id lol"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol summoner id"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "Id akun League of Legends"
 
 msgid "lol account id"
-msgstr ""
+msgstr "id akun lol"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "id summoner"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "Pencarian League of Legends"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "ID summoner League of Legends"
 
 msgid "lol id search"
-msgstr ""
+msgstr "pencarian id lol"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "Pencarian akun League of Legends"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "ID League of Legends"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "summoner id League of Legends"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr ""
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr ""
+msgstr "Cari ID Akun dan ID Summoner si pemanggil."
 
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "LoL ID Finder Akun"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr ""
+msgstr "Masukkan nama summoner dan temukan ID akun mereka. Jika mereka mengganti nama, ID akun akan tetap sama."
 
 msgid "Search"
-msgstr ""
+msgstr "Pencarian"
 
 msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Permainan terakhir"
 
 msgid "Last active"
-msgstr ""
+msgstr "Terakhir aktif"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "Klik dan bookmark untuk melacak"
 
 msgid "Summoner ID"
-msgstr ""
+msgstr "ID Summoner"
 
 msgid "Level"
-msgstr ""
+msgstr "Tingkat"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr ""
@@ -430,160 +430,160 @@ msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr ""
 
 msgid "Search for a summoner name using an account ID."
-msgstr ""
+msgstr "Cari nama summoner menggunakan ID akun."
 
 msgid "LoL Name by Account ID"
-msgstr ""
+msgstr "LoL Nama berdasarkan ID Akun"
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr ""
+msgstr "Cari nama pengguna menggunakan ID akun. Masukkan ID akun summoner dan temukan nama penggunanya."
 
 msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Nama Saat Ini"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Nama Sebelumnya"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "Segera akan datang!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Level saat ini"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "level tertinggi di League of Legends"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "lol level tertinggi"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "tingkat League of Legends tertinggi"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "level tertinggi dalam lol"
 
 msgid "highest league level"
-msgstr ""
+msgstr "tingkat liga tertinggi"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "level tertinggi di League of Legends"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "pemain liga tingkat tertinggi"
 
 msgid "top level lol"
-msgstr ""
+msgstr "lol tingkat atas"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "pemain lol tingkat tertinggi"
 
 msgid "lol level"
-msgstr ""
+msgstr "tingkat lol"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "Pemain level tertinggi League of Legends"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "yang merupakan level tertinggi di League of Legends"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "apa level tertinggi di League of Legends"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "level tertinggi di League of Legends sekarang"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "papan peringkat tingkat summoner"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
 
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "Tingkat summoner di League of Legends!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr ""
+msgstr "Lacak siapa yang memiliki level summoner tertinggi di League of Legends. Skor tinggi dapat ditampilkan sebagai seluruh dunia atau diurutkan berdasarkan wilayah. Lihat papan peringkat summoner."
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Leaderboard ini diperbarui setidaknya satu kali setiap hari. Tandai halaman ini dan periksa kembali nanti untuk pembaruan baru."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "Nama Summoner"
 
 msgid "Region"
-msgstr ""
+msgstr "Wilayah"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Level saat ini"
 
 msgid "Check now"
-msgstr ""
+msgstr "Cek sekarang"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "Daftar nama League of Legends"
 
 msgid "names for lol"
-msgstr ""
+msgstr "nama untuk lol"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "lol nama panggilan"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "nama untuk League of Legends"
 
 msgid "best lol names"
-msgstr ""
+msgstr "nama lol terbaik"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "Julukan League of Legends"
 
 msgid "lol names list"
-msgstr ""
+msgstr "daftar nama lol"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "nama terbaik di lol"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "Nama League of Legends tersedia"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "nama League of Legends yang keren"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "nama lol keren"
 
 msgid "lol name list"
-msgstr ""
+msgstr "daftar nama lol"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "nama panggilan untuk lol"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "nama-nama terbaik untuk lol"
 
 msgid "name for lol"
-msgstr ""
+msgstr "nama untuk lol"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "nama panggilan untuk League of Legends"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "daftar nama lol terbaik"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "nama-nama terbaik untuk League of Legends"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "lol nama tidak aktif"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr ""
@@ -592,13 +592,13 @@ msgid "The best League of Legends names. Inactive name checker, generated lists 
 msgstr "Nama League of Legends terbaik. Pemeriksa nama tidak aktif, daftar yang dibuat dan pencarian populer."
 
 msgid "LoL Name Checker"
-msgstr ""
+msgstr "LoL Name Checker"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr ""
+msgstr "Menemukan nama pengguna yang baik itu sulit, kami membuatnya mudah! LoL Names GG menyediakan pemeriksa nama League of Legends, basis data dari nama yang sudah tersedia dan daftar nama yang akan datang berdasarkan dari pencarian sebelumnya. LoL Names GG adalah tempat yang tepat untuk mendapatkan nama summoner League of Legends terbaik. Misalnya, lihat daftar tiga nama surat atau ketik nama Liga Legenda impian Anda dan kami akan memberi tahu Anda jika tersedia!"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr ""
+msgstr "Gunakan situs web ini untuk menemukan ketika nama summoner akan kedaluwarsa."
 
 msgid "%(name)s is available!"
 msgstr ""
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "Tanggal pembersihan adalah"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,281 +616,281 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Tanggal pembersihan (jika tidak aktif)"
 
 msgid "Current level:"
-msgstr ""
+msgstr "Level saat ini:"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "Baca FAQ"
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "Tambahkan ke Kalender"
 
 msgid "%(name)s is probably available!"
 msgstr ""
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr ""
+msgstr "Jika nama ini tidak dapat diambil sekarang, akun tersebut hampir pasti dilarang dan nama tidak akan pernah kedaluwarsa."
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "Tambahkan Karakter Khusus"
 
 msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "Nama ini saat ini tidak digunakan."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Ini tersedia untuk akun baru."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "daftar nama liga legenda"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "nama untuk liga legenda"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "liga julukan legenda"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "nama liga legenda tersedia"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "liga keren dari nama-nama legenda"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "nama panggilan untuk liga legenda"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "nama terbaik untuk liga legenda"
 
 msgid "Lists of all the best summoner names!"
-msgstr ""
+msgstr "Daftar semua nama summoner terbaik!"
 
 msgid "Select a list and region"
-msgstr ""
+msgstr "Pilih daftar dan wilayah"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr ""
+msgstr "Diperbarui secara berkala, daftar yang dikurasi dari nama-nama summoner League of Legend terbaik yang tersedia saat ini. Temukan daftar dengan semua nama summoner terbaik."
 
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 msgid "Type"
-msgstr ""
+msgstr "Mengetik"
 
 msgid "Availability (days)"
-msgstr ""
+msgstr "Ketersediaan (hari)"
 
 msgid "Recheck"
-msgstr ""
+msgstr "Periksa kembali"
 
 msgid "Name change only"
-msgstr ""
+msgstr "Hanya ubah nama"
 
 msgid "Click to update"
-msgstr ""
+msgstr "Klik untuk memperbarui"
 
 msgid "New accounts or name change"
-msgstr ""
+msgstr "Akun baru atau perubahan nama"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "Pencarian Kecocokan Aktif"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "lol pencarian pertandingan"
 
 msgid "active match lol"
-msgstr ""
+msgstr "lol pertandingan aktif"
 
 msgid "lol active match"
-msgstr ""
+msgstr "Lol aktif"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "lol lookup"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "lol pencarian pertandingan saat ini"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "lol game lookup"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "lihat detail pertandingan League of Legends saat ini"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Lihat detail pertandingan League of Legends Anda saat ini termasuk peringkat lawan, rasio dan level menang Anda."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr ""
+msgstr "Gunakan halaman ini untuk mencari detail pertandingan aktif untuk summoner yang saat ini ada dalam game."
 
 msgid "Summoner"
-msgstr ""
+msgstr "Pemanggil"
 
 msgid "Champion"
-msgstr ""
+msgstr "Juara"
 
 msgid "Spells"
-msgstr ""
+msgstr "Mantra"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "Peringkat Solo"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "Winratio / Total"
 
 msgid "Runes"
-msgstr ""
+msgstr "Rune"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "Pick&#39;em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "pick&#39;ems sempurna"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "Lihat satu-satunya pemain yang masih memiliki kesempatan di pick&#39;ems sempurna ditambah semua 647 pickems sempurna dari babak penyisihan Grup Kejuaraan Dunia Legenda 2018"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Tautan Pilih"
 
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgid "Group"
-msgstr ""
+msgstr "Kelompok"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Pukulan knockout"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Pemenang yang Diprediksi"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "Statistik Ikon Pemanggilan"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "ikon lol summoner"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "Ikon summoner League of Legends"
 
 msgid "lol icon"
-msgstr ""
+msgstr "ikon lol"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "ikon summoner"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "ikon summoner"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "penggunaan ikon lol"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "ikon League of Legends yang paling populer"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "Lihat semua summoner icons yang paling banyak digunakan di League of Legends"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Tabel ini menunjukkan semua summoner ikon yang paling sering digunakan dan paling langka di League of Legends untuk patch saat ini di semua wilayah."
 
 msgid "Icon"
-msgstr ""
+msgstr "Ikon"
 
 msgid "Number"
-msgstr ""
+msgstr "Jumlah"
 
 msgid "Usage"
-msgstr ""
+msgstr "Pemakaian"
 
 msgid "Summoner Level Statistics"
-msgstr ""
+msgstr "Statistik Tingkat Summoner"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "statistik summoner"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "lol summoner statistics"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "statistik lol"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "tingkat summoner lol"
 
 msgid "level in lol"
-msgstr ""
+msgstr "tingkat dalam lol"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "summoner statistics lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "statistik lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Lihat semua statistik level summoner League of Legends"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Grafik ini membandingkan semua summoner antara level 100 dan 125 di semua wilayah."
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "Tingkat penyebaran summoner menurut wilayah"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "Jumlah Summoner"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "nama lol mengubah sejarah"
 
 msgid "league name change history"
-msgstr ""
+msgstr "sejarah perubahan nama liga"
 
 msgid "lol name history"
-msgstr ""
+msgstr "sejarah nama lol"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "League of Legends nama sebelumnya"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "League of Legends mengubah nama sejarah"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "lol nama sebelumnya"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "Sejarah nama League of Legends"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "Nama League of Legends berubah"
 
 msgid "league name history"
-msgstr ""
+msgstr "sejarah nama liga"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "summoner name history"
 
 msgid "lol name change"
-msgstr ""
+msgstr "perubahan nama lol"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "pelacak nama lol"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "Pelacak perubahan nama liga"
 
 msgid "Track League of Legends name changes!"
-msgstr ""
+msgstr "Lacak perubahan nama League of Legends!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "Langkah 1: Cari ID Akun"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "Langkah 2: Cari berdasarkan ID Akun dan bookmark untuk melacak"
 

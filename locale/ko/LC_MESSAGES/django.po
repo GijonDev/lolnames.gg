@@ -10,25 +10,25 @@ msgstr ""
 
 
 msgid "Summoner name..."
-msgstr ""
+msgstr "소환사 이름..."
 
 msgid "Invalid name"
-msgstr ""
+msgstr "잘못된 이름"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "잘못된 문자 :"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "최대 16 자"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "2 자 이상이어야합니다."
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "이름에는 &#39;폭동&#39;이 포함될 수 없습니다."
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Riot의 서버에 문제가 있습니다."
 
 msgid "New Account"
 msgstr "계정 ID별로 LoL 이름"
@@ -43,7 +43,7 @@ msgid "None available for %(name)s, out of %(num_variants)s variants."
 msgstr ""
 
 msgid "Summoner name not in use"
-msgstr ""
+msgstr "사용하지 않는 서머너 이름"
 
 msgid "Account ID Lookup"
 msgstr "계정 ID 찾기"
@@ -58,25 +58,25 @@ msgid "Invalid Account ID"
 msgstr "계정 ID로 검색"
 
 msgid "Summoner Level High Scores"
-msgstr ""
+msgstr "소명자 레벨 높은 점수"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "다가오는 이름들"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "최근에 사용 가능한 이름"
 
 msgid "Two Letter Names"
 msgstr "LoL 소환사 이름"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "3 개의 편지 이름"
 
 msgid "Four Letter Names"
 msgstr "LoL 소환사 이름"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "사용 가능한 모든 이름"
 
 msgid "Lists"
 msgstr "기울기"
@@ -88,7 +88,7 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr ""
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "완벽한 Pickems"
 
 msgid "LoL Names"
 msgstr "LoL 소환사 이름"
@@ -97,16 +97,16 @@ msgid "Checker"
 msgstr "체커"
 
 msgid "Highscores"
-msgstr ""
+msgstr "고득점"
 
 msgid "Tools"
 msgstr "도구들"
 
 msgid "Lookup Match Details"
-msgstr ""
+msgstr "조회 일치 세부 정보"
 
 msgid "Track Name Changes"
-msgstr ""
+msgstr "트랙 이름 변경"
 
 msgid "Lookup Account ID"
 msgstr "LoL 계정 ID 찾기"
@@ -115,13 +115,13 @@ msgid "Search by Account ID"
 msgstr "계정 ID로 검색"
 
 msgid "Statistics"
-msgstr ""
+msgstr "통계"
 
 msgid "Summoner Levels"
-msgstr ""
+msgstr "서머너 레벨"
 
 msgid "Summoner Icons"
-msgstr ""
+msgstr "소환사 아이콘"
 
 msgid "FAQ"
 msgstr "자주하는 질문"
@@ -130,46 +130,46 @@ msgid "Languages"
 msgstr "언어"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "롤 이름 검사기"
 
 msgid "league name checker"
-msgstr ""
+msgstr "리그 이름 검사기"
 
 msgid "lol names"
-msgstr ""
+msgstr "롤 이름"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "리그 오브 레전드 이름 검사기"
 
 msgid "lol name check"
-msgstr ""
+msgstr "롤 이름 확인"
 
 msgid "league names"
-msgstr ""
+msgstr "리그 이름"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "이름 검사기 롤"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "전설의 리그 이름"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "소명사 검사기"
 
 msgid "league name availability"
-msgstr ""
+msgstr "리그 이름 유효성"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "롤 이름 사용 가능 여부"
 
 msgid "lol nick"
-msgstr ""
+msgstr "닉 애인"
 
 msgid "available league names"
-msgstr ""
+msgstr "이용 가능한 리그 명"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "소환사 이름에 대해 자주 묻는 질문"
@@ -208,7 +208,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "2 자의 이름을 어떻게 얻을 수 있습니까?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "Legends of Legends의 최소 이름은 3 자입니다.이 문제를 해결하려면 문자 사이에 공백을 넣을 수 있습니다."
 
 msgid "What timezone is used?"
 msgstr "어떤 시간대가 사용됩니까?"
@@ -220,7 +220,7 @@ msgid "When exactly will the name become available?"
 msgstr "이름이 언제쯤 유효할까요?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "일반적으로 이름은 UTC 자정에 정리됩니다. 그러나 어떤 경우에는 48 시간이 걸렸습니다. 목록에있는 날에 몇 시간마다 확인하십시오."
 
 msgid "Can you remove a name from a list for me?"
 msgstr "나 한테서 이름을 지울 수있어?"
@@ -250,64 +250,64 @@ msgid "Disclaimer"
 msgstr "부인 성명"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "롤 이름 생성기"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "리그 오브 레전드 네임 제너레이터"
 
 msgid "league name generator"
-msgstr ""
+msgstr "리그 이름 생성기"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "롤 이름 생성기"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "리그 오브 레전드 네임 제너레이터"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "소환사 이름 생성기"
 
 msgid "league names generator"
-msgstr ""
+msgstr "리그 이름 생성기"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "권자 이름 생성기"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "이름 생성기 lol"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "권자 발생기"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "리그 오브 레전드 사용자 이름 생성기"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "롤 태그 태그 생성기"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "LOL 소속사 이름 생성기"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "롤 애칭 생성기"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "권자 발전기 이름"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "리그 오브 레전드 소환사 이름 생성기"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "롤 애칭 생성기"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "점화 발전기 권자"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "롤 생성기"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "리그 오브 레전드 특수 캐릭터"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "'%(name)s'에 특수 문자를 추가하여 사용할 수있는 문자를 확인하십시오!"
@@ -334,61 +334,61 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "League of Legends의 소환사 이름에 허용되는 모든 대문자 및 소문자 특수 문자 목록과 영어 문자처럼 보이는 문자."
 
 msgid "Lower case:"
-msgstr ""
+msgstr "소문자 :"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "대문자:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "기호 :"
 
 msgid "Account ID Finder"
 msgstr "계정 ID 찾기"
 
 msgid "lol id"
-msgstr ""
+msgstr "롤 ID"
 
 msgid "summoner id"
-msgstr ""
+msgstr "소환사 이드"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "롤 계정 찾기"
 
 msgid "account finder"
-msgstr ""
+msgstr "계정 찾기"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "롤 ID 찾기"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol 소환사 이드"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "전설의 리그 아이디"
 
 msgid "lol account id"
-msgstr ""
+msgstr "롤 계정 ID"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "소환사 이드 롤"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "리그 전설 ID 검색"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "리그 전설의 이드의 이드"
 
 msgid "lol id search"
-msgstr ""
+msgstr "롤 ID 검색"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "리그 오브 레전드 계정 조회"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "전설의 리그 아이디"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "소환사의 전설 리그 전설"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr "%(name)s의 계정 ID와 소환사 ID를 확인하십시오!"
@@ -403,25 +403,25 @@ msgid "Enter a summoner name and find their account ID. If they name change the 
 msgstr "소환사 이름을 입력하고 계정 ID를 찾으십시오. 이름이 변경되면 계정 ID는 동일하게 유지됩니다."
 
 msgid "Search"
-msgstr ""
+msgstr "수색"
 
 msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "마지막 게임"
 
 msgid "Last active"
-msgstr ""
+msgstr "마지막 활성"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "클릭하여 북마크에 추가"
 
 msgid "Summoner ID"
-msgstr ""
+msgstr "소환사 ID"
 
 msgid "Level"
-msgstr ""
+msgstr "수평"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr ""
@@ -442,148 +442,148 @@ msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "현재 이름"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "이전 이름"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "곧 출시 될 예정입니다."
 
 msgid "Current level"
-msgstr ""
+msgstr "현재 레벨"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "리그 오브 레전드에서 최고 레벨"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "권위있는 최고 수준"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "가장 높은 전설 수준의 리그"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "롤 최고 수준"
 
 msgid "highest league level"
-msgstr ""
+msgstr "최고 리그 레벨"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "리그 오브 레전드에서 최고 레벨"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "최고 수준의 리그 선수"
 
 msgid "top level lol"
-msgstr ""
+msgstr "최상위 레벨 권자"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "최고 수준의 롤 플레이어"
 
 msgid "lol level"
-msgstr ""
+msgstr "롤 레벨"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "Legends Legends 최고 수준의 선수"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "리그 오브 레전드에서 가장 높은 레벨"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "리그 오브 레전드에서 가장 높은 레벨은 무엇입니까?"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "리그 오브 레전드에서 최고 레벨"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "소서너 레벨 리더 보드"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
 
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "레전드 오브 리그 (Legends of Legends)의 최상위 소음 레벨!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr ""
+msgstr "리그 오브 레전드에서 가장 높은 소집자를 추적합니다. 높은 점수는 전 세계적으로 또는 지역별로 정렬하여 표시 할 수 있습니다. Summoner 레벨 리더 보드를 확인하십시오."
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "이 리더 보드는 매일 적어도 한 번 업데이트됩니다. 이 페이지를 북마크에 추가하고 나중에 새 업데이트가 있는지 다시 확인하십시오."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "소환사 이름"
 
 msgid "Region"
-msgstr ""
+msgstr "부위"
 
 msgid "Current Level"
-msgstr ""
+msgstr "현재 레벨"
 
 msgid "Check now"
-msgstr ""
+msgstr "지금 확인"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "리그 오브 레전드 이름 목록"
 
 msgid "names for lol"
-msgstr ""
+msgstr "롤 이름"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "롤 애칭"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "Legends of Legends의 이름"
 
 msgid "best lol names"
-msgstr ""
+msgstr "최고의 롤 이름"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "리그 오브 레전드 닉네임"
 
 msgid "lol names list"
-msgstr ""
+msgstr "롤 이름 목록"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "권위있는 최고의 이름"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "League of Legends 이름을 사용할 수 있습니다."
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "시원한 리그 오브 레전드 이름"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "차가운 롤 이름"
 
 msgid "lol name list"
-msgstr ""
+msgstr "롤 이름 목록"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "LOL의 별명"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "lol에 대한 최고의 이름"
 
 msgid "name for lol"
-msgstr ""
+msgstr "롤 이름"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "Legends of Legends의 별명"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "가장 권위있는 이름 목록"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "전설의 리그를위한 최고의 이름"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "롤 비활성 이름"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr "%(name)s이라는 소환사 이름이 언제 나왔는지 확인하십시오!"
@@ -598,7 +598,7 @@ msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a
 msgstr "좋은 사용자 이름을 찾는 것이 어렵습니다. LoL Names GG는 리그 오브 레전드 (Legends of Legends) 이름 검사기, 이미 생성 된 이름의 데이터베이스 및 이전 검색을 기반으로 예정된 이름 목록을 제공합니다. LoL Names GG는 최고의 전설 소집사 명을 얻는 완벽한 장소입니다. 예를 들어, 우리의 3 글자 이름 목록을 보거나 당신의 꿈 리그 오브 레전드 (League of Legends) 이름을 입력하면 사용 가능한 시점을 알려 드리겠습니다!"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr ""
+msgstr "이 웹 사이트를 사용하여 소환원 이름이 만료되는시기를 찾으십시오."
 
 msgid "%(name)s is available!"
 msgstr ""
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "이전 정리 날짜"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,16 +616,16 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "정리 날짜 (비활성 상태 인 경우)"
 
 msgid "Current level:"
-msgstr ""
+msgstr "현재 레벨:"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "FAQ 읽기"
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "캘린더에 추가"
 
 msgid "%(name)s is probably available!"
 msgstr ""
@@ -634,37 +634,37 @@ msgid "If this name can't be taken now the account is almost certainly banned an
 msgstr "그러나 그들은 만료되지 않도록 이전 이름의 계정을 금지했습니다."
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "특수 문자 추가"
 
 msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "이 이름은 현재 사용되지 않습니다."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "새 계정에서 사용할 수 있습니다."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "전설 목록의 리그"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "전설의 리그 이름"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "전설 별칭의 리그"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "전설 이름의 리그 이용 가능"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "전설의 멋진 리그"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "전설의 리그 별명"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "전설의 리그 최고의 명칭"
 
 msgid "Lists of all the best summoner names!"
 msgstr "모든 최고의 소환사 명단의 목록!"
@@ -700,197 +700,197 @@ msgid "New accounts or name change"
 msgstr "새 계정 또는 이름 변경"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "액티브 매치 조회"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "롤 일치 검색"
 
 msgid "active match lol"
-msgstr ""
+msgstr "액티브 매치 롤"
 
 msgid "lol active match"
-msgstr ""
+msgstr "롤 액티브 매치"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "롤 조회"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "권자 현재 일치하는 조회"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "롤 게임 조회"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "현재 League of Legends 경기 세부 정보보기"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "상대방 랭킹, 승리 비율 및 레벨을 포함하여 현재의 Legends of League Legends를 참조하십시오."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr ""
+msgstr "이 페이지를 사용하여 현재 게임중인 소환사의 현재 경기 세부 정보를 검색 할 수 있습니다."
 
 msgid "Summoner"
-msgstr ""
+msgstr "서머너"
 
 msgid "Champion"
-msgstr ""
+msgstr "챔피언"
 
 msgid "Spells"
-msgstr ""
+msgstr "주문"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "솔로 순위"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "총 / 총"
 
 msgid "Runes"
-msgstr ""
+msgstr "룬 문자"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "Pick&#39;em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "완벽한 선택"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "전설적인 세계 선수권 대회 (League of Legends World Championship 2018)의 조별 리그에서 완벽한 pick&#39;ems와 647 개의 완벽한 pickems가있는 유일한 플레이어를 만나보십시오"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Pick&#39;em Link"
 
 msgid "Total"
-msgstr ""
+msgstr "합계"
 
 msgid "Group"
-msgstr ""
+msgstr "그룹"
 
 msgid "Knockout"
-msgstr ""
+msgstr "녹아웃"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "예상 우승자"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "소환사 아이콘 통계"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "롤 소환사 아이콘"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "리그 오브 레전드 소환사 아이콘"
 
 msgid "lol icon"
-msgstr ""
+msgstr "롤 아이콘"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "소환사 아이콘"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "소환 아이콘"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "롤 아이콘 사용법"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "가장 인기있는 Legends of Legends 아이콘"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "리그 오브 레전드에서 가장 많이 사용되는 소모 아이콘을 모두 확인하십시오"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "이 표는 모든 지역의 현재 패치에 대한 리그 오브 레전드에서 가장 많이 사용되는 희귀 한 소환사 아이콘을 보여줍니다."
 
 msgid "Icon"
-msgstr ""
+msgstr "상"
 
 msgid "Number"
-msgstr ""
+msgstr "번호"
 
 msgid "Usage"
-msgstr ""
+msgstr "용법"
 
 msgid "Summoner Level Statistics"
-msgstr ""
+msgstr "소환사 레벨 통계"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "소환사 통계"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "권자 소환사 통계"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "롤 통계"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "권자 소환 레벨"
 
 msgid "level in lol"
-msgstr ""
+msgstr "권위의 레벨"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "소환사 통계 lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "통계 롤"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "리그 오브 레전드의 모든 소음 레벨 통계보기"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "이 그래프는 모든 지역의 레벨 100과 125 사이의 모든 소환자를 비교합니다."
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "지역별 소환사 수준 분포"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "소환 자의 수"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "롤 이름 변경 내역"
 
 msgid "league name change history"
-msgstr ""
+msgstr "리그 이름 변경 기록"
 
 msgid "lol name history"
-msgstr ""
+msgstr "롤 이름 기록"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "리그 오브 레전드 이전 이름"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "리그 오브 레전드의 이름 변경 기록"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "이전 이름을 권해라."
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "전설 리그 역사의 리그"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "리그 오브 레전드 이름 변경"
 
 msgid "league name history"
-msgstr ""
+msgstr "리그 명 기록"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "소명사의 역사"
 
 msgid "lol name change"
-msgstr ""
+msgstr "롤 이름 변경"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "롤 이름 추적기"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "리그 이름 변경 추적기"
 
 msgid "Track League of Legends name changes!"
 msgstr "리그 오브 레전드 소환사 이름 변경 규칙에 관해 자주 묻는 질문들."
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "1 단계 : 계정 ID 조회"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "2 단계 : 계정 ID로 검색하고 북마크하여 추적하십시오."
 

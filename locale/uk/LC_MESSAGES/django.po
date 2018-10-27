@@ -10,76 +10,76 @@ msgstr ""
 
 
 msgid "Summoner name..."
-msgstr ""
+msgstr "Ім&#39;я супровідника ..."
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Недійсне ім&#39;я"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Недійсні символи:"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Максимум 16 символів"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "Має бути двох або більше символів"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Імена не можуть містити &quot;бунт&quot;"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Це проблема з серверами Riot"
 
 msgid "New Account"
-msgstr ""
+msgstr "Новий акаунт"
 
 msgid "Name Change"
-msgstr ""
+msgstr "Змінити назву"
 
 msgid "Generator"
-msgstr ""
+msgstr "Генератор"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
 msgstr ""
 
 msgid "Summoner name not in use"
-msgstr ""
+msgstr "Ім&#39;я виклику не використовується"
 
 msgid "Account ID Lookup"
-msgstr ""
+msgstr "Ідентифікаційний номер облікового запису"
 
 msgid "Account ID"
-msgstr ""
+msgstr "Номер рахунку"
 
 msgid "Lookup name by Account ID"
-msgstr ""
+msgstr "Ім&#39;я пошуку за ідентифікатором облікового запису"
 
 msgid "Invalid Account ID"
-msgstr ""
+msgstr "Недійсний ідентифікатор облікового запису"
 
 msgid "Summoner Level High Scores"
-msgstr ""
+msgstr "Вищі рівні підсумків"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Усі майбутні імена"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Нещодавно отримані імена"
 
 msgid "Two Letter Names"
-msgstr ""
+msgstr "Два імені літеру"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "Три назви імені"
 
 msgid "Four Letter Names"
-msgstr ""
+msgstr "Чотири іменні літери"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Усі доступні імена"
 
 msgid "Lists"
-msgstr ""
+msgstr "Списки"
 
 msgid "No active game for %(name)s"
 msgstr ""
@@ -88,340 +88,340 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr ""
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Ідеальний пікет"
 
 msgid "LoL Names"
 msgstr "LoL Імена"
 
 msgid "Checker"
-msgstr ""
+msgstr "Перевірка"
 
 msgid "Highscores"
-msgstr ""
+msgstr "Рекорди"
 
 msgid "Tools"
-msgstr ""
+msgstr "Інструменти"
 
 msgid "Lookup Match Details"
-msgstr ""
+msgstr "Зверніть увагу на деталі"
 
 msgid "Track Name Changes"
-msgstr ""
+msgstr "Змінити назву доріжки"
 
 msgid "Lookup Account ID"
-msgstr ""
+msgstr "Ідентифікатор облікового запису пошуку"
 
 msgid "Search by Account ID"
-msgstr ""
+msgstr "Пошук за ідентифікатором облікового запису"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Статистика"
 
 msgid "Summoner Levels"
-msgstr ""
+msgstr "Рівні виклику"
 
 msgid "Summoner Icons"
-msgstr ""
+msgstr "Значки підказки"
 
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgid "Languages"
-msgstr ""
+msgstr "Мови"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "Lol перевірки імені"
 
 msgid "league name checker"
-msgstr ""
+msgstr "перевірка назви ліги"
 
 msgid "lol names"
-msgstr ""
+msgstr "лол імена"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "Ліга легенд перевірки імені"
 
 msgid "lol name check"
-msgstr ""
+msgstr "LOL перевірити ім&#39;я"
 
 msgid "league names"
-msgstr ""
+msgstr "назви ліг"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "ім&#39;я перевірки lol"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "Ліга легенд імен"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "перевірка імені перевізника"
 
 msgid "league name availability"
-msgstr ""
+msgstr "наявність назви ліги"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "lol наявність назви"
 
 msgid "lol nick"
-msgstr ""
+msgstr "Лол Нік"
 
 msgid "available league names"
-msgstr ""
+msgstr "доступні назви ліг"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr ""
+msgstr "Найчастіші запитання про назви супроводжуючих"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
+msgstr "Поширені запитання щодо правил зміни назви супроводжуючої ліги легенд."
 
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
+msgstr "Цей розділ містить велику кількість інформації, пов&#39;язаної з <strong>LoL Names.GG</strong> та її використанням. Якщо ви не можете знайти відповідь на своє запитання, не соромтеся звертатися <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">до мене</a> ."
 
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Часті запитання"
 
 msgid "How frequently do the lists update?"
-msgstr ""
+msgstr "Як часто списки оновлюються?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
+msgstr "Списки оновлюватимуться приблизно один раз на годину. Повний сканування виконується щотижня."
 
 msgid "Why can't I take a name on a new account?"
-msgstr ""
+msgstr "Чому я не можу взяти ім&#39;я в новому акаунті?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr ""
+msgstr "Якщо ім&#39;я вже введено в обліковий запис, його можна отримати лише за допомогою зміни імені. Ці назви показані зеленим фоном. Якщо ім&#39;я поточного користувача не прийнято, ви можете взяти його на зовсім новому обліковому записі. Ці назви показані синім фоном."
 
 msgid "What if the account is banned?"
-msgstr ""
+msgstr "Що робити, якщо обліковий запис заборонено?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
-msgstr ""
+msgstr "Якщо обліковий запис заборонено, він може бути показаний вільним із зеленим фоном, однак воно залишатиметься недоступним безстроково, якщо Ріот не змінить їх політику на заборонені облікові записи."
 
 msgid "How can I get a 2 letter name?"
-msgstr ""
+msgstr "Як я можу отримати 2-х листа?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "Мінімальними символами для назв League of Legends є 3. Ви можете помістити пробіл між символами, щоб виправити це."
 
 msgid "What timezone is used?"
-msgstr ""
+msgstr "Який часовий пояс використовується?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
+msgstr "Усі часові пояси знаходяться в UTC. Використовуйте цей <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">конвертер часового поясу,</a> щоб налаштувати їх у місцевий час."
 
 msgid "When exactly will the name become available?"
-msgstr ""
+msgstr "Коли саме ім&#39;я стане доступним?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "Зазвичай імена очищаються в опівночі UTC. Однак у деяких випадках я виявив, що це зайняло 48 годин. Перевірте кожні кілька годин на день, коли він перерахований."
 
 msgid "Can you remove a name from a list for me?"
-msgstr ""
+msgstr "Ви можете видалити ім&#39;я зі списку для мене?"
 
 msgid "No. All the names are automatically scanned."
-msgstr ""
+msgstr "Ні. Всі імена автоматично скануються."
 
 msgid "Where should I report an incorrect translation?"
-msgstr ""
+msgstr "Де я повинен повідомити про неправильний переклад?"
 
 msgid "Contact me here."
-msgstr ""
+msgstr "Зв&#39;яжіться зі мною тут."
 
 msgid "Where should I report a bug?"
-msgstr ""
+msgstr "Де я повинен повідомити про помилку?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "Чому ніяких попередніх ігор Xayah і Ракан чемпіонів не дозволено?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "Бунт заявив, що більше не буде резервувати імена нових чемпіонів."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "Однак вони заборонили облікові записи старих імен, тому вони ніколи не закінчуються."
 
 msgid "Disclaimer"
-msgstr ""
+msgstr "Відмова від відповідальності"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "lol генератор імен"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "Генератор назв &quot;Ліга легенд&quot;"
 
 msgid "league name generator"
-msgstr ""
+msgstr "генератор назви ліги"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "lol генератор імен"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "Ліга легенд називає генератор"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "генератор імен заголовка"
 
 msgid "league names generator"
-msgstr ""
+msgstr "генератор назв ліг"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "lol генератор імен користувача"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "генератор імен lol"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "LOL IGG генератор"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "Генератор імен користувача Ліга Легенд"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "lol клуб тегів генератор"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "LOL генератор імен заголовка"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "lol nickname генератор"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "Назва генератора LOL"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "Генератор імен заголовка Ліга легенд"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "lol псевдонімів генератор"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "генератор ІНК lol"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "Нік генератор LOL"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "Ліга легенд особливих персонажів"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr ""
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr ""
+msgstr "Найкраща назва &quot;Ліга легенд&quot;! Використовуйте його, щоб додати спеціальні символи до будь-якого імені та шоу, які є доступними."
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "LoL Name Generator"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr ""
+msgstr "Найкращий генератор назви сумачальної ліги легенд. Генератор автоматично додаватиме спеціальні символи до назв Ліги легенд і перевірятиме, чи вони є вільними."
 
 msgid "Go"
-msgstr ""
+msgstr "Іди"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "ПОМИЛКА:"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr ""
+msgstr "Це додасть спеціальні символи до імен та перевірятиме їх наявність."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr ""
+msgstr "Список всіх спеціальних символів у верхньому і нижньому регістрі, які допускаються в назві сумичок &quot;Ліга легенд&quot;, і виглядають як англійські літери."
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Нижній випадок:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Верхня справа:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "Символи:"
 
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Ідентифікатор облікового запису"
 
 msgid "lol id"
-msgstr ""
+msgstr "лол ідентифікатор"
 
 msgid "summoner id"
-msgstr ""
+msgstr "ідентифікатор суматора"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "Лол обліковий запис"
 
 msgid "account finder"
-msgstr ""
+msgstr "шукач облікових записів"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "LOL ідентифікатор пошуку"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol summoner id"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "Ідентифікатор облікового запису League of Legends"
 
 msgid "lol account id"
-msgstr ""
+msgstr "lol account id"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "сумочка id лол"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "Ліга легенд ідентифікатор пошуку"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "Ідентифікатор суворої Ліги Легенд"
 
 msgid "lol id search"
-msgstr ""
+msgstr "LOL ідентифікатор пошуку"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "Ліга легенд облікового запису"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "Ліга легенд id"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "суматор id Ліга легенд"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr ""
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr ""
+msgstr "Шукайте ідентифікатор облікового запису та ідентифікатора суматора."
 
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "Лог ідентифікатор облікового запису"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr ""
+msgstr "Введіть ім&#39;я супровідника та знайдіть його ідентифікатор облікового запису. Якщо вони називаються змінами, ідентифікатор облікового запису залишиться незмінним."
 
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Остання гра"
 
 msgid "Last active"
-msgstr ""
+msgstr "Останній активний"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "Клацніть і закладку для відстеження"
 
 msgid "Summoner ID"
-msgstr ""
+msgstr "Ідентифікатор виклику"
 
 msgid "Level"
-msgstr ""
+msgstr "Рівень"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr ""
@@ -430,160 +430,160 @@ msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr ""
 
 msgid "Search for a summoner name using an account ID."
-msgstr ""
+msgstr "Шукайте ім&#39;я супровідника за допомогою ідентифікатора облікового запису."
 
 msgid "LoL Name by Account ID"
-msgstr ""
+msgstr "Лог Ім&#39;я за ідентифікатором профілю"
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr ""
+msgstr "Знайдіть ім&#39;я користувача за допомогою ідентифікатора облікового запису. Введіть ідентифікатор облікового запису та знайдіть його ім&#39;я користувача."
 
 msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Поточне ім&#39;я"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Попередні імена"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "Незабаром!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Поточний рівень"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "найвищий рівень у Лізі легенд"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "lol вищий рівень"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "найвищий рівень Ліги легенд"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "найвищий рівень в LOL"
 
 msgid "highest league level"
-msgstr ""
+msgstr "найвищий рівень ліги"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "найвищий рівень на Лігу легенд"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "гравець вищого рівня ліги"
 
 msgid "top level lol"
-msgstr ""
+msgstr "верхній рівень lol"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "найвищий рівень lol player"
 
 msgid "lol level"
-msgstr ""
+msgstr "Лол рівень"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "Ліга легенд найвищого гравця"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "хто є найвищим рівнем у Лізі легенд"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "Який найвищий рівень у Лізі легенд"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "найвищий рівень у Лізі легенд прямо зараз"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "рівень лідерів на рівні суминера"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
 
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "Найкращий рівень суминців у Лізі легенд!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr ""
+msgstr "Трек, який має найвищий рівень підписів у Лізі легенд. Кращі результати можуть бути показані в усьому світі або відсортовані по регіонах. Перегляньте таблицю лідерів рівня Summoner."
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Ця таблиця лідерів оновлюється не рідше одного разу на день. Додайте закладку на цю сторінку та перевірте пізніше нові оновлення."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "Ім&#39;я супровідника"
 
 msgid "Region"
-msgstr ""
+msgstr "Регіон"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Поточний рівень"
 
 msgid "Check now"
-msgstr ""
+msgstr "Перевірь зараз"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "Список імен &quot;Ліга легенд&quot;"
 
 msgid "names for lol"
-msgstr ""
+msgstr "імена для lol"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "псевдонім lol"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "імена для Ліги легенд"
 
 msgid "best lol names"
-msgstr ""
+msgstr "найкращі лолові імена"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "Псевдонім Ліги легенд"
 
 msgid "lol names list"
-msgstr ""
+msgstr "lol список імен"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "Найкраще ім&#39;я в LOL"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "Імена Ліги Легенд доступні"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "класна назва Ліги легенд"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "круті імена лола"
 
 msgid "lol name list"
-msgstr ""
+msgstr "lol список імен"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "прізвиська для лор"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "кращі імена для lol"
 
 msgid "name for lol"
-msgstr ""
+msgstr "ім&#39;я для lol"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "прізвиська для Ліги легенд"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "найкращий список імен lol"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "найкращі імена для Ліги легенд"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "LOL неактивні імена"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr ""
@@ -592,13 +592,13 @@ msgid "The best League of Legends names. Inactive name checker, generated lists 
 msgstr "Найкраща назва Ліги Легенд. Неактивна перевірка імені, генеровані списки та популярні пошуки."
 
 msgid "LoL Name Checker"
-msgstr ""
+msgstr "LoL Ім&#39;я перевірки"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr ""
+msgstr "Пошук хорошого імені користувача важко, ми спрощуємо його! LoL Names GG надає ім&#39;я перевірки імені &quot;Ліга легенд&quot;, базу даних згенерованих вже доступних імен та список майбутніх імен на основі попередніх пошуків. LoL Names GG - це ідеальне місце, щоб отримати найкращу назву суворої Ліги Легенд. Наприклад, перегляньте наш список трьох букв імен або введіть у свою мрію назву Ліги легенд, і ми повідомимо вас, коли це доступно!"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr ""
+msgstr "Використовуйте цей веб-сайт, щоб знайти, коли закінчиться термін дії імені суматора."
 
 msgid "%(name)s is available!"
 msgstr ""
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "Дата очищення була"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,281 +616,281 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Дата очищення (якщо неактивна)"
 
 msgid "Current level:"
-msgstr ""
+msgstr "Поточний рівень:"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "Читайте поширені запитання"
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "Додати до календаря"
 
 msgid "%(name)s is probably available!"
 msgstr ""
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr ""
+msgstr "Якщо це ім&#39;я зараз не може бути прийнято, обліковий запис майже напевно заборонений, і ім&#39;я ніколи не закінчиться."
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "Додати спеціальні символи"
 
 msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "В даний час це ім&#39;я не використовується."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Він доступний для нових облікових записів."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "ліга переліку імен легенд"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "імена для ліги легенд"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "ліга легенд прізвиська"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "Ліга імен легенд доступна"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "класна слава імен легенд"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "прізвиська для легенд ліги"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "кращі імена для ліги легенд"
 
 msgid "Lists of all the best summoner names!"
-msgstr ""
+msgstr "Списки всіх найкращих імен суминців!"
 
 msgid "Select a list and region"
-msgstr ""
+msgstr "Виберіть список та регіон"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr ""
+msgstr "Регулярно оновлювані списки найкращих наявних назв суворої ліги легенд. Знайти списки з усіма найкращими іменами суминців."
 
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Ім&#39;я"
 
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 msgid "Availability (days)"
-msgstr ""
+msgstr "Наявність (дні)"
 
 msgid "Recheck"
-msgstr ""
+msgstr "Перевірити"
 
 msgid "Name change only"
-msgstr ""
+msgstr "Змінити назву тільки"
 
 msgid "Click to update"
-msgstr ""
+msgstr "Натисніть, щоб оновити"
 
 msgid "New accounts or name change"
-msgstr ""
+msgstr "Нові облікові записи або зміна назви"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "Активний пошук матчів"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "Lol пошук по матчу"
 
 msgid "active match lol"
-msgstr ""
+msgstr "активний матч LOL"
 
 msgid "lol active match"
-msgstr ""
+msgstr "Lol активний матч"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "lol lookup"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "LOL поточний пошук матчів"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "Лол ігровий пошук"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "див. подробиці матчів поточної Ліги легенд"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Перегляньте інформацію про вашу поточну інформацію про Лігу легенд, включаючи рейтинг ваших опонентів, коефіцієнт виграшу та рівень."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr ""
+msgstr "Використовуйте цю сторінку, щоб шукати інформацію про активну відповідь для учасників, які наразі грають у грі."
 
 msgid "Summoner"
-msgstr ""
+msgstr "Виклик"
 
 msgid "Champion"
-msgstr ""
+msgstr "Чемпіон"
 
 msgid "Spells"
-msgstr ""
+msgstr "Заклинання"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "Соло Ранг"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "Winratio / Total"
 
 msgid "Runes"
-msgstr ""
+msgstr "Руни"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "Пікем"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "досконалий pick&#39;ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "Дивіться єдиного гравця, який все ще має шанс на ідеальний pick&#39;ems плюс всі 647 ідеальних pickem з групової стадії чемпіонату світу Ліги легенд 2018"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Pick&#39;em Link"
 
 msgid "Total"
-msgstr ""
+msgstr "Всього"
 
 msgid "Group"
-msgstr ""
+msgstr "Група"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Нокаут"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Прогнозований переможець"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "Статистика знач знайомих"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "LOL значок підписки"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "Ікони сумочки Ліги легенд"
 
 msgid "lol icon"
-msgstr ""
+msgstr "значок lol"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "значки суммінера"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "значок сумочка"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "lol icon usage"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "найпопулярніші значки Ліги легенд"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "Перегляньте всі найменші та найменш використані іконки підписів у Лізі легенд"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Ця таблиця показує всі найпоширеніші та рідкісні піктограми підписів в Лізі легенд за поточним патчем у всіх регіонах."
 
 msgid "Icon"
-msgstr ""
+msgstr "Іконка"
 
 msgid "Number"
-msgstr ""
+msgstr "Номер"
 
 msgid "Usage"
-msgstr ""
+msgstr "Використання"
 
 msgid "Summoner Level Statistics"
-msgstr ""
+msgstr "Статистика рівня викликів"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "Статистика сумінгу"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "LOL Summoner статистика"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "Лол статистика"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "Lol Summoner рівень"
 
 msgid "level in lol"
-msgstr ""
+msgstr "рівень в любові"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "Статистика сумочки lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "статистика лол"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Перегляньте всю статистику рівня сумаря Ліги легенд"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Цей графік порівнює всі суминки між рівнями 100 та 125 у всіх регіонах."
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "Розповсюдження рівня підписів за регіонами"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "Кількість призовників"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "lol історію зміни назви"
 
 msgid "league name change history"
-msgstr ""
+msgstr "історія зміни назви ліги"
 
 msgid "lol name history"
-msgstr ""
+msgstr "lol історія назв"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "Попередні імена Ліги легенд"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "Ліга легенд історія зміни назви"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "Lol попередні імена"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "Ліга легенд історія імен"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "Ліга легенд змінює назву"
 
 msgid "league name history"
-msgstr ""
+msgstr "історія назви ліги"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "історія назви суматора"
 
 msgid "lol name change"
-msgstr ""
+msgstr "lol змінити назву"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "lol name tracker"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "назва лінії зміни назви"
 
 msgid "Track League of Legends name changes!"
-msgstr ""
+msgstr "Трек Ліга легенд змінює назву!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "Крок 1. Ідентифікатор облікового запису"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "Крок 2. Пошук за ідентифікатором облікового запису та закладкою для відстеження"
 

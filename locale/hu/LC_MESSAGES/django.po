@@ -88,7 +88,7 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "Nincs idéző a \"%(name)s\" névvel a(z) %(region)s régión."
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Perfect Pickems"
 
 msgid "LoL Names"
 msgstr "LoL Nevek"
@@ -130,46 +130,46 @@ msgid "Languages"
 msgstr "Nyelvek"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "lol név ellenőrző"
 
 msgid "league name checker"
-msgstr ""
+msgstr "bajnoki névellenőrző"
 
 msgid "lol names"
-msgstr ""
+msgstr "lol nevek"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "League of Legends név ellenőrző"
 
 msgid "lol name check"
-msgstr ""
+msgstr "lol név ellenőrzés"
 
 msgid "league names"
-msgstr ""
+msgstr "bajnoki nevek"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "név ellenőrző lol"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "League of Legends nevek"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "summoner name checker"
 
 msgid "league name availability"
-msgstr ""
+msgstr "a bajnoki név elérhetősége"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "lol név rendelkezésre állása"
 
 msgid "lol nick"
-msgstr ""
+msgstr "lol nick"
 
 msgid "available league names"
-msgstr ""
+msgstr "elérhető bajnoki nevek"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Gyakran Ismételt Kérdések az idézői nevekkel kapcsolatban"
@@ -208,7 +208,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "Hogyan lehet két karakterből álló nevem?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "A League of Legends nevek minimális karakterei: 3. A karakterek között helyet adhat a javításhoz."
 
 msgid "What timezone is used?"
 msgstr "Milyen időzónát használtok?"
@@ -250,64 +250,64 @@ msgid "Disclaimer"
 msgstr "Figyelmeztetés"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "lol név generátor"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "League of Legends névgenerátor"
 
 msgid "league name generator"
-msgstr ""
+msgstr "bajnoki névgenerátor"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "lol nevek generátor"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "League of Legends nevek generátor"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "summoner name generátor"
 
 msgid "league names generator"
-msgstr ""
+msgstr "liga neve generátor"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "lol felhasználónév generátor"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "név generátor lol"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "lol ign generátor"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "League of Legends felhasználónév generátor"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "lol klub tag generátor"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "lol summoner name generátor"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "lol becenev generátor"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "lol generátor neve"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "Liga Legends Summoner név generátor"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "lol beceneve generátor"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "ign generátor lol"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "lol nick generátor"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "League of Legends különleges karakterek"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "Adj speciálás karaktereket hozzá: '%(name)s', és nézd meg melyik elérhető."
@@ -334,61 +334,61 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "Egy lista az összes speciális karakterről, melyek engedélyezve vannak a League of Legends nevekben, és angol karaktereknek néznek ki."
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Kisbetűs:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Nagybetűs:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "szimbólumok:"
 
 msgid "Account ID Finder"
 msgstr "Felhasználó ID Kereső"
 
 msgid "lol id"
-msgstr ""
+msgstr "lol id"
 
 msgid "summoner id"
-msgstr ""
+msgstr "summoner id"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "lol számláló kereső"
 
 msgid "account finder"
-msgstr ""
+msgstr "számláló kereső"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "lol id kereső"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol summoner id"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "League of Legends account id"
 
 msgid "lol account id"
-msgstr ""
+msgstr "lol számlaazonosító"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "summoner id lol"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "League of Legends id keresés"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "Liga Legends summoner id"
 
 msgid "lol id search"
-msgstr ""
+msgstr "lol id keresés"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "League of Legends fiók kereső"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "League of Legends id"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "summoner id League of Legends"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr "Nézzük %(name)s Felhasználó ID-jét és Idézői ID-jét."
@@ -409,10 +409,10 @@ msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Utolsó játék"
 
 msgid "Last active"
-msgstr ""
+msgstr "Utoljára aktív"
 
 msgid "Click and bookmark to track"
 msgstr "Kattints és könyvjelzőzz és követéshez"
@@ -442,64 +442,64 @@ msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Jelenlegi név"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Előző nevek"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "Hamarosan!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Jelenlegi szint"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "legmagasabb szinten a League of Legends-ben"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "lol legmagasabb szinten"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "legmagasabb League of Legends szinten"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "legmagasabb szint a lol"
 
 msgid "highest league level"
-msgstr ""
+msgstr "a legmagasabb bajnoki szint"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "legmagasabb szinten a League of Legends-ben"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "legmagasabb szintű bajnoki játékos"
 
 msgid "top level lol"
-msgstr ""
+msgstr "top level lol"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "legmagasabb szintű lol játékos"
 
 msgid "lol level"
-msgstr ""
+msgstr "lol szint"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "League of Legends legmagasabb szintű játékos"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "aki a League of Legends legmagasabb szintje"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "mi a legmagasabb szint a League of Legends-ben"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "legmagasabb szinten a League of Legends-ben"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "summoner level leaderboard"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr "Tekintse meg a világ első %(number)s summoner szintjét!"
@@ -511,7 +511,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Kövesd nyomon, hogy kinek a legnagyobb a szintje a League of Legendsben. Régió alapján rendezheted, vagy az egész világot nézheted. Tekintsd meg a szint toplistát."
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Ez a leaderboard naponta legalább egyszer frissül. Ezt az oldalt jelölje be, és később ellenőrizze az új frissítéseket."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
@@ -523,67 +523,67 @@ msgid "Region"
 msgstr "Régió"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Jelenlegi szint"
 
 msgid "Check now"
-msgstr ""
+msgstr "Ellenőrizd most"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "League of Legends nevek listája"
 
 msgid "names for lol"
-msgstr ""
+msgstr "neveket a lol számára"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "lol becenevek"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "nevek a League of Legends-nek"
 
 msgid "best lol names"
-msgstr ""
+msgstr "legjobb lol nevek"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "League of Legends becenevek"
 
 msgid "lol names list"
-msgstr ""
+msgstr "lol nevek listája"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "legjobb név lolban"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "League of Legends nevek elérhetők"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "Cool League of Legends nevek"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "hűvös lol nevek"
 
 msgid "lol name list"
-msgstr ""
+msgstr "lol nevek listája"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "becenevek a lol számára"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "a legjobb nevei lol számára"
 
 msgid "name for lol"
-msgstr ""
+msgstr "nevet lol"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "becenevek a League of Legends-nek"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "legjobb lol nevek listája"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "Legjobb nevek a League of Legends-nek"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "lol inaktív nevek"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr "Nézd meg mikor lesz a %(name)s név elérhető."
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "A törlés időpontja"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,13 +616,13 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Tisztítási dátum (ha inaktív)"
 
 msgid "Current level:"
 msgstr "Jelenlegi szint: "
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "Olvassa el a GYIK-ot"
 
 msgid "Add to Calendar"
 msgstr "Naptárba"
@@ -640,31 +640,31 @@ msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "Ez a név jelenleg nem használható."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Új fiókok számára elérhető."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "legenda nevek listája"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "nevek a legendák bajnokságához"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "legenda becenevek ligája"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "legenda nevek listája"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "hűvös legenda nevek"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "becenevek a legendák bajnokságához"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "legjobb nevek a legendák bajnokságához"
 
 msgid "Lists of all the best summoner names!"
 msgstr "A legjobb nevek listája!"
@@ -703,28 +703,28 @@ msgid "Active Match Lookup"
 msgstr "Aktív meccs keresés"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "lol match lookup"
 
 msgid "active match lol"
-msgstr ""
+msgstr "aktív meccs lol"
 
 msgid "lol active match"
-msgstr ""
+msgstr "lol aktív meccs"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "lol keresés"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "lol az aktuális keresési találat"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "lol játékkeresés"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "Tekintse meg a League of Legends meccs részleteit"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Tekintse meg aktuális League of Legends meccs részleteit, beleértve az ellenfelek rangját, győzelmi arányát és szintjét."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Használd ezt az oldalt, hogy aktív meccsekről találj információkat!"
@@ -748,58 +748,58 @@ msgid "Runes"
 msgstr "Rúnák"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "pick&#39;em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "tökéletes pick&#39;ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "Tekintsd meg az egyetlen olyan játékosot, aki még mindig lehetősége van a tökéletes selejtezőkre és az összes 647 tökéletes selejtezőre a League of Legends World Championship 2018"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Pick&#39;em Link"
 
 msgid "Total"
-msgstr ""
+msgstr "Teljes"
 
 msgid "Group"
-msgstr ""
+msgstr "Csoport"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Ki ütni"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Predicted Winner"
 
 msgid "Summoner Icon Statistics"
 msgstr "Idézői Ikon Statisztikák"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "lol summoner ikonok"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "League of Legends summoner ikonok"
 
 msgid "lol icon"
-msgstr ""
+msgstr "lol ikon"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "summoner ikonok"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "summoner ikon"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "lol ikon használata"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "a legelterjedtebb League of Legends ikonok"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "Tekintse meg a legtöbb és a legkevésbé használt summoner ikont a League of Legends-ben"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Ez a táblázat bemutatja a League of Legends összes leggyakrabban használt és legritkább fogalmazói ikonját az aktuális javítás minden régiójában."
 
 msgid "Icon"
 msgstr "Ikon"
@@ -814,31 +814,31 @@ msgid "Summoner Level Statistics"
 msgstr "Szint toplista"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "summoner statisztikák"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "lol summoner statisztikák"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "lol statisztikák"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "lol summoner szint"
 
 msgid "level in lol"
-msgstr ""
+msgstr "szint lol"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "summoner statisztikák lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "statisztikák lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Lásd az League of Legends summoner szintű statisztikákat"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Ez a grafikon összehasonlítja az összes hívót a 100 és 125 közötti szintek között minden régióban."
 
 msgid "Summoner level distribution by region"
 msgstr "Idézői szint eloszlás régió szerint"
@@ -847,50 +847,50 @@ msgid "Number of Summoners"
 msgstr "Idézők száma"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "lol name change history"
 
 msgid "league name change history"
-msgstr ""
+msgstr "bajnoki névváltozási előzmény"
 
 msgid "lol name history"
-msgstr ""
+msgstr "lol névtörténet"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "League of Legends korábbi nevek"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "League of Legends névváltozási előzmények"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "lol korábbi nevek"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "League of Legends névtörténet"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "League of Legends névváltozás"
 
 msgid "league name history"
-msgstr ""
+msgstr "bajnoki névtörténet"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "summoner name history"
 
 msgid "lol name change"
-msgstr ""
+msgstr "lol névváltoztatás"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "lol név tracker"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "bajnoki névváltozási tracker"
 
 msgid "Track League of Legends name changes!"
 msgstr "Kövesd a League of Legends névváltoztatásokat!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "1. lépés: A keresési fiók azonosítója"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "2. lépés: Keresse meg a fiók azonosítóját és a könyvjelzőt nyomon követéséhez"
 

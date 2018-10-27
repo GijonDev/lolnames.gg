@@ -88,7 +88,7 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "Geen summoner met naam \"%(name)s\" op %(region)s."
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Perfecte keuzes"
 
 msgid "LoL Names"
 msgstr "LoL namen"
@@ -130,46 +130,46 @@ msgid "Languages"
 msgstr "Talen"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "lol naam checker"
 
 msgid "league name checker"
-msgstr ""
+msgstr "league naam checker"
 
 msgid "lol names"
-msgstr ""
+msgstr "lol namen"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "League of Legends naam checker"
 
 msgid "lol name check"
-msgstr ""
+msgstr "lol naam controleren"
 
 msgid "league names"
-msgstr ""
+msgstr "competitie namen"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "naam checker lol"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "League of Legends-namen"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "summoner naam checker"
 
 msgid "league name availability"
-msgstr ""
+msgstr "beschikbaarheid van de league-naam"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "lol naam beschikbaarheid"
 
 msgid "lol nick"
-msgstr ""
+msgstr "lol nick"
 
 msgid "available league names"
-msgstr ""
+msgstr "beschikbare competitie namen"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Veel gevraagde vragen over summoner namen"
@@ -208,7 +208,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "Hoe kan ik een twee letterige naam krijgen?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "De minimum tekens voor League of Legends namen zijn 3. U kunt een spatie tussen de tekens plaatsen om dit te verhelpen."
 
 msgid "What timezone is used?"
 msgstr "Welke tijdzone wordt gebruikt"
@@ -250,64 +250,64 @@ msgid "Disclaimer"
 msgstr "Disclamer"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "lol naam generator"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "League of Legends naam generator"
 
 msgid "league name generator"
-msgstr ""
+msgstr "naam generator"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "lol namen generator"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "League of Legends benoemt generator"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "generator voor naamsamenstelling"
 
 msgid "league names generator"
-msgstr ""
+msgstr "competitie namen generator"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "lol gebruikersnaam generator"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "naam generator lol"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "lol ign generator"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "League of Legends gebruikersnaam generator"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "lol club taggenerator"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "lol summoner naamgenerator"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "lol bijnaamgenerator"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "lol naam van de generator"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "Naamgenerator League of Legends"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "lol bijnamen generator"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "ign generator lol"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "lol nick generator"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "League of Legends speciale karakters"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "Voeg speciale tekens toe aan '%(name)s’ en zie welke beschikbaar zijn!"
@@ -334,61 +334,61 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "Een lijst van alle grote en kleine speciale letter die toegestaan zijn in League of Legends summoner namen en eruit zien als engelse letters."
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Kleine letters:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Hoofdletters:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "Symbolen:"
 
 msgid "Account ID Finder"
 msgstr "Account ID Zoeker"
 
 msgid "lol id"
-msgstr ""
+msgstr "lol id"
 
 msgid "summoner id"
-msgstr ""
+msgstr "summoner id"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "lol account finder"
 
 msgid "account finder"
-msgstr ""
+msgstr "accountzoeker"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "lol id finder"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol summoner id"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "Legenda van League of Legends account"
 
 msgid "lol account id"
-msgstr ""
+msgstr "lol account id"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "Summoner id lol"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "Legenda ID zoeken"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "League of Legends summoner id"
 
 msgid "lol id search"
-msgstr ""
+msgstr "lol id zoeken"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "Het opzoeken van League of Legends-accounts"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "League of Legends id"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "summoner id League of Legends"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr "Zie %(name)s's Account ID en Summoner ID!"
@@ -409,10 +409,10 @@ msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Laatste spel"
 
 msgid "Last active"
-msgstr ""
+msgstr "Laatst actief"
 
 msgid "Click and bookmark to track"
 msgstr "Klik en voeg toe om te volgen"
@@ -442,64 +442,64 @@ msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Huidige naam"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Vorige namen"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "Komt binnenkort!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Huidig ​​niveau"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "hoogste niveau in League of Legends"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "lol hoogste niveau"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "hoogste niveau van League of Legends"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "hoogste niveau in lol"
 
 msgid "highest league level"
-msgstr ""
+msgstr "hoogste niveau"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "hoogste niveau op League of Legends"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "hoogste niveau league-speler"
 
 msgid "top level lol"
-msgstr ""
+msgstr "topniveau lol"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "hoogste niveau lol speler"
 
 msgid "lol level"
-msgstr ""
+msgstr "lol niveau"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "League of Legends speler van het hoogste niveau"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "wie is het hoogste niveau in League of Legends"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "wat is het hoogste niveau in League of Legends"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "hoogste niveau in League of Legends op dit moment"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "summoner level leaderboard"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr "Zie de top %(number)s summoner levels in de wereld!"
@@ -511,7 +511,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Volg wie het hoogste summoner level heeft in League of Legends. De hoogste scores kunnen worden laten zien als wereldwijd of gesorteerd op regio. Zie de summoner lever scoreborden."
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Dit scorebord wordt minstens één keer per dag bijgewerkt. Maak een bladwijzer van deze pagina en kom later terug voor nieuwe updates."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
@@ -523,67 +523,67 @@ msgid "Region"
 msgstr "Regio"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Huidig ​​niveau"
 
 msgid "Check now"
-msgstr ""
+msgstr "Check nu"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "League of Legends namenlijst"
 
 msgid "names for lol"
-msgstr ""
+msgstr "namen voor lol"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "lol bijnamen"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "namen voor League of Legends"
 
 msgid "best lol names"
-msgstr ""
+msgstr "beste lol-namen"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "League of Legends bijnamen"
 
 msgid "lol names list"
-msgstr ""
+msgstr "lol lijst met namen"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "beste naam in lol"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "League of Legends namen beschikbaar"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "coole League of Legends-namen"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "coole lol-namen"
 
 msgid "lol name list"
-msgstr ""
+msgstr "lol lijst met namen"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "bijnamen voor lol"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "beste namen voor lol"
 
 msgid "name for lol"
-msgstr ""
+msgstr "naam voor lol"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "bijnamen voor League of Legends"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "beste lol namenlijst"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "beste namen voor League of Legends"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "lol inactieve namen"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr "Zie wanneer de summoner naam %(name)s beschikbaar is!"
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "Opschoningsdatum was"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,13 +616,13 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Opschoondatum (indien niet actief)"
 
 msgid "Current level:"
 msgstr "Actuele level:"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "Lees veelgestelde vragen"
 
 msgid "Add to Calendar"
 msgstr "Voeg toe aan Kalender"
@@ -640,31 +640,31 @@ msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "Deze naam wordt momenteel niet gebruikt."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Het is beschikbaar voor nieuwe accounts."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "lijst met legendes namen"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "namen voor liga van legendes"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "league of legends bijnamen"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "legenda legendes namen beschikbaar"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "coole league van legendes namen"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "bijnamen voor de legende"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "beste namen voor league of legends"
 
 msgid "Lists of all the best summoner names!"
 msgstr "Lijsten van alle beste summoner namen!"
@@ -703,28 +703,28 @@ msgid "Active Match Lookup"
 msgstr "Actieve Match zoeken"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "lol match lookup"
 
 msgid "active match lol"
-msgstr ""
+msgstr "actieve wedstrijd lol"
 
 msgid "lol active match"
-msgstr ""
+msgstr "lol actieve match"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "lol opzoeken"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "lol huidige match-lookup"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "lol game lookup"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "bekijk de wedstrijddetails van League of Legends"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Bekijk je huidige League of Legends-wedstrijddetails, inclusief je rang, winratio en niveau."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Gebruik deze pagina om te zoeken voor de actieve match details voor summoners op dit moment in game."
@@ -748,58 +748,58 @@ msgid "Runes"
 msgstr "Runes"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "Pick&#39;em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "perfecte keuzes"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "Zie de enige speler die nog kans maakt op perfecte pick&#39;ems plus alle 647 perfecte pickems uit de groepsfase van het League of Legends World Championship 2018"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Pick&#39;em Link"
 
 msgid "Total"
-msgstr ""
+msgstr "Totaal"
 
 msgid "Group"
-msgstr ""
+msgstr "Groep"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Knock out"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Voorspelde winnaar"
 
 msgid "Summoner Icon Statistics"
 msgstr "Summoner Icoon Statistieken"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "lol summoner pictogrammen"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "League of Legends summoner icons"
 
 msgid "lol icon"
-msgstr ""
+msgstr "lol icoon"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "summoner pictogrammen"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "summoner pictogram"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "lol gebruik van het pictogram"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "populairste League of Legends-pictogrammen"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "Bekijk de meest en minst gebruikte Summoner-pictogrammen in League of Legends"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Deze tabel toont alle meest gebruikte en meest zeldzame summoner-pictogrammen in League of Legends voor de huidige patch in alle regio&#39;s."
 
 msgid "Icon"
 msgstr "Icoon"
@@ -814,31 +814,31 @@ msgid "Summoner Level Statistics"
 msgstr "Summoner Level statistieken"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "summoner statistieken"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "lol summoner statistieken"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "lol statistieken"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "lol summoner niveau"
 
 msgid "level in lol"
-msgstr ""
+msgstr "niveau in lol"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "summoner statistieken lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "statistieken lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Bekijk alle statistieken van de League of Legends summoner-level"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Deze grafiek vergelijkt alle summoners tussen niveau 100 en 125 in alle regio&#39;s."
 
 msgid "Summoner level distribution by region"
 msgstr "Summoner level distributie op regio"
@@ -847,50 +847,50 @@ msgid "Number of Summoners"
 msgstr "Aantal summoners"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "lol naamsveranderingsgeschiedenis"
 
 msgid "league name change history"
-msgstr ""
+msgstr "geschiedenis van de naamsverandering"
 
 msgid "lol name history"
-msgstr ""
+msgstr "lol naam geschiedenis"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "League of Legends vorige namen"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "League of Legends-geschiedenis voor naamsverandering"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "lol vorige namen"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "League of Legends-geschiedenis"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "Naamswijziging League of Legends"
 
 msgid "league name history"
-msgstr ""
+msgstr "naam geschiedenis van de competitie"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "Summoner naam geschiedenis"
 
 msgid "lol name change"
-msgstr ""
+msgstr "lol naamsverandering"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "lol naamtracker"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "naamsverandering tracker"
 
 msgid "Track League of Legends name changes!"
 msgstr "Volg League of Legends naam veranderingen!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "Stap 1: Account-ID opzoeken"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "Stap 2: Zoeken op account-ID en bladwijzer om te volgen"
 

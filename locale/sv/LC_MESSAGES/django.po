@@ -13,22 +13,22 @@ msgid "Summoner name..."
 msgstr "Summoner namn"
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Ogiltigt namn"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Ogiltiga tecken:"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Maximalt 16 tecken"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "Måste vara två eller flera tecken"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Namnen kan inte innehålla &quot;upplopp&quot;"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Detta är ett problem med Riots servrar"
 
 msgid "New Account"
 msgstr "LoL namn med konto-ID"
@@ -61,22 +61,22 @@ msgid "Summoner Level High Scores"
 msgstr "Summoner Level Topplista"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Alla kommande namn"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Nyligen tillgängliga namn"
 
 msgid "Two Letter Names"
 msgstr "LoL Namn"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "Tre bokstavsnamn"
 
 msgid "Four Letter Names"
 msgstr "LoL Namn"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Alla tillgängliga namn"
 
 msgid "Lists"
 msgstr "Listor"
@@ -88,7 +88,7 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr ""
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Perfekt Pickems"
 
 msgid "LoL Names"
 msgstr "LoL Namn"
@@ -115,7 +115,7 @@ msgid "Search by Account ID"
 msgstr "Sök med Konto-ID"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Statistik"
 
 msgid "Summoner Levels"
 msgstr "Summoner Level Topplista"
@@ -130,46 +130,46 @@ msgid "Languages"
 msgstr "Språk"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "lol namn checker"
 
 msgid "league name checker"
-msgstr ""
+msgstr "league name checker"
 
 msgid "lol names"
-msgstr ""
+msgstr "lol namn"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "League of Legends namnkontrollör"
 
 msgid "lol name check"
-msgstr ""
+msgstr "lol namnkontroll"
 
 msgid "league names"
-msgstr ""
+msgstr "liga namn"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "namn checker lol"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "League of Legends namn"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "Summoner Name Checker"
 
 msgid "league name availability"
-msgstr ""
+msgstr "league name tillgänglighet"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "lol namn tillgänglighet"
 
 msgid "lol nick"
-msgstr ""
+msgstr "lol nick"
 
 msgid "available league names"
-msgstr ""
+msgstr "tillgängliga liganamn"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Ofta förekommande frågor om summoner namn"
@@ -208,7 +208,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "Hur kan jag få ett namn med 2 bokstäver?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "Minsta tecken för League of Legends namn är 3. Du kan lägga ett mellanslag mellan tecknen för att åtgärda detta."
 
 msgid "What timezone is used?"
 msgstr "Vilken tidszon används?"
@@ -250,64 +250,64 @@ msgid "Disclaimer"
 msgstr "Ansvarsfriskrivning"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "lol namngenerator"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "Legendens namngenerator"
 
 msgid "league name generator"
-msgstr ""
+msgstr "league name generator"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "lol namngenerator"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "Legends of Legends namngenerator"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "Summoner Name Generator"
 
 msgid "league names generator"
-msgstr ""
+msgstr "league names generator"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "lol användarnamn generator"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "namngenerator lol"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "lol-tändgenerator"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "League of Legends användarnamn generator"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "lol club taggenerator"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "lol summoner namngenerator"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "lol smeknamn generator"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "lol generator namn"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "League of Legends Summoner Namngenerator"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "lol smeknamn generator"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "tändgenerator lol"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "lol nick generator"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "League of Legends specialtecken"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "Lägg till specialla tecken till '%(name)s' och se vilka som är tillgängliga!"
@@ -334,61 +334,61 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "En lista av all stora och små speciella tecken som är tillåtna i League of Legends summoner namn och ser ut som engelska bokstäver."
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Små bokstäver:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Överfall:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "symboler:"
 
 msgid "Account ID Finder"
 msgstr "Konto-ID upphittare"
 
 msgid "lol id"
-msgstr ""
+msgstr "lol id"
 
 msgid "summoner id"
-msgstr ""
+msgstr "summoner id"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "lol kontofinnare"
 
 msgid "account finder"
-msgstr ""
+msgstr "konto sökare"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "lol id finder"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol summoner id"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "League of Legends konto id"
 
 msgid "lol account id"
-msgstr ""
+msgstr "lol konto id"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "summoner id lol"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "Legends of Legends ID-sökning"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "Legendförbundet summoner id"
 
 msgid "lol id search"
-msgstr ""
+msgstr "lol id search"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "League of Legends konto lookup"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "Legends League"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "Summoner id Legends League"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr "Se %(name)s Konto-ID och Summoner-ID!"
@@ -409,13 +409,13 @@ msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Senaste spelet"
 
 msgid "Last active"
-msgstr ""
+msgstr "Senast aktiv"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "Klicka och bokmärke för att spåra"
 
 msgid "Summoner ID"
 msgstr "Summoner"
@@ -442,64 +442,64 @@ msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Nuvarande namn"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Tidigare namn"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "Kommer snart!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Nuvarande nivå"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "högsta nivå i Legends League"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "lol högsta nivån"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "högsta legenivå för legender"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "högsta nivå i lol"
 
 msgid "highest league level"
-msgstr ""
+msgstr "högsta liganivå"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "högsta nivå på Legends League"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "högsta nivå liga spelare"
 
 msgid "top level lol"
-msgstr ""
+msgstr "högsta nivå lol"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "högsta nivå lol spelare"
 
 msgid "lol level"
-msgstr ""
+msgstr "lol nivå"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "League of Legends högsta nivå spelare"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "vem är den högsta nivån i Legends League"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "Vad är den högsta nivån i Legends League"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "högsta nivå i Legends League nu"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "summoner nivå leaderboard"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
@@ -511,7 +511,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Spåra vem som har den högsta summoner level i League of Legends. Topplistan kan visas som högst i världen eller sorterad av region. Se summoner level topplistan."
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Denna leaderboard uppdaterar minst en gång dagligen. Bokmärk den här sidan och kolla tillbaka senare för nya uppdateringar."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
@@ -523,67 +523,67 @@ msgid "Region"
 msgstr "Region"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Nuvarande nivå"
 
 msgid "Check now"
-msgstr ""
+msgstr "Kolla nu"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "League of Legends namnlista"
 
 msgid "names for lol"
-msgstr ""
+msgstr "namn för lol"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "lol smeknamn"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "namn för League of Legends"
 
 msgid "best lol names"
-msgstr ""
+msgstr "bästa lol namn"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "Liga av legenerna smeknamn"
 
 msgid "lol names list"
-msgstr ""
+msgstr "lol namnlista"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "bästa namn i lol"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "League of Legends namn tillgängliga"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "coola League of Legends namn"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "coola lol namn"
 
 msgid "lol name list"
-msgstr ""
+msgstr "lol namnlista"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "smeknamn för lol"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "bästa namn för lol"
 
 msgid "name for lol"
-msgstr ""
+msgstr "namn för lol"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "smeknamn för legendernas lek"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "bästa lol namn listan"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "bästa namnen för legenderna"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "lol inaktiva namn"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr ""
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "Rensningsdatum var"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,13 +616,13 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Uppdateringsdatum (om inaktivt)"
 
 msgid "Current level:"
-msgstr ""
+msgstr "Nuvarande nivå:"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "Läs vanliga frågor"
 
 msgid "Add to Calendar"
 msgstr "Lägg till i kalender"
@@ -640,31 +640,31 @@ msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "Detta namn används för tillfället inte."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Den är tillgänglig för nya konton."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "liga av legender namn lista"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "namn för league of legends"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "liga av legender smeknamn"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "liga av legender namn tillgängliga"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "coola liga med legender namn"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "smeknamn för liga av legender"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "bästa namn för league of legends"
 
 msgid "Lists of all the best summoner names!"
 msgstr "Lista över de bästa summoner namnen!"
@@ -703,28 +703,28 @@ msgid "Active Match Lookup"
 msgstr "Nuvarande Matchsökning"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "lol match lookup"
 
 msgid "active match lol"
-msgstr ""
+msgstr "aktiv match lol"
 
 msgid "lol active match"
-msgstr ""
+msgstr "lol aktiv matchning"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "lol uppslag"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "lol nuvarande match lookup"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "lol spelet lookup"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "se aktuella matchen för legenderna"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Se din nuvarande Match League-matchdetaljer, inklusive dina motståndares rang, vinstförhållande och nivå."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Använd denna sidan för att hitta nuvarande matchdetaljer för spelare i ett game."
@@ -748,149 +748,149 @@ msgid "Runes"
 msgstr "Runes"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "Pick&#39;em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "perfekta pick&#39;ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "Se den enda spelaren som fortfarande har chans till perfekta pick&#39;ems plus alla 647 perfekta pickems från gruppspelet i Legends World Championship League 2018"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Pick&#39;em Link"
 
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgid "Group"
-msgstr ""
+msgstr "Grupp"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Knockout"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Förutsägd vinnare"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "Summoner Icon Statistik"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "lol summoner ikoner"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "League of Legends Summoner-ikoner"
 
 msgid "lol icon"
-msgstr ""
+msgstr "lol ikon"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "summoner ikoner"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "summoner icon"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "lol ikon användning"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "mest populära League of Legends ikoner"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "Se alla de mest och minst använda summonerikonen i League of Legends"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Tabellen visar alla de mest använda och sällsynta summoner-ikonerna i League of Legends för den aktuella patchen i alla regioner."
 
 msgid "Icon"
-msgstr ""
+msgstr "Ikon"
 
 msgid "Number"
-msgstr ""
+msgstr "siffra"
 
 msgid "Usage"
-msgstr ""
+msgstr "Användande"
 
 msgid "Summoner Level Statistics"
 msgstr "Summoner Level Topplista"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "summoner statistik"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "lol summoner statistik"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "lol statistik"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "lol summoner nivå"
 
 msgid "level in lol"
-msgstr ""
+msgstr "nivå i lol"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "summoner statistik lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "statistik lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Se alla Legends League-statistik om summonernivå"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Denna graf jämför alla summoners mellan nivå 100 och 125 över alla regioner."
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "Summoner nivå fördelning per region"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "Antal uppkallare"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "lol namnbyte historia"
 
 msgid "league name change history"
-msgstr ""
+msgstr "liganamnbyteshistorik"
 
 msgid "lol name history"
-msgstr ""
+msgstr "lol namnhistoria"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "Legends League tidigare namn"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "League of Legends namnbyte historia"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "lol tidigare namn"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "Legendens namnhistoria"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "League of Legends namnbyte"
 
 msgid "league name history"
-msgstr ""
+msgstr "league name history"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "Summoner namnhistoria"
 
 msgid "lol name change"
-msgstr ""
+msgstr "lol namnbyte"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "lol namn spårare"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "league name change tracker"
 
 msgid "Track League of Legends name changes!"
 msgstr "Spåra League of Legends namnändringar!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "Steg 1: Uppslagskonto ID"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "Steg 2: Sök efter konto-ID och bokmärke för att spåra"
 

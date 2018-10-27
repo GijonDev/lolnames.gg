@@ -88,7 +88,7 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "%(region)s sunucusunda \"%(name)s\" isimli oyuncu bulunmamakta"
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Mükemmel Pickems"
 
 msgid "LoL Names"
 msgstr "LoL İsimleri"
@@ -130,46 +130,46 @@ msgid "Languages"
 msgstr "Diller"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "lol adı denetleyicisi"
 
 msgid "league name checker"
-msgstr ""
+msgstr "lig adı denetleyicisi"
 
 msgid "lol names"
-msgstr ""
+msgstr "lol isimleri"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "Efsaneler Ligi adı denetleyicisi"
 
 msgid "lol name check"
-msgstr ""
+msgstr "lol isim kontrolü"
 
 msgid "league names"
-msgstr ""
+msgstr "lig isimleri"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "isim denetleyicisi lol"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "Efsaneler Ligi isimleri"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "çağırıcı adı denetleyicisi"
 
 msgid "league name availability"
-msgstr ""
+msgstr "lig adı kullanılabilirliği"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "lol adı kullanılabilirliği"
 
 msgid "lol nick"
-msgstr ""
+msgstr "lol nick"
 
 msgid "available league names"
-msgstr ""
+msgstr "kullanılabilir lig isimleri"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Kullanıcı isimleri hakkında sıkça sorulan sorular"
@@ -208,7 +208,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "Nasıl 2 harfli isim alabilirim ?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "League of Legends adlarının minimum karakterleri 3&#39;tür. Bunu düzeltmek için karakterler arasında boşluk bırakabilirsiniz."
 
 msgid "What timezone is used?"
 msgstr "Hangi Saat Kullanıyor"
@@ -250,64 +250,64 @@ msgid "Disclaimer"
 msgstr "Feragatname"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "lol adı üreteci"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "League of Legends isim üreteci"
 
 msgid "league name generator"
-msgstr ""
+msgstr "lig ismi jeneratörü"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "lol isimleri jeneratör"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "League of Legends isimleri jeneratör"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "çağırıcı adı üreteci"
 
 msgid "league names generator"
-msgstr ""
+msgstr "lig isimleri jeneratör"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "lol kullanıcı adı üreticisi"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "isim jeneratörü lol"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "lol jeneratörü"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "League of Legends kullanıcı adı üreteci"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "lol kulübü etiketi üreticisi"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "lol çağırıcı adı jeneratörü"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "lol takma ad jeneratör"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "lol üreteci adı"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "Legends efsanesi adı jeneratör Ligi"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "lol nickler jeneratör"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "jeneratörü lol"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "lol nick jeneratörü"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "League of Legends özel karakterler"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "Bu isime '%(name)s' özel karakterler ekle ve hangisi uygun gör! "
@@ -334,61 +334,61 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "Efsaneler Ligi efsane adlarına izin verilen ve ingilizce harfler gibi görünen tüm büyük ve küçük harflerin bir listesi"
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Küçük harf:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Büyük harf:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "Semboller:"
 
 msgid "Account ID Finder"
 msgstr "Hesap ID (kimliği) Bulucu"
 
 msgid "lol id"
-msgstr ""
+msgstr "lol kimliği"
 
 msgid "summoner id"
-msgstr ""
+msgstr "çağrı kimliği"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "lol hesap bulucu"
 
 msgid "account finder"
-msgstr ""
+msgstr "hesap bulucu"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "lol id bulucu"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol çağrı kimliği"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "League of Legends hesap kimliği"
 
 msgid "lol account id"
-msgstr ""
+msgstr "lol hesap kimliği"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "çağrı kimliği lol"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "Efsaneler Ligi id arama"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "League of Legends çağrısı kimliği"
 
 msgid "lol id search"
-msgstr ""
+msgstr "lol kimlik araması"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "League of Legends hesabı arama"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "Efsaneler Ligi id"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "efsane kimliği League of Legends"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr "Bu ismin %(name)s'Hesap ID (kimliğini) ve Sihirdar ID!'sını (kimliğini) gör. "
@@ -409,10 +409,10 @@ msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Son Oyun"
 
 msgid "Last active"
-msgstr ""
+msgstr "Son aktif"
 
 msgid "Click and bookmark to track"
 msgstr "İzlemek için tıkla ve işaretle"
@@ -442,64 +442,64 @@ msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Şu anki ismi"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Önceki isimler"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "Çok yakında!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Mevcut seviye"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "League of Legends&#39;taki en yüksek seviye"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "lol en yüksek seviye"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "Efsaneler liginin en yüksek seviyesi"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "lol en yüksek seviyesi"
 
 msgid "highest league level"
-msgstr ""
+msgstr "en yüksek lig seviyesi"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "Efsaneler Ligi&#39;nde en yüksek seviye"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "en yüksek seviye lig oyuncusu"
 
 msgid "top level lol"
-msgstr ""
+msgstr "üst düzey lol"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "en yüksek seviye lol oyuncu"
 
 msgid "lol level"
-msgstr ""
+msgstr "lol seviyesi"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "Efsaneler Ligi en yüksek seviye oyuncusu"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "League of Legends&#39;ın en yüksek seviyesi kim"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "League of Legends&#39;ın en yüksek seviyesi nedir"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "League of Legends&#39;ın en yüksek seviyesi"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "avcı seviyesi afiş"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr "Dünyadaki en iyi %(number)s oyuncu seviyesine bakın!"
@@ -511,7 +511,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Hangi oyuncunun League of Legends'ta en yüksek seviyeye sahip olduğunu arayın. Sıralamalar dünya çapında veya bölgeye göre sıralanabilir. Sihirdar seviyesi liderlik sıralamasını gör "
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Bu afiş en az günde bir kez güncellenir. Bu sayfayı işaretleyin ve yeni güncellemeler için daha sonra tekrar kontrol edin."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
@@ -523,67 +523,67 @@ msgid "Region"
 msgstr "Bölge"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Mevcut seviye"
 
 msgid "Check now"
-msgstr ""
+msgstr "Şimdi kontrol et"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "League of Legends isimleri listesi"
 
 msgid "names for lol"
-msgstr ""
+msgstr "lol için isimler"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "lol takma"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "League of Legends isimleri"
 
 msgid "best lol names"
-msgstr ""
+msgstr "en iyi lol isimleri"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "League of Legends takma adları"
 
 msgid "lol names list"
-msgstr ""
+msgstr "lol isimleri listesi"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "lol en iyi adı"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "League of Legends isimleri mevcut"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "Efsane isimleri serin League"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "serin lol isimleri"
 
 msgid "lol name list"
-msgstr ""
+msgstr "lol isim listesi"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "lol için takma adlar"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "lol için en iyi isimler"
 
 msgid "name for lol"
-msgstr ""
+msgstr "lol için isim"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "League of Legends takma adlar"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "en iyi lol isimleri listesi"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "League of Legends için en iyi isimler"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "lol aktif olmayan isimler"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr "%(name)s'in yazıcısı ne zaman müsait olduğunu görün!."
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "Temizleme tarihi"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,13 +616,13 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Temizleme tarihi (etkin değilse)"
 
 msgid "Current level:"
 msgstr "Mevcut Seviye "
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "SSS&#39;leri oku"
 
 msgid "Add to Calendar"
 msgstr "Takvime ekle"
@@ -640,31 +640,31 @@ msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "Bu ad şu anda kullanılmıyor."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Yeni hesaplar için kullanılabilir."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "efsane isimleri ligi listesi"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "efsaneler liginin isimleri"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "efsane ligleri ligi"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "efsane isimleri ligi mevcut"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "efsane isimleri serin lig"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "efsaneler liginin takma adları"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "efsaneler liginin en iyi isimleri"
 
 msgid "Lists of all the best summoner names!"
 msgstr "En iyi sihirdar isimlerini listele"
@@ -703,28 +703,28 @@ msgid "Active Match Lookup"
 msgstr "Aktif maça bakma"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "lol maçı araması"
 
 msgid "active match lol"
-msgstr ""
+msgstr "aktif maç lol"
 
 msgid "lol active match"
-msgstr ""
+msgstr "lol aktif maç"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "lol arama"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "lol mevcut maç arama"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "lol oyun arama"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "Güncel League of Legends maç ayrıntılarını gör"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Rakibinizin rütbesi, kazanma oranı ve seviyesi de dahil olmak üzere mevcut League of Legends maç ayrıntılarınızı görün."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Sihirdarın aktif maç detayları için bu sayfayı kullanın"
@@ -748,58 +748,58 @@ msgid "Runes"
 msgstr "Rünler"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "pick&#39;Em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "mükemmel seçim"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "League of Legends Dünya Şampiyonası 2018&#39;in grup aşamasından hala mükemmel seçim şansına ve 647 mükemmel toplayışa sahip olan tek oyuncuya bakın."
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Pick&#39;em Bağlantısı"
 
 msgid "Total"
-msgstr ""
+msgstr "Genel Toplam"
 
 msgid "Group"
-msgstr ""
+msgstr "grup"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Nakavt"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Tahmini Kazanan"
 
 msgid "Summoner Icon Statistics"
 msgstr "Sihirdar Simgesi İstatistikleri"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "lol summoner simgeler"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "Legends efsanesi simgeler lig"
 
 msgid "lol icon"
-msgstr ""
+msgstr "lol simgesi"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "summoner simgeler"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "çağrı simgesi"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "lol simgesi kullanımı"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "En popüler League of Legends simgeleri"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "League of Legends&#39;taki en çok ve en çok kullanılan summoner simgelerini görün"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Bu tablo, tüm bölgelerdeki geçerli yama için League of Legends&#39;taki en çok kullanılan ve en nadir bulunan tüm simgeleri gösterir."
 
 msgid "Icon"
 msgstr "Simge"
@@ -814,31 +814,31 @@ msgid "Summoner Level Statistics"
 msgstr "Sihirdar Seviye İstatistiği"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "üye istatistikleri"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "lol çağırıcı istatistikleri"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "lol istatistikleri"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "lol çağrısı seviyesi"
 
 msgid "level in lol"
-msgstr ""
+msgstr "lol düzeyinde"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "Summoner istatistikleri lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "istatistik lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Tüm efsane rütbesi seviyesi istatistiklerini gör"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Bu grafik, tüm bölgelerdeki tüm katılımcıları 100 ve 125 seviyeleriyle karşılaştırır."
 
 msgid "Summoner level distribution by region"
 msgstr "Bölgeye göre Sihirdar dağılımı"
@@ -847,50 +847,50 @@ msgid "Number of Summoners"
 msgstr "Sihirdarların Sayısı"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "lol adı değişikliği geçmişi"
 
 msgid "league name change history"
-msgstr ""
+msgstr "lig adı değişiklik geçmişi"
 
 msgid "lol name history"
-msgstr ""
+msgstr "lol adı geçmişi"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "League of Legends önceki isimler"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "Efsaneler Ligi adı değişim tarihi"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "önceki isimler lol"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "League of Legends adı geçmişi"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "League of Legends isim değişikliği"
 
 msgid "league name history"
-msgstr ""
+msgstr "lig ismi geçmişi"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "çağrı adı geçmişi"
 
 msgid "lol name change"
-msgstr ""
+msgstr "lol adı değişikliği"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "lol adı izci"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "lig adı değiştirici izci"
 
 msgid "Track League of Legends name changes!"
 msgstr "Değiştirilmiş isimleri kontrol et!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "1. Adım: Arama Hesabı Kimliği"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "2. Adım: Takip etmek için Hesap Kimliği ve yer işaretiyle arayın"
 

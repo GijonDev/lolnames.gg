@@ -88,7 +88,7 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "Ne postoji osoba s imenom \"%(name)s\" na regionu %(region)s "
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Перфецт Пицкемс"
 
 msgid "LoL Names"
 msgstr "LOL Imena"
@@ -130,46 +130,46 @@ msgid "Languages"
 msgstr "Jezici"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "лол име провјера"
 
 msgid "league name checker"
-msgstr ""
+msgstr "лига провјера"
 
 msgid "lol names"
-msgstr ""
+msgstr "лол имена"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "лолнамецхецкер"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "Леагуе оф Легендс"
 
 msgid "lol name check"
-msgstr ""
+msgstr "лол провери име"
 
 msgid "league names"
-msgstr ""
+msgstr "лига имена"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "наме цхецкер лол"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "Имена легенди"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "сумонер име цхецкер"
 
 msgid "league name availability"
-msgstr ""
+msgstr "доступност лига"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "лол име доступност"
 
 msgid "lol nick"
-msgstr ""
+msgstr "лол ницк"
 
 msgid "available league names"
-msgstr ""
+msgstr "доступна имена лига"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Nedavno postavljana pitanja za imena"
@@ -208,7 +208,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "Kako da napravim ime od 2 slova?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "Минимални знакови за имена лиге легенде су 3. Можете поставити размак између знакова да бисте исправили ово."
 
 msgid "What timezone is used?"
 msgstr "Koja vremenska zona se koristi?"
@@ -250,64 +250,64 @@ msgid "Disclaimer"
 msgstr "Upozorenje"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "лол име генератор"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "Генератор имена Легендс"
 
 msgid "league name generator"
-msgstr ""
+msgstr "лига име генератор"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "лол имена генератора"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "Лига легенд назива генератор"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "суммонер наме генератор"
 
 msgid "league names generator"
-msgstr ""
+msgstr "лига имена генератора"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "лол усернаме генератор"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "име генератор лол"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "лол игн генератор"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "Генератор усернаме оф Легендс"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "лол цлуб таг генератор"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "лол суммонер наме генератор"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "лол надимак генератор"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "лол генератор име"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "Лига Легендс позвао генератора имена"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "лол надимци генератор"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "игн генератор лол"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "лол ницк генератор"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "Лига легенди специјални ликови"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "Dodaj specijalne karaktere na '%(name)s' da vidis koji su slobodni"
@@ -334,67 +334,67 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "Lista malih i velikih karaktera koji su dozvoljeni u LOL imenima i izgledaju kao normalna slova"
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Мала слова:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Горњи случај:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "Симболи:"
 
 msgid "Account ID Finder"
 msgstr "Pretraga ID-a naloga"
 
 msgid "lol id"
-msgstr ""
+msgstr "лол ид"
 
 msgid "summoner id"
-msgstr ""
+msgstr "суммонер ид"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "лол налог финдер"
 
 msgid "account finder"
-msgstr ""
+msgstr "рачун финдер"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "лол ид финдер"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "лол суммонер ид"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "Идентификациони код лиге легенди"
 
 msgid "lol account id"
-msgstr ""
+msgstr "ид лол налога"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "суммонер ид лол"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "Лига Легендс ид-а"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "Лига легенд суммонер ид"
 
 msgid "lol id search"
-msgstr ""
+msgstr "лол ид претрагу"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "Преглед лиге Легендса"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "Леагуе оф Легендс ид"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "суммонер ид Лига легенди"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr "Pogledaj ID naloga %(name)s'!"
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr ""
+msgstr "Потражите идентификатор налога позиватеља и Идентификатор приговора."
 
 msgid "LoL Account ID Finder"
 msgstr "Pretraga ID-a naloga"
@@ -409,10 +409,10 @@ msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Последња игра"
 
 msgid "Last active"
-msgstr ""
+msgstr "Последња активна"
 
 msgid "Click and bookmark to track"
 msgstr "Klikni na bookmark da pratis"
@@ -442,64 +442,64 @@ msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Тренутни назив"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Претходни називи"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "Долази ускоро!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Тренутни ниво"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "највиши ниво у Лиги легенди"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "лол највиши ниво"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "највиши ниво лиге легенди"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "највиши ниво у лол"
 
 msgid "highest league level"
-msgstr ""
+msgstr "највиши ниво лиге"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "највиши ниво на Леагуе оф Легендс"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "играч лиге највишег нивоа"
 
 msgid "top level lol"
-msgstr ""
+msgstr "највиши ниво лол"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "лол плаиер на највишем нивоу"
 
 msgid "lol level"
-msgstr ""
+msgstr "лол ниво"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "Лига легенди највишег играча"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "који је највиши ниво у Лиги легенди"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "који је највиши ниво у Лиги легенди"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "тренутно највиши ниво у Лиги легенди"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "лидербоард нивоа позајмице"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
@@ -511,7 +511,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Prati ko ima najveci nivo u LoL-u. Visoki skorovi ce biti prikazani na svetskom nivou ili sortirano prema regionu. Pogledaj listu najvecih nivoa"
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Овај лидербоард се ажурира најмање једном дневно. Означи ову страницу и потврдите касније за нове исправке."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
@@ -523,67 +523,67 @@ msgid "Region"
 msgstr "Region"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Тренутни ниво"
 
 msgid "Check now"
-msgstr ""
+msgstr "Провери сада"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "Листа легенди лиге"
 
 msgid "names for lol"
-msgstr ""
+msgstr "имена за лол"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "лол надимци"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "имена за Леагуе оф Легендс"
 
 msgid "best lol names"
-msgstr ""
+msgstr "најбоље лол имена"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "Легенда Легенда"
 
 msgid "lol names list"
-msgstr ""
+msgstr "лол листа имена"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "најбоље име у лол"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "Имена лиге Легендс доступна"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "цоол Леагуе оф Легендс имена"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "цоол лол имена"
 
 msgid "lol name list"
-msgstr ""
+msgstr "лол листа са именима"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "надимци за лол"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "најбоље име за лол"
 
 msgid "name for lol"
-msgstr ""
+msgstr "име за лол"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "надимци за Леагуе оф Легендс"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "најбоља листа имена"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "најбоље име за Леагуе оф Легендс"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "лол неактивна имена"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr "Pogledajte kada je ime primaoca %(name)s dostupna!"
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "Датум чишћења је био"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,13 +616,13 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Датум чишћења (ако је неактиван)"
 
 msgid "Current level:"
 msgstr "Trenutni nivo"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "Читајте ФАК"
 
 msgid "Add to Calendar"
 msgstr "Dodaj u kalendar"
@@ -640,31 +640,31 @@ msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "Ово име тренутно се не користи."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Доступан је за нове рачуне."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "лига листа легенди"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "имена за лигу легенди"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "лига легендских надимака"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "лига имена легенди доступна"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "цоол леагуе легенди имена"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "надимци за лигу легенди"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "најбоље име за лигу легенди"
 
 msgid "Lists of all the best summoner names!"
 msgstr "Liste najboljih imena"
@@ -703,28 +703,28 @@ msgid "Active Match Lookup"
 msgstr "Pregled meca uzivo"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "лол матцх лоокуп"
 
 msgid "active match lol"
-msgstr ""
+msgstr "активна утакмица лол"
 
 msgid "lol active match"
-msgstr ""
+msgstr "лол активан меч"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "лол лоокуп"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "лол текући матцх лоокуп"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "лол гаме лоокуп"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "погледајте тренутне податке о мечу лиге легенди"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Погледајте своје тренутне податке о утакмици лиге легенде, укључујући ранг, противничку позицију и ниво."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Ovu stranicu koristi za statistike trenutnih partija"
@@ -748,58 +748,58 @@ msgid "Runes"
 msgstr "Rune"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "Пицк&#39;ем"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "савршени пицк&#39;емс"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "Погледајте једини играч који још увек има шансу за савршеним победама плус свих 647 савршених победа у групној фази Светског првенства лиге легенди 2018."
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Пицк&#39;ем Линк"
 
 msgid "Total"
-msgstr ""
+msgstr "Укупно"
 
 msgid "Group"
-msgstr ""
+msgstr "Група"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Нокаут"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Предвиђени победник"
 
 msgid "Summoner Icon Statistics"
 msgstr "Statistike ikone"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "лол суммонер иконе"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "Леагуе оф Легендс суммонер иконе"
 
 msgid "lol icon"
-msgstr ""
+msgstr "лол ицон"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "сумонер иконе"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "икона позвана"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "лол икона употреба"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "најпопуларнија икона лиге легенди"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "Погледајте све најбоље и најслабије коришћене иконе сумонера у Леагуе оф Легендс"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Ова табела приказује све најчешће коришћене и најцешће иконе позивања у Лиги легенди за тренутни оближ у свим регионима."
 
 msgid "Icon"
 msgstr "Ikona"
@@ -814,31 +814,31 @@ msgid "Summoner Level Statistics"
 msgstr "Najveći nivoi Summonera"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "суммонер статистицс"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "лол суммонер статистицс"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "лол статистицс"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "Лол позвани ниво"
 
 msgid "level in lol"
-msgstr ""
+msgstr "ниво у лол"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "суммонер статистицс лол"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "статистика лол"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Погледајте све статистике нивоа званичника лиге лиге"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Овај граф упоређује све позиве између нивоа 100 и 125 у свим регионима."
 
 msgid "Summoner level distribution by region"
 msgstr "Nivo summonera po regionu"
@@ -847,50 +847,50 @@ msgid "Number of Summoners"
 msgstr "Broj Summonera"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "лол историја промена имена"
 
 msgid "league name change history"
-msgstr ""
+msgstr "историја промена имена лиге"
 
 msgid "lol name history"
-msgstr ""
+msgstr "лол историја имена"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "Леагуе оф Легендс претходна имена"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "Историја промене имена лиге легенди"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "лол претходна имена"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "Лига легенди историја имена"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "Промена имена лиге легенди"
 
 msgid "league name history"
-msgstr ""
+msgstr "историја имена лиге"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "историја имена примаоца"
 
 msgid "lol name change"
-msgstr ""
+msgstr "лол промена имена"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "лол име трацкер"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "лига за промену имена"
 
 msgid "Track League of Legends name changes!"
 msgstr "Prati promene imena u LOLu!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "Корак 1: ИД налога за претрагу"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "2. корак: потражите по ИД налога и обележивачем за праћење"
 

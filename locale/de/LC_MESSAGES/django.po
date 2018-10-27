@@ -88,7 +88,7 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "Kein Beschwörer mit dem Namen: \"%(name)s\" in %(region)s."
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Perfekte Pickems"
 
 msgid "LoL Names"
 msgstr "LoL Beschwörernamen"
@@ -130,46 +130,46 @@ msgid "Languages"
 msgstr "Sprachen"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "lol Name Checker"
 
 msgid "league name checker"
-msgstr ""
+msgstr "Liga-Name-Checker"
 
 msgid "lol names"
-msgstr ""
+msgstr "lol Namen"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "League of Legends Name Checker"
 
 msgid "lol name check"
-msgstr ""
+msgstr "lol Name prüfen"
 
 msgid "league names"
-msgstr ""
+msgstr "Liga-Namen"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "Namensprüfer lol"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "League of Legends Namen"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "Name des Beschwörers"
 
 msgid "league name availability"
-msgstr ""
+msgstr "Verfügbarkeit des Liga-Namens"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "lol name verfügbarkeit"
 
 msgid "lol nick"
-msgstr ""
+msgstr "lol nick"
 
 msgid "available league names"
-msgstr ""
+msgstr "verfügbare Liga-Namen"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Häufig gestellte Fragen zu Beschwörernamen"
@@ -208,7 +208,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "Wie bekomme ich einen 2-Buchstaben-Namen?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "Die Mindestanzahl an Zeichen für League of Legends-Namen beträgt 3. Sie können ein Leerzeichen zwischen den Zeichen einfügen, um dies zu beheben."
 
 msgid "What timezone is used?"
 msgstr "Welche Zeitzone wird verwendet?"
@@ -250,64 +250,64 @@ msgid "Disclaimer"
 msgstr "Haftungsausschluss"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "lol Name Generator"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "League of Legends Namensgenerator"
 
 msgid "league name generator"
-msgstr ""
+msgstr "Liga Name Generator"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "lol benennt Generator"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "League of Legends benennt Generator"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "Beschwörer Name Generator"
 
 msgid "league names generator"
-msgstr ""
+msgstr "Liga-Namen-Generator"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "lol Benutzername Generator"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "Namensgenerator lol"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "lol ign Generator"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "League of Legends Benutzername Generator"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "lol club tag generator"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "lol Beschwörer Name Generator"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "lol Nickname Generator"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "lol Generator Name"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "League of Legends Beschwörer Name Generator"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "lol Spitznamen Generator"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "Ign Generator lol"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "lol nick generator"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "League of Legends Sonderzeichen"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "Füge Sonderzeichen zu '%(name)s' hinzu und sehe, welche verfügbar sind!"
@@ -334,61 +334,61 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "Eine Liste aller Groß- und Kleinbuchstaben, die in den League of Legends Beschwörernamen erlaubt sind und wie englische Buchstaben aussehen."
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Kleinbuchstaben:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Großbuchstaben:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "Symbole:"
 
 msgid "Account ID Finder"
 msgstr "Konto ID Sucher"
 
 msgid "lol id"
-msgstr ""
+msgstr "lol id"
 
 msgid "summoner id"
-msgstr ""
+msgstr "Beschwörer-ID"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "lol Kontenfinder"
 
 msgid "account finder"
-msgstr ""
+msgstr "Kontenfinder"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "lol id finder"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol Beschwörer ID"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "League of Legends Konto ID"
 
 msgid "lol account id"
-msgstr ""
+msgstr "lol Konto ID"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "Beschwörer ID lol"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "League of Legends ID Suche"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "Die Beschwörer-ID der Liga der Legenden"
 
 msgid "lol id search"
-msgstr ""
+msgstr "lol ID Suche"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "League of Legends Account-Suche"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "Liga der Legenden id"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "Beschwörer-ID Liga der Legenden"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr "Siehe %(name)s's Account ID und Beschwörer ID!"
@@ -409,10 +409,10 @@ msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Letztes Spiel"
 
 msgid "Last active"
-msgstr ""
+msgstr "Letzte Aktivität"
 
 msgid "Click and bookmark to track"
 msgstr "Klicke und füge den Namen zum Lesezeichen hinzu"
@@ -442,64 +442,64 @@ msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Aktueller Name"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Vorherige Namen"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "Demnächst!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Aktuelles Level"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "höchste Stufe in League of Legends"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "lol höchste Stufe"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "höchstes Level der League of Legends"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "höchste Stufe in lol"
 
 msgid "highest league level"
-msgstr ""
+msgstr "höchstes Liga-Niveau"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "höchste Stufe bei League of Legends"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "Spieler der höchsten Liga"
 
 msgid "top level lol"
-msgstr ""
+msgstr "oberste Ebene lol"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "Lol Spieler der höchsten Stufe"
 
 msgid "lol level"
-msgstr ""
+msgstr "lol Niveau"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "League of Legends Spieler der höchsten Stufe"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "Wer ist der höchste Level in League of Legends?"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "Was ist die höchste Stufe in League of Legends"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "höchste Stufe in League of Legends jetzt"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "Beschwörer-Level-Bestenliste"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr "Seht euch die %(number)s besten Beschwörer-Levels der Welt an!"
@@ -511,7 +511,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Verfolge wer das höchste Beschwörerlevel in League of Legends hat. Die Rekorde können weltweit oder sortiert nach Region dargestellt werden. Schau dir die Beschwörerlevel Bestenliste an."
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Diese Rangliste wird mindestens einmal täglich aktualisiert. Setzen Sie ein Lesezeichen für diese Seite und überprüfen Sie später, ob neue Updates verfügbar sind."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
@@ -523,67 +523,67 @@ msgid "Region"
 msgstr "Region"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Aktuelles Level"
 
 msgid "Check now"
-msgstr ""
+msgstr "Jetzt prüfen"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "League of Legends Namen Liste"
 
 msgid "names for lol"
-msgstr ""
+msgstr "Namen für lol"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "lol Spitznamen"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "Namen für League of Legends"
 
 msgid "best lol names"
-msgstr ""
+msgstr "Beste lol Namen"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "Spitznamen von League of Legends"
 
 msgid "lol names list"
-msgstr ""
+msgstr "lol Namen Liste"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "bester Name in lol"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "League of Legends Namen verfügbar"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "coole League of Legends Namen"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "coole lol Namen"
 
 msgid "lol name list"
-msgstr ""
+msgstr "lol Namensliste"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "Spitznamen für lol"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "beste Namen für lol"
 
 msgid "name for lol"
-msgstr ""
+msgstr "Name für lol"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "Spitznamen für League of Legends"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "Beste lol Namen Liste"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "beste Namen für League of Legends"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "lol inaktive Namen"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr "Sehen Sie, wenn der Name des Beschwörers %(name)s verfügbar ist!"
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "Aufräumdatum war"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,13 +616,13 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Bereinigungsdatum (wenn inaktiv)"
 
 msgid "Current level:"
 msgstr "Derzeitiges Level:"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "Lesen Sie die FAQs"
 
 msgid "Add to Calendar"
 msgstr "Zum Kalendar hinzufügen"
@@ -640,31 +640,31 @@ msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "Dieser Name wird derzeit nicht verwendet."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Es ist für neue Konten verfügbar."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "Liga der Legenden Namen Liste"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "Namen für die Liga der Legenden"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "Spitznamen der Liga der Legenden"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "League of Legends Namen verfügbar"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "coole Liga der Legenden Namen"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "Spitznamen für die Liga der Legenden"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "beste Namen für die Liga der Legenden"
 
 msgid "Lists of all the best summoner names!"
 msgstr "Listen der besten Beschwörernamen!"
@@ -703,28 +703,28 @@ msgid "Active Match Lookup"
 msgstr "Nach aktiven Spiel suchen"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "lol Übereinstimmung suchen"
 
 msgid "active match lol"
-msgstr ""
+msgstr "aktive Übereinstimmung lol"
 
 msgid "lol active match"
-msgstr ""
+msgstr "lol aktive Übereinstimmung"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "lol lookup"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "lol aktuelle Übereinstimmung suchen"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "lol Spiel nachschlagen"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "Siehe aktuelle League of Legends Spieldetails"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Sieh dir deine aktuellen League of Legends Spieldetails an, einschließlich Rang, Gewinnrate und Level deines Gegners."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Benutze diese Seite um die Match Details eines Beschwörers der gerade im Spiel ist zu suchen."
@@ -748,58 +748,58 @@ msgid "Runes"
 msgstr "Runen"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "Pick&#39;em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "perfekte Pick&#39;ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "Sehen Sie den einzigen Spieler, der noch eine Chance auf perfekte Pick&#39;ems hat, sowie alle 647 perfekten Pickems aus der Gruppenphase der League of Legends World Championship 2018"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Wähle den Link"
 
 msgid "Total"
-msgstr ""
+msgstr "Gesamt"
 
 msgid "Group"
-msgstr ""
+msgstr "Gruppe"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Schlagen"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Vorhergesagter Gewinner"
 
 msgid "Summoner Icon Statistics"
 msgstr "Beschwörersymbol Statistiken"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "lol Beschwörer Symbole"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "League of Legends Beschwörer Icons"
 
 msgid "lol icon"
-msgstr ""
+msgstr "lol Symbol"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "Beschwörer Icons"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "Beschwörer-Symbol"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "lol Symbol Verwendung"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "beliebtesten League of Legends Icons"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "Sieh dir die meisten und am wenigsten verwendeten Beschwörer-Symbole in League of Legends an"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Diese Tabelle zeigt die meistgenutzten und seltensten Beschwörer-Symbole in League of Legends für den aktuellen Patch in allen Regionen."
 
 msgid "Icon"
 msgstr "Symbol"
@@ -814,31 +814,31 @@ msgid "Summoner Level Statistics"
 msgstr "Beschwörerlevel Bestenliste"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "Beschwörerstatistik"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "lol Beschwörer Statistiken"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "lol Statistiken"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "lol Beschwörer Ebene"
 
 msgid "level in lol"
-msgstr ""
+msgstr "Niveau in lol"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "Beschwörerstatistik lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "Statistiken lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Sieh dir alle Level-Beschwörer-Level-Statistiken von League of Legends an"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Diese Grafik vergleicht alle Beschwörer zwischen Level 100 und 125 in allen Regionen."
 
 msgid "Summoner level distribution by region"
 msgstr "Beschwörerlevel zugehörigkeit nach Regionen"
@@ -847,50 +847,50 @@ msgid "Number of Summoners"
 msgstr "Anzahl der Beschwörer"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "lol Name ändern Geschichte"
 
 msgid "league name change history"
-msgstr ""
+msgstr "Liga-Namen ändern Geschichte"
 
 msgid "lol name history"
-msgstr ""
+msgstr "lol Name Geschichte"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "League of Legends vorherige Namen"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "League of Legends nennt Änderungshistorie"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "lol vorherige Namen"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "League of Legends nennen Geschichte"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "League of Legends Namensänderung"
 
 msgid "league name history"
-msgstr ""
+msgstr "Liga-Namen Geschichte"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "Beschwörer Name Geschichte"
 
 msgid "lol name change"
-msgstr ""
+msgstr "lol Name ändern"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "lol Name Tracker"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "Liga-Name-Change-Tracker"
 
 msgid "Track League of Legends name changes!"
 msgstr "Verfolge League of Legends Namensänderungen!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "Schritt 1: Kontonummer suchen"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "Schritt 2: Suche nach Konto-ID und Lesezeichen zum Nachverfolgen"
 

@@ -10,76 +10,76 @@ msgstr ""
 
 
 msgid "Summoner name..."
-msgstr ""
+msgstr "ชื่อผู้เรียก ..."
 
 msgid "Invalid name"
-msgstr ""
+msgstr "ชื่อไม่ถูกต้อง"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "ตัวอักษรที่ไม่ถูกต้อง:"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "สูงสุด 16 ตัวอักษร"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "ต้องมีอักขระตั้งแต่สองตัวขึ้นไป"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "ชื่อไม่สามารถมี &#39;จลาจล&#39;"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "นี่เป็นปัญหากับเซิร์ฟเวอร์ของ Riot"
 
 msgid "New Account"
-msgstr ""
+msgstr "บัญชีใหม่"
 
 msgid "Name Change"
-msgstr ""
+msgstr "เปลี่ยนชื่อ"
 
 msgid "Generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้า"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
 msgstr ""
 
 msgid "Summoner name not in use"
-msgstr ""
+msgstr "ชื่อผู้เรียกไม่ได้ใช้งาน"
 
 msgid "Account ID Lookup"
-msgstr ""
+msgstr "การค้นหารหัสบัญชี"
 
 msgid "Account ID"
-msgstr ""
+msgstr "หมายเลขบัญชี"
 
 msgid "Lookup name by Account ID"
-msgstr ""
+msgstr "ค้นหาชื่อตามรหัสบัญชี"
 
 msgid "Invalid Account ID"
-msgstr ""
+msgstr "รหัสบัญชีไม่ถูกต้อง"
 
 msgid "Summoner Level High Scores"
-msgstr ""
+msgstr "ระดับคะแนนสูงสุดของผู้เรียกร้อง"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "ชื่อที่จะมาทั้งหมด"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "ชื่อที่มีอยู่ล่าสุด"
 
 msgid "Two Letter Names"
-msgstr ""
+msgstr "ชื่อจดหมายสองฉบับ"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "ชื่อจดหมายสามฉบับ"
 
 msgid "Four Letter Names"
-msgstr ""
+msgstr "สี่ชื่อหนังสือ"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "ชื่อที่ใช้ได้ทั้งหมด"
 
 msgid "Lists"
-msgstr ""
+msgstr "รายการ"
 
 msgid "No active game for %(name)s"
 msgstr ""
@@ -88,340 +88,340 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr ""
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Pickems ที่สมบูรณ์แบบ"
 
 msgid "LoL Names"
 msgstr "LoL ชื่อ"
 
 msgid "Checker"
-msgstr ""
+msgstr "ตาหมากรุก"
 
 msgid "Highscores"
-msgstr ""
+msgstr "คะแนนสูง"
 
 msgid "Tools"
-msgstr ""
+msgstr "เครื่องมือ"
 
 msgid "Lookup Match Details"
-msgstr ""
+msgstr "ค้นหารายละเอียดการแข่งขัน"
 
 msgid "Track Name Changes"
-msgstr ""
+msgstr "การเปลี่ยนแปลงชื่อแทร็ก"
 
 msgid "Lookup Account ID"
-msgstr ""
+msgstr "ค้นหารหัสบัญชี"
 
 msgid "Search by Account ID"
-msgstr ""
+msgstr "ค้นหาตามรหัสบัญชี"
 
 msgid "Statistics"
-msgstr ""
+msgstr "สถิติ"
 
 msgid "Summoner Levels"
-msgstr ""
+msgstr "ระดับผู้นำเรียก"
 
 msgid "Summoner Icons"
-msgstr ""
+msgstr "ไอคอนเรียกร้อง"
 
 msgid "FAQ"
-msgstr ""
+msgstr "คำถามที่พบบ่อย"
 
 msgid "Languages"
-msgstr ""
+msgstr "ภาษา"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "ตรวจสอบชื่อ lol"
 
 msgid "league name checker"
-msgstr ""
+msgstr "ตัวตรวจสอบชื่อลีก"
 
 msgid "lol names"
-msgstr ""
+msgstr "ชื่อ lol"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "ตัวตรวจสอบชื่อลีกของ Legends"
 
 msgid "lol name check"
-msgstr ""
+msgstr "ตรวจสอบชื่อ lol"
 
 msgid "league names"
-msgstr ""
+msgstr "ชื่อลีก"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "ตรวจสอบชื่อ lol"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "ชื่อ League of Legends"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "ตัวตรวจสอบชื่อของ Summoner"
 
 msgid "league name availability"
-msgstr ""
+msgstr "ชื่อลีกพร้อมใช้งาน"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "ชื่อห้องว่าง"
 
 msgid "lol nick"
-msgstr ""
+msgstr "ฮ่า ๆ nick"
 
 msgid "available league names"
-msgstr ""
+msgstr "ชื่อลีกที่พร้อมใช้งาน"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr ""
+msgstr "คำถามที่พบบ่อยเกี่ยวกับชื่อผู้เรียก"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
+msgstr "คำถามที่พบบ่อยเกี่ยวกับกฎการเปลี่ยนแปลงชื่อผู้เรียกของ League of Legends"
 
 msgid "Close"
-msgstr ""
+msgstr "ปิด"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
+msgstr "ส่วนนี้มีความมั่งคั่งของข้อมูลที่เกี่ยวข้องกับ <strong>LoL Names.GG</strong> และการใช้งาน หากคุณไม่พบคำตอบสำหรับคำถามของคุณโปรด <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">ติดต่อฉัน</a>"
 
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "คำถามที่พบบ่อย"
 
 msgid "How frequently do the lists update?"
-msgstr ""
+msgstr "บ่อยครั้งที่รายการปรับปรุง?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
+msgstr "รายการจะมีการอัปเดตประมาณหนึ่งครั้งทุกๆชั่วโมง มีการสแกนแบบเต็มรูปแบบทุกสัปดาห์"
 
 msgid "Why can't I take a name on a new account?"
-msgstr ""
+msgstr "เหตุใดฉันจึงไม่สามารถใช้ชื่อในบัญชีใหม่ได้"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr ""
+msgstr "หากมีการตั้งชื่อตามบัญชีแล้วคุณจะได้รับชื่อผ่านทางชื่อเท่านั้น ชื่อเหล่านี้แสดงด้วยพื้นหลังสีเขียว หากชื่อไม่ได้ถ่ายโดยผู้ใช้ปัจจุบันคุณสามารถนำไปใช้ในบัญชีใหม่ได้ ชื่อเหล่านี้แสดงด้วยพื้นหลังสีน้ำเงิน"
 
 msgid "What if the account is banned?"
-msgstr ""
+msgstr "จะทำอย่างไรถ้าบัญชีถูกแบน?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
-msgstr ""
+msgstr "หากบัญชีถูกแบนอาจมีการแสดงว่าเป็นอิสระโดยมีพื้นหลังเป็นสีเขียวอย่างไรก็ตามจะยังคงใช้งานไม่ได้จนกว่าจะมีการเปลี่ยนแปลงนโยบายในบัญชีที่ถูกสั่งห้าม"
 
 msgid "How can I get a 2 letter name?"
-msgstr ""
+msgstr "ฉันจะได้รับชื่อตัวอักษร 2 ตัวได้อย่างไร?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "อักขระต่ำสุดสำหรับชื่อ League of Legends คือ 3 คุณสามารถใส่ช่องว่างระหว่างอักขระเพื่อแก้ไขปัญหานี้ได้"
 
 msgid "What timezone is used?"
-msgstr ""
+msgstr "มีการใช้เขตเวลาอย่างไร"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
+msgstr "เขตเวลาทั้งหมดเป็น UTC ใช้ <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">ตัวแปลงเขตเวลา</a> เพื่อปรับให้เป็นเวลาท้องถิ่นของคุณ"
 
 msgid "When exactly will the name become available?"
-msgstr ""
+msgstr "เมื่อชื่อจะพร้อมใช้งาน?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "โดยปกติชื่อจะถูกทำความสะอาดเวลาเที่ยงคืน UTC อย่างไรก็ตามในบางกรณีฉันพบว่าต้องใช้เวลา 48 ชั่วโมง ตรวจสอบทุกๆสองสามชั่วโมงในวันที่ระบุไว้"
 
 msgid "Can you remove a name from a list for me?"
-msgstr ""
+msgstr "คุณสามารถลบชื่อออกจากรายการได้หรือไม่?"
 
 msgid "No. All the names are automatically scanned."
-msgstr ""
+msgstr "ไม่ชื่อทั้งหมดจะถูกสแกนโดยอัตโนมัติ"
 
 msgid "Where should I report an incorrect translation?"
-msgstr ""
+msgstr "ฉันควรรายงานการแปลที่ไม่ถูกต้องที่ใด"
 
 msgid "Contact me here."
-msgstr ""
+msgstr "ติดต่อฉันที่นี่"
 
 msgid "Where should I report a bug?"
-msgstr ""
+msgstr "ฉันควรรายงานข้อบกพร่องที่ไหน"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "ทำไมไม่มีชื่อแชมป์ของ Xayah และ Rakan มาก่อน?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "Riot ได้กล่าวว่าพวกเขาจะไม่สงวนชื่อของตัวแทนใหม่"
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "อย่างไรก็ตามพวกเขาไม่อนุญาตบัญชีของชื่อเดิมดังนั้นพวกเขาจะไม่มีวันหมดอายุ"
 
 msgid "Disclaimer"
-msgstr ""
+msgstr "คำปฏิเสธ"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อ lol"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อ League of Legends"
 
 msgid "league name generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อลีก"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อ lol"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "ลีกของ Legends ชื่อเครื่องกำเนิดไฟฟ้า"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อผู้เรียก"
 
 msgid "league names generator"
-msgstr ""
+msgstr "ลีกชื่อเครื่องกำเนิดไฟฟ้า"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อผู้ใช้ lol"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "lol เครื่องกำเนิดไฟฟ้าชื่อ"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าไม่เป็นไร lol"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อผู้ใช้ League of Legends"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าแท็กคลับ lol"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อว่า Summoner"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อเล่นฮ่า ๆ"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "ชื่อเครื่องกำเนิดไฟฟ้า lol"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อผู้เรียกของ League of Legends"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อเล่นฮ่า ๆ"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "lol lol เครื่องกำเนิดไฟฟ้า"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้า nick lol"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "ตัวละครพิเศษ League of Legends"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr ""
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr ""
+msgstr "ลีกที่ดีที่สุดของตำนานกำเนิด! ใช้เพื่อเพิ่มอักขระพิเศษให้กับชื่อใด ๆ และการแสดงที่พร้อมใช้งาน"
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "เครื่องกำเนิดไฟฟ้าชื่อ LoL"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr ""
+msgstr "เครื่องกำเนิดชื่อผู้เรียกชื่อลีกของ Legends ที่ดีที่สุด เครื่องกำเนิดไฟฟ้าจะเพิ่มตัวอักษรพิเศษลงในชื่อ League of Legends และตรวจสอบเพื่อดูว่ามีอิสระหรือไม่"
 
 msgid "Go"
-msgstr ""
+msgstr "ไป"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "ข้อผิดพลาด:"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr ""
+msgstr "การทำเช่นนี้จะเป็นการเพิ่มอักขระพิเศษให้กับชื่อและตรวจสอบเพื่อดูว่าสามารถใช้งานได้หรือไม่"
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr ""
+msgstr "รายการอักขระพิเศษทั้งตัวพิมพ์ใหญ่และตัวพิมพ์เล็กที่อนุญาตในชื่อผู้เรียกของ League of Legends และดูคล้ายตัวอักษรภาษาอังกฤษ"
 
 msgid "Lower case:"
-msgstr ""
+msgstr "ตัวพิมพ์เล็ก:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "กรณีใหญ่:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "สัญลักษณ์:"
 
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Finder ID บัญชี"
 
 msgid "lol id"
-msgstr ""
+msgstr "ฮ่า ๆ id"
 
 msgid "summoner id"
-msgstr ""
+msgstr "รหัสผู้เรียก"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "ค้นหาบัญชีฮ่า ๆ"
 
 msgid "account finder"
-msgstr ""
+msgstr "โปรแกรมค้นหาบัญชี"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "ฮ่า ๆ Id Finder"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "ฮ่า ๆ id ผู้เรียก"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "รหัสบัญชี League of Legends"
 
 msgid "lol account id"
-msgstr ""
+msgstr "รหัสบัญชี lol"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "ฮ่า ๆ ฮ่า ๆ ฮ่า ๆ"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "การค้นหา id ของ League of Legends"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "รหัสผู้เรียก Legion of Legends"
 
 msgid "lol id search"
-msgstr ""
+msgstr "ค้นหา id lol"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "การค้นหาบัญชี League of Legends"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "League of Legends id"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "ลีกเนอร์ของ Legends"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr ""
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr ""
+msgstr "ค้นหารหัสบัญชีและรหัสผู้เรียกร้องเรียก"
 
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "โปรแกรมค้นหารหัสบัญชี LoL"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr ""
+msgstr "ป้อนชื่อผู้เรียกและค้นหารหัสบัญชีของตน หากเปลี่ยนชื่อรหัสบัญชีจะยังคงเหมือนเดิม"
 
 msgid "Search"
-msgstr ""
+msgstr "ค้นหา"
 
 msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "เกมสุดท้าย"
 
 msgid "Last active"
-msgstr ""
+msgstr "ใช้งานล่าสุด"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "คลิกและบุ๊กมาร์กเพื่อติดตาม"
 
 msgid "Summoner ID"
-msgstr ""
+msgstr "ID ผู้เรียกร้อง"
 
 msgid "Level"
-msgstr ""
+msgstr "ชั้น"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr ""
@@ -430,160 +430,160 @@ msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr ""
 
 msgid "Search for a summoner name using an account ID."
-msgstr ""
+msgstr "ค้นหาชื่อผู้เรียกใช้โดยใช้รหัสบัญชี"
 
 msgid "LoL Name by Account ID"
-msgstr ""
+msgstr "ชื่อ LoL ตามรหัสบัญชี"
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr ""
+msgstr "ค้นหาชื่อผู้ใช้โดยใช้รหัสบัญชี ป้อนรหัสบัญชีของผู้เรียกร้องและค้นหาชื่อผู้ใช้"
 
 msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "ชื่อปัจจุบัน"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "ชื่อก่อนหน้า"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "เร็ว ๆ นี้!"
 
 msgid "Current level"
-msgstr ""
+msgstr "ระดับปัจจุบัน"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "ระดับสูงสุดใน League of Legends"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "ฮ่า ๆ ระดับสูงสุด"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "ลีกระดับตำนานสูงสุด"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "ระดับสูงสุดใน lol"
 
 msgid "highest league level"
-msgstr ""
+msgstr "ระดับลีกสูงสุด"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "ระดับสูงสุดของ League of Legends"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "ผู้เล่นระดับสูงที่สุดในลีก"
 
 msgid "top level lol"
-msgstr ""
+msgstr "ฮ่า ๆ ระดับบนสุด"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "ผู้เล่นฮ่า ๆ ระดับสูงสุด"
 
 msgid "lol level"
-msgstr ""
+msgstr "ระดับ lol"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "League of Legends ผู้เล่นระดับสูงสุด"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "ซึ่งเป็นระดับสูงสุดใน League of Legends"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "อะไรคือระดับสูงสุดใน League of Legends"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "ระดับสูงสุดใน League of Legends ในขณะนี้"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "ลีดเดอร์บอร์ดระดับผู้นำระดับสูง"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
 
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "ระดับผู้เรียกร้องยอดนิยมใน League of Legends!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr ""
+msgstr "ติดตามผู้ที่มีระดับผู้เรียกร้องสูงสุดใน League of Legends คะแนนสูงสามารถแสดงผลได้ทั่วโลกหรือจัดเรียงตามภูมิภาค ดูลีดเดอร์บอร์ดระดับผู้นำระดับสูง"
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "ลีดเดอร์บอร์ดนี้อัปเดตอย่างน้อยวันละครั้ง บุ๊คมาร์คหน้านี้และตรวจสอบย้อนหลังในภายหลังสำหรับการปรับปรุงใหม่"
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "ชื่อผู้เรียกร้อง"
 
 msgid "Region"
-msgstr ""
+msgstr "ภูมิภาค"
 
 msgid "Current Level"
-msgstr ""
+msgstr "ระดับปัจจุบัน"
 
 msgid "Check now"
-msgstr ""
+msgstr "ตรวจสอบเลย"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "รายชื่อ บริษัท League of Legends"
 
 msgid "names for lol"
-msgstr ""
+msgstr "ชื่อสำหรับ lol"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "ชื่อเล่นฮ่า ๆ"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "ชื่อของ League of Legends"
 
 msgid "best lol names"
-msgstr ""
+msgstr "ดีที่สุดชื่อฮ่า ๆ"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "ชื่อเล่น League of Legends"
 
 msgid "lol names list"
-msgstr ""
+msgstr "รายชื่อฮ่า ๆ"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "ชื่อที่ดีที่สุดใน lol"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "ชื่อ League of Legends มีให้บริการ"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "ชื่อ League of Legends เย็น"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "ชื่อ lol เย็น"
 
 msgid "lol name list"
-msgstr ""
+msgstr "รายชื่อ lol"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "ชื่อเล่นสำหรับ lol"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "ชื่อที่ดีที่สุดสำหรับ lol"
 
 msgid "name for lol"
-msgstr ""
+msgstr "ชื่อสำหรับ lol"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "ชื่อเล่นของ League of Legends"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "รายชื่อที่ดีที่สุด lol"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "ชื่อที่ดีที่สุดสำหรับ League of Legends"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "ชื่อที่ไม่ใช้งาน lol"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr ""
@@ -592,13 +592,13 @@ msgid "The best League of Legends names. Inactive name checker, generated lists 
 msgstr "ชื่อ League of Legends ที่ดีที่สุด ตัวตรวจสอบชื่อที่ไม่ใช้งานสร้างรายการและการค้นหายอดนิยม"
 
 msgid "LoL Name Checker"
-msgstr ""
+msgstr "ตัวตรวจสอบชื่อ LoL"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr ""
+msgstr "การค้นหาชื่อผู้ใช้ที่ดีนั้นเป็นเรื่องยากเราทำให้มันง่าย! LoL Names GG ให้ตัวตรวจสอบชื่อ League of Legends ซึ่งเป็นฐานข้อมูลของชื่อที่สร้างขึ้นแล้วและรายชื่อที่จะมาจากการค้นหาก่อนหน้านี้ LoL ชื่อ GG เป็นสถานที่ที่สมบูรณ์แบบเพื่อให้ได้ชื่อผู้เรียกชื่อ League of Legends ที่ดีที่สุด ตัวอย่างเช่นดูรายการชื่อสามตัวอักษรหรือพิมพ์ชื่อฝันในตำนานของคุณและเราจะแจ้งให้คุณทราบเมื่อมี!"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr ""
+msgstr "ใช้เว็บไซต์นี้เพื่อดูว่าชื่อผู้เรียกชื่อจะหมดอายุลง"
 
 msgid "%(name)s is available!"
 msgstr ""
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "วันที่ล้างข้อมูลเดิมคือ"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,281 +616,281 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "วันที่ล้างข้อมูล (หากไม่ใช้งาน)"
 
 msgid "Current level:"
-msgstr ""
+msgstr "ระดับปัจจุบัน:"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "อ่านคำถามที่พบบ่อย"
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "เพิ่มในปฏิทิน"
 
 msgid "%(name)s is probably available!"
 msgstr ""
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr ""
+msgstr "หากไม่สามารถใช้ชื่อนี้เดี๋ยวนี้บัญชีนี้จะถูกแบนเกือบทั้งหมดและชื่อจะไม่มีวันหมดอายุ"
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "เพิ่มตัวอักษรพิเศษ"
 
 msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "ชื่อนี้ไม่ใช้ในปัจจุบัน"
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "มีให้สำหรับบัญชีใหม่"
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "ลีกของรายการชื่อตำนาน"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "ชื่อลีกของตำนาน"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "ลีกของชื่อเล่นของตำนาน"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "ลีกของชื่อตำนานที่มีอยู่"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "ลีกเย็นชื่อตำนาน"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "ชื่อเล่นสำหรับลีกของตำนาน"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "ชื่อที่ดีที่สุดสำหรับลีกของตำนาน"
 
 msgid "Lists of all the best summoner names!"
-msgstr ""
+msgstr "รายชื่อของชื่อผู้เรียกที่ดีที่สุดทั้งหมด!"
 
 msgid "Select a list and region"
-msgstr ""
+msgstr "เลือกรายการและภูมิภาค"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr ""
+msgstr "อัปเดตรายชื่อ curated ของชื่อผู้เรียกชื่อ League of Legend ที่ดีที่สุดในปัจจุบัน ค้นหารายการที่มีชื่อเรียกทั้งหมดที่ดีที่สุด"
 
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "ชื่อ"
 
 msgid "Type"
-msgstr ""
+msgstr "ชนิด"
 
 msgid "Availability (days)"
-msgstr ""
+msgstr "ความพร้อมใช้งาน (วัน)"
 
 msgid "Recheck"
-msgstr ""
+msgstr "ตรวจสอบอีกครั้ง"
 
 msgid "Name change only"
-msgstr ""
+msgstr "เปลี่ยนชื่อเท่านั้น"
 
 msgid "Click to update"
-msgstr ""
+msgstr "คลิกเพื่ออัปเดต"
 
 msgid "New accounts or name change"
-msgstr ""
+msgstr "บัญชีใหม่หรือการเปลี่ยนชื่อ"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "ค้นหาแบบจับคู่แบบแอ็กทีฟ"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "ค้นหาการจับคู่ lol"
 
 msgid "active match lol"
-msgstr ""
+msgstr "lol ที่ใช้งานอยู่"
 
 msgid "lol active match"
-msgstr ""
+msgstr "ฮ่า ๆ จับคู่ที่ใช้งานอยู่"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "ค้นหา lol"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "ค้นหาการจับคู่ปัจจุบัน lol"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "การค้นหาเกม lol"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "ดูรายละเอียดการแข่งขัน League of Legends ปัจจุบัน"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "ดูรายละเอียดการจับคู่ League of Legends ในปัจจุบันรวมถึงอันดับของฝ่ายตรงข้ามชนะอัตราส่วนและระดับ"
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr ""
+msgstr "ใช้หน้านี้เพื่อค้นหารายละเอียดการจับคู่ที่ใช้งานอยู่สำหรับผู้เรียกใช้งานปัจจุบันในเกม"
 
 msgid "Summoner"
-msgstr ""
+msgstr "ซัม"
 
 msgid "Champion"
-msgstr ""
+msgstr "แชมป์"
 
 msgid "Spells"
-msgstr ""
+msgstr "คาถา"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "อันดับเดี่ยว"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "Winratio / รวม"
 
 msgid "Runes"
-msgstr ""
+msgstr "อักษรรูน"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "Pick&#39;em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "pick&#39;ems ที่สมบูรณ์แบบ"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "ดูผู้เล่นคนเดียวที่ยังคงมีโอกาสที่ pick&#39;ems ที่สมบูรณ์แบบบวกกับ pickems ที่สมบูรณ์แบบที่สุด 647 จากเวทีกลุ่มของ League of Legends World Championship 2018"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Pick&#39;em Link"
 
 msgid "Total"
-msgstr ""
+msgstr "ทั้งหมด"
 
 msgid "Group"
-msgstr ""
+msgstr "กลุ่ม"
 
 msgid "Knockout"
-msgstr ""
+msgstr "น็อกคู่ต่อสู้"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "ผู้ชนะที่คาดการณ์ไว้"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "สถิติไอคอนผู้เรียกสังเกตุ"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "ไอคอน summoner lol"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "ไอคอนผู้เรียกของ League of Legends"
 
 msgid "lol icon"
-msgstr ""
+msgstr "ไอคอน lol"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "ไอคอน summoner"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "ไอคอน summoner"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "การใช้ไอคอน lol"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "ไอคอน League of Legends ที่ได้รับความนิยมมากที่สุด"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "ดูไอคอน Summoner ทั้งหมดที่ใช้มากที่สุดและน้อยที่สุดใน League of Legends"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "ตารางนี้แสดงไอคอนเรียกใช้ที่หายากและใช้มากที่สุดใน League of Legends สำหรับโปรแกรมแก้ไขปัจจุบันทั่วทุกภูมิภาค"
 
 msgid "Icon"
-msgstr ""
+msgstr "ไอคอน"
 
 msgid "Number"
-msgstr ""
+msgstr "จำนวน"
 
 msgid "Usage"
-msgstr ""
+msgstr "การใช้"
 
 msgid "Summoner Level Statistics"
-msgstr ""
+msgstr "สถิติระดับผู้เรียกร้อง"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "สถิติ summoner"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "lol summoner statistics"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "สถิติ lol"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "ระดับผู้เรียกร้อง lol"
 
 msgid "level in lol"
-msgstr ""
+msgstr "ระดับใน lol"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "summoner statistics ฮ่า ๆ"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "สถิติ lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "ดูสถิติระดับผู้เรียกร้อง League of Legends ทั้งหมด"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "กราฟนี้เปรียบเทียบตัวสังเคราะห์ทั้งหมดระหว่างระดับ 100 และ 125 ทั่วทุกภูมิภาค"
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "การกระจายระดับผู้เรียกประชุมตามภูมิภาค"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "จำนวนผู้ที่เรียกร้อง"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "ประวัติการเปลี่ยนชื่อ lol"
 
 msgid "league name change history"
-msgstr ""
+msgstr "ประวัติการเปลี่ยนชื่อลีก"
 
 msgid "lol name history"
-msgstr ""
+msgstr "ประวัติชื่อ lol"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "League of Legends ชื่อเดิม"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "ประวัติการเปลี่ยนแปลงชื่อเรื่อง League of Legends"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "lol ชื่อก่อนหน้านี้"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "ประวัติความเป็นมาของ League of Legends"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "การเปลี่ยนชื่อ League of Legends"
 
 msgid "league name history"
-msgstr ""
+msgstr "ประวัติศาสตร์ลีก"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "ประวัติชื่อผู้เรียก"
 
 msgid "lol name change"
-msgstr ""
+msgstr "เปลี่ยนชื่อ lol"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "ติดตามชื่อ lol"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "เปลี่ยนชื่อลีก"
 
 msgid "Track League of Legends name changes!"
-msgstr ""
+msgstr "Track League of Legends เปลี่ยนชื่อ!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "ขั้นตอนที่ 1: ค้นหารหัสบัญชี"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "ขั้นตอนที่ 2: ค้นหาตามรหัสบัญชีและบุ๊กมาร์กที่จะติดตาม"
 

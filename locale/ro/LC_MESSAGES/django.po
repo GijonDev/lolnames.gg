@@ -88,7 +88,7 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "Nu exsita nici un jucator cu numele \"%(name)s\" pe regiunea %(region)s "
 
 msgid "Perfect Pickems"
-msgstr ""
+msgstr "Perfect Pickems"
 
 msgid "LoL Names"
 msgstr "LoL Nume"
@@ -130,46 +130,46 @@ msgid "Languages"
 msgstr "Limbi"
 
 msgid "lol name checker"
-msgstr ""
+msgstr "lol nume de verificare"
 
 msgid "league name checker"
-msgstr ""
+msgstr "controlul numelui ligii"
 
 msgid "lol names"
-msgstr ""
+msgstr "au spus nume"
 
 msgid "lolnamechecker"
-msgstr ""
+msgstr "lolnamechecker"
 
 msgid "League of Legends name checker"
-msgstr ""
+msgstr "Liga Legendelor verifică numele"
 
 msgid "lol name check"
-msgstr ""
+msgstr "lol nume de verificare"
 
 msgid "league names"
-msgstr ""
+msgstr "liga nume"
 
 msgid "name checker lol"
-msgstr ""
+msgstr "nume verificator lol"
 
 msgid "League of Legends names"
-msgstr ""
+msgstr "Liga numelor Legendelor"
 
 msgid "summoner name checker"
-msgstr ""
+msgstr "verificatorul numelui summoner"
 
 msgid "league name availability"
-msgstr ""
+msgstr "disponibilitatea listei de nume"
 
 msgid "lol name availability"
-msgstr ""
+msgstr "Disponibilitatea numelui lol"
 
 msgid "lol nick"
-msgstr ""
+msgstr "lol pauză"
 
 msgid "available league names"
-msgstr ""
+msgstr "nume disponibile în liga"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Intrebari intrebate des despre numele de utilizator"
@@ -208,7 +208,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "Cum pot obtine un nume cu doar doua caractere"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr ""
+msgstr "Caracterele minime pentru numele League of Legends sunt 3. Puteți pune un spațiu între personaje pentru a repara acest lucru."
 
 msgid "What timezone is used?"
 msgstr "Care este fusul orar?"
@@ -250,64 +250,64 @@ msgid "Disclaimer"
 msgstr "Act de renuntare"
 
 msgid "lol name generator"
-msgstr ""
+msgstr "lol generatorul de nume"
 
 msgid "League of Legends name generator"
-msgstr ""
+msgstr "Liga Legendelor generatorului de nume"
 
 msgid "league name generator"
-msgstr ""
+msgstr "numele listei de generatoare"
 
 msgid "lol names generator"
-msgstr ""
+msgstr "lol generatoare de nume"
 
 msgid "League of Legends names generator"
-msgstr ""
+msgstr "Liga Legendelor generează numele"
 
 msgid "summoner name generator"
-msgstr ""
+msgstr "generatorul de nume summoner"
 
 msgid "league names generator"
-msgstr ""
+msgstr "liga generator de nume"
 
 msgid "lol username generator"
-msgstr ""
+msgstr "lol generator de nume de utilizator"
 
 msgid "name generator lol"
-msgstr ""
+msgstr "nume generator lol"
 
 msgid "lol ign generator"
-msgstr ""
+msgstr "lol generator generator"
 
 msgid "League of Legends username generator"
-msgstr ""
+msgstr "League of Legends generatorul de nume de utilizator"
 
 msgid "lol club tag generator"
-msgstr ""
+msgstr "lol generator de etichete club"
 
 msgid "lol summoner name generator"
-msgstr ""
+msgstr "lol generator nume summoner"
 
 msgid "lol nickname generator"
-msgstr ""
+msgstr "lol generator de porecle"
 
 msgid "lol generator name"
-msgstr ""
+msgstr "lol numele generatorului"
 
 msgid "League of Legends summoner name generator"
-msgstr ""
+msgstr "Liga Legendelor generatorului de nume summoner"
 
 msgid "lol nicknames generator"
-msgstr ""
+msgstr "lol generatoare de pseudonime"
 
 msgid "ign generator lol"
-msgstr ""
+msgstr "ign generator lol"
 
 msgid "lol nick generator"
-msgstr ""
+msgstr "lol generator de nick"
 
 msgid "League of Legends special characters"
-msgstr ""
+msgstr "Liga legendelor personaje speciale"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "Adauga caractere speciale '%(name)s' si vezi care sunt disponible"
@@ -334,61 +334,61 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "O lista cu toate caracterele speciala mari si mici care sunt utilizabile in numele de summoner si arata ca litere "
 
 msgid "Lower case:"
-msgstr ""
+msgstr "Cutie inferioară:"
 
 msgid "Upper case:"
-msgstr ""
+msgstr "Majuscule:"
 
 msgid "Symbols:"
-msgstr ""
+msgstr "simboluri:"
 
 msgid "Account ID Finder"
 msgstr "Cautare nume de cont"
 
 msgid "lol id"
-msgstr ""
+msgstr "lol id"
 
 msgid "summoner id"
-msgstr ""
+msgstr "numarul id"
 
 msgid "lol account finder"
-msgstr ""
+msgstr "căutător de cont pe lol"
 
 msgid "account finder"
-msgstr ""
+msgstr "identificatorul contului"
 
 msgid "lol id finder"
-msgstr ""
+msgstr "căutător id id"
 
 msgid "lol summoner id"
-msgstr ""
+msgstr "lol Summoner id"
 
 msgid "League of Legends account id"
-msgstr ""
+msgstr "ID-ul contului Legii"
 
 msgid "lol account id"
-msgstr ""
+msgstr "id id cont"
 
 msgid "summoner id lol"
-msgstr ""
+msgstr "summoner id lol"
 
 msgid "League of Legends id search"
-msgstr ""
+msgstr "Liga Legendelor căuta id"
 
 msgid "League of Legends summoner id"
-msgstr ""
+msgstr "Liga Legendelor summoner id"
 
 msgid "lol id search"
-msgstr ""
+msgstr "lol id căutare"
 
 msgid "League of Legends account lookup"
-msgstr ""
+msgstr "League of Legends căutare cont"
 
 msgid "League of Legends id"
-msgstr ""
+msgstr "Liga Legendelor id"
 
 msgid "summoner id League of Legends"
-msgstr ""
+msgstr "summoner id Liga Legendelor"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr "Cauta %(name)s's Numele de cont si Numele de summoner"
@@ -409,13 +409,13 @@ msgid "%(display_name)s was found!"
 msgstr ""
 
 msgid "Last game"
-msgstr ""
+msgstr "Ultimul joc"
 
 msgid "Last active"
-msgstr ""
+msgstr "Ultima data activ"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "Faceți clic și marcaj pentru a urmări"
 
 msgid "Summoner ID"
 msgstr "Summoner"
@@ -442,64 +442,64 @@ msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr ""
+msgstr "Nume curent"
 
 msgid "Previous Names"
-msgstr ""
+msgstr "Numele precedent"
 
 msgid "Coming soon!"
-msgstr ""
+msgstr "In curand!"
 
 msgid "Current level"
-msgstr ""
+msgstr "Nivelul actual"
 
 msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr ""
+msgstr "cel mai înalt nivel din Liga Legendelor"
 
 msgid "lol highest level"
-msgstr ""
+msgstr "lol cel mai înalt nivel"
 
 msgid "highest League of Legends level"
-msgstr ""
+msgstr "cea mai înaltă liga a nivelurilor Legends"
 
 msgid "highest level in lol"
-msgstr ""
+msgstr "cel mai înalt nivel în lol"
 
 msgid "highest league level"
-msgstr ""
+msgstr "cel mai înalt nivel al liga"
 
 msgid "highest level on League of Legends"
-msgstr ""
+msgstr "cel mai înalt nivel din Liga Legendelor"
 
 msgid "highest level league player"
-msgstr ""
+msgstr "cel mai înalt jucător liga"
 
 msgid "top level lol"
-msgstr ""
+msgstr "lol nivel superior"
 
 msgid "highest level lol player"
-msgstr ""
+msgstr "cel mai bun jucator de nivel lol"
 
 msgid "lol level"
-msgstr ""
+msgstr "lol nivel"
 
 msgid "League of Legends highest level player"
-msgstr ""
+msgstr "League of Legends jucător de nivel înalt"
 
 msgid "who is the highest level in League of Legends"
-msgstr ""
+msgstr "care este cel mai înalt nivel din Liga Legendelor"
 
 msgid "what is the highest level in League of Legends"
-msgstr ""
+msgstr "care este cel mai înalt nivel din Liga Legendelor"
 
 msgid "highest level in League of Legends right now"
-msgstr ""
+msgstr "cel mai înalt nivel din Liga Legendelor chiar acum"
 
 msgid "summoner level leaderboard"
-msgstr ""
+msgstr "summoner la nivel de clasă"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr "Vezi topul %(number)s cu cele mai mari nivele din lume "
@@ -511,7 +511,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Urmareste cine are cel mai mare level in League of Legends.Acesta poate fi sortat pe reguine sau toata planeta. "
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr ""
+msgstr "Acest tabel se actualizează cel puțin o dată pe zi. Marcați această pagină și verificați-o mai târziu pentru noile actualizări."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
@@ -523,67 +523,67 @@ msgid "Region"
 msgstr "Regiunea"
 
 msgid "Current Level"
-msgstr ""
+msgstr "Nivelul actual"
 
 msgid "Check now"
-msgstr ""
+msgstr "Verifica acum"
 
 msgid "League of Legends names list"
-msgstr ""
+msgstr "Liga Legendelor lista de nume"
 
 msgid "names for lol"
-msgstr ""
+msgstr "nume pentru lol"
 
 msgid "lol nicknames"
-msgstr ""
+msgstr "lol porecle"
 
 msgid "names for League of Legends"
-msgstr ""
+msgstr "nume pentru Liga Legendelor"
 
 msgid "best lol names"
-msgstr ""
+msgstr "cele mai bune nume de lol"
 
 msgid "League of Legends nicknames"
-msgstr ""
+msgstr "Liga legendelor porecle"
 
 msgid "lol names list"
-msgstr ""
+msgstr "lol lista de nume"
 
 msgid "best name in lol"
-msgstr ""
+msgstr "cel mai bun nume din lol"
 
 msgid "League of Legends names available"
-msgstr ""
+msgstr "Liga legendelor disponibile"
 
 msgid "cool League of Legends names"
-msgstr ""
+msgstr "nume interesante despre Liga Legendelor"
 
 msgid "cool lol names"
-msgstr ""
+msgstr "misto nume de lol"
 
 msgid "lol name list"
-msgstr ""
+msgstr "lol lista de nume"
 
 msgid "nicknames for lol"
-msgstr ""
+msgstr "porecle pentru lol"
 
 msgid "best names for lol"
-msgstr ""
+msgstr "cele mai bune nume pentru lol"
 
 msgid "name for lol"
-msgstr ""
+msgstr "nume pentru lol"
 
 msgid "nicknames for League of Legends"
-msgstr ""
+msgstr "porecle pentru Liga Legendelor"
 
 msgid "best lol names list"
-msgstr ""
+msgstr "lista cu cele mai bune loluri"
 
 msgid "best names for League of Legends"
-msgstr ""
+msgstr "cele mai bune nume pentru League of Legends"
 
 msgid "lol inactive names"
-msgstr ""
+msgstr "lol nume inactive"
 
 msgid "See when the summoner name %(name)s is available!"
 msgstr "Vezi cand numele de summoner %(name)s va deveni utilizabil!"
@@ -607,7 +607,7 @@ msgid "It took %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date was"
-msgstr ""
+msgstr "Data curățeniei a fost"
 
 msgid "%(name)s is available in %(days)s days."
 msgstr ""
@@ -616,13 +616,13 @@ msgid "It takes %(months)s months for cleanup"
 msgstr ""
 
 msgid "Cleanup date (if inactive)"
-msgstr ""
+msgstr "Data de curățare (dacă nu este activă)"
 
 msgid "Current level:"
-msgstr ""
+msgstr "Nivelul actual:"
 
 msgid "Read FAQs"
-msgstr ""
+msgstr "Citiți întrebările frecvente"
 
 msgid "Add to Calendar"
 msgstr "Adauga la calendar"
@@ -640,31 +640,31 @@ msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr ""
+msgstr "Acest nume nu este utilizat în prezent."
 
 msgid "It is available for new accounts."
-msgstr ""
+msgstr "Este disponibil pentru conturi noi."
 
 msgid "league of legends names list"
-msgstr ""
+msgstr "liga de listă de nume de legende"
 
 msgid "names for league of legends"
-msgstr ""
+msgstr "nume pentru liga de legende"
 
 msgid "league of legends nicknames"
-msgstr ""
+msgstr "liga de legende porecle"
 
 msgid "league of legends names available"
-msgstr ""
+msgstr "liga de nume de legende disponibile"
 
 msgid "cool league of legends names"
-msgstr ""
+msgstr "linia rece a numelor legendelor"
 
 msgid "nicknames for league of legends"
-msgstr ""
+msgstr "porecle pentru liga legendelor"
 
 msgid "best names for league of legends"
-msgstr ""
+msgstr "cele mai bune nume pentru liga de legende"
 
 msgid "Lists of all the best summoner names!"
 msgstr "Lista cu cele mai bune nume de summoners"
@@ -703,28 +703,28 @@ msgid "Active Match Lookup"
 msgstr "Cautare in timpul meciului"
 
 msgid "lol match lookup"
-msgstr ""
+msgstr "căutări de lol"
 
 msgid "active match lol"
-msgstr ""
+msgstr "meci activ lol"
 
 msgid "lol active match"
-msgstr ""
+msgstr "lol meci activ"
 
 msgid "lol lookup"
-msgstr ""
+msgstr "căutări lol"
 
 msgid "lol current match lookup"
-msgstr ""
+msgstr "Căutarea lol la curent curent"
 
 msgid "lol game lookup"
-msgstr ""
+msgstr "căutarea lol joc"
 
 msgid "see current League of Legends match details"
-msgstr ""
+msgstr "vezi detalii despre meciurile din Liga Legendelor"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr ""
+msgstr "Consultați detaliile meciului actual al Ligii Legendelor, inclusiv rangul dvs. de adversari, rata câștigului și nivelul."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Foloseste aceasta pagina pentru a cauta detaliile pentru jucatori care sunt intr-un meci activ"
@@ -748,58 +748,58 @@ msgid "Runes"
 msgstr "Rune"
 
 msgid "Pick'em"
-msgstr ""
+msgstr "pick&#39;em"
 
 msgid "perfect pick'ems"
-msgstr ""
+msgstr "perfect pick&#39;ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr ""
+msgstr "Vedeți singurul jucător care are încă o șansă la pick&#39;ems perfect plus toate cele 647 de pickere perfecte de la etapa de grup a Ligii Campionilor Mondiale Legends 2018"
 
 msgid "Pick'em Link"
-msgstr ""
+msgstr "Pick&#39;em Link"
 
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgid "Group"
-msgstr ""
+msgstr "grup"
 
 msgid "Knockout"
-msgstr ""
+msgstr "Făcut praf"
 
 msgid "Predicted Winner"
-msgstr ""
+msgstr "Câștigătorul anticipat"
 
 msgid "Summoner Icon Statistics"
 msgstr "Icoane de summoner statistici"
 
 msgid "lol summoner icons"
-msgstr ""
+msgstr "lol icoane summoner"
 
 msgid "League of Legends summoner icons"
-msgstr ""
+msgstr "League of Legends summoner icoane"
 
 msgid "lol icon"
-msgstr ""
+msgstr "lol pictogramă"
 
 msgid "summoner icons"
-msgstr ""
+msgstr "summoner icoane"
 
 msgid "summoner icon"
-msgstr ""
+msgstr "pictograma summoner"
 
 msgid "lol icon usage"
-msgstr ""
+msgstr "folosirea pictogramei lol"
 
 msgid "most popular League of Legends icons"
-msgstr ""
+msgstr "cele mai populare icoane League of Legends"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr ""
+msgstr "Vedeți toate cele mai utilizate și cele mai puțin utilizate icoane Summoner din League of Legends"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr ""
+msgstr "Acest tabel prezintă toate cele mai utilizate și cele mai râvnite icoane summoner din League of Legends pentru patch-urile actuale din toate regiunile."
 
 msgid "Icon"
 msgstr "Icoana"
@@ -814,31 +814,31 @@ msgid "Summoner Level Statistics"
 msgstr "Summoner Nivel Statistica"
 
 msgid "summoner statistics"
-msgstr ""
+msgstr "statistici summoner"
 
 msgid "lol summoner statistics"
-msgstr ""
+msgstr "lol statistici Summoner"
 
 msgid "lol statistics"
-msgstr ""
+msgstr "lol statistici"
 
 msgid "lol summoner level"
-msgstr ""
+msgstr "lol nivel summoner"
 
 msgid "level in lol"
-msgstr ""
+msgstr "nivel în lol"
 
 msgid "summoner statistics lol"
-msgstr ""
+msgstr "summoner statistici lol"
 
 msgid "statistics lol"
-msgstr ""
+msgstr "statistici lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr ""
+msgstr "Vezi toate statisticile Ligii Legendelor la nivel de summoner"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr ""
+msgstr "Acest grafic compară toți sumatorii între nivelurile 100 și 125 în toate regiunile."
 
 msgid "Summoner level distribution by region"
 msgstr "Distributia de nivele de summoner pe regiuni"
@@ -847,50 +847,50 @@ msgid "Number of Summoners"
 msgstr "Nume de Summoneri"
 
 msgid "lol name change history"
-msgstr ""
+msgstr "lol nume istorie schimbare"
 
 msgid "league name change history"
-msgstr ""
+msgstr "istoria schimbării numelui ligii"
 
 msgid "lol name history"
-msgstr ""
+msgstr "lol nume istorie"
 
 msgid "League of Legends previous names"
-msgstr ""
+msgstr "Liga Legendelor nume precedente"
 
 msgid "League of Legends name change history"
-msgstr ""
+msgstr "Liga Legendelor istoria schimbării numelui"
 
 msgid "lol previous names"
-msgstr ""
+msgstr "lol nume anterioare"
 
 msgid "League of Legends name history"
-msgstr ""
+msgstr "Liga Legendelor nume istorie"
 
 msgid "League of Legends name change"
-msgstr ""
+msgstr "Liga Legendelor schimba numele"
 
 msgid "league name history"
-msgstr ""
+msgstr "istoria numelui ligii"
 
 msgid "summoner name history"
-msgstr ""
+msgstr "istoricul numelui summoner"
 
 msgid "lol name change"
-msgstr ""
+msgstr "lol schimbarea numelui"
 
 msgid "lol name tracker"
-msgstr ""
+msgstr "lol numele tracker"
 
 msgid "league name change tracker"
-msgstr ""
+msgstr "urmărirea schimbării numelui listei"
 
 msgid "Track League of Legends name changes!"
 msgstr "Urmareste schimbarile de nume"
 
 msgid "Step 1: Lookup Account ID"
-msgstr ""
+msgstr "Pasul 1: ID-ul contului de căutare"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr ""
+msgstr "Pasul 2: căutați după ID-ul contului și marcajul pentru urmărire"
 
