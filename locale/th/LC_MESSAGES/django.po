@@ -756,14 +756,14 @@ msgstr "pick'ems ที่สมบูรณ์แบบ"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "ดูผู้เล่นคนเดียวที่ยังคงมีโอกาสที่ pick'ems ที่สมบูรณ์แบบบวกกับ pickems ที่สมบูรณ์แบบที่สุด 647 จากเวทีกลุ่มของ League of Legends World Championship 2018"
 
-msgid "<p>The last update was 12:44:39 24-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> การปรับปรุงครั้งล่าสุดคือ 12:44:39 24 ต.ค. 2018 UTC บุ๊คมาร์คหน้านี้และกลับเข้ามาใหม่ <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> สำหรับการปรับปรุงครั้งต่อไป </p>"
+msgid "<p>The last update was 21:29:12 27-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
+msgstr "<p> การปรับปรุงครั้งล่าสุดคือ 21:29:12 27 ต.ค. 2018 UTC บุ๊คมาร์คหน้านี้และกลับเข้ามาใหม่ <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> สำหรับการปรับปรุงครั้งต่อไป </p>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq (EUW)</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick'ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">main op.gg</a></p>"
-msgstr "<p> จำนวนคะแนนที่สมบูรณ์แบบที่เป็นไปได้: <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq (EUW)</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick'ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">op.gg หลัก</a> </p>"
+msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
+msgstr "<p> จำนวนคะแนนที่สมบูรณ์แบบที่เป็นไปได้ที่เหลือ: <b>0</b>"
 
-msgid "<p>Highest possible scores: <b>84</b> total, <b>64</b> group and <b>20</b> knockout. The current highest knockout score is <b>20</b>.</p>"
-msgstr "<p> คะแนนสูงสุด: <b>84</b> คะแนนรวม <b>64</b> คนและ <b>20</b> คะแนน คะแนนที่น่าพิศวงสูงสุดในปัจจุบันคือ <b>20</b> </p>"
+msgid "<p>Highest possible scores: <b>94</b> total, <b>64</b> group and <b>30</b> knockout. The current highest knockout score is <b>25</b>.</p>"
+msgstr "<p> คะแนนสูงสุด: <b>94</b> คะแนนรวม <b>64</b> และ <b>30</b> คะแนน คะแนนที่น่าพิศวงสูงสุดในปัจจุบันคือ <b>25</b> </p>"
 
 msgid "Pick'em Link"
 msgstr "Pick'em Link"

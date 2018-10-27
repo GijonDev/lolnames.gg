@@ -756,14 +756,14 @@ msgstr "完美的選擇"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "2018年英雄聯盟世界錦標賽小組賽期間，唯一一位仍然有機會獲得完美選秀權的球員加上所有647完美皮克"
 
-msgid "<p>The last update was 12:44:39 24-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p>最後一次更新是UTC時間12:44:39，即2018年10月24日。為此頁添加書籤並重新登錄<iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe>進行下一次更新。 </p>"
+msgid "<p>The last update was 21:29:12 27-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
+msgstr "<p>最後一次更新是2018年10月27日21:29:12 UTC。為此頁添加書籤並重新登錄<iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe>進行下一次更新。 </p>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq (EUW)</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick'ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">main op.gg</a></p>"
-msgstr "<p>剩餘可能的完美分數： <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq（EUW）</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick'ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">主要的op.gg</a> </p>"
+msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
+msgstr "<p>剩餘可能的完美分數： <b>0</b>"
 
-msgid "<p>Highest possible scores: <b>84</b> total, <b>64</b> group and <b>20</b> knockout. The current highest knockout score is <b>20</b>.</p>"
-msgstr "<p>最高分： <b>84</b>分， <b>64</b>組和<b>20</b>淘汰賽。目前最高的淘汰賽得分為<b>20分</b> 。 </p>"
+msgid "<p>Highest possible scores: <b>94</b> total, <b>64</b> group and <b>30</b> knockout. The current highest knockout score is <b>25</b>.</p>"
+msgstr "<p>最高分： <b>94</b>分， <b>64</b>組和<b>30</b>淘汰賽。目前最高的淘汰賽得分為<b>25分</b> 。 </p>"
 
 msgid "Pick'em Link"
 msgstr "Pick'em Link"

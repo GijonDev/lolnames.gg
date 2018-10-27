@@ -756,14 +756,14 @@ msgstr "완벽한 선택"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "전설적인 세계 선수권 대회 (League of Legends World Championship 2018)의 조별 리그에서 완벽한 pick'ems와 647 개의 완벽한 pickems가있는 유일한 플레이어를 만나보십시오"
 
-msgid "<p>The last update was 12:44:39 24-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> 마지막 업데이트는 UTC 2016 년 10 월 24 일 12시 44 분 39 초에있었습니다. 이 페이지를 북마크에 추가하고 다시 체크인하십시오. <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> 다음 업데이트를 위해. </p>"
+msgid "<p>The last update was 21:29:12 27-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
+msgstr "<p> 마지막 업데이트는 21시 29 분 12 초, 10 월 27 일 -2018 UTC입니다. 이 페이지를 북마크에 추가하고 다시 체크인하십시오. <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> 다음 업데이트를 위해. </p>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq (EUW)</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick'ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">main op.gg</a></p>"
-msgstr "<p> 가능한 남은 점수의 수 : <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq (EUW)</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">선택</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">주 op.gg</a> </p>"
+msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
+msgstr "<p> 가능한 남은 점수의 수 : <b>0</b>"
 
-msgid "<p>Highest possible scores: <b>84</b> total, <b>64</b> group and <b>20</b> knockout. The current highest knockout score is <b>20</b>.</p>"
-msgstr "<p> 가능한 최고 점수 : 총 <b>84</b> 개, 그룹 <b>64</b> 개, 녹아웃 <b>20 개</b> . 현재 가장 높은 녹아웃 점수는 <b>20</b> 입니다. </p>"
+msgid "<p>Highest possible scores: <b>94</b> total, <b>64</b> group and <b>30</b> knockout. The current highest knockout score is <b>25</b>.</p>"
+msgstr "<p> 가능한 가장 높은 점수 : 총 <b>94</b> 개, 그룹 <b>64</b> 개, 녹아웃 <b>30 개</b> . 현재 가장 높은 녹아웃 점수는 <b>25</b> 입니다. </p>"
 
 msgid "Pick'em Link"
 msgstr "Pick'em Link"

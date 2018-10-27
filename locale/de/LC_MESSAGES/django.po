@@ -756,14 +756,14 @@ msgstr "perfekte Pick'ems"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "Sehen Sie den einzigen Spieler, der noch eine Chance auf perfekte Pick'ems hat, sowie alle 647 perfekten Pickems aus der Gruppenphase der League of Legends World Championship 2018"
 
-msgid "<p>The last update was 12:44:39 24-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> Das letzte Update war 12:44:39 24-Okt-2018 UTC. Lesezeichen für diese Seite setzen und einchecken <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-27T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> für das nächste Update. </p>"
+msgid "<p>The last update was 21:29:12 27-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
+msgstr "<p> Das letzte Update war 21:29:12 27-Okt-2018 UTC. Lesezeichen für diese Seite setzen und einchecken <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> für das nächste Update. </p>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq (EUW)</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick'ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">main op.gg</a></p>"
-msgstr "<p> Anzahl der möglichen verbleibenden Punkte: <b>1</b> - <a href=\"http://euw.op.gg/summoner/userName=WanderingRictiq\" target=\"_blank\" rel=\"nofollow noopener\">WanderingRictiq (EUW)</a> | <a href=\"https://pickem.na.lolesports.com/en-US#user/5374964/my-picks/bracket\" target=\"_blank\" rel=\"nofollow noopener\">pick'ems</a> | <a href=\"http://euw.op.gg/summoner/userName=rictiq\" target=\"_blank\" rel=\"nofollow noopener\">Haupt-op.gg</a> </p>"
+msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
+msgstr "<p> Anzahl der möglichen perfekten Scores: <b>0</b>"
 
-msgid "<p>Highest possible scores: <b>84</b> total, <b>64</b> group and <b>20</b> knockout. The current highest knockout score is <b>20</b>.</p>"
-msgstr "<p> Höchstmögliche Punktzahl: <b>84</b> insgesamt, <b>64</b> Gruppen und <b>20</b> KO. Der aktuell höchste KO-Wert ist <b>20</b> . </p>"
+msgid "<p>Highest possible scores: <b>94</b> total, <b>64</b> group and <b>30</b> knockout. The current highest knockout score is <b>25</b>.</p>"
+msgstr "<p> Höchstmögliche Punktzahl: <b>94</b> insgesamt, <b>64</b> Gruppen und <b>30</b> KO. Der aktuell höchste KO-Wert ist <b>25</b> . </p>"
 
 msgid "Pick'em Link"
 msgstr "Wähle den Link"
