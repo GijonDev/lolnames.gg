@@ -12,36 +12,36 @@ Any amount of work is very appreciated. Even a line makes a difference.
 ###### Step 1
 Click the link to the text file with the translations
 
-| ISO 639-1 Code | Language Name | Translated |
+| ISO 639-1 Code | Language Name | Translated | Human Reviewed |
 | :-----: | :-----: | :-----: |
-| da | [Danish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/da/LC_MESSAGES/django.po) | ➖ 95.59% |
-| de | [German](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/de/LC_MESSAGES/django.po) | ➖ 96.27% |
-| es | [Spanish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/es/LC_MESSAGES/django.po) | ➖ 95.93% |
-| et | [Estonian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/et/LC_MESSAGES/django.po) | ➖ 94.24% |
-| fi | [Finnish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fi/LC_MESSAGES/django.po) | ➖ 93.22% |
-| fr | [French](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fr/LC_MESSAGES/django.po) | ➖ 95.93% |
-| hu | [Hungarian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/hu/LC_MESSAGES/django.po) | ➖ 96.27% |
-| id | [Indonesian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/id/LC_MESSAGES/django.po) | ➖ 93.22% |
-| it | [Italian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/it/LC_MESSAGES/django.po) | ➖ 95.59% |
-| ja | [Japanese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ja/LC_MESSAGES/django.po) | ➖ 94.92% |
-| ko | [Korean](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ko/LC_MESSAGES/django.po) | ➖ 94.92% |
-| ms | [Malay](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ms/LC_MESSAGES/django.po) | ➖ 93.22% |
-| nl | [Dutch](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nl/LC_MESSAGES/django.po) | ➖ 96.27% |
-| nn | [Norwegian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nn/LC_MESSAGES/django.po) | ➖ 93.22% |
-| pl | [Polish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pl/LC_MESSAGES/django.po) | ➖ 95.93% |
-| pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | ➖ 96.27% |
-| ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | ➖ 96.27% |
-| ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | ➖ 96.27% |
-| sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | ➖ 95.59% |
-| sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | ➖ 94.58% |
-| th | [Thai](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/th/LC_MESSAGES/django.po) | ➖ 93.22% |
-| tl | [Tagalog](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tl/LC_MESSAGES/django.po) | ❌ 0.00% |
-| tr | [Turkish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tr/LC_MESSAGES/django.po) | ➖ 96.27% |
-| uk | [Ukrainian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/uk/LC_MESSAGES/django.po) | ➖ 93.22% |
-| vi | [Vietnamese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/vi/LC_MESSAGES/django.po) | ➖ 93.22% |
-| zh_Hans | [Simplified Chinese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/zh_Hans/LC_MESSAGES/django.po) | ➖ 93.22% |
-| zh_Hant | [Traditional Chinese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/zh_Hant/LC_MESSAGES/django.po) | ➖ 93.22% |
-| | [Blank Template](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/template/LC_MESSAGES/django.po) | |
+| da | [Danish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/da/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| de | [German](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/de/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| es | [Spanish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/es/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| et | [Estonian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/et/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| fi | [Finnish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fi/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| fr | [French](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fr/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| hu | [Hungarian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/hu/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| id | [Indonesian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/id/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| it | [Italian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/it/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| ja | [Japanese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ja/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| ko | [Korean](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ko/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| ms | [Malay](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ms/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| nl | [Dutch](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nl/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| nn | [Norwegian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nn/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| pl | [Polish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pl/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| th | [Thai](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/th/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| tl | [Tagalog](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tl/LC_MESSAGES/django.po) | ❌ 0.00% | ❌ |
+| tr | [Turkish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tr/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| uk | [Ukrainian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/uk/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| vi | [Vietnamese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/vi/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| zh_Hans | [Simplified Chinese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/zh_Hans/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| zh_Hant | [Traditional Chinese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/zh_Hant/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| | [Blank Template](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/template/LC_MESSAGES/django.po) | | |
 
 ###### Step 2
 
