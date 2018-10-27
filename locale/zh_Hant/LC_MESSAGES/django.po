@@ -310,7 +310,7 @@ msgid "League of Legends special characters"
 msgstr "英雄聯盟特殊人物"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr "添加特殊字符到&#39;%(name)s&#39;，看看哪些可用！"
+msgstr "添加特殊字符到'%(name)s'，看看哪些可用！"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
 msgstr "最好的英雄聯盟名稱生成器！使用它可以為任何名稱添加特殊字符並顯示可用的名稱。"

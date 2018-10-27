@@ -427,7 +427,7 @@ msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s не використовується!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr "Подивіться, що ім&#39;я сумнера належить до облікового запису ID %(account_id)s!"
+msgstr "Подивіться, що ім'я сумнера належить до облікового запису ID %(account_id)s!"
 
 msgid "Search for a summoner name using an account ID."
 msgstr "Шукайте ім'я супровідника за допомогою ідентифікатора облікового запису."
@@ -586,7 +586,7 @@ msgid "lol inactive names"
 msgstr "LOL неактивні імена"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr "Подивіться, коли ім&#39;я супроводжуючого ім&#39;я %(name)s доступне!"
+msgstr "Подивіться, коли ім'я супроводжуючого ім'я %(name)s доступне!"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Найкраща назва Ліги Легенд. Неактивна перевірка імені, генеровані списки та популярні пошуки."

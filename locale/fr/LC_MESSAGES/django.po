@@ -424,7 +424,7 @@ msgid "Level"
 msgstr "Niveau"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr "%(summoner_name)s n&#39;est pas utilisé!"
+msgstr "%(summoner_name)s n'est pas utilisé!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "Voyez à quel nom invocateur appartient à l'identifiant %(account_id)s!"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "Niveau actuel"
 
 msgid "%(account_id)s is not owned!"
-msgstr "%(account_id)s n&#39;est pas la propriété!"
+msgstr "%(account_id)s n'est pas la propriété!"
 
 msgid "highest level in League of Legends"
 msgstr "plus haut niveau dans League of Legends"
@@ -502,7 +502,7 @@ msgid "summoner level leaderboard"
 msgstr "classement au niveau de l'invocateur"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "Voir les %(number)s premiers niveaux d&#39;invocateur au monde!"
+msgstr "Voir les %(number)s premiers niveaux d'invocateur au monde!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Les meilleurs scores d'invocateur dans League of Legends!"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "Ce classement est mis à jour au moins une fois par jour. Marquez cette page et revenez plus tard pour de nouvelles mises à jour."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr "Consultez également le <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">vérificateur de noms d&#39;invocateur</a> ou les <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listes de noms arrivant à expiration</a> ."
+msgstr "Consultez également le <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">vérificateur de noms d'invocateur</a> ou les <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listes de noms arrivant à expiration</a> ."
 
 msgid "Summoner Name"
 msgstr "Nom d'invocateur"

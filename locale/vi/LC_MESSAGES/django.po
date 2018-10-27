@@ -310,7 +310,7 @@ msgid "League of Legends special characters"
 msgstr "Các nhân vật đặc biệt của Liên Minh Huyền Thoại"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr "Thêm các ký tự đặc biệt vào &#39;%(name)s&#39; và xem các ký tự có sẵn!"
+msgstr "Thêm các ký tự đặc biệt vào '%(name)s' và xem các ký tự có sẵn!"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
 msgstr "Máy tạo tên League of Legends tốt nhất! Sử dụng nó để thêm các ký tự đặc biệt vào bất kỳ tên và chương trình nào có sẵn."

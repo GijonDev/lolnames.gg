@@ -310,7 +310,7 @@ msgid "League of Legends special characters"
 msgstr "Legends of Legends special characters"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr "Tambah aksara khas ke &#39;%(name)s&#39; dan lihat yang tersedia!"
+msgstr "Tambah aksara khas ke '%(name)s' dan lihat yang tersedia!"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
 msgstr "Penjana nama Liga Legenda yang terbaik! Gunakannya untuk menambah aksara khas kepada mana-mana nama dan pertunjukan yang tersedia."

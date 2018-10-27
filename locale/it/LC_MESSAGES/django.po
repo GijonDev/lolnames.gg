@@ -427,7 +427,7 @@ msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s non è in uso!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr "Vedi quale nome del convocatore appartiene all&#39;ID account %(account_id)s!"
+msgstr "Vedi quale nome del convocatore appartiene all'ID account %(account_id)s!"
 
 msgid "Search for a summoner name using an account ID."
 msgstr "Cerca un Nome Evocatore usando un ID Utente."
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Cerca un nome utente usando un ID utente. Inserisci un ID Utente di un evocatore per trovare il loro nome utente."
 
 msgid "Account ID %(account_id)s was found!"
-msgstr "L&#39;ID account %(account_id)s è stato trovato!"
+msgstr "L'ID account %(account_id)s è stato trovato!"
 
 msgid "Current Name"
 msgstr "Nome corrente"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "Questa classifica si aggiorna almeno una volta al giorno. Aggiungi questa pagina ai segnalibri e ricontrolla più tardi per i nuovi aggiornamenti."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr "Controlla anche il verificatore del <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">nome dell&#39;evocatore</a> o gli <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">elenchi dei nomi in scadenza in scadenza</a> ."
+msgstr "Controlla anche il verificatore del <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">nome dell'evocatore</a> o gli <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">elenchi dei nomi in scadenza in scadenza</a> ."
 
 msgid "Summoner Name"
 msgstr "Nome Evocatore"
