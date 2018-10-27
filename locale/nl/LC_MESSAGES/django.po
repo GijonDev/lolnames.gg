@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "Zoeken"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "%(display_name)s is gevonden!"
 
 msgid "Last game"
 msgstr "Laatste spel"
@@ -424,7 +424,7 @@ msgid "Level"
 msgstr "Level"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s is niet in gebruik!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "Zie welke summoner naam bij het account ID hoort %(account_id)s!"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Zoek een gebruikersnaam door een account ID te gebruiken. Voeg een summoner’s account ID toe en vind hun gebruikersnaam."
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "Account-ID %(account_id)s gevonden!"
 
 msgid "Current Name"
 msgstr "Huidige naam"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "Huidig ​​niveau"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s is geen eigendom!"
 
 msgid "highest level in League of Legends"
 msgstr "hoogste niveau in League of Legends"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "Dit scorebord wordt minstens één keer per dag bijgewerkt. Maak een bladwijzer van deze pagina en kom later terug voor nieuwe updates."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Bekijk ook de <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner-naamchecker</a> of de <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lijsten met aankomende verlopen namen</a> ."
 
 msgid "Summoner Name"
 msgstr "Summoner Naam"
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "Gebruik deze website om te vinden wanneer een summoner naam vervalt."
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "%(name)s is beschikbaar!"
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "Het duurde %(months)s maanden voor opruimen"
 
 msgid "Cleanup date was"
 msgstr "Opschoningsdatum was"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s is beschikbaar na %(days)s dagen."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "Het duurt %(months)s maanden om op te ruimen"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Opschoondatum (indien niet actief)"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "Voeg toe aan Kalender"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "%(name)s is waarschijnlijk beschikbaar!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "Als deze naam niet gekozen kan worden is het account bijna zeker verbannen en de naam zal nooit vervallen"
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "Voeg speciale tekens toe"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "%(summoner_name)s is beschikbaar!"
 
 msgid "This name currently isn't used."
 msgstr "Deze naam wordt momenteel niet gebruikt."

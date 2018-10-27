@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "Traži"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "%(display_name)s је пронађен!"
 
 msgid "Last game"
 msgstr "Последња игра"
@@ -424,10 +424,10 @@ msgid "Level"
 msgstr "Nivo"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s није у употреби!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr ""
+msgstr "Погледајте шта име примаоца припада ИД-у %(account_id)s!"
 
 msgid "Search for a summoner name using an account ID."
 msgstr "Trazi ime koristeci ID Naloga"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Trazi username koristeci ID naloga"
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "Идентификован ИД налога %(account_id)s!"
 
 msgid "Current Name"
 msgstr "Тренутни назив"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "Тренутни ниво"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s није у власништву!"
 
 msgid "highest level in League of Legends"
 msgstr "највиши ниво у Лиги легенди"
@@ -502,7 +502,7 @@ msgid "summoner level leaderboard"
 msgstr "лидербоард нивоа позајмице"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr ""
+msgstr "Погледајте најбоље %(number)s нивоа позива на свету!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Najveci Level u LoLu "
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "Овај лидербоард се ажурира најмање једном дневно. Означи ову страницу и потврдите касније за нове исправке."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Такође погледајте провјеривач <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">имена позиваоца</a> или <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">листу будућих имена која истиче</a> ."
 
 msgid "Summoner Name"
 msgstr "Ime"
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "Koristi ovaj sajt da saznaš kad će ime da bude dostpuno"
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "%(name)s је доступно!"
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "Требало је %(months)s месеца за чишћење"
 
 msgid "Cleanup date was"
 msgstr "Датум чишћења је био"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s је доступан за %(days)s дана."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "За чишћење траје %(months)s месеца"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Датум чишћења (ако је неактиван)"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "Dodaj u kalendar"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "Вероватно је %(name)s доступан!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "Ako ne možete promeniti u ovo ime nalog je verovatno banovan i ime nikad neće biti dostupno"
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "Dodaj kvačice na slova"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "%(summoner_name)s је доступан!"
 
 msgid "This name currently isn't used."
 msgstr "Ово име тренутно се не користи."

@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "Поиск"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "Был найден %(display_name)s!"
 
 msgid "Last game"
 msgstr "Последняя игра"
@@ -424,7 +424,7 @@ msgid "Level"
 msgstr "Уровень"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s не используется!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "Посмотрите, какое имя призывателя принадлежит идентификатору учетной записи %(account_id)s!"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Найдите имя пользователя, используя идентификатор учетной записи. Введите идентификатор учетной записи призывателя и найдите его имя пользователя."
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "Идентификатор учетной записи %(account_id)s был найден!"
 
 msgid "Current Name"
 msgstr "Текущее имя"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "Текущий уровень"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s не принадлежит!"
 
 msgid "highest level in League of Legends"
 msgstr "самый высокий уровень в Лиге Легенд"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "Эта таблица лидеров обновляется не реже одного раза в день. Закладка этой страницы и зайдите позже для новых обновлений."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Также проверьте <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">счетчик имен вызывающего абонента</a> или <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">списки предстоящих истекающих имен</a> ."
 
 msgid "Summoner Name"
 msgstr "Имя призывателя"
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "Используйте этот сайт, чтобы найти, когда имя призывателя будет свободно."
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "Доступно %(name)s!"
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "Прошло %(months)s месяца для очистки"
 
 msgid "Cleanup date was"
 msgstr "Дата очистки была"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s доступен через %(days)s дней."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "Для очистки требуется %(months)s месяца"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Дата очистки (если неактивна)"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "Добавить в календарь"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "Возможно, доступно %(name)s!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "Если это имя невозможно использовать, значит аккаунт забанен и имя никогда больше не освободится."
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "Добавить специальные символы"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "Доступен %(summoner_name)s!"
 
 msgid "This name currently isn't used."
 msgstr "Это имя в настоящее время не используется."

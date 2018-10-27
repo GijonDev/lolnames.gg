@@ -40,7 +40,7 @@ msgid "Generator"
 msgstr "Generator"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "Ingen tillgänglig för %(name)s, av %(num_variants)s varianter."
 
 msgid "Summoner name not in use"
 msgstr "Summoner namn"
@@ -82,10 +82,10 @@ msgid "Lists"
 msgstr "Listor"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "Inget aktivt spel för %(name)s"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "Ingen summoner med namn \"%(name)s\" på %(region)s."
 
 msgid "Perfect Pickems"
 msgstr "Perfekt Pickems"
@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "Sök"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "%(display_name)s hittades!"
 
 msgid "Last game"
 msgstr "Senaste spelet"
@@ -424,7 +424,7 @@ msgid "Level"
 msgstr "Level"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s är inte i bruk!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "Se vilket summoner-namn som tillhör konto-ID %(account_id)s!"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Kolla upp ett användarnamn med konto-ID. Skriv in en summoners konto-ID och hitta deras användarnamn."
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "Konto-ID %(account_id)s hittades!"
 
 msgid "Current Name"
 msgstr "Nuvarande namn"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "Nuvarande nivå"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s ägs inte!"
 
 msgid "highest level in League of Legends"
 msgstr "högsta nivå i Legends League"
@@ -502,7 +502,7 @@ msgid "summoner level leaderboard"
 msgstr "summoner nivå leaderboard"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr ""
+msgstr "Se topp %(number)s summoner nivåer i världen!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Den högsta summoner level i League of Legends!"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "Denna leaderboard uppdaterar minst en gång dagligen. Bokmärk den här sidan och kolla tillbaka senare för nya uppdateringar."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Kolla även på <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">synkroniseringsnamnkontrollen</a> eller <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listorna över kommande namn</a> ."
 
 msgid "Summoner Name"
 msgstr "Summoner namn"
@@ -586,7 +586,7 @@ msgid "lol inactive names"
 msgstr "lol inaktiva namn"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr ""
+msgstr "Se när samtalarnamnet %(name)s är tillgängligt!"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "De bästa League of Legends namnen. Inaktiv namnupkollare, genererade listor av populära sökningar."
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "Används denna sidan för att hitta när ett namn kommer utgå."
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "%(name)s är tillgängligt!"
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "Det tog %(months)s månader för rengöring"
 
 msgid "Cleanup date was"
 msgstr "Rensningsdatum var"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s är tillgänglig på %(days)s dagar."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "Det tar %(months)s månader för rengöring"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Uppdateringsdatum (om inaktivt)"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "Lägg till i kalender"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "%(name)s är förmodligen tillgänglig!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "Om namnet inte kan bli taget nu så är kontot nästintill säkert bannat och namnet kommer aldrig blig tillgängligt."
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "Lägg till speciella tecken"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "%(summoner_name)s är tillgänglig!"
 
 msgid "This name currently isn't used."
 msgstr "Detta namn används för tillfället inte."

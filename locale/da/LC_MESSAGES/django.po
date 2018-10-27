@@ -40,7 +40,7 @@ msgid "Generator"
 msgstr "Generator"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "Ingen tilgængelig for %(name)s, ud af %(num_variants)s varianter."
 
 msgid "Summoner name not in use"
 msgstr "Summoner navn ikke i brug"
@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "Søg"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "%(display_name)s blev fundet!"
 
 msgid "Last game"
 msgstr "Sidste spil"
@@ -424,7 +424,7 @@ msgid "Level"
 msgstr "Niveau"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s er ikke i brug!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "Se, hvad indkaldelses navn tilhører konto id %(account_id)s!"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Find et brugernavn ved hjælp af et kontonavn. Indtast en indkalders konto-id og find deres brugernavn."
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "Konto ID %(account_id)s blev fundet!"
 
 msgid "Current Name"
 msgstr "Nuværende navn"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "Nuværende niveau"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s er ikke ejet!"
 
 msgid "highest level in League of Legends"
 msgstr "højeste niveau i League of Legends"
@@ -502,7 +502,7 @@ msgid "summoner level leaderboard"
 msgstr "summoner niveau leaderboard"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr ""
+msgstr "Se top %(number)s summoner niveauer i verden!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Den øverste summoner niveau i League of Legends!"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "Dette leaderboard opdateres mindst en gang dagligt. Bogmærke denne side og check tilbage senere for nye opdateringer."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Tjek også <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">kolonnens navnekontroller</a> eller <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listerne over kommende udløber navne</a> ."
 
 msgid "Summoner Name"
 msgstr "Summoner navn"
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "Brug denne hjemmeside til at finde, hvornår et indkaldelsesnavn udløber."
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "%(name)s er tilgængelig!"
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "Det tog %(months)s måneder til oprydning"
 
 msgid "Cleanup date was"
 msgstr "Oprydningstidspunktet var"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s er tilgængelig om %(days)s dage."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "Det tager %(months)s måneder til oprydning"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Oprydningstidspunkt (hvis inaktiv)"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "Tilføj til kalender"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "%(name)s er nok tilgængelig!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "Hvis det her navn ikke kan blive taget er accounten højst sandsynligt blevet banned og navnet vil ikke udløbe"
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "Tilføj Specielle Tegn"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "%(summoner_name)s er tilgængelig!"
 
 msgid "This name currently isn't used."
 msgstr "Dette navn er i øjeblikket ikke brugt."

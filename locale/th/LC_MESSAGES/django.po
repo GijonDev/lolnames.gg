@@ -40,7 +40,7 @@ msgid "Generator"
 msgstr "เครื่องกำเนิดไฟฟ้า"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "ไม่มีข้อมูลสำหรับ %(name)s จากตัวแปร %(num_variants)s"
 
 msgid "Summoner name not in use"
 msgstr "ชื่อผู้เรียกไม่ได้ใช้งาน"
@@ -82,10 +82,10 @@ msgid "Lists"
 msgstr "รายการ"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "ไม่มีเกมที่ใช้งานอยู่สำหรับ %(name)s"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "ไม่มีผู้เรียกร้องที่มีชื่อ \"%(name)s\" ใน %(region)s"
 
 msgid "Perfect Pickems"
 msgstr "Pickems ที่สมบูรณ์แบบ"
@@ -310,7 +310,7 @@ msgid "League of Legends special characters"
 msgstr "ตัวละครพิเศษ League of Legends"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr ""
+msgstr "เพิ่มอักขระพิเศษใน &#39;%(name)s&#39; และดูว่ามีตัวเล่มใดบ้าง!"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
 msgstr "ลีกที่ดีที่สุดของตำนานกำเนิด! ใช้เพื่อเพิ่มอักขระพิเศษให้กับชื่อใด ๆ และการแสดงที่พร้อมใช้งาน"
@@ -391,7 +391,7 @@ msgid "summoner id League of Legends"
 msgstr "ลีกเนอร์ของ Legends"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr ""
+msgstr "ดูรหัสบัญชีและรหัสผู้เรียกร้องของ %(name)s!"
 
 msgid "Search for a summoner's Account ID and Summoner ID."
 msgstr "ค้นหารหัสบัญชีและรหัสผู้เรียกร้องเรียก"
@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "ค้นหา"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "%(display_name)s พบแล้ว!"
 
 msgid "Last game"
 msgstr "เกมสุดท้าย"
@@ -424,10 +424,10 @@ msgid "Level"
 msgstr "ชั้น"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s ไม่ได้ใช้งาน!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr ""
+msgstr "ดูชื่อผู้เรียกร้องที่เป็นของ ID บัญชี %(account_id)s!"
 
 msgid "Search for a summoner name using an account ID."
 msgstr "ค้นหาชื่อผู้เรียกใช้โดยใช้รหัสบัญชี"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "ค้นหาชื่อผู้ใช้โดยใช้รหัสบัญชี ป้อนรหัสบัญชีของผู้เรียกร้องและค้นหาชื่อผู้ใช้"
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "พบรหัสบัญชี %(account_id)s!"
 
 msgid "Current Name"
 msgstr "ชื่อปัจจุบัน"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "ระดับปัจจุบัน"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s ไม่ได้เป็นเจ้าของ!"
 
 msgid "highest level in League of Legends"
 msgstr "ระดับสูงสุดใน League of Legends"
@@ -502,7 +502,7 @@ msgid "summoner level leaderboard"
 msgstr "ลีดเดอร์บอร์ดระดับผู้นำระดับสูง"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr ""
+msgstr "ดูระดับผู้เรียกร้องยอด %(number)s ระดับโลก!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "ระดับผู้เรียกร้องยอดนิยมใน League of Legends!"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "ลีดเดอร์บอร์ดนี้อัปเดตอย่างน้อยวันละครั้ง บุ๊คมาร์คหน้านี้และตรวจสอบย้อนหลังในภายหลังสำหรับการปรับปรุงใหม่"
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "ตรวจ <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">สอบตัวตรวจสอบชื่อผู้เรียกร้อง</a> หรือ <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">รายชื่อของชื่อที่หมดอายุที่กำลังจะหมดอายุ</a>"
 
 msgid "Summoner Name"
 msgstr "ชื่อผู้เรียกร้อง"
@@ -586,7 +586,7 @@ msgid "lol inactive names"
 msgstr "ชื่อที่ไม่ใช้งาน lol"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr ""
+msgstr "ดูเวลาที่ชื่อผู้เรียกชื่อ %(name)s พร้อมให้บริการ!"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "ชื่อ League of Legends ที่ดีที่สุด ตัวตรวจสอบชื่อที่ไม่ใช้งานสร้างรายการและการค้นหายอดนิยม"
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "ใช้เว็บไซต์นี้เพื่อดูว่าชื่อผู้เรียกชื่อจะหมดอายุลง"
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "%(name)s พร้อมใช้งานแล้ว!"
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "ใช้เวลาในการล้างข้อมูล %(months)s เดือน"
 
 msgid "Cleanup date was"
 msgstr "วันที่ล้างข้อมูลเดิมคือ"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s มีให้บริการภายใน %(days)s วัน"
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "ใช้เวลาในการล้างข้อมูล %(months)s เดือน"
 
 msgid "Cleanup date (if inactive)"
 msgstr "วันที่ล้างข้อมูล (หากไม่ใช้งาน)"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "เพิ่มในปฏิทิน"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "อาจมี %(name)s!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "หากไม่สามารถใช้ชื่อนี้เดี๋ยวนี้บัญชีนี้จะถูกแบนเกือบทั้งหมดและชื่อจะไม่มีวันหมดอายุ"
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "เพิ่มตัวอักษรพิเศษ"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "%(summoner_name)s สามารถใช้ได้!"
 
 msgid "This name currently isn't used."
 msgstr "ชื่อนี้ไม่ใช้ในปัจจุบัน"
@@ -676,7 +676,7 @@ msgid "Regularly updated, curated lists of the best currently available League o
 msgstr "อัปเดตรายชื่อ curated ของชื่อผู้เรียกชื่อ League of Legend ที่ดีที่สุดในปัจจุบัน ค้นหารายการที่มีชื่อเรียกทั้งหมดที่ดีที่สุด"
 
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr ""
+msgstr "ดูรายการ %(page_title)s และเมื่อพร้อมใช้งาน!"
 
 msgid "Name"
 msgstr "ชื่อ"

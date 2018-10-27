@@ -40,7 +40,7 @@ msgid "Generator"
 msgstr "发电机"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "%(num_variants)s变种中没有%(name)s可用。"
 
 msgid "Summoner name not in use"
 msgstr "召唤者姓名未被使用"
@@ -82,10 +82,10 @@ msgid "Lists"
 msgstr "清单"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "%(name)s没有活跃的游戏"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "在%(region)s上没有名为“%(name)s”的召唤师。"
 
 msgid "Perfect Pickems"
 msgstr "完美的Pickems"
@@ -310,7 +310,7 @@ msgid "League of Legends special characters"
 msgstr "英雄联盟特殊人物"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr ""
+msgstr "添加特殊字符到&#39;%(name)s&#39;，看看哪些可用！"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
 msgstr "最好的英雄联盟名称生成器！使用它可以为任何名称添加特殊字符并显示可用的名称。"
@@ -391,7 +391,7 @@ msgid "summoner id League of Legends"
 msgstr "召唤者id英雄联盟"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr ""
+msgstr "查看%(name)s的帐户ID和召唤者ID！"
 
 msgid "Search for a summoner's Account ID and Summoner ID."
 msgstr "搜索召唤师的帐户ID和召唤者ID。"
@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "搜索"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "%(display_name)s被发现了！"
 
 msgid "Last game"
 msgstr "最后一盘游戏"
@@ -424,10 +424,10 @@ msgid "Level"
 msgstr "水平"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s未使用！"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr ""
+msgstr "查看召唤者名称属于帐户ID %(account_id)s！"
 
 msgid "Search for a summoner name using an account ID."
 msgstr "使用帐户ID搜索召唤者姓名。"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "使用帐户ID查找用户名。输入召唤者的帐户ID并找到他们的用户名。"
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "找到了帐号%(account_id)s！"
 
 msgid "Current Name"
 msgstr "当前名称"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "当前水平"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s不归属！"
 
 msgid "highest level in League of Legends"
 msgstr "英雄联盟中的最高级别"
@@ -502,7 +502,7 @@ msgid "summoner level leaderboard"
 msgstr "召唤师级别排行榜"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr ""
+msgstr "查看世界顶级%(number)s召唤师等级！"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "英雄联盟中的顶级召唤师等级！"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "此排行榜每天至少更新一次。为此页面添加书签，稍后再回来查看新的更新。"
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "还可以查看<a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">召唤者姓名检查器</a>或<a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">即将到期</a>的<a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">名单列表</a> 。"
 
 msgid "Summoner Name"
 msgstr "召唤师名称"
@@ -586,7 +586,7 @@ msgid "lol inactive names"
 msgstr "大声笑不活跃的名字"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr ""
+msgstr "查看召唤者名称%(name)s何时可用！"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "最好的英雄联盟名称。 非活动名称检查器，生成列表和热门搜索。"
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "使用此网站查找召唤者名称何时到期。"
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "%(name)s可用！"
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "清理需要%(months)s个月"
 
 msgid "Cleanup date was"
 msgstr "清理日期是"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s在%(days)s天内可用。"
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "清理需要%(months)s个月"
 
 msgid "Cleanup date (if inactive)"
 msgstr "清理日期（如果不活动）"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "添加到日历"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "%(name)s可能有售！"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "如果现在无法使用此名称，则几乎可以肯定该帐户被禁止，名称将永不过期。"
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "添加特殊字符"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "%(summoner_name)s可用！"
 
 msgid "This name currently isn't used."
 msgstr "目前未使用此名称。"
@@ -676,7 +676,7 @@ msgid "Regularly updated, curated lists of the best currently available League o
 msgstr "定期更新，精选的目前可用的联盟传奇召唤者名字列表。查找具有所有最佳召唤者名称的列表。"
 
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr ""
+msgstr "查看%(page_title)s列表以及它们何时可用！"
 
 msgid "Name"
 msgstr "名称"

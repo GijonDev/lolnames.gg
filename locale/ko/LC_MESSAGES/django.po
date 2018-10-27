@@ -40,7 +40,7 @@ msgid "Generator"
 msgstr "발전기"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "%(num_variants)s 변형 중 %(name)s에는 사용할 수 없습니다."
 
 msgid "Summoner name not in use"
 msgstr "사용하지 않는 서머너 이름"
@@ -82,10 +82,10 @@ msgid "Lists"
 msgstr "기울기"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "%(name)s에 대한 활성 게임 없음"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "%(region)s의 이름이 \"%(name)s\"인 소환사가 없습니다."
 
 msgid "Perfect Pickems"
 msgstr "완벽한 Pickems"
@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "수색"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "%(display_name)s을 (를) 찾았습니다!"
 
 msgid "Last game"
 msgstr "마지막 게임"
@@ -424,7 +424,7 @@ msgid "Level"
 msgstr "수평"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s이 (가) 사용 중이 아닙니다."
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "계정 아이디 %(account_id)s에 소속 된 이름이 무엇인지 확인하십시오!"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "계정 ID를 사용하여 사용자 이름을 찾습니다. 소환의 계정 ID를 입력하고 사용자 이름을 찾으십시오."
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "계정 ID %(account_id)s가 발견되었습니다!"
 
 msgid "Current Name"
 msgstr "현재 이름"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "현재 레벨"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s는 소유하지 않습니다!"
 
 msgid "highest level in League of Legends"
 msgstr "리그 오브 레전드에서 최고 레벨"
@@ -502,7 +502,7 @@ msgid "summoner level leaderboard"
 msgstr "소서너 레벨 리더 보드"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr ""
+msgstr "세계에서 가장 많은 %(number)s 명의 소환사 레벨을보십시오!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "레전드 오브 리그 (Legends of Legends)의 최상위 소음 레벨!"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "이 리더 보드는 매일 적어도 한 번 업데이트됩니다. 이 페이지를 북마크에 추가하고 나중에 새 업데이트가 있는지 다시 확인하십시오."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "또한 <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">소환 자 이름 검사기</a> 또는 <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">곧 만료되는 이름 목록을</a> 확인하십시오."
 
 msgid "Summoner Name"
 msgstr "소환사 이름"
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "이 웹 사이트를 사용하여 소환원 이름이 만료되는시기를 찾으십시오."
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "%(name)s을 사용할 수 있습니다."
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "정리를 위해 %(months)s 개월이 걸렸습니다."
 
 msgid "Cleanup date was"
 msgstr "이전 정리 날짜"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s은 %(days)s 일 후에 사용할 수 있습니다."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "정화를 위해 %(months)s 개월이 걸린다."
 
 msgid "Cleanup date (if inactive)"
 msgstr "정리 날짜 (비활성 상태 인 경우)"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "캘린더에 추가"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "%(name)s을 (를) 사용할 수 있습니다!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "그러나 그들은 만료되지 않도록 이전 이름의 계정을 금지했습니다."
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "특수 문자 추가"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "%(summoner_name)s을 사용할 수 있습니다."
 
 msgid "This name currently isn't used."
 msgstr "이 이름은 현재 사용되지 않습니다."

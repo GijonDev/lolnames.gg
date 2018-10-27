@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "Ara"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "%(display_name)s bulundu!"
 
 msgid "Last game"
 msgstr "Son Oyun"
@@ -424,7 +424,7 @@ msgid "Level"
 msgstr "Seviye"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s kullanımda değil!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "Hangi Sihirdar isminin hesap ID'sine (kimliğine) ait olduğunu arayın %(account_id)s!"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Bir hesap ID'sini (kimliğini) kullanarak bir kullanıcı adı arayın. Bir sihirdarın hesap ID'sini (kimliğini) girin ve kullanıcı adlarını bulun."
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "Hesap ID %(account_id)s bulundu!"
 
 msgid "Current Name"
 msgstr "Şu anki ismi"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "Mevcut seviye"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s ait değildir!"
 
 msgid "highest level in League of Legends"
 msgstr "League of Legends'taki en yüksek seviye"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "Bu afiş en az günde bir kez güncellenir. Bu sayfayı işaretleyin ve yeni güncellemeler için daha sonra tekrar kontrol edin."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Ayrıca, katılımcı <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">isim denetleyicisine</a> veya <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">yaklaşan süresi sona ermiş isimlerin listelerine</a> de göz <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">atın</a> ."
 
 msgid "Summoner Name"
 msgstr "Sihirdar Ismi"
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "Kullanıma açık sihirdar isimlerini bitmeden bulmak için bu siteyi kullanın"
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "%(name)s müsait!"
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "Temizleme için %(months)s ay sürdü"
 
 msgid "Cleanup date was"
 msgstr "Temizleme tarihi"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s %(days)s günde kullanılabilir."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "Temizleme için %(months)s ay gerekiyor"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Temizleme tarihi (etkin değilse)"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "Takvime ekle"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "%(name)s muhtemelen mevcut!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "Eğer bu isim alınamıyorsa hesap banlanmıştır ve isim hiç alınamayacaktır."
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "Özel karakter ekle"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "%(summoner_name)s müsait!"
 
 msgid "This name currently isn't used."
 msgstr "Bu ad şu anda kullanılmıyor."

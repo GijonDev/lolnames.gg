@@ -406,7 +406,7 @@ msgid "Search"
 msgstr "Procurar"
 
 msgid "%(display_name)s was found!"
-msgstr ""
+msgstr "%(display_name)s foi encontrado!"
 
 msgid "Last game"
 msgstr "Ultimo jogo"
@@ -424,7 +424,7 @@ msgid "Level"
 msgstr "Nível"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr ""
+msgstr "%(summoner_name)s não está em uso!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "Veja o nome do invocador que pertence ao ID da conta %(account_id)s!"
@@ -439,7 +439,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Procure um nome de usuário usando uma ID de conta. Insira a ID da conta de um invocador e encontre seu nome de usuário."
 
 msgid "Account ID %(account_id)s was found!"
-msgstr ""
+msgstr "ID da conta %(account_id)s foi encontrado!"
 
 msgid "Current Name"
 msgstr "Nome atual"
@@ -454,7 +454,7 @@ msgid "Current level"
 msgstr "Nível atual"
 
 msgid "%(account_id)s is not owned!"
-msgstr ""
+msgstr "%(account_id)s não é possuído!"
 
 msgid "highest level in League of Legends"
 msgstr "nível mais alto em League of Legends"
@@ -514,7 +514,7 @@ msgid "This leaderboard updates at least once daily. Bookmark this page and chec
 msgstr "Esta tabela de classificação é atualizada pelo menos uma vez por dia. Marque esta página e volte mais tarde para novas atualizações."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Confira também o verificador de <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">nomes summoner</a> ou as <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listas de nomes de expiração futuros</a> ."
 
 msgid "Summoner Name"
 msgstr "Nome de Invocador"
@@ -601,19 +601,19 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "Use este site para descobrir quando um nome invocável expirará."
 
 msgid "%(name)s is available!"
-msgstr ""
+msgstr "%(name)s está disponível!"
 
 msgid "It took %(months)s months for cleanup"
-msgstr ""
+msgstr "Demorou %(months)s meses para limpeza"
 
 msgid "Cleanup date was"
 msgstr "A data de limpeza foi"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr ""
+msgstr "%(name)s está disponível em %(days)s dias."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr ""
+msgstr "Demora %(months)s meses para limpeza"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Data de limpeza (se inativa)"
@@ -628,7 +628,7 @@ msgid "Add to Calendar"
 msgstr "Adicionar ao Calendário"
 
 msgid "%(name)s is probably available!"
-msgstr ""
+msgstr "%(name)s está provavelmente disponível!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "Se este nome não puder ser tomado agora, a conta é quase certamente banida e o nome nunca expirará."
@@ -637,7 +637,7 @@ msgid "Add Special Characters"
 msgstr "Adicione Caracteres especiais"
 
 msgid "%(summoner_name)s is available!"
-msgstr ""
+msgstr "%(summoner_name)s está disponível!"
 
 msgid "This name currently isn't used."
 msgstr "Este nome atualmente não é usado."
