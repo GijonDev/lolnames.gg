@@ -25,7 +25,7 @@ msgid "Must be two or more characters"
 msgstr "Має бути двох або більше символів"
 
 msgid "Names can't contain 'riot'"
-msgstr "Імена не можуть містити &quot;бунт&quot;"
+msgstr "Імена не можуть містити 'бунт'"
 
 msgid "This is a problem with Riot's servers"
 msgstr "Це проблема з серверами Riot"
@@ -253,7 +253,7 @@ msgid "lol name generator"
 msgstr "lol генератор імен"
 
 msgid "League of Legends name generator"
-msgstr "Генератор назв &quot;Ліга легенд&quot;"
+msgstr "Генератор назв 'Ліга легенд'"
 
 msgid "league name generator"
 msgstr "генератор назви ліги"
@@ -313,7 +313,7 @@ msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr ""
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr "Найкраща назва &quot;Ліга легенд&quot;! Використовуйте його, щоб додати спеціальні символи до будь-якого імені та шоу, які є доступними."
+msgstr "Найкраща назва 'Ліга легенд'! Використовуйте його, щоб додати спеціальні символи до будь-якого імені та шоу, які є доступними."
 
 msgid "LoL Name Generator"
 msgstr "LoL Name Generator"
@@ -331,7 +331,7 @@ msgid "This will add special characters to names and check to see if they're ava
 msgstr "Це додасть спеціальні символи до імен та перевірятиме їх наявність."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr "Список всіх спеціальних символів у верхньому і нижньому регістрі, які допускаються в назві сумичок &quot;Ліга легенд&quot;, і виглядають як англійські літери."
+msgstr "Список всіх спеціальних символів у верхньому і нижньому регістрі, які допускаються в назві сумичок 'Ліга легенд', і виглядають як англійські літери."
 
 msgid "Lower case:"
 msgstr "Нижній випадок:"
@@ -529,7 +529,7 @@ msgid "Check now"
 msgstr "Перевірь зараз"
 
 msgid "League of Legends names list"
-msgstr "Список імен &quot;Ліга легенд&quot;"
+msgstr "Список імен 'Ліга легенд'"
 
 msgid "names for lol"
 msgstr "імена для lol"
@@ -595,7 +595,7 @@ msgid "LoL Name Checker"
 msgstr "LoL Ім'я перевірки"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "Пошук хорошого імені користувача важко, ми спрощуємо його! LoL Names GG надає ім'я перевірки імені &quot;Ліга легенд&quot;, базу даних згенерованих вже доступних імен та список майбутніх імен на основі попередніх пошуків. LoL Names GG - це ідеальне місце, щоб отримати найкращу назву суворої Ліги Легенд. Наприклад, перегляньте наш список трьох букв імен або введіть у свою мрію назву Ліги легенд, і ми повідомимо вас, коли це доступно!"
+msgstr "Пошук хорошого імені користувача важко, ми спрощуємо його! LoL Names GG надає ім'я перевірки імені 'Ліга легенд', базу даних згенерованих вже доступних імен та список майбутніх імен на основі попередніх пошуків. LoL Names GG - це ідеальне місце, щоб отримати найкращу назву суворої Ліги Легенд. Наприклад, перегляньте наш список трьох букв імен або введіть у свою мрію назву Ліги легенд, і ми повідомимо вас, коли це доступно!"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Використовуйте цей веб-сайт, щоб знайти, коли закінчиться термін дії імені суматора."

@@ -25,7 +25,7 @@ msgid "Must be two or more characters"
 msgstr "Måste vara två eller flera tecken"
 
 msgid "Names can't contain 'riot'"
-msgstr "Namnen kan inte innehålla &quot;upplopp&quot;"
+msgstr "Namnen kan inte innehålla 'upplopp'"
 
 msgid "This is a problem with Riot's servers"
 msgstr "Detta är ett problem med Riots servrar"
