@@ -582,6 +582,9 @@ msgstr ""
 msgid "best names for League of Legends"
 msgstr ""
 
+msgid "lol inactive names"
+msgstr ""
+
 msgid "See when the summoner name %(name)s is available!"
 msgstr "Ver cuando el nombre de invocador %(name)s estará disponible"
 
@@ -642,7 +645,25 @@ msgstr ""
 msgid "It is available for new accounts."
 msgstr ""
 
-msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,League of Legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
+msgid "league of legends names list"
+msgstr ""
+
+msgid "names for league of legends"
+msgstr ""
+
+msgid "league of legends nicknames"
+msgstr ""
+
+msgid "league of legends names available"
+msgstr ""
+
+msgid "cool league of legends names"
+msgstr ""
+
+msgid "nicknames for league of legends"
+msgstr ""
+
+msgid "best names for league of legends"
 msgstr ""
 
 msgid "Lists of all the best summoner names!"
