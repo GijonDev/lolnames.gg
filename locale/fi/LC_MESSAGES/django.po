@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "riimut"
 
 msgid "Pick'em"
-msgstr "Pick&#39;em"
+msgstr "Pick'em"
 
 msgid "perfect pick'ems"
-msgstr "täydellinen pick&#39;ems"
+msgstr "täydellinen pick'ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "Katso ainoa pelaaja, jolla on vielä mahdollisuus täydellisistä pick&#39;emsista sekä kaikki 647 täydellistä bändiä League of Legends World Championship 2018 -ryhmän vaiheesta"
+msgstr "Katso ainoa pelaaja, jolla on vielä mahdollisuus täydellisistä pick'emsista sekä kaikki 647 täydellistä bändiä League of Legends World Championship 2018 -ryhmän vaiheesta"
 
 msgid "Pick'em Link"
-msgstr "Pick&#39;em Link"
+msgstr "Pick'em Link"
 
 msgid "Total"
 msgstr "Kaikki yhteensä"

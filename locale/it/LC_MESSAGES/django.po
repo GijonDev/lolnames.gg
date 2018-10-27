@@ -157,7 +157,7 @@ msgid "League of Legends names"
 msgstr "Nomi di League of Legends"
 
 msgid "summoner name checker"
-msgstr "verificatore del nome dell&#39;evocatore"
+msgstr "verificatore del nome dell'evocatore"
 
 msgid "league name availability"
 msgstr "disponibilità del nome della lega"
@@ -382,7 +382,7 @@ msgid "lol id search"
 msgstr "lol id cerca"
 
 msgid "League of Legends account lookup"
-msgstr "Ricerca dell&#39;account di League of Legends"
+msgstr "Ricerca dell'account di League of Legends"
 
 msgid "League of Legends id"
 msgstr "League of Legends id"
@@ -499,7 +499,7 @@ msgid "highest level in League of Legends right now"
 msgstr "il livello più alto in League of Legends adesso"
 
 msgid "summoner level leaderboard"
-msgstr "classifica del livello dell&#39;evocatore"
+msgstr "classifica del livello dell'evocatore"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr "Vedi i %(number)s livelli Evocatore più alti al mondo!"
@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "Rune"
 
 msgid "Pick'em"
-msgstr "Pick&#39;em"
+msgstr "Pick'em"
 
 msgid "perfect pick'ems"
-msgstr "pick&#39;em perfetti"
+msgstr "pick'em perfetti"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "Vedi l&#39;unico giocatore che ha ancora una possibilità di pick&#39;em perfetti più tutti i 647 pickem perfetti della fase a gironi del campionato del mondo di League of Legends 2018"
+msgstr "Vedi l'unico giocatore che ha ancora una possibilità di pick'em perfetti più tutti i 647 pickem perfetti della fase a gironi del campionato del mondo di League of Legends 2018"
 
 msgid "Pick'em Link"
-msgstr "Pick&#39;em Link"
+msgstr "Pick'em Link"
 
 msgid "Total"
 msgstr "Totale"
@@ -787,10 +787,10 @@ msgid "summoner icons"
 msgstr "icone di evocatore"
 
 msgid "summoner icon"
-msgstr "icona dell&#39;evocatore"
+msgstr "icona dell'evocatore"
 
 msgid "lol icon usage"
-msgstr "uso dell&#39;icona lol"
+msgstr "uso dell'icona lol"
 
 msgid "most popular League of Legends icons"
 msgstr "più popolari icone di League of Legends"
@@ -835,7 +835,7 @@ msgid "statistics lol"
 msgstr "statistiche lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr "Vedi tutte le statistiche del livello dell&#39;evocatore League of Legends"
+msgstr "Vedi tutte le statistiche del livello dell'evocatore League of Legends"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
 msgstr "Questo grafico confronta tutti gli evocatori tra i livelli 100 e 125 in tutte le regioni."
@@ -874,7 +874,7 @@ msgid "league name history"
 msgstr "storia del nome della lega"
 
 msgid "summoner name history"
-msgstr "storia del nome dell&#39;evocatore"
+msgstr "storia del nome dell'evocatore"
 
 msgid "lol name change"
 msgstr "lol cambio di nome"

@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "Rune"
 
 msgid "Pick'em"
-msgstr "Пицк&#39;ем"
+msgstr "Пицк'ем"
 
 msgid "perfect pick'ems"
-msgstr "савршени пицк&#39;емс"
+msgstr "савршени пицк'емс"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "Погледајте једини играч који још увек има шансу за савршеним победама плус свих 647 савршених победа у групној фази Светског првенства лиге легенди 2018."
 
 msgid "Pick'em Link"
-msgstr "Пицк&#39;ем Линк"
+msgstr "Пицк'ем Линк"
 
 msgid "Total"
 msgstr "Укупно"

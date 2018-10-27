@@ -25,7 +25,7 @@ msgid "Must be two or more characters"
 msgstr "Phải là hai hoặc nhiều ký tự"
 
 msgid "Names can't contain 'riot'"
-msgstr "Tên không thể chứa &#39;bạo động&#39;"
+msgstr "Tên không thể chứa 'bạo động'"
 
 msgid "This is a problem with Riot's servers"
 msgstr "Đây là vấn đề với máy chủ của Riot"
@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "Runes"
 
 msgid "Pick'em"
-msgstr "Pick&#39;em"
+msgstr "Pick'em"
 
 msgid "perfect pick'ems"
-msgstr "pick&#39;ems hoàn hảo"
+msgstr "pick'ems hoàn hảo"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "Xem cầu thủ duy nhất vẫn có cơ hội chọn lựa hoàn hảo cộng với tất cả 647 pickems hoàn hảo từ vòng bảng của Liên đoàn Vô địch Thế giới Huyền thoại 2018"
 
 msgid "Pick'em Link"
-msgstr "Liên kết Pick&#39;em"
+msgstr "Liên kết Pick'em"
 
 msgid "Total"
 msgstr "Toàn bộ"

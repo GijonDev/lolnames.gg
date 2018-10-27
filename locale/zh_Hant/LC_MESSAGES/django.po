@@ -25,7 +25,7 @@ msgid "Must be two or more characters"
 msgstr "必須是兩個或更多字符"
 
 msgid "Names can't contain 'riot'"
-msgstr "名字不能包含&#39;暴亂&#39;"
+msgstr "名字不能包含'暴亂'"
 
 msgid "This is a problem with Riot's servers"
 msgstr "這是Riot服務器的問題"
@@ -748,7 +748,7 @@ msgid "Runes"
 msgstr "符文"
 
 msgid "Pick'em"
-msgstr "Pick&#39;em大獎"
+msgstr "Pick'em大獎"
 
 msgid "perfect pick'ems"
 msgstr "完美的選擇"
@@ -757,7 +757,7 @@ msgid "See the only player that still has a chance at perfect pick'ems plus all 
 msgstr "2018年英雄聯盟世界錦標賽小組賽期間，唯一一位仍然有機會獲得完美選秀權的球員加上所有647完美皮克"
 
 msgid "Pick'em Link"
-msgstr "Pick&#39;em Link"
+msgstr "Pick'em Link"
 
 msgid "Total"
 msgstr "總"

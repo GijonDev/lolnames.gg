@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "Rúnák"
 
 msgid "Pick'em"
-msgstr "pick&#39;em"
+msgstr "pick'em"
 
 msgid "perfect pick'ems"
-msgstr "tökéletes pick&#39;ems"
+msgstr "tökéletes pick'ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "Tekintsd meg az egyetlen olyan játékosot, aki még mindig lehetősége van a tökéletes selejtezőkre és az összes 647 tökéletes selejtezőre a League of Legends World Championship 2018"
 
 msgid "Pick'em Link"
-msgstr "Pick&#39;em Link"
+msgstr "Pick'em Link"
 
 msgid "Total"
 msgstr "Teljes"

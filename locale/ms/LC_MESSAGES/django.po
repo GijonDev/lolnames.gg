@@ -25,7 +25,7 @@ msgid "Must be two or more characters"
 msgstr "Mesti dua atau lebih aksara"
 
 msgid "Names can't contain 'riot'"
-msgstr "Nama tidak boleh mengandungi &#39;rusuhan&#39;"
+msgstr "Nama tidak boleh mengandungi 'rusuhan'"
 
 msgid "This is a problem with Riot's servers"
 msgstr "Ini masalah dengan pelayan Riot"
@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "Runes"
 
 msgid "Pick'em"
-msgstr "Pick&#39;em"
+msgstr "Pick'em"
 
 msgid "perfect pick'ems"
-msgstr "pick&#39;ems sempurna"
+msgstr "pick'ems sempurna"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "Lihat satu-satunya pemain yang masih mempunyai peluang di pick&#39;ems yang sempurna ditambah semua pickup sempurna 647 dari peringkat kumpulan League of Legends World Championship 2018"
+msgstr "Lihat satu-satunya pemain yang masih mempunyai peluang di pick'ems yang sempurna ditambah semua pickup sempurna 647 dari peringkat kumpulan League of Legends World Championship 2018"
 
 msgid "Pick'em Link"
-msgstr "Paut Pick&#39;em"
+msgstr "Paut Pick'em"
 
 msgid "Total"
 msgstr "Jumlah"

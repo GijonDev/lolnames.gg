@@ -751,13 +751,13 @@ msgid "Pick'em"
 msgstr "Pick'em"
 
 msgid "perfect pick'ems"
-msgstr "pick&#39;ems perfeitos"
+msgstr "pick'ems perfeitos"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "Veja o único jogador que ainda tem uma chance de pick-ups perfeitos, mais todos os 647 pickems perfeitos da fase de grupos do Campeonato Mundial League of Legends de 2018"
 
 msgid "Pick'em Link"
-msgstr "Link Pick&#39;em"
+msgstr "Link Pick'em"
 
 msgid "Total"
 msgstr "Total"

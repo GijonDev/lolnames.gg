@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "Runes"
 
 msgid "Pick'em"
-msgstr "Pick&#39;em"
+msgstr "Pick'em"
 
 msgid "perfect pick'ems"
 msgstr "perfecte keuzes"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "Zie de enige speler die nog kans maakt op perfecte pick&#39;ems plus alle 647 perfecte pickems uit de groepsfase van het League of Legends World Championship 2018"
+msgstr "Zie de enige speler die nog kans maakt op perfecte pick'ems plus alle 647 perfecte pickems uit de groepsfase van het League of Legends World Championship 2018"
 
 msgid "Pick'em Link"
-msgstr "Pick&#39;em Link"
+msgstr "Pick'em Link"
 
 msgid "Total"
 msgstr "Totaal"
@@ -799,7 +799,7 @@ msgid "See all the most and least used summoner icons in League of Legends"
 msgstr "Bekijk de meest en minst gebruikte Summoner-pictogrammen in League of Legends"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr "Deze tabel toont alle meest gebruikte en meest zeldzame summoner-pictogrammen in League of Legends voor de huidige patch in alle regio&#39;s."
+msgstr "Deze tabel toont alle meest gebruikte en meest zeldzame summoner-pictogrammen in League of Legends voor de huidige patch in alle regio's."
 
 msgid "Icon"
 msgstr "Icoon"
@@ -838,7 +838,7 @@ msgid "See all the League of Legends summoner level statistics"
 msgstr "Bekijk alle statistieken van de League of Legends summoner-level"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr "Deze grafiek vergelijkt alle summoners tussen niveau 100 en 125 in alle regio&#39;s."
+msgstr "Deze grafiek vergelijkt alle summoners tussen niveau 100 en 125 in alle regio's."
 
 msgid "Summoner level distribution by region"
 msgstr "Summoner level distributie op regio"

@@ -10,10 +10,10 @@ msgstr ""
 
 
 msgid "Summoner name..."
-msgstr "Ім&#39;я супровідника ..."
+msgstr "Ім'я супровідника ..."
 
 msgid "Invalid name"
-msgstr "Недійсне ім&#39;я"
+msgstr "Недійсне ім'я"
 
 msgid "Invalid characters: "
 msgstr "Недійсні символи:"
@@ -43,7 +43,7 @@ msgid "None available for %(name)s, out of %(num_variants)s variants."
 msgstr ""
 
 msgid "Summoner name not in use"
-msgstr "Ім&#39;я виклику не використовується"
+msgstr "Ім'я виклику не використовується"
 
 msgid "Account ID Lookup"
 msgstr "Ідентифікаційний номер облікового запису"
@@ -52,7 +52,7 @@ msgid "Account ID"
 msgstr "Номер рахунку"
 
 msgid "Lookup name by Account ID"
-msgstr "Ім&#39;я пошуку за ідентифікатором облікового запису"
+msgstr "Ім'я пошуку за ідентифікатором облікового запису"
 
 msgid "Invalid Account ID"
 msgstr "Недійсний ідентифікатор облікового запису"
@@ -145,13 +145,13 @@ msgid "League of Legends name checker"
 msgstr "Ліга легенд перевірки імені"
 
 msgid "lol name check"
-msgstr "LOL перевірити ім&#39;я"
+msgstr "LOL перевірити ім'я"
 
 msgid "league names"
 msgstr "назви ліг"
 
 msgid "name checker lol"
-msgstr "ім&#39;я перевірки lol"
+msgstr "ім'я перевірки lol"
 
 msgid "League of Legends names"
 msgstr "Ліга легенд імен"
@@ -181,7 +181,7 @@ msgid "Close"
 msgstr "Закрити"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr "Цей розділ містить велику кількість інформації, пов&#39;язаної з <strong>LoL Names.GG</strong> та її використанням. Якщо ви не можете знайти відповідь на своє запитання, не соромтеся звертатися <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">до мене</a> ."
+msgstr "Цей розділ містить велику кількість інформації, пов'язаної з <strong>LoL Names.GG</strong> та її використанням. Якщо ви не можете знайти відповідь на своє запитання, не соромтеся звертатися <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">до мене</a> ."
 
 msgid "Frequently Asked Questions"
 msgstr "Часті запитання"
@@ -193,10 +193,10 @@ msgid "The lists will update about once every hour. A full rescan is done every 
 msgstr "Списки оновлюватимуться приблизно один раз на годину. Повний сканування виконується щотижня."
 
 msgid "Why can't I take a name on a new account?"
-msgstr "Чому я не можу взяти ім&#39;я в новому акаунті?"
+msgstr "Чому я не можу взяти ім'я в новому акаунті?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "Якщо ім&#39;я вже введено в обліковий запис, його можна отримати лише за допомогою зміни імені. Ці назви показані зеленим фоном. Якщо ім&#39;я поточного користувача не прийнято, ви можете взяти його на зовсім новому обліковому записі. Ці назви показані синім фоном."
+msgstr "Якщо ім'я вже введено в обліковий запис, його можна отримати лише за допомогою зміни імені. Ці назви показані зеленим фоном. Якщо ім'я поточного користувача не прийнято, ви можете взяти його на зовсім новому обліковому записі. Ці назви показані синім фоном."
 
 msgid "What if the account is banned?"
 msgstr "Що робити, якщо обліковий запис заборонено?"
@@ -217,13 +217,13 @@ msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/
 msgstr "Усі часові пояси знаходяться в UTC. Використовуйте цей <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">конвертер часового поясу,</a> щоб налаштувати їх у місцевий час."
 
 msgid "When exactly will the name become available?"
-msgstr "Коли саме ім&#39;я стане доступним?"
+msgstr "Коли саме ім'я стане доступним?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
 msgstr "Зазвичай імена очищаються в опівночі UTC. Однак у деяких випадках я виявив, що це зайняло 48 годин. Перевірте кожні кілька годин на день, коли він перерахований."
 
 msgid "Can you remove a name from a list for me?"
-msgstr "Ви можете видалити ім&#39;я зі списку для мене?"
+msgstr "Ви можете видалити ім'я зі списку для мене?"
 
 msgid "No. All the names are automatically scanned."
 msgstr "Ні. Всі імена автоматично скануються."
@@ -232,7 +232,7 @@ msgid "Where should I report an incorrect translation?"
 msgstr "Де я повинен повідомити про неправильний переклад?"
 
 msgid "Contact me here."
-msgstr "Зв&#39;яжіться зі мною тут."
+msgstr "Зв'яжіться зі мною тут."
 
 msgid "Where should I report a bug?"
 msgstr "Де я повинен повідомити про помилку?"
@@ -400,7 +400,7 @@ msgid "LoL Account ID Finder"
 msgstr "Лог ідентифікатор облікового запису"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr "Введіть ім&#39;я супровідника та знайдіть його ідентифікатор облікового запису. Якщо вони називаються змінами, ідентифікатор облікового запису залишиться незмінним."
+msgstr "Введіть ім'я супровідника та знайдіть його ідентифікатор облікового запису. Якщо вони називаються змінами, ідентифікатор облікового запису залишиться незмінним."
 
 msgid "Search"
 msgstr "Пошук"
@@ -430,19 +430,19 @@ msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr ""
 
 msgid "Search for a summoner name using an account ID."
-msgstr "Шукайте ім&#39;я супровідника за допомогою ідентифікатора облікового запису."
+msgstr "Шукайте ім'я супровідника за допомогою ідентифікатора облікового запису."
 
 msgid "LoL Name by Account ID"
-msgstr "Лог Ім&#39;я за ідентифікатором профілю"
+msgstr "Лог Ім'я за ідентифікатором профілю"
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Знайдіть ім&#39;я користувача за допомогою ідентифікатора облікового запису. Введіть ідентифікатор облікового запису та знайдіть його ім&#39;я користувача."
+msgstr "Знайдіть ім'я користувача за допомогою ідентифікатора облікового запису. Введіть ідентифікатор облікового запису та знайдіть його ім'я користувача."
 
 msgid "Account ID %(account_id)s was found!"
 msgstr ""
 
 msgid "Current Name"
-msgstr "Поточне ім&#39;я"
+msgstr "Поточне ім'я"
 
 msgid "Previous Names"
 msgstr "Попередні імена"
@@ -517,7 +517,7 @@ msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=
 msgstr ""
 
 msgid "Summoner Name"
-msgstr "Ім&#39;я супровідника"
+msgstr "Ім'я супровідника"
 
 msgid "Region"
 msgstr "Регіон"
@@ -550,7 +550,7 @@ msgid "lol names list"
 msgstr "lol список імен"
 
 msgid "best name in lol"
-msgstr "Найкраще ім&#39;я в LOL"
+msgstr "Найкраще ім'я в LOL"
 
 msgid "League of Legends names available"
 msgstr "Імена Ліги Легенд доступні"
@@ -571,7 +571,7 @@ msgid "best names for lol"
 msgstr "кращі імена для lol"
 
 msgid "name for lol"
-msgstr "ім&#39;я для lol"
+msgstr "ім'я для lol"
 
 msgid "nicknames for League of Legends"
 msgstr "прізвиська для Ліги легенд"
@@ -592,10 +592,10 @@ msgid "The best League of Legends names. Inactive name checker, generated lists 
 msgstr "Найкраща назва Ліги Легенд. Неактивна перевірка імені, генеровані списки та популярні пошуки."
 
 msgid "LoL Name Checker"
-msgstr "LoL Ім&#39;я перевірки"
+msgstr "LoL Ім'я перевірки"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "Пошук хорошого імені користувача важко, ми спрощуємо його! LoL Names GG надає ім&#39;я перевірки імені &quot;Ліга легенд&quot;, базу даних згенерованих вже доступних імен та список майбутніх імен на основі попередніх пошуків. LoL Names GG - це ідеальне місце, щоб отримати найкращу назву суворої Ліги Легенд. Наприклад, перегляньте наш список трьох букв імен або введіть у свою мрію назву Ліги легенд, і ми повідомимо вас, коли це доступно!"
+msgstr "Пошук хорошого імені користувача важко, ми спрощуємо його! LoL Names GG надає ім'я перевірки імені &quot;Ліга легенд&quot;, базу даних згенерованих вже доступних імен та список майбутніх імен на основі попередніх пошуків. LoL Names GG - це ідеальне місце, щоб отримати найкращу назву суворої Ліги Легенд. Наприклад, перегляньте наш список трьох букв імен або введіть у свою мрію назву Ліги легенд, і ми повідомимо вас, коли це доступно!"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Використовуйте цей веб-сайт, щоб знайти, коли закінчиться термін дії імені суматора."
@@ -631,7 +631,7 @@ msgid "%(name)s is probably available!"
 msgstr ""
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr "Якщо це ім&#39;я зараз не може бути прийнято, обліковий запис майже напевно заборонений, і ім&#39;я ніколи не закінчиться."
+msgstr "Якщо це ім'я зараз не може бути прийнято, обліковий запис майже напевно заборонений, і ім'я ніколи не закінчиться."
 
 msgid "Add Special Characters"
 msgstr "Додати спеціальні символи"
@@ -640,7 +640,7 @@ msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr "В даний час це ім&#39;я не використовується."
+msgstr "В даний час це ім'я не використовується."
 
 msgid "It is available for new accounts."
 msgstr "Він доступний для нових облікових записів."
@@ -679,7 +679,7 @@ msgid "See a list of %(page_title)s and when they're available!"
 msgstr ""
 
 msgid "Name"
-msgstr "Ім&#39;я"
+msgstr "Ім'я"
 
 msgid "Type"
 msgstr "Тип"
@@ -751,13 +751,13 @@ msgid "Pick'em"
 msgstr "Пікем"
 
 msgid "perfect pick'ems"
-msgstr "досконалий pick&#39;ems"
+msgstr "досконалий pick'ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "Дивіться єдиного гравця, який все ще має шанс на ідеальний pick&#39;ems плюс всі 647 ідеальних pickem з групової стадії чемпіонату світу Ліги легенд 2018"
+msgstr "Дивіться єдиного гравця, який все ще має шанс на ідеальний pick'ems плюс всі 647 ідеальних pickem з групової стадії чемпіонату світу Ліги легенд 2018"
 
 msgid "Pick'em Link"
-msgstr "Pick&#39;em Link"
+msgstr "Pick'em Link"
 
 msgid "Total"
 msgstr "Всього"

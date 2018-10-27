@@ -208,7 +208,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "Nasıl 2 harfli isim alabilirim ?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr "League of Legends adlarının minimum karakterleri 3&#39;tür. Bunu düzeltmek için karakterler arasında boşluk bırakabilirsiniz."
+msgstr "League of Legends adlarının minimum karakterleri 3'tür. Bunu düzeltmek için karakterler arasında boşluk bırakabilirsiniz."
 
 msgid "What timezone is used?"
 msgstr "Hangi Saat Kullanıyor"
@@ -457,7 +457,7 @@ msgid "%(account_id)s is not owned!"
 msgstr ""
 
 msgid "highest level in League of Legends"
-msgstr "League of Legends&#39;taki en yüksek seviye"
+msgstr "League of Legends'taki en yüksek seviye"
 
 msgid "lol highest level"
 msgstr "lol en yüksek seviye"
@@ -472,7 +472,7 @@ msgid "highest league level"
 msgstr "en yüksek lig seviyesi"
 
 msgid "highest level on League of Legends"
-msgstr "Efsaneler Ligi&#39;nde en yüksek seviye"
+msgstr "Efsaneler Ligi'nde en yüksek seviye"
 
 msgid "highest level league player"
 msgstr "en yüksek seviye lig oyuncusu"
@@ -490,13 +490,13 @@ msgid "League of Legends highest level player"
 msgstr "Efsaneler Ligi en yüksek seviye oyuncusu"
 
 msgid "who is the highest level in League of Legends"
-msgstr "League of Legends&#39;ın en yüksek seviyesi kim"
+msgstr "League of Legends'ın en yüksek seviyesi kim"
 
 msgid "what is the highest level in League of Legends"
-msgstr "League of Legends&#39;ın en yüksek seviyesi nedir"
+msgstr "League of Legends'ın en yüksek seviyesi nedir"
 
 msgid "highest level in League of Legends right now"
-msgstr "League of Legends&#39;ın en yüksek seviyesi"
+msgstr "League of Legends'ın en yüksek seviyesi"
 
 msgid "summoner level leaderboard"
 msgstr "avcı seviyesi afiş"
@@ -622,7 +622,7 @@ msgid "Current level:"
 msgstr "Mevcut Seviye "
 
 msgid "Read FAQs"
-msgstr "SSS&#39;leri oku"
+msgstr "SSS'leri oku"
 
 msgid "Add to Calendar"
 msgstr "Takvime ekle"
@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "Rünler"
 
 msgid "Pick'em"
-msgstr "pick&#39;Em"
+msgstr "pick'Em"
 
 msgid "perfect pick'ems"
 msgstr "mükemmel seçim"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "League of Legends Dünya Şampiyonası 2018&#39;in grup aşamasından hala mükemmel seçim şansına ve 647 mükemmel toplayışa sahip olan tek oyuncuya bakın."
+msgstr "League of Legends Dünya Şampiyonası 2018'in grup aşamasından hala mükemmel seçim şansına ve 647 mükemmel toplayışa sahip olan tek oyuncuya bakın."
 
 msgid "Pick'em Link"
-msgstr "Pick&#39;em Bağlantısı"
+msgstr "Pick'em Bağlantısı"
 
 msgid "Total"
 msgstr "Genel Toplam"
@@ -796,10 +796,10 @@ msgid "most popular League of Legends icons"
 msgstr "En popüler League of Legends simgeleri"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr "League of Legends&#39;taki en çok ve en çok kullanılan summoner simgelerini görün"
+msgstr "League of Legends'taki en çok ve en çok kullanılan summoner simgelerini görün"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr "Bu tablo, tüm bölgelerdeki geçerli yama için League of Legends&#39;taki en çok kullanılan ve en nadir bulunan tüm simgeleri gösterir."
+msgstr "Bu tablo, tüm bölgelerdeki geçerli yama için League of Legends'taki en çok kullanılan ve en nadir bulunan tüm simgeleri gösterir."
 
 msgid "Icon"
 msgstr "Simge"

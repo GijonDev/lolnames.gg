@@ -157,7 +157,7 @@ msgid "League of Legends names"
 msgstr "Noms de League of Legends"
 
 msgid "summoner name checker"
-msgstr "vérificateur de nom d&#39;invocateur"
+msgstr "vérificateur de nom d'invocateur"
 
 msgid "league name availability"
 msgstr "nom de la ligue disponible"
@@ -265,13 +265,13 @@ msgid "League of Legends names generator"
 msgstr "League of Legends générateur de noms"
 
 msgid "summoner name generator"
-msgstr "générateur de nom d&#39;invocateur"
+msgstr "générateur de nom d'invocateur"
 
 msgid "league names generator"
 msgstr "générateur de noms de ligue"
 
 msgid "lol username generator"
-msgstr "lol nom d&#39;utilisateur générateur"
+msgstr "lol nom d'utilisateur générateur"
 
 msgid "name generator lol"
 msgstr "générateur de nom lol"
@@ -280,13 +280,13 @@ msgid "lol ign generator"
 msgstr "lol ign générateur"
 
 msgid "League of Legends username generator"
-msgstr "League of Legends générateur de nom d&#39;utilisateur"
+msgstr "League of Legends générateur de nom d'utilisateur"
 
 msgid "lol club tag generator"
 msgstr "lol club tag générateur"
 
 msgid "lol summoner name generator"
-msgstr "lol nom générateur d&#39;invocateur"
+msgstr "lol nom générateur d'invocateur"
 
 msgid "lol nickname generator"
 msgstr "générateur de pseudo lol"
@@ -295,7 +295,7 @@ msgid "lol generator name"
 msgstr "lol nom du générateur"
 
 msgid "League of Legends summoner name generator"
-msgstr "League of Legends nom du générateur d&#39;invocateur"
+msgstr "League of Legends nom du générateur d'invocateur"
 
 msgid "lol nicknames generator"
 msgstr "générateur de surnoms lol"
@@ -349,7 +349,7 @@ msgid "lol id"
 msgstr "lol id"
 
 msgid "summoner id"
-msgstr "identifiant d&#39;invocateur"
+msgstr "identifiant d'invocateur"
 
 msgid "lol account finder"
 msgstr "lol compte chercheur"
@@ -361,7 +361,7 @@ msgid "lol id finder"
 msgstr "lol id finder"
 
 msgid "lol summoner id"
-msgstr "lol identifiant d&#39;invocateur"
+msgstr "lol identifiant d'invocateur"
 
 msgid "League of Legends account id"
 msgstr "Identifiant de compte League of Legends"
@@ -376,7 +376,7 @@ msgid "League of Legends id search"
 msgstr "League of Legends id recherche"
 
 msgid "League of Legends summoner id"
-msgstr "Identifiant d&#39;invocateur de League of Legends"
+msgstr "Identifiant d'invocateur de League of Legends"
 
 msgid "lol id search"
 msgstr "lol id recherche"
@@ -499,7 +499,7 @@ msgid "highest level in League of Legends right now"
 msgstr "le plus haut niveau de League of Legends en ce moment"
 
 msgid "summoner level leaderboard"
-msgstr "classement au niveau de l&#39;invocateur"
+msgstr "classement au niveau de l'invocateur"
 
 msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
@@ -640,7 +640,7 @@ msgid "%(summoner_name)s is available!"
 msgstr ""
 
 msgid "This name currently isn't used."
-msgstr "Ce nom n&#39;est pas utilisé actuellement."
+msgstr "Ce nom n'est pas utilisé actuellement."
 
 msgid "It is available for new accounts."
 msgstr "Il est disponible pour les nouveaux comptes."
@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "Runes"
 
 msgid "Pick'em"
-msgstr "Pick&#39;em"
+msgstr "Pick'em"
 
 msgid "perfect pick'ems"
-msgstr "pick&#39;ems parfaits"
+msgstr "pick'ems parfaits"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "Voyez le seul joueur qui a encore une chance de remporter des pick&#39;ems parfaits, plus les 647 pickems parfaits de la phase de groupes du League of Legends World Championship 2018"
+msgstr "Voyez le seul joueur qui a encore une chance de remporter des pick'ems parfaits, plus les 647 pickems parfaits de la phase de groupes du League of Legends World Championship 2018"
 
 msgid "Pick'em Link"
-msgstr "Lien Pick&#39;em"
+msgstr "Lien Pick'em"
 
 msgid "Total"
 msgstr "Total"
@@ -775,28 +775,28 @@ msgid "Summoner Icon Statistics"
 msgstr "Statistiques des icônes d'invocateur"
 
 msgid "lol summoner icons"
-msgstr "icônes d&#39;invocateur lol"
+msgstr "icônes d'invocateur lol"
 
 msgid "League of Legends summoner icons"
-msgstr "Icônes d&#39;invocateur de League of Legends"
+msgstr "Icônes d'invocateur de League of Legends"
 
 msgid "lol icon"
 msgstr "icône lol"
 
 msgid "summoner icons"
-msgstr "icônes d&#39;invocateur"
+msgstr "icônes d'invocateur"
 
 msgid "summoner icon"
-msgstr "icône de l&#39;invocateur"
+msgstr "icône de l'invocateur"
 
 msgid "lol icon usage"
-msgstr "lol utilisation de l&#39;icône"
+msgstr "lol utilisation de l'icône"
 
 msgid "most popular League of Legends icons"
 msgstr "icônes les plus populaires de League of Legends"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr "Voir toutes les icônes d&#39;invocateur les plus utilisées et les moins utilisées dans League of Legends"
+msgstr "Voir toutes les icônes d'invocateur les plus utilisées et les moins utilisées dans League of Legends"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Ce tableau répertorie toutes les icônes des invocateurs les plus utilisées et les plus rares dans League of Legends pour le correctif actuel dans toutes les régions."
@@ -814,22 +814,22 @@ msgid "Summoner Level Statistics"
 msgstr "Meilleurs score de niveau d'invocateurs"
 
 msgid "summoner statistics"
-msgstr "statistiques d&#39;invocateur"
+msgstr "statistiques d'invocateur"
 
 msgid "lol summoner statistics"
-msgstr "statistiques d&#39;invocateur lol"
+msgstr "statistiques d'invocateur lol"
 
 msgid "lol statistics"
 msgstr "lol statistiques"
 
 msgid "lol summoner level"
-msgstr "niveau d&#39;invocateur lol"
+msgstr "niveau d'invocateur lol"
 
 msgid "level in lol"
 msgstr "niveau en lol"
 
 msgid "summoner statistics lol"
-msgstr "statistiques d&#39;invocateur lol"
+msgstr "statistiques d'invocateur lol"
 
 msgid "statistics lol"
 msgstr "statistiques lol"
@@ -874,7 +874,7 @@ msgid "league name history"
 msgstr "histoire du nom de la ligue"
 
 msgid "summoner name history"
-msgstr "histoire du nom d&#39;invocateur"
+msgstr "histoire du nom d'invocateur"
 
 msgid "lol name change"
 msgstr "changement de nom lol"

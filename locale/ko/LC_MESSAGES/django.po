@@ -25,7 +25,7 @@ msgid "Must be two or more characters"
 msgstr "2 자 이상이어야합니다."
 
 msgid "Names can't contain 'riot'"
-msgstr "이름에는 &#39;폭동&#39;이 포함될 수 없습니다."
+msgstr "이름에는 '폭동'이 포함될 수 없습니다."
 
 msgid "This is a problem with Riot's servers"
 msgstr "Riot의 서버에 문제가 있습니다."
@@ -748,16 +748,16 @@ msgid "Runes"
 msgstr "룬 문자"
 
 msgid "Pick'em"
-msgstr "Pick&#39;em"
+msgstr "Pick'em"
 
 msgid "perfect pick'ems"
 msgstr "완벽한 선택"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "전설적인 세계 선수권 대회 (League of Legends World Championship 2018)의 조별 리그에서 완벽한 pick&#39;ems와 647 개의 완벽한 pickems가있는 유일한 플레이어를 만나보십시오"
+msgstr "전설적인 세계 선수권 대회 (League of Legends World Championship 2018)의 조별 리그에서 완벽한 pick'ems와 647 개의 완벽한 pickems가있는 유일한 플레이어를 만나보십시오"
 
 msgid "Pick'em Link"
-msgstr "Pick&#39;em Link"
+msgstr "Pick'em Link"
 
 msgid "Total"
 msgstr "합계"
