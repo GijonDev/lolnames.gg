@@ -1,11 +1,9 @@
 # [lolnames.gg](https://lolnames.gg/en/)
 Issue tracker and translation files for [lolnames.gg](https://lolnames.gg/en/)
 
-
-
 # Translators
 
-Total length: 990 words
+Total length: 1724 words
 
 Any amount of work is very appreciated. Even a line makes a difference.
 
@@ -44,19 +42,15 @@ Click the link to the text file with the translations
 | | [Blank Template](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/template/LC_MESSAGES/django.po) | | |
 
 ###### Step 2
-
 Use your text editor of choice to add translations. The line with `msgid ""` will have the English text and all you need to do is write the translations between the quotes where it says `msgstr ""`. You can [learn more about .po files here](https://www.gnu.org/software/gettext/manual/html_node/PO-Files.html) if you'd like but that isn't necessary to contribute.
-
 
 ###### Step 3
 Then paste your edited file to [https://paste.ee](https://paste.ee) and message me the link on either [Reddit](https://www.reddit.com/message/compose/?to=LoLNamesGG), [Twitter](https://twitter.com/LoLNamesGG) or [Facebook](https://www.facebook.com/lolnames.gg/).
 
 ###### Note
-
 Of course feel free to make a pull request instead if you're experienced with Github.
 
 I'm open to questions anytime.
-
 
 # Contributors
 
