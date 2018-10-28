@@ -756,14 +756,14 @@ msgstr "идеальный выбор"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "Посмотрите единственного игрока, у которого все еще есть шанс на идеальные подборки плюс все 647 совершенных пикемов с группового этапа Чемпионата мира по футболу 2017 года"
 
-msgid "<p>The last update was 21:29:12 27-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> Последнее обновление было 21:29:12 27-Oct-2018 UTC. Закладка этой страницы и обратно <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> для следующего обновления. </p>"
+msgid "<p>The last update was 10:39:01 28-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
+msgstr "<p> Последнее обновление было 10:39:01 28-Oct-2018 UTC. Закладка этой страницы и обратно <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> для следующего обновления. </p>"
 
 msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
 msgstr "<p> Количество возможных прекрасных очков: <b>0</b>"
 
-msgid "<p>Highest possible scores: <b>94</b> total, <b>64</b> group and <b>30</b> knockout. The current highest knockout score is <b>25</b>.</p>"
-msgstr "<p> Максимально возможные баллы: <b>94</b> всего, <b>64</b> группы и <b>30</b> нокаутов. Нынешняя самая высокая оценка нокаута - <b>25</b> . </p>"
+msgid "<p>Highest possible scores: <b>104</b> total, <b>64</b> group and <b>40</b> knockout. The current highest knockout score is <b>35</b>.</p>"
+msgstr "<p> Максимально возможные баллы: <b>104</b> всего, <b>64</b> группы и <b>40</b> нокаутов. Нынешняя самая высокая оценка нокаута - <b>35</b> . </p>"
 
 msgid "Pick'em Link"
 msgstr "Pick'em Link"

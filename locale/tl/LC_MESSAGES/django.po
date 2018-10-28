@@ -756,14 +756,14 @@ msgstr "perpektong pick&#39;ems"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "Tingnan ang tanging manlalaro na mayroon pa ring pagkakataon sa perpektong pick&#39;ems kasama ang lahat ng 647 perpektong pickems mula sa yugto ng grupo ng League of Legends World Championship 2018"
 
-msgid "<p>The last update was 21:29:12 27-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> Ang huling pag-update ay 21:29:12 27-Okt-2018 UTC. I-bookmark ang pahinang ito at suriin muli <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> para sa susunod na pag-update. </p>"
+msgid "<p>The last update was 10:39:01 28-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
+msgstr "<p> Ang huling pag-update ay 10:39:01 28-Okt-2018 UTC. I-bookmark ang pahinang ito at suriin muli <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> para sa susunod na pag-update. </p>"
 
 msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
 msgstr "<p> Bilang ng mga posibleng perpektong iskor na natitira: <b>0</b>"
 
-msgid "<p>Highest possible scores: <b>94</b> total, <b>64</b> group and <b>30</b> knockout. The current highest knockout score is <b>25</b>.</p>"
-msgstr "<p> Pinakamataas na posibleng iskor: <b>94</b> kabuuan, <b>64 pangkat</b> at <b>30</b> knockout. Ang kasalukuyang pinakamataas na iskor ng knockout ay <b>25</b> . </p>"
+msgid "<p>Highest possible scores: <b>104</b> total, <b>64</b> group and <b>40</b> knockout. The current highest knockout score is <b>35</b>.</p>"
+msgstr "<p> Pinakamataas na posibleng puntos: <b>104</b> kabuuan, <b>64 pangkat</b> at <b>40</b> knockout. Ang kasalukuyang pinakamataas na iskor ng knockout ay <b>35</b> . </p>"
 
 msgid "Pick'em Link"
 msgstr "Pick&#39;em Link"

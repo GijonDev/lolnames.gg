@@ -756,14 +756,14 @@ msgstr "완벽한 선택"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "전설적인 세계 선수권 대회 (League of Legends World Championship 2018)의 조별 리그에서 완벽한 pick'ems와 647 개의 완벽한 pickems가있는 유일한 플레이어를 만나보십시오"
 
-msgid "<p>The last update was 21:29:12 27-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> 마지막 업데이트는 21시 29 분 12 초, 10 월 27 일 -2018 UTC입니다. 이 페이지를 북마크에 추가하고 다시 체크인하십시오. <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> 다음 업데이트를 위해. </p>"
+msgid "<p>The last update was 10:39:01 28-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
+msgstr "<p> 마지막 업데이트는 10 월 28 일 10시 39 분 01 초, 2018 년 UTC입니다. 이 페이지를 북마크에 추가하고 다시 체크인하십시오. <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> 다음 업데이트를 위해. </p>"
 
 msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
 msgstr "<p> 가능한 남은 점수의 수 : <b>0</b>"
 
-msgid "<p>Highest possible scores: <b>94</b> total, <b>64</b> group and <b>30</b> knockout. The current highest knockout score is <b>25</b>.</p>"
-msgstr "<p> 가능한 가장 높은 점수 : 총 <b>94</b> 개, 그룹 <b>64</b> 개, 녹아웃 <b>30 개</b> . 현재 가장 높은 녹아웃 점수는 <b>25</b> 입니다. </p>"
+msgid "<p>Highest possible scores: <b>104</b> total, <b>64</b> group and <b>40</b> knockout. The current highest knockout score is <b>35</b>.</p>"
+msgstr "<p> 가능한 최고 점수 : 총 <b>104</b> 개, 그룹 <b>64</b> 개, 녹아웃 <b>40 개</b> . 현재 가장 높은 녹아웃 점수는 <b>35</b> 입니다. </p>"
 
 msgid "Pick'em Link"
 msgstr "Pick'em Link"
