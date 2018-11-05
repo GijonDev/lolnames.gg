@@ -756,14 +756,14 @@ msgstr "pick'ems perfeitos"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "Veja o único jogador que ainda tem uma chance de pick-ups perfeitos, mais todos os 647 pickems perfeitos da fase de grupos do Campeonato Mundial League of Legends de 2018"
 
-msgid "<p>The last update was 10:39:01 28-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> A última atualização foi às 10:39:01 de 28 de outubro de 2018 UTC. Marque esta página e verifique novamente <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> para a próxima atualização. </p>"
+msgid "<p>Number of perfect scores: <b>0</b>"
+msgstr "<p> Número de pontuações perfeitas: <b>0</b>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
-msgstr "<p> Número de possíveis pontuações perfeitas restantes: <b>0</b>"
+msgid "<p><b>0</b> players with perfect pick'ems from group stage picked Invictus Gaming to win! At least 1 person picked every other team. See the pie charts for more details."
+msgstr "<p> <b>0</b> jogadores com pick'ems perfeitos da fase de grupos escolhidos pela Invictus Gaming! Pelo menos uma pessoa escolheu todos os outros times. Veja os gráficos de pizza para mais detalhes."
 
-msgid "<p>Highest possible scores: <b>104</b> total, <b>64</b> group and <b>40</b> knockout. The current highest knockout score is <b>35</b>.</p>"
-msgstr "<p> Maiores pontuações possíveis: <b>104 no</b> total, <b>64 no</b> grupo e <b>40 no</b> nocaute. A pontuação mais alta atualmente é de <b>35</b> . </p>"
+msgid "<p>Highest possible scores: <b>124</b> total, <b>64</b> group and <b>60</b> knockout. The current highest knockout score is <b>35</b>.</p>"
+msgstr "<p> Maiores pontuações possíveis: <b>124 no</b> total, <b>64 no</b> grupo e <b>60 no</b> nocaute. A pontuação mais alta atualmente é de <b>35</b> . </p>"
 
 msgid "Pick'em Link"
 msgstr "Link Pick'em"

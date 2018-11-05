@@ -756,14 +756,14 @@ msgstr "täydellinen pick'ems"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "Katso ainoa pelaaja, jolla on vielä mahdollisuus täydellisistä pick'emsista sekä kaikki 647 täydellistä bändiä League of Legends World Championship 2018 -ryhmän vaiheesta"
 
-msgid "<p>The last update was 10:39:01 28-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> Viimeinen päivitys oli 10:39:01 28.10.2018 UTC. Merkitse tämä sivu ja tarkista se <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> seuraavalle päivitykselle. </p>"
+msgid "<p>Number of perfect scores: <b>0</b>"
+msgstr "<p> Täydellisten pisteiden määrä: <b>0</b>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
-msgstr "<p> Mahdollisten täydellisten jäljellä olevien pisteiden määrä: <b>0</b>"
+msgid "<p><b>0</b> players with perfect pick'ems from group stage picked Invictus Gaming to win! At least 1 person picked every other team. See the pie charts for more details."
+msgstr "<p> <b>0</b> pelaajaa, joilla on täydellinen pick'ems ryhmätasolta poimittu Invictus Gaming voittaa! Vähintään yksi henkilö otti vastaan ​​joka toinen joukkue. Katso piireistä lisätietoja."
 
-msgid "<p>Highest possible scores: <b>104</b> total, <b>64</b> group and <b>40</b> knockout. The current highest knockout score is <b>35</b>.</p>"
-msgstr "<p> Suurin mahdollinen pisteytys: <b>104</b> yhteensä, <b>64</b> ryhmä ja <b>40</b> knockout. Nykyinen korkein noppa pisteet on <b>35</b> . </p>"
+msgid "<p>Highest possible scores: <b>124</b> total, <b>64</b> group and <b>60</b> knockout. The current highest knockout score is <b>35</b>.</p>"
+msgstr "<p> Suurin mahdollinen pisteytys: <b>124</b> yhteensä, <b>64</b> ryhmä ja <b>60</b> knockout. Nykyinen korkein noppa pisteet on <b>35</b> . </p>"
 
 msgid "Pick'em Link"
 msgstr "Pick'em Link"

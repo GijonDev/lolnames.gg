@@ -756,14 +756,14 @@ msgstr "完美的选择"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "2018年英雄联盟世界锦标赛小组赛期间，唯一一位仍然有机会获得完美选秀权的球员加上所有647完美皮克"
 
-msgid "<p>The last update was 10:39:01 28-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p>最后一次更新时间是10:38:01，即2018年10月28日UTC。为此页添加书签并重新登录<iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe>进行下一次更新。 </p>"
+msgid "<p>Number of perfect scores: <b>0</b>"
+msgstr "<p>完美分数： <b>0</b>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
-msgstr "<p>剩余可能的完美分数： <b>0</b>"
+msgid "<p><b>0</b> players with perfect pick'ems from group stage picked Invictus Gaming to win! At least 1 person picked every other team. See the pie charts for more details."
+msgstr "<p> <b>0</b>名来自小组赛的完美选秀球员选择Invictus Gaming获胜！每个团队至少挑选一人。有关更多详细信息，请参见饼图。"
 
-msgid "<p>Highest possible scores: <b>104</b> total, <b>64</b> group and <b>40</b> knockout. The current highest knockout score is <b>35</b>.</p>"
-msgstr "<p>最高分： <b>104</b>分， <b>64</b>组和<b>40</b>淘汰赛。目前最高的淘汰赛得分为<b>35分</b> 。 </p>"
+msgid "<p>Highest possible scores: <b>124</b> total, <b>64</b> group and <b>60</b> knockout. The current highest knockout score is <b>35</b>.</p>"
+msgstr "<p>最高分： <b>124</b>分， <b>64</b>组和<b>60</b>淘汰赛。目前最高的淘汰赛得分为<b>35分</b> 。 </p>"
 
 msgid "Pick'em Link"
 msgstr "Pick'em Link"

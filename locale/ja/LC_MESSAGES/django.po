@@ -756,14 +756,14 @@ msgstr "完璧なピックアップ"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "レジェンド・オブ・レジェンズ・ワールド・チャンピオンシップ（2018年リーグ）のグループステージで、完璧なピックアップと647完璧なピックアップを揃えた唯一のプレーヤーをご覧ください"
 
-msgid "<p>The last update was 10:39:01 28-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p>最終更新日は、UTC 2018年10月28日10時39分01秒でした。このページをブックマークしてもう一度チェックインしてください<iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe>次の更新のために。 </p>"
+msgid "<p>Number of perfect scores: <b>0</b>"
+msgstr "<p>完璧なスコアの数： <b>0</b>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
-msgstr "<p>可能性のある残りの完璧なスコアの数： <b>0</b>"
+msgid "<p><b>0</b> players with perfect pick'ems from group stage picked Invictus Gaming to win! At least 1 person picked every other team. See the pie charts for more details."
+msgstr "<p>グループステージから完璧なピックアップを得た<b>0</b>人のプレイヤーがInvictus Gamingを獲得！他のすべてのチームを少なくとも1人は選んだ。詳細は、円グラフを参照してください。"
 
-msgid "<p>Highest possible scores: <b>104</b> total, <b>64</b> group and <b>40</b> knockout. The current highest knockout score is <b>35</b>.</p>"
-msgstr "<p>最高得点： <b>104</b>合計、 <b>64</b>グループ、 <b>40</b>ノックアウト。現在の最高ノックアウトスコアは<b>35</b>です。 </p>"
+msgid "<p>Highest possible scores: <b>124</b> total, <b>64</b> group and <b>60</b> knockout. The current highest knockout score is <b>35</b>.</p>"
+msgstr "<p>最高得点： <b>124</b>合計、 <b>64</b>グループ、 <b>60</b>ノックアウト。現在の最高ノックアウトスコアは<b>35</b>です。 </p>"
 
 msgid "Pick'em Link"
 msgstr "ピックアップリンク"

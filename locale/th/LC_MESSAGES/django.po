@@ -756,14 +756,14 @@ msgstr "pick'ems ที่สมบูรณ์แบบ"
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
 msgstr "ดูผู้เล่นคนเดียวที่ยังคงมีโอกาสที่ pick'ems ที่สมบูรณ์แบบบวกกับ pickems ที่สมบูรณ์แบบที่สุด 647 จากเวทีกลุ่มของ League of Legends World Championship 2018"
 
-msgid "<p>The last update was 10:39:01 28-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> การปรับปรุงครั้งสุดท้ายคือ 10:39:01 28-Oct-2018 UTC บุ๊คมาร์คหน้านี้และกลับเข้ามาใหม่ <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> สำหรับการปรับปรุงครั้งต่อไป </p>"
+msgid "<p>Number of perfect scores: <b>0</b>"
+msgstr "<p> จำนวนคะแนนที่สมบูรณ์แบบ: <b>0</b>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
-msgstr "<p> จำนวนคะแนนที่สมบูรณ์แบบที่เป็นไปได้ที่เหลือ: <b>0</b>"
+msgid "<p><b>0</b> players with perfect pick'ems from group stage picked Invictus Gaming to win! At least 1 person picked every other team. See the pie charts for more details."
+msgstr "<p> ผู้เล่น <b>0</b> คนที่มี pick'ems ที่สมบูรณ์แบบจากกลุ่มได้เลือก Invictus Gaming เพื่อลุ้น! อย่างน้อย 1 คนเลือกทีมอื่น ๆ ทุกคน ดูแผนภูมิวงกลมสำหรับรายละเอียดเพิ่มเติม"
 
-msgid "<p>Highest possible scores: <b>104</b> total, <b>64</b> group and <b>40</b> knockout. The current highest knockout score is <b>35</b>.</p>"
-msgstr "<p> คะแนนสูงสุด: <b>104</b> คะแนนรวม <b>64</b> และ <b>40</b> คะแนน คะแนนสูงสุดที่น่าพิศวงที่สุดคือ <b>35</b> </p>"
+msgid "<p>Highest possible scores: <b>124</b> total, <b>64</b> group and <b>60</b> knockout. The current highest knockout score is <b>35</b>.</p>"
+msgstr "<p> คะแนนสูงสุด: <b>124</b> คะแนนรวม <b>64</b> และ <b>60</b> คะแนน คะแนนสูงสุดที่น่าพิศวงที่สุดคือ <b>35</b> </p>"
 
 msgid "Pick'em Link"
 msgstr "Pick'em Link"

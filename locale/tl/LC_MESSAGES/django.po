@@ -25,7 +25,7 @@ msgid "Must be two or more characters"
 msgstr "Dapat dalawa o higit pang mga character"
 
 msgid "Names can't contain 'riot'"
-msgstr "Ang mga pangalan ay hindi maaaring maglaman ng &#39;riot&#39;"
+msgstr "Ang mga pangalan ay hindi maaaring maglaman ng 'riot'"
 
 msgid "This is a problem with Riot's servers"
 msgstr "Ito ay isang problema sa mga server ng Riot"
@@ -310,7 +310,7 @@ msgid "League of Legends special characters"
 msgstr "Espesyal na mga character ng League of Legends"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr "Magdagdag ng mga espesyal na character sa &#39;%(name)s&#39; at makita kung alin ang magagamit!"
+msgstr "Magdagdag ng mga espesyal na character sa '%(name)s' at makita kung alin ang magagamit!"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
 msgstr "Ang pinakamahusay na liga ng alamat pangalan generator! Gamitin ito upang magdagdag ng mga espesyal na character sa anumang pangalan at palabas na magagamit."
@@ -748,25 +748,25 @@ msgid "Runes"
 msgstr "Runes"
 
 msgid "Pick'em"
-msgstr "Pick&#39;em"
+msgstr "Pick'em"
 
 msgid "perfect pick'ems"
-msgstr "perpektong pick&#39;ems"
+msgstr "perpektong pick'ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "Tingnan ang tanging manlalaro na mayroon pa ring pagkakataon sa perpektong pick&#39;ems kasama ang lahat ng 647 perpektong pickems mula sa yugto ng grupo ng League of Legends World Championship 2018"
+msgstr "Tingnan ang tanging manlalaro na mayroon pa ring pagkakataon sa perpektong pick'ems kasama ang lahat ng 647 perpektong pickems mula sa yugto ng grupo ng League of Legends World Championship 2018"
 
-msgid "<p>The last update was 10:39:01 28-Oct-2018 UTC. Bookmark this page and check back in <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> for the next update.</p>"
-msgstr "<p> Ang huling pag-update ay 10:39:01 28-Okt-2018 UTC. I-bookmark ang pahinang ito at suriin muli <iframe src=\"https://free.timeanddate.com/countdown/i6gsbk6y/n1440/cf11/cm0/cu4/ct1/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/iso2018-10-28T11:00:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"99\" height=\"19\"></iframe> para sa susunod na pag-update. </p>"
+msgid "<p>Number of perfect scores: <b>0</b>"
+msgstr "<p> Bilang ng mga perpektong score: <b>0</b>"
 
-msgid "<p>Number of possible perfect scores remaining: <b>0</b>"
-msgstr "<p> Bilang ng mga posibleng perpektong iskor na natitira: <b>0</b>"
+msgid "<p><b>0</b> players with perfect pick'ems from group stage picked Invictus Gaming to win! At least 1 person picked every other team. See the pie charts for more details."
+msgstr "<p> <b>0 mga</b> manlalaro na may perpektong pick'ems mula sa entablado ng pangkat ay kinuha ang Invictus Gaming upang manalo! Hindi bababa sa 1 tao ang pumili ng bawat iba pang mga koponan. Tingnan ang mga pie chart para sa higit pang mga detalye."
 
-msgid "<p>Highest possible scores: <b>104</b> total, <b>64</b> group and <b>40</b> knockout. The current highest knockout score is <b>35</b>.</p>"
-msgstr "<p> Pinakamataas na posibleng puntos: <b>104</b> kabuuan, <b>64 pangkat</b> at <b>40</b> knockout. Ang kasalukuyang pinakamataas na iskor ng knockout ay <b>35</b> . </p>"
+msgid "<p>Highest possible scores: <b>124</b> total, <b>64</b> group and <b>60</b> knockout. The current highest knockout score is <b>35</b>.</p>"
+msgstr "<p> Pinakamataas na posibleng iskor: <b>124</b> kabuuan, <b>64 pangkat</b> at <b>60 na</b> knockout. Ang kasalukuyang pinakamataas na iskor ng knockout ay <b>35</b> . </p>"
 
 msgid "Pick'em Link"
-msgstr "Pick&#39;em Link"
+msgstr "Pick'em Link"
 
 msgid "Total"
 msgstr "Kabuuang"
