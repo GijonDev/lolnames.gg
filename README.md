@@ -3,9 +3,11 @@ Issue tracker and translation files for [lolnames.gg](https://lolnames.gg/en/)
 
 # Translators
 
-Total length: 1724 words
+Total length: 1726 words
 
 Any amount of work is very appreciated. Even a line makes a difference.
+
+Currently any missing translations are translated with Google Cloud Translate API. If you have time please read through and message me any changes or if none that you have reviewed that language and there are no changes necessary.
 
 ###### Step 1
 Click the link to the text file with the translations
