@@ -22,7 +22,7 @@ msgid "Maximum 16 characters"
 msgstr "Maximum 16 karakter"
 
 msgid "Must be two or more characters"
-msgstr "Legalább 2 vagy több karakter kell legyen"
+msgstr "Legalább 2 vagy több karakter kell hogy legyen"
 
 msgid "Names can't contain 'riot'"
 msgstr "A nevek nem tartalmazhatják a 'riot'-ot"
@@ -31,10 +31,10 @@ msgid "This is a problem with Riot's servers"
 msgstr "Ez egy probléma a Riot szervereivel"
 
 msgid "New Account"
-msgstr "LoL Név felhasználói ID alapján."
+msgstr "Új fiók."
 
 msgid "Name Change"
-msgstr "Kövesd a névváltoztatásokat"
+msgstr "Névváltoztatás"
 
 msgid "Generator"
 msgstr "Generátor"
@@ -49,19 +49,19 @@ msgid "Account ID Lookup"
 msgstr "Felhasználó ID Kereső"
 
 msgid "Account ID"
-msgstr "Felhasználó ID Kereső"
+msgstr "Felhasználó ID"
 
 msgid "Lookup name by Account ID"
 msgstr "LoL Név felhasználói ID alapján."
 
 msgid "Invalid Account ID"
-msgstr "Keresés Felhasználó ID alapján"
+msgstr "Hibás felhasználói ID"
 
 msgid "Summoner Level High Scores"
 msgstr "Szint toplista"
 
 msgid "All Upcoming Names"
-msgstr "Minden Közelgő Név"
+msgstr "Minden közelgő név"
 
 msgid "Recently Available Names"
 msgstr "Mostanában Elérhető Nevek"
@@ -76,7 +76,7 @@ msgid "Four Letter Names"
 msgstr "Négy Betűs Nevek"
 
 msgid "All Available Names"
-msgstr "Minden Lehetséges Név"
+msgstr "Minden Elérhető Név"
 
 msgid "Lists"
 msgstr "Listák"
@@ -133,7 +133,7 @@ msgid "lol name checker"
 msgstr "lol név ellenőrző"
 
 msgid "league name checker"
-msgstr "bajnoki névellenőrző"
+msgstr "league névellenőrző"
 
 msgid "lol names"
 msgstr "lol nevek"
@@ -148,7 +148,7 @@ msgid "lol name check"
 msgstr "lol név ellenőrzés"
 
 msgid "league names"
-msgstr "bajnoki nevek"
+msgstr "league nevek"
 
 msgid "name checker lol"
 msgstr "név ellenőrző lol"
@@ -340,7 +340,7 @@ msgid "Upper case:"
 msgstr "Nagybetűs:"
 
 msgid "Symbols:"
-msgstr "szimbólumok:"
+msgstr "Szimbólumok:"
 
 msgid "Account ID Finder"
 msgstr "Felhasználó ID Kereső"
@@ -352,31 +352,31 @@ msgid "summoner id"
 msgstr "summoner id"
 
 msgid "lol account finder"
-msgstr "lol számláló kereső"
+msgstr "lol felhasználó kereső"
 
 msgid "account finder"
-msgstr "számláló kereső"
+msgstr "felhasználó kereső"
 
 msgid "lol id finder"
 msgstr "lol id kereső"
 
 msgid "lol summoner id"
-msgstr "lol summoner id"
+msgstr "lol idézői id"
 
 msgid "League of Legends account id"
-msgstr "League of Legends account id"
+msgstr "League of Legends felhasználói id"
 
 msgid "lol account id"
-msgstr "lol számlaazonosító"
+msgstr "lol  felhasználói id"
 
 msgid "summoner id lol"
-msgstr "summoner id lol"
+msgstr " felhasználói id lol"
 
 msgid "League of Legends id search"
 msgstr "League of Legends id keresés"
 
 msgid "League of Legends summoner id"
-msgstr "Liga Legends summoner id"
+msgstr "League of Legends summoner id"
 
 msgid "lol id search"
 msgstr "lol id keresés"
@@ -908,4 +908,3 @@ msgstr "1. lépés: A keresési fiók azonosítója"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "2. lépés: Keresse meg a fiók azonosítóját és a könyvjelzőt nyomon követéséhez"
-
