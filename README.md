@@ -66,7 +66,7 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous), [Lorex](https://www.facebook.com/groups/lolhungary/), [Kristóf Berta](https://www.facebook.com/berta.kristof)
   * Estonian - [shaw™](https://twitter.com/ShawiAE)
   * Serbian - [Novke](https://discord.gg/pqQEX6)
-  * Swedish - [RS_Froggit](https://www.reddit.com/user/RS_Froggit), Spike Spykid
+  * Swedish - [RS_Froggit](https://www.reddit.com/user/RS_Froggit), [Rebecka Dahlbom](https://www.linkedin.com/in/rebeckadahlbom/)
   * Turkish - Beta, Hakkı Murat, Ahmet Savmaz
   * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
   * German - [fvcxy](https://www.reddit.com/user/fvcxy)
