@@ -14,9 +14,9 @@ Click the link to the text file with the translations
 
 | ISO 639-1 Code | Language Name | Translated | Human Reviewed |
 | :-----: | :-----: | :-----: | :-----: |
-| da | [Danish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/da/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| da | [Danish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/da/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | de | [German](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/de/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
-| es | [Spanish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/es/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| es | [Spanish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/es/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | et | [Estonian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/et/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | fi | [Finnish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fi/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | fr | [French](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fr/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
@@ -33,7 +33,7 @@ Click the link to the text file with the translations
 | ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
-| sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | th | [Thai](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/th/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | tl | [Tagalog](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tl/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | tr | [Turkish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tr/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
@@ -73,4 +73,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Romanian - [AngelJimi](https://www.youtube.com/channel/UC6Qfp0zLBK03eYPnXRL2Gug)
   * Dutch - Stefan Schrauwen
   * Russian - [sadloveii](https://www.reddit.com/user/sadloveii)
-  * Danish - Anonymous
+  * Danish - Anonymous, [Tinggaard](https://github.com/Tinggaard)
