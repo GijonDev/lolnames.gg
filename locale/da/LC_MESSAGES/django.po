@@ -523,7 +523,7 @@ msgid "Region"
 msgstr "Region"
 
 msgid "Current Level"
-msgstr "Nuværende level
+msgstr "Nuværende level"
 
 msgid "Check now"
 msgstr "Tjek nu"
@@ -535,7 +535,7 @@ msgid "names for lol"
 msgstr "navne til lol"
 
 msgid "lol nicknames"
-msgstr "lol kaldenavne
+msgstr "lol kaldenavne"
 
 msgid "names for League of Legends"
 msgstr "navne til League of Legends"
@@ -544,7 +544,7 @@ msgid "best lol names"
 msgstr "bedste lol navne"
 
 msgid "League of Legends nicknames"
-msgstr "League of Legends kaldenavne
+msgstr "League of Legends kaldenavne"
 
 msgid "lol names list"
 msgstr "lol navne liste"
@@ -553,7 +553,7 @@ msgid "best name in lol"
 msgstr "bedste navn i lol"
 
 msgid "League of Legends names available"
-msgstr "League of Legends navne til tilgængelighed
+msgstr "League of Legends navne til tilgængelighed"
 
 msgid "cool League of Legends names"
 msgstr "cool Legends navne"
