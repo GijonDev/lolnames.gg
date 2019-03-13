@@ -213,8 +213,8 @@ msgstr "Watak-watak minimum untuk nama Liga Legends ialah 3. Anda boleh meletakk
 msgid "What timezone is used?"
 msgstr "Zon masa apa yang digunakan?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Semua masa adalah di UTC. Gunakan <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">penukar zon masa</a> ini untuk menyesuaikannya dengan masa setempat anda."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Semua masa adalah di UTC. Gunakan <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">penukar zon masa</a> ini untuk menyesuaikannya dengan masa setempat anda."
 
 msgid "When exactly will the name become available?"
 msgstr "Bilakah betul nama itu boleh didapati?"

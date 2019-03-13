@@ -213,8 +213,8 @@ msgstr "英雄联盟名称的最小字符数为3.您可以在字符之间放置�
 msgid "What timezone is used?"
 msgstr "使用什么时区？"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "所有时区均采用UTC格式。使用此时<a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">区转换器</a>将其调整为您当地的时间。"
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "所有时区均采用UTC格式。使用此时<a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">区转换器</a>将其调整为您当地的时间。"
 
 msgid "When exactly will the name become available?"
 msgstr "该名称何时可用？"

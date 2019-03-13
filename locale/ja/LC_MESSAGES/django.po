@@ -213,8 +213,8 @@ msgstr "League of Legendsの名前の最小文字数は3です。これを修正
 msgid "What timezone is used?"
 msgstr "どのタイムゾーンが使用されていますか？"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "すべてのタイムゾーンはUTCです。この<a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">タイムゾーンコンバータ</a>を使用して、現地時間に調整します。"
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "すべてのタイムゾーンはUTCです。この<a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">タイムゾーンコンバータ</a>を使用して、現地時間に調整します。"
 
 msgid "When exactly will the name become available?"
 msgstr "いつ名前が使えるようになりますか？"

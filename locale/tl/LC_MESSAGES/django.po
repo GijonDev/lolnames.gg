@@ -213,8 +213,8 @@ msgstr "Ang pinakamaliit na character para sa mga pangalan ng Liga ng Mga Alamat
 msgid "What timezone is used?"
 msgstr "Anong oras ang ginagamit?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Ang lahat ng timezone ay nasa UTC. Gamitin ang <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">converter ng timezone na</a> ito upang ayusin ang mga ito sa iyong lokal na oras."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Ang lahat ng timezone ay nasa UTC. Gamitin ang <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">converter ng timezone na</a> ito upang ayusin ang mga ito sa iyong lokal na oras."
 
 msgid "When exactly will the name become available?"
 msgstr "Kapag eksakto ay magagamit ang pangalan?"

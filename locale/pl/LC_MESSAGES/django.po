@@ -213,8 +213,8 @@ msgstr "Minimalne znaki dla nazw League of Legends to 3. Możesz umieścić spac
 msgid "What timezone is used?"
 msgstr "Jaka strefa czasowa jest używana?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Wszystkie strefy czasowe są w UTC. Użyj tego <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">konwertera stref czasowych</a>, aby dostosować je do twojego czasu lokalnego."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Wszystkie strefy czasowe są w UTC. Użyj tego <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">konwertera stref czasowych</a>, aby dostosować je do twojego czasu lokalnego."
 
 msgid "When exactly will the name become available?"
 msgstr "Kiedy dokładnie nazwa stanie się dostępna?"

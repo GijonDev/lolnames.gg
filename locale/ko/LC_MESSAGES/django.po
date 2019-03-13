@@ -213,8 +213,8 @@ msgstr "Legends of Legends의 최소 이름은 3 자입니다.이 문제를 해�
 msgid "What timezone is used?"
 msgstr "어떤 시간대가 사용됩니까?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "모든 시간대는 UTC로 표시됩니다. 이 <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">시간대 변환기를</a> 사용하여 현지 시간으로 조정하십시오."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "모든 시간대는 UTC로 표시됩니다. 이 <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">시간대 변환기를</a> 사용하여 현지 시간으로 조정하십시오."
 
 msgid "When exactly will the name become available?"
 msgstr "이름이 언제쯤 유효할까요?"

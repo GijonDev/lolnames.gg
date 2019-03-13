@@ -213,8 +213,8 @@ msgstr "Минимальными символами для имен Лиги Л�
 msgid "What timezone is used?"
 msgstr "Какой часовой пояс используется?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Все временные интервалы находятся в UTC. <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a>Используйте этот преобразователь часового пояса, чтобы настроить их на свое местное время.</a>"
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Все временные интервалы находятся в UTC. <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a>Используйте этот преобразователь часового пояса, чтобы настроить их на свое местное время.</a>"
 
 msgid "When exactly will the name become available?"
 msgstr "Когда именно имя станет доступным?"

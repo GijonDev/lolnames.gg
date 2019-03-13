@@ -213,8 +213,8 @@ msgstr "Os caracteres mínimos para os nomes de League of Legends são 3. Você 
 msgid "What timezone is used?"
 msgstr "Qual fuso horário é usado?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Todos os fusos horários estão em UTC. Use este <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">conversor de fuso horário</a> para ajustá-los à hora local."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Todos os fusos horários estão em UTC. Use este <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">conversor de fuso horário</a> para ajustá-los à hora local."
 
 msgid "When exactly will the name become available?"
 msgstr "Quando o nome estará disponível?"

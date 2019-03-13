@@ -213,8 +213,8 @@ msgstr "Karakter minimum untuk nama League of Legends adalah 3. Anda dapat menem
 msgid "What timezone is used?"
 msgstr "Zona waktu apa yang digunakan?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Semua zona waktu dalam UTC. Gunakan <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">konverter zona waktu</a> ini untuk menyesuaikannya dengan waktu lokal Anda."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Semua zona waktu dalam UTC. Gunakan <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">konverter zona waktu</a> ini untuk menyesuaikannya dengan waktu lokal Anda."
 
 msgid "When exactly will the name become available?"
 msgstr "Kapan tepatnya nama itu akan tersedia?"

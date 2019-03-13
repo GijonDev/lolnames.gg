@@ -213,8 +213,8 @@ msgstr "League of Legends nimed on minimaalsed märgid on 3. Võid panna vahele 
 msgid "What timezone is used?"
 msgstr "Mis ajatsooni on kasutatud?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Kõik ajatsoonid on UTC. Kasuta seda <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">ajatsooni muundurit</a>, et muuta UTC oma kohalikuks ajaks."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Kõik ajatsoonid on UTC. Kasuta seda <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">ajatsooni muundurit</a>, et muuta UTC oma kohalikuks ajaks."
 
 msgid "When exactly will the name become available?"
 msgstr "Millal täpselt muutub nimi kättesaadavaks?"

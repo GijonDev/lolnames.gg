@@ -213,8 +213,8 @@ msgstr "Caracterele minime pentru numele League of Legends sunt 3. Puteți pune 
 msgid "What timezone is used?"
 msgstr "Care este fusul orar?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Toate fusurile orare sunt in UTC(Coordinated Universal Time) Poti folosi asta <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> pentru a selecta timpul tau local: "
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Toate fusurile orare sunt in UTC(Coordinated Universal Time) Poti folosi asta <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> pentru a selecta timpul tau local: "
 
 msgid "When exactly will the name become available?"
 msgstr "Mai exact cand va deveni un nume disponibil"

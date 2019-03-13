@@ -213,8 +213,8 @@ msgstr "Det mindste tegn for League of Legends navne er 3. Du kan sætte et mell
 msgid "What timezone is used?"
 msgstr "Hvilken tidszone bruges?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Alle tidszoner er i UTC. Brug denne <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">tidszoneomformer</a> til at justere dem til din lokale tid."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Alle tidszoner er i UTC. Brug denne <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">tidszoneomformer</a> til at justere dem til din lokale tid."
 
 msgid "When exactly will the name become available?"
 msgstr "Hvornår, helt præcist bliver navnet nøjagtigt?"

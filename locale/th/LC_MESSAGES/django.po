@@ -213,8 +213,8 @@ msgstr "อักขระต่ำสุดสำหรับชื่อ Leagu
 msgid "What timezone is used?"
 msgstr "มีการใช้เขตเวลาอย่างไร"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "เขตเวลาทั้งหมดเป็น UTC ใช้ <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">ตัวแปลงเขตเวลา</a> เพื่อปรับให้เป็นเวลาท้องถิ่นของคุณ"
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "เขตเวลาทั้งหมดเป็น UTC ใช้ <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">ตัวแปลงเขตเวลา</a> เพื่อปรับให้เป็นเวลาท้องถิ่นของคุณ"
 
 msgid "When exactly will the name become available?"
 msgstr "เมื่อชื่อจะพร้อมใช้งาน?"

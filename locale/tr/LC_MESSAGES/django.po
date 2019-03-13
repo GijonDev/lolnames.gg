@@ -213,8 +213,8 @@ msgstr "League of Legends adlarının minimum karakterleri 3'tür. Bunu düzeltm
 msgid "What timezone is used?"
 msgstr "Hangi Saat Kullanıyor"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Bütün saatler EGEZ(UTC)'e uygundur. bunu kullanın <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">zaman çevirici</a> kendi saatinizi görmek için."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Bütün saatler EGEZ(UTC)'e uygundur. bunu kullanın <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">zaman çevirici</a> kendi saatinizi görmek için."
 
 msgid "When exactly will the name become available?"
 msgstr "İsimler ne zaman müsait oluyor?"

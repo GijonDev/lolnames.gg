@@ -213,7 +213,7 @@ msgstr "Минимални знакови за имена лиге легенд�
 msgid "What timezone is used?"
 msgstr "Koja vremenska zona se koristi?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
 msgstr "Sve zone su UTC"
 
 msgid "When exactly will the name become available?"

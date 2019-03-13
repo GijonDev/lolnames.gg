@@ -213,8 +213,8 @@ msgstr "Мінімальними символами для назв League of Le
 msgid "What timezone is used?"
 msgstr "Який часовий пояс використовується?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Усі часові пояси знаходяться в UTC. Використовуйте цей <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">конвертер часового поясу,</a> щоб налаштувати їх у місцевий час."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Усі часові пояси знаходяться в UTC. Використовуйте цей <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">конвертер часового поясу,</a> щоб налаштувати їх у місцевий час."
 
 msgid "When exactly will the name become available?"
 msgstr "Коли саме ім'я стане доступним?"

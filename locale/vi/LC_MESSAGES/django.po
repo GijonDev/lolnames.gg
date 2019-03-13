@@ -213,8 +213,8 @@ msgstr "Các ký tự tối thiểu cho tên của Liên Minh Huyền Thoại l�
 msgid "What timezone is used?"
 msgstr "Múi giờ nào được sử dụng?"
 
-msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Tất cả múi giờ đều ở dạng UTC. Sử dụng công cụ <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">chuyển đổi múi giờ</a> này để điều chỉnh chúng theo giờ địa phương của bạn."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Tất cả múi giờ đều ở dạng UTC. Sử dụng công cụ <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">chuyển đổi múi giờ</a> này để điều chỉnh chúng theo giờ địa phương của bạn."
 
 msgid "When exactly will the name become available?"
 msgstr "Khi nào tên chính xác sẽ có sẵn?"
