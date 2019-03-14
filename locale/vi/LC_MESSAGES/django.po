@@ -438,8 +438,8 @@ msgstr "Tên LoL theo ID tài khoản"
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "Tra cứu tên người dùng bằng ID tài khoản. Nhập ID tài khoản của người summoner và tìm tên người dùng của họ."
 
-msgid "Account ID %(account_id)s was found!"
-msgstr "Đã tìm thấy ID tài khoản %(account_id)s!"
+msgid "Account ID was found!"
+msgstr "Đã tìm thấy ID tài khoản!"
 
 msgid "Current Name"
 msgstr "Tên thật"

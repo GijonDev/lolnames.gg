@@ -438,8 +438,8 @@ msgstr "Лог Ім'я за ідентифікатором профілю"
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "Знайдіть ім'я користувача за допомогою ідентифікатора облікового запису. Введіть ідентифікатор облікового запису та знайдіть його ім'я користувача."
 
-msgid "Account ID %(account_id)s was found!"
-msgstr "Ідентифікатор облікового запису %(account_id)s був знайдений!"
+msgid "Account ID was found!"
+msgstr "Ідентифікатор облікового запису був знайдений!"
 
 msgid "Current Name"
 msgstr "Поточне ім'я"

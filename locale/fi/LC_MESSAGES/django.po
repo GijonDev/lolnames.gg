@@ -438,8 +438,8 @@ msgstr "LoL-nimi tilin tunnuksella"
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "Etsi käyttäjätunnusta tilin tunnuksen avulla. Anna summonin tilin tunnus ja löydä käyttäjätunnuksesi."
 
-msgid "Account ID %(account_id)s was found!"
-msgstr "Tilin tunnus %(account_id)s löytyi!"
+msgid "Account ID was found!"
+msgstr "Tilin tunnus löytyi!"
 
 msgid "Current Name"
 msgstr "Nykyinen nimi"

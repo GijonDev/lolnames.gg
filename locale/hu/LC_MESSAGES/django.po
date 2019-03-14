@@ -438,8 +438,8 @@ msgstr "LoL Név felhasználói ID alapján."
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "Keresd meg a felhasználónevet egy felhasználói ID-vel. Írd be egy idéző felhasználó ID-jét, és találd meg a felhasználónevüket."
 
-msgid "Account ID %(account_id)s was found!"
-msgstr "Fiókazonosító %(account_id)s találtak!"
+msgid "Account ID was found!"
+msgstr "Fiókazonosító találtak!"
 
 msgid "Current Name"
 msgstr "Jelenlegi név"

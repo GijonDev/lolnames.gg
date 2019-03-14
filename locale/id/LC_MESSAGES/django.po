@@ -438,8 +438,8 @@ msgstr "LoL Nama berdasarkan ID Akun"
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "Cari nama pengguna menggunakan ID akun. Masukkan ID akun summoner dan temukan nama penggunanya."
 
-msgid "Account ID %(account_id)s was found!"
-msgstr "ID Akun %(account_id)s ditemukan!"
+msgid "Account ID was found!"
+msgstr "ID Akun ditemukan!"
 
 msgid "Current Name"
 msgstr "Nama Saat Ini"

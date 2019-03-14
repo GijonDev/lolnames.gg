@@ -438,8 +438,8 @@ msgstr "按帳戶ID LoL名稱"
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "使用帳戶ID查找用戶名。輸入召喚者的帳戶ID並找到他們的用戶名。"
 
-msgid "Account ID %(account_id)s was found!"
-msgstr "找到了帳號%(account_id)s！"
+msgid "Account ID was found!"
+msgstr "找到了帳號"
 
 msgid "Current Name"
 msgstr "當前名稱"

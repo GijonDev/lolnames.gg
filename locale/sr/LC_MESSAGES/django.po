@@ -438,7 +438,7 @@ msgstr "LoL ime po ID-u naloga"
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "Trazi username koristeci ID naloga"
 
-msgid "Account ID %(account_id)s was found!"
+msgid "Account ID was found!"
 msgstr "Идентификован ИД налога %(account_id)s!"
 
 msgid "Current Name"

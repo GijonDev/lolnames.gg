@@ -438,8 +438,8 @@ msgstr "Hesap ID'den (kimliğinden) LoL ismi"
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "Bir hesap ID'sini (kimliğini) kullanarak bir kullanıcı adı arayın. Bir sihirdarın hesap ID'sini (kimliğini) girin ve kullanıcı adlarını bulun."
 
-msgid "Account ID %(account_id)s was found!"
-msgstr "Hesap ID %(account_id)s bulundu!"
+msgid "Account ID was found!"
+msgstr "Hesap ID bulundu!"
 
 msgid "Current Name"
 msgstr "Şu anki ismi"

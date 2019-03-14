@@ -438,8 +438,8 @@ msgstr "Nazwa LoL według ID konta"
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "Wyszukaj nazwę użytkownika przy użyciu ID konta. Wprowadź ID konta przywoływacza i znajdź jego nazwę użytkownika."
 
-msgid "Account ID %(account_id)s was found!"
-msgstr "Identyfikator konta %(account_id)s został znaleziony!"
+msgid "Account ID was found!"
+msgstr "Identyfikator konta został znaleziony!"
 
 msgid "Current Name"
 msgstr "Bieżące imię"

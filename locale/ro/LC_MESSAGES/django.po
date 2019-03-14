@@ -438,8 +438,8 @@ msgstr "LoL nume de cont"
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr "Cauta un nume de summoner folosin un nume de cont. Introdu numele de cont pentru a gasi numele de utilizator"
 
-msgid "Account ID %(account_id)s was found!"
-msgstr "ID-ul contului %(account_id)s a fost găsit!"
+msgid "Account ID was found!"
+msgstr "ID-ul contului a fost găsit!"
 
 msgid "Current Name"
 msgstr "Nume curent"

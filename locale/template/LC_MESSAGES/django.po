@@ -438,7 +438,7 @@ msgstr ""
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
 msgstr ""
 
-msgid "Account ID %(account_id)s was found!"
+msgid "Account ID was found!"
 msgstr ""
 
 msgid "Current Name"
