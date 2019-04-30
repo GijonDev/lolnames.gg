@@ -26,7 +26,7 @@ Click the link to the text file with the translations
 | ja | [Japanese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ja/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | ko | [Korean](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ko/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | ms | [Malay](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ms/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
-| nl | [Dutch](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nl/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| nl | [Dutch](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nl/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | nn | [Norwegian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nn/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | pl | [Polish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pl/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
@@ -71,7 +71,7 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
   * German - [fvcxy](https://www.reddit.com/user/fvcxy)
   * Romanian - [AngelJimi](https://www.youtube.com/channel/UC6Qfp0zLBK03eYPnXRL2Gug)
-  * Dutch - Stefan Schrauwen
+  * Dutch - Stefan Schrauwen, [meesvandongen](https://github.com/meesvandongen)
   * Russian - [sadloveii](https://www.reddit.com/user/sadloveii)
   * Danish - Anonymous, [Tinggaard](https://github.com/Tinggaard)
   * Norwegian - [@Setsu_Trash](https://twitter.com/Setsu_Trash)
