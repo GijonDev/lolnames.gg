@@ -15,7 +15,7 @@ Click the link to the text file with the translations
 | ISO 639-1 Code | Language Name | Translated | Human Reviewed |
 | :-----: | :-----: | :-----: | :-----: |
 | da | [Danish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/da/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
-| de | [German](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/de/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| de | [German](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/de/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | es | [Spanish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/es/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | et | [Estonian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/et/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | fi | [Finnish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fi/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
@@ -69,7 +69,7 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Swedish - [RS_Froggit](https://www.reddit.com/user/RS_Froggit), [Rebecka Dahlbom](https://www.linkedin.com/in/rebeckadahlbom/)
   * Turkish - Beta, Hakkı Murat, Ahmet Savmaz
   * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
-  * German - [fvcxy](https://www.reddit.com/user/fvcxy)
+  * German - [fvcxy](https://www.reddit.com/user/fvcxy), [YFnepc](https://www.reddit.com/user/YFnepc)
   * Romanian - [AngelJimi](https://www.youtube.com/channel/UC6Qfp0zLBK03eYPnXRL2Gug)
   * Dutch - Stefan Schrauwen, [meesvandongen](https://github.com/meesvandongen)
   * Russian - [sadloveii](https://www.reddit.com/user/sadloveii)
