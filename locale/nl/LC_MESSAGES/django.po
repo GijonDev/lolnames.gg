@@ -16,13 +16,13 @@ msgid "Invalid name"
 msgstr "Ongeldige naam"
 
 msgid "Invalid characters: "
-msgstr "Invalide tekens"
+msgstr "Ongeldige tekens"
 
 msgid "Maximum 16 characters"
 msgstr "Maximaal 16 tekens"
 
 msgid "Must be two or more characters"
-msgstr "Minimaal twee of meer tekens"
+msgstr "Moet uit twee of meer tekens bestaan"
 
 msgid "Names can't contain 'riot'"
 msgstr "Namen mogen geen ‘riot’ bevatten"
@@ -34,7 +34,7 @@ msgid "New Account"
 msgstr "Nieuw account"
 
 msgid "Name Change"
-msgstr "Naam verandering"
+msgstr "Naamsverandering"
 
 msgid "Generator"
 msgstr "Generator"
@@ -46,7 +46,7 @@ msgid "Summoner name not in use"
 msgstr "Summoner naam niet in gebruik"
 
 msgid "Account ID Lookup"
-msgstr "Account ID zoeken"
+msgstr "Account ID opzoeken"
 
 msgid "Account ID"
 msgstr "Account ID"
@@ -58,13 +58,13 @@ msgid "Invalid Account ID"
 msgstr "Invalide Account ID"
 
 msgid "Summoner Level High Scores"
-msgstr "Summoner Level top scores"
+msgstr "Summoner Level topscores"
 
 msgid "All Upcoming Names"
 msgstr "Alle aankomende namen"
 
 msgid "Recently Available Names"
-msgstr "Recente beschikbare namen"
+msgstr "Recent vrijgekomen namen"
 
 msgid "Two Letter Names"
 msgstr "Twee letter namen"
@@ -88,7 +88,7 @@ msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "Geen summoner met naam \"%(name)s\" op %(region)s."
 
 msgid "Perfect Pickems"
-msgstr "Perfecte keuzes"
+msgstr "Perfecte Pickems"
 
 msgid "LoL Names"
 msgstr "LoL namen"
@@ -106,7 +106,7 @@ msgid "Lookup Match Details"
 msgstr "Match details opzoeken"
 
 msgid "Track Name Changes"
-msgstr "Naam veranderingen bijhouden"
+msgstr "Naamswijzigingen bijhouden"
 
 msgid "Lookup Account ID"
 msgstr "Account ID opzoeken"
@@ -172,10 +172,10 @@ msgid "available league names"
 msgstr "beschikbare competitie namen"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr "Veel gevraagde vragen over summoner namen"
+msgstr "Veelgestelde vragen over summoner namen"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr "FAQ craven over League of Legends summoner naam veranderings regels"
+msgstr "FAQ vragen over League of Legends summoner naam wijzigingsregels"
 
 msgid "Close"
 msgstr "Sluiten"
@@ -184,28 +184,28 @@ msgid "This section contains a wealth of information, related to <strong>LoL Nam
 msgstr "Deze sectie bevat veel informatie, gerelateerd aan <strong>LoL Names.GG</string> en zijn gebruik. Als je niet een antwoord kan vinden op je vraag, voel je vrij om mij te <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contacteren</a>."
 
 msgid "Frequently Asked Questions"
-msgstr "Veel gevraagde vragen"
+msgstr "Veelgestelde vragen"
 
 msgid "How frequently do the lists update?"
-msgstr "Hoe vaak worden de lijsten geüpdatet?"
+msgstr "Hoe vaak worden de lijsten bijgewerkt?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr "De lijsten worden ongeveer elk uur geüpdatet. Elke week word er een volledige ‘rescan’ uitgevoerd"
+msgstr "De lijsten worden ongeveer elk uur bijgewerkt. Elke week word er een volledige ‘rescan’ uitgevoerd"
 
 msgid "Why can't I take a name on a new account?"
-msgstr "waarom kan ik geen naam nemen op een nieuw account?"
+msgstr "Waarom kan ik een naam niet nemen op een nieuw account?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "Als een naam al in gebruik is door een ander account kun je het allen verkrijgen door een naam verandering. Deze namen worden laten zien met een groene achtergrond. Als een naam niet in gebruik is door een gebruiker kun je deze gebruiken op een gloednieuw account.Deze namen worden laten zien met een blauwe achtergrond."
+msgstr "Als een naam al is geregistreerd door een account kunt u deze alleen verkrijgen via een naamswijziging. Deze namen worden weergegeven met een groene achtergrond. Als een naam niet door een huidige gebruiker is geregistreerd, kunt u deze op een gloednieuw account zetten. Deze namen worden getoond met een blauwe achtergrond."
 
 msgid "What if the account is banned?"
 msgstr "Wat als het account is verbannen?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
-msgstr "Also het account is verbannen kan het worden laten zien als ‘niet gebruikt’ met een groene achtergrond, maar het blijft voor altijd onbeschikbaar tenzij Riot hun plolicy over verbannen accounts verandert."
+msgstr "Als het account is verbannen is het mogelijk dat het wordt getoont als ‘niet gebruikt’ met een groene achtergrond, maar het blijft voor altijd onbeschikbaar tenzij Riot hun beleid over verbannen accounts verandert."
 
 msgid "How can I get a 2 letter name?"
-msgstr "Hoe kan ik een twee letterige naam krijgen?"
+msgstr "Hoe kan ik een naam van 2 letters verkrijgen?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
 msgstr "De minimum tekens voor League of Legends namen zijn 3. U kunt een spatie tussen de tekens plaatsen om dit te verhelpen."
@@ -232,7 +232,7 @@ msgid "Where should I report an incorrect translation?"
 msgstr "Waar zou ik een incorrecte vertaling kunnen rapporteren?"
 
 msgid "Contact me here."
-msgstr "Contact mij hier."
+msgstr "Contacteer mij hier."
 
 msgid "Where should I report a bug?"
 msgstr "Waar zou ik een fout kunnen rapporteren?"
@@ -283,7 +283,7 @@ msgid "League of Legends username generator"
 msgstr "League of Legends gebruikersnaam generator"
 
 msgid "lol club tag generator"
-msgstr "lol club taggenerator"
+msgstr "lol club tag generator"
 
 msgid "lol summoner name generator"
 msgstr "lol summoner naamgenerator"
@@ -310,7 +310,7 @@ msgid "League of Legends special characters"
 msgstr "League of Legends speciale karakters"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr "Voeg speciale tekens toe aan '%(name)s’ en zie welke beschikbaar zijn!"
+msgstr "Voeg speciale tekens toe aan '%(name)s' en zie welke beschikbaar zijn!"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
 msgstr "De beste League of Legends naam generator! Gebruik het om speciale tekens aan elke naam toe te voegen en te laten zien welke beschikbaar zijn."
@@ -328,7 +328,7 @@ msgid "ERROR:"
 msgstr "FOUT"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr "Dit voegt speciale tekens to aan namen en kijkt of ze beschikbaar zijn."
+msgstr "Dit voegt speciale tekens toe aan namen en kijkt of ze beschikbaar zijn."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
 msgstr "Een lijst van alle grote en kleine speciale letter die toegestaan zijn in League of Legends summoner namen en eruit zien als engelse letters."
@@ -400,7 +400,7 @@ msgid "LoL Account ID Finder"
 msgstr "LoL Account ID Zoeker"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr "Voer een summoner naam in en vind zijn account ID. Als ze hun naam veranderen blijft het account ID hetzelfde."
+msgstr "Voer een summoner naam in en vind de account ID. Als ze hun naam veranderen blijft de account ID hetzelfde."
 
 msgid "Search"
 msgstr "Zoeken"
@@ -427,7 +427,7 @@ msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s is niet in gebruik!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr "Zie welke summoner naam bij het account ID hoort %(account_id)s!"
+msgstr "Zie welke summoner naam bij de account ID hoort %(account_id)s!"
 
 msgid "Search for a summoner name using an account ID."
 msgstr "Zoek voor een summoner naam met gebruik van een account ID."
@@ -448,10 +448,10 @@ msgid "Previous Names"
 msgstr "Vorige namen"
 
 msgid "Coming soon!"
-msgstr "Komt binnenkort!"
+msgstr "Binnenkort beschikbaar!"
 
 msgid "Current level"
-msgstr "Huidig ​​niveau"
+msgstr "Huidig niveau"
 
 msgid "%(account_id)s is not owned!"
 msgstr "%(account_id)s is geen eigendom!"
@@ -523,7 +523,7 @@ msgid "Region"
 msgstr "Regio"
 
 msgid "Current Level"
-msgstr "Huidig ​​niveau"
+msgstr "Huidig niveau"
 
 msgid "Check now"
 msgstr "Check nu"
@@ -595,7 +595,7 @@ msgid "LoL Name Checker"
 msgstr "LoL Namen Nakijker"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "Een goede gebruikersnaam vinden is moeilijk, wij maken het makkelijk! LoL Namen GG biedt een League of Legends namen nakijker aan, een database van gegenereerde beschikbare namen en een lijst can opkomende namen gebaseerd op voorgaande zoekopdrachten. LoL Namen GG is die perfecte plek om de beste League of Legends summoner naam te krijgen. Bijvoorbeeld, Bekijk onze lijsten van drie letter namen of typ je droom League of Legends naam in en we vertellen je wanneer hij beschikbaar is!"
+msgstr "Een goede gebruikersnaam vinden is moeilijk, wij maken het makkelijk! LoL Names GG biedt een League of Legends namen nakijker aan, een database van gegenereerde beschikbare namen en een lijst van opkomende namen gebaseerd op voorgaande zoekopdrachten. LoL Namen GG is die perfecte plek om de beste League of Legends summoner naam te krijgen. Bijvoorbeeld, Bekijk onze lijsten van drie letter namen of typ je droom League of Legends naam in en we vertellen je wanneer hij beschikbaar is!"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Gebruik deze website om te vinden wanneer een summoner naam vervalt."
@@ -673,7 +673,7 @@ msgid "Select a list and region"
 msgstr "Selecteer een lijst en regio"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr "Regelmatig geüpdatet, lijsten van de beste beschikbare League of Legends summoner namen. Vind lijsten met alle beste summoner namen."
+msgstr "Regelmatig bijgewerkt, gecureerde lijsten van de beste beschikbare League of Legends summoner namen. Vind lijsten met de beste summoner namen."
 
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr "Zie een lijst van %(page_title)s en wanneer ze beschikbaar zijn!"
