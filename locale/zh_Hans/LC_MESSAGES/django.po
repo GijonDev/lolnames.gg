@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "召唤师名称..."
 
@@ -54,8 +53,8 @@ msgstr "帐户ID"
 msgid "Lookup name by Account ID"
 msgstr "按帐户ID查找名称"
 
-msgid "Invalid Account ID"
-msgstr "帐号ID无效"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "召唤师等级高分"
@@ -75,8 +74,17 @@ msgstr "三个字母的名字"
 msgid "Four Letter Names"
 msgstr "四个字母的名字"
 
-msgid "All Available Names"
-msgstr "所有可用名称"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "符号："
 
 msgid "Lists"
 msgstr "清单"
@@ -186,6 +194,12 @@ msgstr "本节包含大量与<strong>LoL Names.GG</strong>及其使用相关的�
 msgid "Frequently Asked Questions"
 msgstr "经常问的问题"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "我应该在哪里报告错误的翻译？"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "列表更新的频率如何？"
 
@@ -233,9 +247,6 @@ msgstr "我应该在哪里报告错误的翻译？"
 
 msgid "Contact me here."
 msgstr "在这里联系我。"
-
-msgid "Where should I report a bug?"
-msgstr "我应该在哪里报告错误？"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "为什么不允许前Xahah和Rakan冠军头衔？"
@@ -414,14 +425,14 @@ msgstr "最后一盘游戏"
 msgid "Last active"
 msgstr "最后登录"
 
-msgid "Click and bookmark to track"
-msgstr "点击并添加书签进行跟踪"
-
-msgid "Summoner ID"
-msgstr "召唤者ID"
-
 msgid "Level"
 msgstr "水平"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "点击并添加书签进行跟踪"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s未使用！"
@@ -435,8 +446,8 @@ msgstr "使用帐户ID搜索召唤者姓名。"
 msgid "LoL Name by Account ID"
 msgstr "按帐户ID LoL名称"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "使用帐户ID查找用户名。输入召唤者的帐户ID并找到他们的用户名。"
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "找到了帐号"
@@ -510,11 +521,23 @@ msgstr "英雄联盟中的顶级召唤师等级！"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "跟踪谁拥有英雄联盟中最高的召唤等级。高分可以在世界范围内显示或按地区排序。查看召唤师级排行榜。"
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "此排行榜每天至少更新一次。为此页面添加书签，稍后再回来查看新的更新。"
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "还可以查看<a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">召唤者姓名检查器</a>或<a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">即将到期</a>的<a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">名单列表</a> 。"
+
+msgid "Rank"
+msgstr "独奏排名"
+
+msgid "Icon"
+msgstr "图标"
 
 msgid "Summoner Name"
 msgstr "召唤师名称"
@@ -591,11 +614,11 @@ msgstr "查看召唤者名称%(name)s何时可用！"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "最好的英雄联盟名称。 非活动名称检查器，生成列表和热门搜索。"
 
-msgid "LoL Name Checker"
-msgstr "LoL名称检查器"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "找到一个好的用户名很难，我们让它变得简单！ LoL名称GG提供了一个英雄联盟名称检查器，一个生成已有名称的数据库和一个基于以前搜索的即将到来的名字列表。 LoL Names GG是获得最佳英雄联盟召唤者名字的最佳地点。例如，查看我们的三个字母名称列表或输入您的梦想英雄联盟名称，我们会在可用时通知您！"
+
+msgid "LoL Name Checker"
+msgstr "LoL名称检查器"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "使用此网站查找召唤者名称何时到期。"
@@ -816,9 +839,6 @@ msgstr "查看英雄联盟中所有最常用和最少使用的召唤者图标"
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "此表显示了所有地区当前补丁中英雄联盟中所有最常用和最稀有的召唤者图标。"
 
-msgid "Icon"
-msgstr "图标"
-
 msgid "Number"
 msgstr "数"
 
@@ -908,4 +928,8 @@ msgstr "第1步：查找帐户ID"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "第2步：按帐户ID和书签进行搜索以进行跟踪"
+
+
+
+
 

@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Pangalan ng summoner ..."
 
@@ -54,8 +53,8 @@ msgstr "Account ID"
 msgid "Lookup name by Account ID"
 msgstr "Hanapin ang pangalan ng Account ID"
 
-msgid "Invalid Account ID"
-msgstr "Di-wastong ID ng Account"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Mataas na Kalidad ng Summoner Level"
@@ -75,8 +74,17 @@ msgstr "Tatlong Pangalan ng Liham"
 msgid "Four Letter Names"
 msgstr "Apat na Pangalan ng Liham"
 
-msgid "All Available Names"
-msgstr "Lahat ng Mga Magagamit na Pangalan"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Mga Simbolo:"
 
 msgid "Lists"
 msgstr "Listahan"
@@ -186,6 +194,12 @@ msgstr "Ang seksyon na ito ay naglalaman ng maraming impormasyon, na may kaugnay
 msgid "Frequently Asked Questions"
 msgstr "Mga Madalas Itanong"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Saan ako dapat mag-ulat ng maling pagsasalin?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Gaano kadalas ina-update ang mga listahan?"
 
@@ -233,9 +247,6 @@ msgstr "Saan ako dapat mag-ulat ng maling pagsasalin?"
 
 msgid "Contact me here."
 msgstr "Makipag-ugnay sa akin dito."
-
-msgid "Where should I report a bug?"
-msgstr "Saan ako dapat mag-ulat ng isang bug?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Bakit hindi pinapayagan ang mga pangalan ng pre-Xayah at Rakan champion?"
@@ -414,14 +425,14 @@ msgstr "Huling laro"
 msgid "Last active"
 msgstr "Huling Aktibo"
 
-msgid "Click and bookmark to track"
-msgstr "Mag-click at mag-bookmark upang subaybayan"
-
-msgid "Summoner ID"
-msgstr "Summoner ID"
-
 msgid "Level"
 msgstr "Antas"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Mag-click at mag-bookmark upang subaybayan"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "Hindi ginagamit ang %(summoner_name)s!"
@@ -435,8 +446,8 @@ msgstr "Maghanap ng isang pangalan ng summoner gamit ang isang account ID."
 msgid "LoL Name by Account ID"
 msgstr "LoL Name by Account ID"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Hanapin ang isang username gamit ang isang account ID. Magpasok ng ID ng account ng summoner at hanapin ang kanilang username."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Natagpuan ang ID ng Account!"
@@ -510,11 +521,23 @@ msgstr "Ang pinakamataas na antas ng summoner sa League of Legends!"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Subaybayan kung sino ang pinakamataas na antas ng summoner sa League of Legends. Ang mga mataas na iskor ay maipapakita bilang buong mundo o pinagsunod-sunod ayon sa rehiyon. Tingnan ang mga leaderboard antas ng summoner."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Ang mga leaderboard update na ito ay hindi bababa sa isang beses araw-araw. I-bookmark ang pahinang ito at suriin muli sa ibang pagkakataon para sa mga bagong update."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Tingnan din ang <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">checker name ng summoner</a> o ang mga <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listahan ng mga paparating na pangalan ng expiring</a> ."
+
+msgid "Rank"
+msgstr "Solo Rank"
+
+msgid "Icon"
+msgstr "Icon"
 
 msgid "Summoner Name"
 msgstr "Pangalan ng Summoner"
@@ -591,11 +614,11 @@ msgstr "Tingnan kapag available ang pangalan ng summoner na %(name)s!"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Ang pinakamahusay na mga pangalan ng League of Legends. Checker ng hindi aktibong pangalan, mga nabuong listahan at mga sikat na paghahanap."
 
-msgid "LoL Name Checker"
-msgstr "LoL Name Checker"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Ang paghahanap ng magandang username ay mahirap, ginagawa naming madali! Ang LoL Names GG ay nagbibigay ng isang checker ng pangalan ng League of Legends, isang database ng mga nabuong magagamit na mga pangalan at isang listahan ng mga paparating na mga pangalan batay sa nakaraang mga paghahanap. LoL Names GG ay ang perpektong lugar upang makuha ang pinakamahusay na Liga ng mga alamat ng pangalan ng summoner. Halimbawa, tingnan ang aming listahan ng tatlong mga titik na pangalan o i-type sa iyong pangarap na Liga ng mga Alamat ng pangalan at ipapaalam namin sa iyo kung magagamit!"
+
+msgid "LoL Name Checker"
+msgstr "LoL Name Checker"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Gamitin ang website na ito upang mahanap kapag ang isang pangalan ng summoner ay mawawalan ng bisa."
@@ -816,9 +839,6 @@ msgstr "Tingnan ang lahat ng pinaka at pinakamaliit na ginamit na mga icon ng su
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Ipinapakita ng talahanayan na ito ang lahat ng pinaka ginagamit at rarest summoner icon sa League of Legends para sa kasalukuyang patch sa lahat ng mga rehiyon."
 
-msgid "Icon"
-msgstr "Icon"
-
 msgid "Number"
 msgstr "Numero"
 
@@ -908,4 +928,8 @@ msgstr "Hakbang 1: Hanapin ang ID ng Account"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Hakbang 2: Maghanap sa pamamagitan ng Account ID at bookmark upang subaybayan"
+
+
+
+
 

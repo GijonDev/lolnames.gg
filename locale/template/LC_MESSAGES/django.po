@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr ""
 
@@ -54,7 +53,7 @@ msgstr ""
 msgid "Lookup name by Account ID"
 msgstr ""
 
-msgid "Invalid Account ID"
+msgid "This is an old account ID. Please search the name again to get a new one"
 msgstr ""
 
 msgid "Summoner Level High Scores"
@@ -75,7 +74,16 @@ msgstr ""
 msgid "Four Letter Names"
 msgstr ""
 
-msgid "All Available Names"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
 msgstr ""
 
 msgid "Lists"
@@ -186,6 +194,12 @@ msgstr ""
 msgid "Frequently Asked Questions"
 msgstr ""
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr ""
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr ""
 
@@ -232,9 +246,6 @@ msgid "Where should I report an incorrect translation?"
 msgstr ""
 
 msgid "Contact me here."
-msgstr ""
-
-msgid "Where should I report a bug?"
 msgstr ""
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
@@ -414,13 +425,13 @@ msgstr ""
 msgid "Last active"
 msgstr ""
 
-msgid "Click and bookmark to track"
-msgstr ""
-
-msgid "Summoner ID"
-msgstr ""
-
 msgid "Level"
+msgstr ""
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
 msgstr ""
 
 msgid "%(summoner_name)s is not in use!"
@@ -435,7 +446,7 @@ msgstr ""
 msgid "LoL Name by Account ID"
 msgstr ""
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
 msgstr ""
 
 msgid "Account ID was found!"
@@ -510,10 +521,22 @@ msgstr ""
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr ""
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr ""
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
+msgstr ""
+
+msgid "Rank"
+msgstr ""
+
+msgid "Icon"
 msgstr ""
 
 msgid "Summoner Name"
@@ -591,10 +614,10 @@ msgstr ""
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr ""
 
-msgid "LoL Name Checker"
+msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr ""
 
-msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
+msgid "LoL Name Checker"
 msgstr ""
 
 msgid "Use this website to find when a summoner name will expire."
@@ -816,9 +839,6 @@ msgstr ""
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr ""
 
-msgid "Icon"
-msgstr ""
-
 msgid "Number"
 msgstr ""
 
@@ -908,4 +928,3 @@ msgstr ""
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr ""
-

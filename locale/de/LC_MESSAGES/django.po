@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Beschwörername"
 
@@ -54,8 +53,8 @@ msgstr "Konto ID"
 msgid "Lookup name by Account ID"
 msgstr "Suche Name nach Konto-ID"
 
-msgid "Invalid Account ID"
-msgstr "Ungültige Konto ID"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Beschwörerlevel Bestenliste"
@@ -75,8 +74,17 @@ msgstr "Drei Zeichen Namen"
 msgid "Four Letter Names"
 msgstr "Vier Zeichen Namen"
 
-msgid "All Available Names"
-msgstr "Alle verfügbaren Namen"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Symbole:"
 
 msgid "Lists"
 msgstr "Listen"
@@ -186,6 +194,12 @@ msgstr "Dieser Abschnitt enthält eine Fülle von Informationen, die sich auf <s
 msgid "Frequently Asked Questions"
 msgstr "Häufig gestellte Fragen"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Wo soll ich eine falsche Übersetzung melden?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Wie häufig aktualisieren sich die Listen?"
 
@@ -233,9 +247,6 @@ msgstr "Wo soll ich eine falsche Übersetzung melden?"
 
 msgid "Contact me here."
 msgstr "Kontaktieren Sie mich hier."
-
-msgid "Where should I report a bug?"
-msgstr "Wo sollte ich einen Fehler melden?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Warum sind keine Pre-Xayah- und Rakan-Champion-Namen erlaubt?"
@@ -414,14 +425,14 @@ msgstr "Letztes Spiel"
 msgid "Last active"
 msgstr "Letzte Aktivität"
 
-msgid "Click and bookmark to track"
-msgstr "Klicke und füge den Namen zum Lesezeichen hinzu"
-
-msgid "Summoner ID"
-msgstr "Beschwörernamen ID"
-
 msgid "Level"
 msgstr "Level"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Klicke und füge den Namen zum Lesezeichen hinzu"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s wird nicht verwendet!"
@@ -435,8 +446,8 @@ msgstr "Suchen Sie nach einem Beschwörernamen mit einer Konto-ID."
 msgid "LoL Name by Account ID"
 msgstr "LoL Name nach Konto-ID"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Schauen Sie einen Benutzernamen mit einer Konto-ID an. Geben Sie die Kontonummer eines Beschwörers ein und finden Sie ihren Benutzernamen."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Konto ID wurde gefunden!"
@@ -510,11 +521,23 @@ msgstr "Das höchste Beschwörerlevel in League of Legends"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Verfolge wer das höchste Beschwörerlevel in League of Legends hat. Die Rekorde können weltweit oder sortiert nach Region dargestellt werden. Schau dir die Beschwörerlevel Bestenliste an."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Diese Rangliste wird mindestens einmal täglich aktualisiert. Setzen Sie ein Lesezeichen für diese Seite und überprüfen Sie später, ob neue Updates verfügbar sind."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "<a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">Schaut euch</a> auch den <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">Namensprüfer</a> des <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">Beschwörers</a> oder die <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">Liste der auslaufenden Namen an</a> ."
+
+msgid "Rank"
+msgstr "Solo Rang"
+
+msgid "Icon"
+msgstr "Symbol"
 
 msgid "Summoner Name"
 msgstr "Beschwörernamen"
@@ -591,11 +614,11 @@ msgstr "Sehen Sie, wenn der Name des Beschwörers %(name)s verfügbar ist!"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Die besten League of Legends Beschwörernamen. Inaktive Namensprüfung, generierte Listen und beliebte Suchanfragen."
 
-msgid "LoL Name Checker"
-msgstr "LoL Namen Überprüfer"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Einen guten Benutzernamen zu finden ist schwer, wir machen es einfach! LoL Names GG bietet einen League of Legends Name Checker, eine Datenbank mit bereits vorhandenen Namen und eine Liste der kommenden Namen auf der Grundlage früherer Suchvorgänge. LoL Names GG ist der perfekte Ort, um die besten League of Legends Beschwörernamen zu bekommen. Sehen Sie sich zum Beispiel unsere Liste der Drei-Buchstaben Namen an oder geben Sie Ihren Traum League of Legends Namen ein und wir werden Sie informieren, wann er verfügbar ist!"
+
+msgid "LoL Name Checker"
+msgstr "LoL Namen Überprüfer"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Benutzen sie diese Seite um herauszufinden wann ein Beschwörername ablaufen."
@@ -816,9 +839,6 @@ msgstr "Sieh dir die meisten und am wenigsten verwendeten Beschwörer-Symbole in
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Diese Tabelle zeigt die meistgenutzten und seltensten Beschwörer-Symbole in League of Legends für den aktuellen Patch in allen Regionen."
 
-msgid "Icon"
-msgstr "Symbol"
-
 msgid "Number"
 msgstr "Nummer"
 
@@ -908,3 +928,8 @@ msgstr "Schritt 1: Konto-ID suchen"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Schritt 2: Suche per Konto-ID und erstelle ein Lesezeichen zum Nachverfolgen"
+
+
+
+
+

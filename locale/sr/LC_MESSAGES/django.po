@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Ime"
 
@@ -54,8 +53,8 @@ msgstr "ID naloga"
 msgid "Lookup name by Account ID"
 msgstr "Pretrazi ime po IDu naloga"
 
-msgid "Invalid Account ID"
-msgstr "Neprikladan ID naloga"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Najveći nivoi Summonera"
@@ -75,8 +74,17 @@ msgstr "3 slova"
 msgid "Four Letter Names"
 msgstr "LOL Imena"
 
-msgid "All Available Names"
-msgstr "Sva dostupna imena"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Симболи:"
 
 msgid "Lists"
 msgstr "Liste"
@@ -186,6 +194,12 @@ msgstr "Ova stranica sadrži gomilu informacija vezanu za <strong>LoL Names.GG</
 msgid "Frequently Asked Questions"
 msgstr "Nedavno postavljana pitanja"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Gde da prijavim los prevod?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Kolko se često ažuriraju liste?"
 
@@ -233,9 +247,6 @@ msgstr "Gde da prijavim los prevod?"
 
 msgid "Contact me here."
 msgstr "Kontaktiraj me ovde"
-
-msgid "Where should I report a bug?"
-msgstr "Gde da prijavim grešku?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Zasto nisu imena heroja pre Xayah i Rakan-a dostupna?"
@@ -414,14 +425,14 @@ msgstr "Последња игра"
 msgid "Last active"
 msgstr "Последња активна"
 
-msgid "Click and bookmark to track"
-msgstr "Klikni na bookmark da pratis"
-
-msgid "Summoner ID"
-msgstr "Summoner"
-
 msgid "Level"
 msgstr "Nivo"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Klikni na bookmark da pratis"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s није у употреби!"
@@ -435,8 +446,8 @@ msgstr "Trazi ime koristeci ID Naloga"
 msgid "LoL Name by Account ID"
 msgstr "LoL ime po ID-u naloga"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Trazi username koristeci ID naloga"
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Идентификован ИД налога %(account_id)s!"
@@ -510,11 +521,23 @@ msgstr "Najveci Level u LoLu "
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Prati ko ima najveci nivo u LoL-u. Visoki skorovi ce biti prikazani na svetskom nivou ili sortirano prema regionu. Pogledaj listu najvecih nivoa"
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Овај лидербоард се ажурира најмање једном дневно. Означи ову страницу и потврдите касније за нове исправке."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Такође погледајте провјеривач <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">имена позиваоца</a> или <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">листу будућих имена која истиче</a> ."
+
+msgid "Rank"
+msgstr "Solo rank"
+
+msgid "Icon"
+msgstr "Ikona"
 
 msgid "Summoner Name"
 msgstr "Ime"
@@ -591,11 +614,11 @@ msgstr "Pogledajte kada je ime primaoca %(name)s dostupna!"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Najbolja LOL imena. Provera neaktivnih imena, napravljene liste i popularne pretrage."
 
-msgid "LoL Name Checker"
-msgstr "LOL Provera imena"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Traženje dobrog imena je teško, al ovde to nije problem! LOL NAMES GG ti dozvoljava da proveriš dostupnost imena, bazu podataka već dostupnih imena i uskoro dostupna imena. Savršeno mesto da nađeš najbolje ime za LOL! Napiši svoje omiljeno ime i mi ćemo ti reći kada će biti dostupno!"
+
+msgid "LoL Name Checker"
+msgstr "LOL Provera imena"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Koristi ovaj sajt da saznaš kad će ime da bude dostpuno"
@@ -816,9 +839,6 @@ msgstr "Погледајте све најбоље и најслабије ко�
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Ова табела приказује све најчешће коришћене и најцешће иконе позивања у Лиги легенди за тренутни оближ у свим регионима."
 
-msgid "Icon"
-msgstr "Ikona"
-
 msgid "Number"
 msgstr "Broj"
 
@@ -908,4 +928,8 @@ msgstr "Корак 1: ИД налога за претрагу"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "2. корак: потражите по ИД налога и обележивачем за праћење"
+
+
+
+
 

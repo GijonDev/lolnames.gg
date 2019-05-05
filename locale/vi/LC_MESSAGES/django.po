@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Tên người triệu hồi..."
 
@@ -54,8 +53,8 @@ msgstr "ID tài khoản"
 msgid "Lookup name by Account ID"
 msgstr "Tra cứu tên bằng ID tài khoản"
 
-msgid "Invalid Account ID"
-msgstr "ID tài khoản không hợp lệ"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level Điểm cao"
@@ -75,8 +74,17 @@ msgstr "Ba tên thư"
 msgid "Four Letter Names"
 msgstr "Bốn tên thư"
 
-msgid "All Available Names"
-msgstr "Tất cả các tên có sẵn"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Ký hiệu:"
 
 msgid "Lists"
 msgstr "Danh sách"
@@ -186,6 +194,12 @@ msgstr "Phần này chứa rất nhiều thông tin liên quan đến <strong>Lo
 msgid "Frequently Asked Questions"
 msgstr "Các câu hỏi thường gặp"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Tôi nên báo cáo bản dịch không chính xác ở đâu?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Tần suất các danh sách cập nhật?"
 
@@ -233,9 +247,6 @@ msgstr "Tôi nên báo cáo bản dịch không chính xác ở đâu?"
 
 msgid "Contact me here."
 msgstr "Liên hệ với tôi ở đây."
-
-msgid "Where should I report a bug?"
-msgstr "Tôi nên báo cáo lỗi ở đâu?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Tại sao không có tên nhà vô địch Xayah và Rakan trước được phép?"
@@ -414,14 +425,14 @@ msgstr "Trận đấu cuối cùng"
 msgid "Last active"
 msgstr "Hoạt động lần cuối"
 
-msgid "Click and bookmark to track"
-msgstr "Nhấp và đánh dấu để theo dõi"
-
-msgid "Summoner ID"
-msgstr "ID người triệu tập"
-
 msgid "Level"
 msgstr "Cấp độ"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Nhấp và đánh dấu để theo dõi"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s không được sử dụng!"
@@ -435,8 +446,8 @@ msgstr "Tìm kiếm tên người triệu tập bằng ID tài khoản."
 msgid "LoL Name by Account ID"
 msgstr "Tên LoL theo ID tài khoản"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Tra cứu tên người dùng bằng ID tài khoản. Nhập ID tài khoản của người summoner và tìm tên người dùng của họ."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Đã tìm thấy ID tài khoản!"
@@ -510,11 +521,23 @@ msgstr "Cấp summoner hàng đầu trong League of Legends!"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Theo dõi ai có cấp độ summoner cao nhất trong League of Legends. Điểm số cao có thể được hiển thị trên toàn thế giới hoặc được sắp xếp theo khu vực. Xem bảng xếp hạng cấp summoner."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Bảng xếp hạng này cập nhật ít nhất một lần mỗi ngày. Đánh dấu trang này và kiểm tra lại sau để biết các cập nhật mới."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Ngoài ra, hãy kiểm tra <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">trình kiểm tra tên người triệu tập</a> hoặc <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">danh sách các tên sắp hết hạn sắp tới</a> ."
+
+msgid "Rank"
+msgstr "Xếp hạng Solo"
+
+msgid "Icon"
+msgstr "Biểu tượng"
 
 msgid "Summoner Name"
 msgstr "tên người triệu hồi"
@@ -591,11 +614,11 @@ msgstr "Xem khi nào tên summoner %(name)s có sẵn!"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Tên League of Legends tốt nhất. Trình kiểm tra tên không hoạt động, danh sách được tạo và các tìm kiếm phổ biến."
 
-msgid "LoL Name Checker"
-msgstr "Trình kiểm tra tên LoL"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Tìm kiếm một tên người dùng tốt là khó, chúng tôi làm cho nó dễ dàng! LoL Names GG cung cấp một bộ kiểm tra tên League of Legends, một cơ sở dữ liệu về các tên đã tạo sẵn và danh sách các tên sắp tới dựa trên các tìm kiếm trước đó. LoL Names GG là nơi hoàn hảo để có được tên summoner League of Legends tốt nhất. Ví dụ: xem danh sách ba tên thư của chúng tôi hoặc nhập vào tên Liên minh Huyền thoại mơ ước của bạn và chúng tôi sẽ cho bạn biết khi nào nó có sẵn!"
+
+msgid "LoL Name Checker"
+msgstr "Trình kiểm tra tên LoL"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Sử dụng trang web này để tìm khi tên người triệu tập sẽ hết hạn."
@@ -816,9 +839,6 @@ msgstr "Xem tất cả các biểu tượng summoner được sử dụng nhiề
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Bảng này hiển thị tất cả các biểu tượng summoner được sử dụng nhiều nhất và hiếm nhất trong League of Legends cho bản vá hiện tại trên tất cả các vùng."
 
-msgid "Icon"
-msgstr "Biểu tượng"
-
 msgid "Number"
 msgstr "Con số"
 
@@ -908,4 +928,8 @@ msgstr "Bước 1: Tra cứu ID tài khoản"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Bước 2: Tìm kiếm theo ID tài khoản và dấu trang để theo dõi"
+
+
+
+
 

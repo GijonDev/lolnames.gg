@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Summoner navn..."
 
@@ -54,8 +53,8 @@ msgstr "Konto-ID"
 msgid "Lookup name by Account ID"
 msgstr "Søk opp navn etter Konto-ID"
 
-msgid "Invalid Account ID"
-msgstr "Ugyldig Konto-ID"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level High Scores"
@@ -75,8 +74,17 @@ msgstr "Tre-bokstavs Navn"
 msgid "Four Letter Names"
 msgstr "Fire-bokstavs Navn"
 
-msgid "All Available Names"
-msgstr "Alle Tilgjengelige Navn"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Symboler:"
 
 msgid "Lists"
 msgstr "Lister"
@@ -186,6 +194,12 @@ msgstr "Denne delen inneholder mangfoldig informasjon om <strong>LoL Names.GG</s
 msgid "Frequently Asked Questions"
 msgstr "Ofte Stilte Spørsmål"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Hvor skal jeg rapportere en feil oversettelse?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Hvor ofte oppdaterer listene seg?"
 
@@ -233,9 +247,6 @@ msgstr "Hvor skal jeg rapportere en feil oversettelse?"
 
 msgid "Contact me here."
 msgstr "Kontakt meg her."
-
-msgid "Where should I report a bug?"
-msgstr "Hvor skal jeg rapportere en feil?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Hvorfor er ingen champion navn før Xayah og Rakan tillatt?"
@@ -414,14 +425,14 @@ msgstr "Siste spill"
 msgid "Last active"
 msgstr "Sist aktiv"
 
-msgid "Click and bookmark to track"
-msgstr "Klikk og bokmerk for å spore"
-
-msgid "Summoner ID"
-msgstr "Summoner ID"
-
 msgid "Level"
 msgstr "Level"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Klikk og bokmerk for å spore"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s er ikke i bruk!"
@@ -435,8 +446,8 @@ msgstr "Søk etter et summoner-navn ved hjelp av konto-ID."
 msgid "LoL Name by Account ID"
 msgstr "LoL-navn etter Konto-ID"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Slå opp et brukernavn ved hjelp av en konto-ID. Oppgi en summoners konto-ID og finn brukernavnet deres."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Konto-ID ble funnet!"
@@ -510,11 +521,23 @@ msgstr "Den høyeste summoner levelen i League of Legends!"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Spor hvem som har den høyeste summoner levelen i League of Legends. High-scorene kan bli vist verdensomspennende eller sortert etter region. Se summoner-level leaderboards."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Dette leaderboardet oppdateres minst en gang daglig. Bokmerk denne siden og sjekk senere for nye oppdateringer."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Sjekk også <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner navn-sjekker</a> eller <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listene over navn som snart utløper</a>."
+
+msgid "Rank"
+msgstr "Solo Rank"
+
+msgid "Icon"
+msgstr "Ikon"
 
 msgid "Summoner Name"
 msgstr "Summoner Navn"
@@ -591,11 +614,11 @@ msgstr "Se når summoner-navnet %(name)s er tilgjengelig!"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "De beste League of Legends navnene. Inaktive-navn sjekker, genererte lister og populære søk."
 
-msgid "LoL Name Checker"
-msgstr "LoL Navnesjekker"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Å finne et godt brukernavn er vanskelig, men vi gjør det lett! LoL Names GG gir deg en League of Legends navnesjekker, en database med ferdig genererte, allerede-tilgjengelige navn og en liste med kommende navn basert på nylige søk. LoL Names GG er det perfekte stedet å få tak i de beste League of Legends summoner-navnene. For eksempel kan du se på vår liste over tre-bokstavs navn eller skrive inn ditt drømme-League of Legends navn, så gir vi deg beskjed når det er tilgjengelig!"
+
+msgid "LoL Name Checker"
+msgstr "LoL Navnesjekker"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Bruk denne websiden for å finne summoner-navn som utløper."
@@ -816,9 +839,6 @@ msgstr "Se alle de mest og minst brukte summoner ikonene i League of Legends"
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Denne tabellen viser all de mest brukte og sjeldneste summoner ikonene i League of Legends for den nåværende patchen over alle regioner."
 
-msgid "Icon"
-msgstr "Ikon"
-
 msgid "Number"
 msgstr "Nummer"
 
@@ -908,4 +928,8 @@ msgstr "Slå opp Konto-ID"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Søk etter Konto-ID og bokmerk for å spore"
+
+
+
+
 

@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Nama penyeru..."
 
@@ -54,8 +53,8 @@ msgstr "ID Akaun"
 msgid "Lookup name by Account ID"
 msgstr "Nama pengguna mengikut ID Akaun"
 
-msgid "Invalid Account ID"
-msgstr "ID Akaun tidak sah"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Markah Tinggi Summoner"
@@ -75,8 +74,17 @@ msgstr "Tiga Nama Surat"
 msgid "Four Letter Names"
 msgstr "Empat Nama Surat"
 
-msgid "All Available Names"
-msgstr "Semua Nama Yang Tersedia"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Simbol:"
 
 msgid "Lists"
 msgstr "Senarai"
@@ -186,6 +194,12 @@ msgstr "Bahagian ini mengandungi banyak maklumat, yang berkaitan dengan <strong>
 msgid "Frequently Asked Questions"
 msgstr "Soalan Lazim"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Di mana saya harus melaporkan terjemahan yang salah?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Berapa kerap dilakukan kemas kini senarai?"
 
@@ -233,9 +247,6 @@ msgstr "Di mana saya harus melaporkan terjemahan yang salah?"
 
 msgid "Contact me here."
 msgstr "Hubungi saya di sini."
-
-msgid "Where should I report a bug?"
-msgstr "Di manakah saya harus melaporkan pepijat?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Kenapa tidak ada nama juara Xayah dan Rakan yang dibenarkan?"
@@ -414,14 +425,14 @@ msgstr "Permainan terakhir"
 msgid "Last active"
 msgstr "Aktif terakhir"
 
-msgid "Click and bookmark to track"
-msgstr "Klik dan penanda halaman untuk menjejaki"
-
-msgid "Summoner ID"
-msgstr "ID Summoner"
-
 msgid "Level"
 msgstr "Tahap"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Klik dan penanda halaman untuk menjejaki"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s tidak digunakan!"
@@ -435,8 +446,8 @@ msgstr "Cari nama pemanggil menggunakan ID akaun."
 msgid "LoL Name by Account ID"
 msgstr "Nama LoL mengikut ID Akaun"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Cari nama pengguna menggunakan ID akaun. Masukkan ID akaun pemanggil dan cari nama pengguna mereka."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "ID Akaun ditemui!"
@@ -510,11 +521,23 @@ msgstr "Peringkat summoner teratas dalam League of Legends!"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Trek yang mempunyai tahap penyeraman tertinggi dalam League of Legends. Markah tinggi boleh ditunjukkan sebagai seluruh dunia atau disusun mengikut rantau. Lihat papan pendahulu peringkat penyokong."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Leaderboard ini dikemas kini sekurang-kurangnya sekali setiap hari. Tandakan halaman ini dan semak semula kemudian untuk kemas kini baru."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Juga lihat <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">pemeriksa nama pemanggil</a> atau <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">senarai nama yang akan tamat tempoh</a> ."
+
+msgid "Rank"
+msgstr "Kedudukan Solo"
+
+msgid "Icon"
+msgstr "Ikon"
 
 msgid "Summoner Name"
 msgstr "Nama penyeru"
@@ -591,11 +614,11 @@ msgstr "Lihat apabila nama pemanggil %(name)s tersedia!"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Nama League of Legends yang terbaik. Pemeriksa nama tidak aktif, senarai yang dihasilkan dan carian popular."
 
-msgid "LoL Name Checker"
-msgstr "LoL Name Checker"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Mencari nama pengguna yang baik sukar, kami memudahkannya! Nama LoL GG menyediakan senarai nama Liga Legends, pangkalan data yang dijanakan sudah tersedia dan senarai nama yang akan datang berdasarkan carian terdahulu. Nama LoL GG adalah tempat yang sempurna untuk mendapatkan nama pemanggil Liga Legenda terbaik. Sebagai contoh, lihat senarai tiga nama surat kami atau taip nama Liga Legenda impian anda dan kami akan memberitahu anda apabila ia tersedia!"
+
+msgid "LoL Name Checker"
+msgstr "LoL Name Checker"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Gunakan laman web ini untuk mencari apabila nama pemanggil akan tamat tempoh."
@@ -816,9 +839,6 @@ msgstr "Lihat semua ikon pemanggil yang paling banyak dan paling tidak digunakan
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Jadual ini menunjukkan ikon ikon penyiar yang paling banyak digunakan dan jarang ditemui di League of Legends untuk patch semasa merentas semua wilayah."
 
-msgid "Icon"
-msgstr "Ikon"
-
 msgid "Number"
 msgstr "Nombor"
 
@@ -908,4 +928,8 @@ msgstr "Langkah 1: Cari ID Akaun"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Langkah 2: Cari mengikut Akaun ID dan penanda halaman untuk menjejaki"
+
+
+
+
 

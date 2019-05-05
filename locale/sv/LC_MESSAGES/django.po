@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Summoner namn"
 
@@ -54,8 +53,8 @@ msgstr "Konto ID"
 msgid "Lookup name by Account ID"
 msgstr "Sök namn via konto ID"
 
-msgid "Invalid Account ID"
-msgstr "Felaktigt Konto ID"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level Topplista"
@@ -75,8 +74,17 @@ msgstr "Namn med 3 bokstaver"
 msgid "Four Letter Names"
 msgstr "Namn med 4 bokstäver"
 
-msgid "All Available Names"
-msgstr "Alla tillgängliga namn"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Symboler:"
 
 msgid "Lists"
 msgstr "Listor"
@@ -186,6 +194,12 @@ msgstr "Den här sektionen innehåller viktig information, relaterad till <stron
 msgid "Frequently Asked Questions"
 msgstr "Ofta ställda frågor"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Vart kan jag anmäla en felaktig översättning?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Hur ofta uppdateras listorna?"
 
@@ -233,9 +247,6 @@ msgstr "Vart kan jag anmäla en felaktig översättning?"
 
 msgid "Contact me here."
 msgstr "Här kan du kontakta mig."
-
-msgid "Where should I report a bug?"
-msgstr "Vart kan jag anmäla en bug?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Varför är inga namn innan Xayah och Rakan tillåtna?"
@@ -414,14 +425,14 @@ msgstr "Senaste spelet"
 msgid "Last active"
 msgstr "Senast aktiv"
 
-msgid "Click and bookmark to track"
-msgstr "Klicka och bokmärk för att spåra"
-
-msgid "Summoner ID"
-msgstr "Summoner ID"
-
 msgid "Level"
 msgstr "Level"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Klicka och bokmärk för att spåra"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s används inte!"
@@ -435,8 +446,8 @@ msgstr "Sök på ett summoner-namn med ett konto-ID"
 msgid "LoL Name by Account ID"
 msgstr "LoL namn med konto ID"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Kolla upp ett användarnamn med konto-ID. Skriv in ett summoners konto ID och hitta deras användarnamn."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Konto-ID hittades!"
@@ -510,11 +521,23 @@ msgstr "Den högsta summoner level i League of Legends!"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Spåra vem som har den högsta summoner level i League of Legends. Topplistan kan visas som högst i världen eller sorterad på region. Se summoner level topplistan."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Denna rekordlista uppdateras minst en gång dagligen. Bokmärk den här sidan och titta tillbaka senare för nya uppdateringar."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Kolla även på <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">Summoner namn kollaren</a> eller <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listorna med uppkommande namn</a> ."
+
+msgid "Rank"
+msgstr "Solo Rank"
+
+msgid "Icon"
+msgstr "Ikon"
 
 msgid "Summoner Name"
 msgstr "Summoner namn"
@@ -591,11 +614,11 @@ msgstr "Se när Summoner namnet %(name)s är tillgängligt!"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "De bästa League of Legends namnen. Inaktiva namn uppkollare, framkallade listor, samt populära sökningar."
 
-msgid "LoL Name Checker"
-msgstr "LoL Namn Kollaren"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Att hitta ett bra användarnamn är svårt, så därför vi gör det enkelt! LoL Names GG erbjuder en League of Legends namnuppkollare, en databas med framkallade tillgängliga namn, samt en lista baserat på tidigare sökningar om namn som snart blir tillgängliga. LoL Names GG är den perfekta platsen att skaffa de bästa Summoner namnen på. Till exempel kan du just nu kolla på vår lista över namn med 3 bokstäver, eller söka på ditt drömnamn och snabbt se när det blir tillgängligt!"
+
+msgid "LoL Name Checker"
+msgstr "LoL Namn Kollaren"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Använd denna hemsida för att se när ett namn utgår."
@@ -816,9 +839,6 @@ msgstr "Se de mest och minst använda summoner ikoner i League of Legends"
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Tabellen visar de mest använda och sällsynta summoner ikoner i League of Legends för den nuvarande patchen i alla regioner."
 
-msgid "Icon"
-msgstr "Ikon"
-
 msgid "Number"
 msgstr "Siffra"
 
@@ -908,3 +928,8 @@ msgstr "Steg 1: Hitta Konto ID"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Steg 2: Sök Konto ID och bokmärk för att spåra"
+
+
+
+
+

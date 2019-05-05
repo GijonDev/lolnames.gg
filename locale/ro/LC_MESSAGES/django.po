@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Nume dorit..."
 
@@ -54,8 +53,8 @@ msgstr "Numele contului"
 msgid "Lookup name by Account ID"
 msgstr "Cauta nume dupa numele contului"
 
-msgid "Invalid Account ID"
-msgstr "Nume de cont gresit"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level si rezultate"
@@ -75,8 +74,17 @@ msgstr "Nume formate din trei litere"
 msgid "Four Letter Names"
 msgstr "Nume formate din patru litere"
 
-msgid "All Available Names"
-msgstr "Toate numele disponibile"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "simboluri:"
 
 msgid "Lists"
 msgstr "Liste"
@@ -186,6 +194,12 @@ msgstr "Sectiunea asta contine informatii despre  <strong>LoL Names.GG</strong>.
 msgid "Frequently Asked Questions"
 msgstr "Intrebari intrebate des"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Unde ar trebui sa reportez o translatie gresita?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Cat de des aduceti listele cu nume la zi?"
 
@@ -233,9 +247,6 @@ msgstr "Unde ar trebui sa reportez o translatie gresita?"
 
 msgid "Contact me here."
 msgstr "Contacteaza-ma aici."
-
-msgid "Where should I report a bug?"
-msgstr "Unde pot reporta un BUG?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "De ce nu sunt permise nume de campion inainte ca Xayah și Rakan sa fie lansati? "
@@ -414,14 +425,14 @@ msgstr "Ultimul joc"
 msgid "Last active"
 msgstr "Ultima data activ"
 
-msgid "Click and bookmark to track"
-msgstr "Faceți clic și marcaj pentru a urmări"
-
-msgid "Summoner ID"
-msgstr "Summoner"
-
 msgid "Level"
 msgstr "Nivelul"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Faceți clic și marcaj pentru a urmări"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s nu este în uz!"
@@ -435,8 +446,8 @@ msgstr "Cauta pentru fiecare nume de summoner care are nume de cont"
 msgid "LoL Name by Account ID"
 msgstr "LoL nume de cont"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Cauta un nume de summoner folosin un nume de cont. Introdu numele de cont pentru a gasi numele de utilizator"
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "ID-ul contului a fost găsit!"
@@ -510,11 +521,23 @@ msgstr "Cel mai mare level din League Of Legends"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Urmareste cine are cel mai mare level in League of Legends.Acesta poate fi sortat pe reguine sau toata planeta. "
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Acest tabel se actualizează cel puțin o dată pe zi. Marcați această pagină și verificați-o mai târziu pentru noile actualizări."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "De asemenea, verificați <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">verificatorul numelui summoner</a> sau <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listele de nume care urmează să expire</a> ."
+
+msgid "Rank"
+msgstr "Rank Solo"
+
+msgid "Icon"
+msgstr "Icoana"
 
 msgid "Summoner Name"
 msgstr "Nume de summoner"
@@ -591,11 +614,11 @@ msgstr "Vezi cand numele de summoner %(name)s va deveni utilizabil!"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Cele mai bune nume pentru Leagu of Legends. Membri inactivi verificator, liste generate si cautari populare"
 
-msgid "LoL Name Checker"
-msgstr "LoL nume verificator"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Gasirea unui nume de summoner este greu dar noi o facem usor. LoL Names GG va pune la dispozitie un verificator de nume, o data de baze deja generata cu nume disponible si o lista cu nume care vor este luata din cautarile anterioare. LoL Names GG este locul perfect sa iti gasesti cel mai tare nume de uitilazor din League of Legends. Pentru exemplu, vezi lista noastra plina cu nume de trei litere sau scrie numele tau de vis si noi te vom anunta can devine disponibil!"
+
+msgid "LoL Name Checker"
+msgstr "LoL nume verificator"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Foloseste acest site ca sa afli cand un nume de utilizator va expira"
@@ -816,9 +839,6 @@ msgstr "Vedeți toate cele mai utilizate și cele mai puțin utilizate icoane Su
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Acest tabel prezintă toate cele mai utilizate și cele mai râvnite icoane summoner din League of Legends pentru patch-urile actuale din toate regiunile."
 
-msgid "Icon"
-msgstr "Icoana"
-
 msgid "Number"
 msgstr "Numar"
 
@@ -908,4 +928,8 @@ msgstr "Pasul 1: ID-ul contului de căutare"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Pasul 2: căutați după ID-ul contului și marcajul pentru urmărire"
+
+
+
+
 

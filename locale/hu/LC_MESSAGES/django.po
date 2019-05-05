@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Idézői Név"
 
@@ -54,8 +53,8 @@ msgstr "Felhasználó ID"
 msgid "Lookup name by Account ID"
 msgstr "LoL Név felhasználói ID alapján."
 
-msgid "Invalid Account ID"
-msgstr "Hibás felhasználói ID"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Szint toplista"
@@ -75,8 +74,17 @@ msgstr "Három Betűs Nevek"
 msgid "Four Letter Names"
 msgstr "Négy Betűs Nevek"
 
-msgid "All Available Names"
-msgstr "Minden Elérhető Név"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Szimbólumok:"
 
 msgid "Lists"
 msgstr "Listák"
@@ -186,6 +194,12 @@ msgstr "Ez az oldal információval szolgál a <strong>LoL Names.GG</strong> has
 msgid "Frequently Asked Questions"
 msgstr "Gyakran Ismételt Kérdések"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Hol jelentsek pontatlan fordítást?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Milyen gyakran frissülnek a listák?"
 
@@ -233,9 +247,6 @@ msgstr "Hol jelentsek pontatlan fordítást?"
 
 msgid "Contact me here."
 msgstr "Itt."
-
-msgid "Where should I report a bug?"
-msgstr "Hol jelentsek bugokat?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Miért nem lehet Xayah és Rakan előtti neveket használni?"
@@ -414,14 +425,14 @@ msgstr "Utolsó játék"
 msgid "Last active"
 msgstr "Utoljára aktív"
 
-msgid "Click and bookmark to track"
-msgstr "Kattints és könyvjelzőzz és követéshez"
-
-msgid "Summoner ID"
-msgstr "Idéző"
-
 msgid "Level"
 msgstr "Szint"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Kattints és könyvjelzőzz és követéshez"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s nincs használatban!"
@@ -435,8 +446,8 @@ msgstr "Keress rá egy idézői névre felhasználói ID alapján."
 msgid "LoL Name by Account ID"
 msgstr "LoL Név felhasználói ID alapján."
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Keresd meg a felhasználónevet egy felhasználói ID-vel. Írd be egy idéző felhasználó ID-jét, és találd meg a felhasználónevüket."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Fiókazonosító találtak!"
@@ -510,11 +521,23 @@ msgstr "A legnagyobb szint a League of Legendsben!"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Kövesd nyomon, hogy kinek a legnagyobb a szintje a League of Legendsben. Régió alapján rendezheted, vagy az egész világot nézheted. Tekintsd meg a szint toplistát."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Ez a leaderboard naponta legalább egyszer frissül. Ezt az oldalt jelölje be, és később ellenőrizze az új frissítéseket."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Ezenkívül nézze meg a <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker-t</a> vagy a <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">következő lejáró nevek listáját</a> ."
+
+msgid "Rank"
+msgstr "Egyéni rang"
+
+msgid "Icon"
+msgstr "Ikon"
 
 msgid "Summoner Name"
 msgstr "Idézői Név"
@@ -591,11 +614,11 @@ msgstr "Nézd meg mikor lesz a %(name)s név elérhető."
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "A legjobb League of Legends nevek. Inaktív név ellenőrző, generált listák és gyakori keresések."
 
-msgid "LoL Name Checker"
-msgstr "LoL Név Ellenőrző"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Egy jó nevet találni nehéz, mi könnyűvé tesszük! Lol Names GG egy League of Legends név ellenőrzővel szolgál, egy elérhető nevekből álló, és nemsokára elérhető nevekből álló adatbázissal. Lol Names GG a tökéletes hely, hogy megtaláld a legjobb neveket. Például, nézd meg a 3 karakterből álló elérhető neveket."
+
+msgid "LoL Name Checker"
+msgstr "LoL Név Ellenőrző"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Használd ezt az oldalt, hogy ellenőrizd mikor jár le egy név."
@@ -816,9 +839,6 @@ msgstr "Tekintse meg a legtöbb és a legkevésbé használt summoner ikont a Le
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Ez a táblázat bemutatja a League of Legends összes leggyakrabban használt és legritkább fogalmazói ikonját az aktuális javítás minden régiójában."
 
-msgid "Icon"
-msgstr "Ikon"
-
 msgid "Number"
 msgstr "Szám"
 
@@ -908,3 +928,8 @@ msgstr "1. lépés: A keresési fiók azonosítója"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "2. lépés: Keresse meg a fiók azonosítóját és a könyvjelzőt nyomon követéséhez"
+
+
+
+
+

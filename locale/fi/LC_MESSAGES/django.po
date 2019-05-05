@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Kutsu nimi ..."
 
@@ -54,8 +53,8 @@ msgstr "Tilin tunnus"
 msgid "Lookup name by Account ID"
 msgstr "Haku nimen tilitunnuksella"
 
-msgid "Invalid Account ID"
-msgstr "Virheellinen tilitunnus"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level High Scores"
@@ -75,8 +74,17 @@ msgstr "Kolme kirjainta"
 msgid "Four Letter Names"
 msgstr "Neljä kirjainta"
 
-msgid "All Available Names"
-msgstr "Kaikki käytettävissä olevat nimet"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Symbolit:"
 
 msgid "Lists"
 msgstr "Listat"
@@ -186,6 +194,12 @@ msgstr "Tämä osio sisältää runsaasti tietoa, joka liittyy <strong>LoL Names
 msgid "Frequently Asked Questions"
 msgstr "Usein Kysytyt Kysymykset"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Mistä ilmoitan väärän käännöksen?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Kuinka usein luettelot päivittyvät?"
 
@@ -233,9 +247,6 @@ msgstr "Mistä ilmoitan väärän käännöksen?"
 
 msgid "Contact me here."
 msgstr "Ota yhteyttä tänne."
-
-msgid "Where should I report a bug?"
-msgstr "Mistä ilmoitan virheen?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Miksi Xayah- ja Rakan-mestareiden nimet eivät ole sallittuja?"
@@ -414,14 +425,14 @@ msgstr "Viimeinen peli"
 msgid "Last active"
 msgstr "Viimeksi aktiivinen"
 
-msgid "Click and bookmark to track"
-msgstr "Napsauta ja valitse kirjanmerkki"
-
-msgid "Summoner ID"
-msgstr "Summoner ID"
-
 msgid "Level"
 msgstr "Taso"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Napsauta ja valitse kirjanmerkki"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s ei ole käytössä!"
@@ -435,8 +446,8 @@ msgstr "Etsi summonin nimi tilin tunnuksella."
 msgid "LoL Name by Account ID"
 msgstr "LoL-nimi tilin tunnuksella"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Etsi käyttäjätunnusta tilin tunnuksen avulla. Anna summonin tilin tunnus ja löydä käyttäjätunnuksesi."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Tilin tunnus löytyi!"
@@ -510,11 +521,23 @@ msgstr "Legenda-liigassa ylhäältä kutsuttu taso!"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Seuraa kenellä on korkein kutsutaso League of Legendsissa. Korkeat tulokset voidaan näyttää maailmanlaajuisiksi tai lajitella alueittain. Katso summoner tason tulostauluja."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Tämä leaderboard päivittyy vähintään kerran päivässä. Merkitse tämä sivu ja tarkista myöhemmin uudet päivitykset."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Tarkista myös <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">kutsujan nimen tarkistus</a> tai <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">luettelot tulevista vanhentuneista nimistä</a> ."
+
+msgid "Rank"
+msgstr "Solo Rank"
+
+msgid "Icon"
+msgstr "ikoni"
 
 msgid "Summoner Name"
 msgstr "Kutsu nimi"
@@ -591,11 +614,11 @@ msgstr "Katso, kun kutsujan nimi %(name)s on käytettävissä!"
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Paras League of Legends nimet. Ei-aktiivinen nimi tarkistaja, luodut luettelot ja suosittuja hakuja."
 
-msgid "LoL Name Checker"
-msgstr "LoL Name Checker"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Hyvän käyttäjätunnuksen löytäminen on kovaa, teemme sen helposti! LoL-nimet GG tarjoaa League of Legends -nimi-tarkistajan, tietokannan jo tuotetuista nimeistä ja luettelon tulevista nimistä aiempien hakujen perusteella. LoL Names GG on täydellinen paikka saada paras League of Legends summoner nimi. Voit esimerkiksi nähdä luettelon kolmesta kirjaimesta tai kirjoittaa Dream of Legends nimesi, ja kerromme, milloin se on käytettävissä!"
+
+msgid "LoL Name Checker"
+msgstr "LoL Name Checker"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Käytä tämän verkkosivuston avulla, kun kutsujan nimi vanhenee."
@@ -816,9 +839,6 @@ msgstr "Katso kaikki eniten ja vähiten käyttämättömät summoner-kuvakkeet L
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Tässä taulukossa näytetään kaikki legendaarisimmat legendaariset ja harvinaisimmat summonikuvakkeet nykyisen laastarin yli kaikilla alueilla."
 
-msgid "Icon"
-msgstr "ikoni"
-
 msgid "Number"
 msgstr "Määrä"
 
@@ -908,4 +928,8 @@ msgstr "Vaihe 1: Lookup Account ID"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Vaihe 2: Hae tilityyppistä ja kirjanmerkkistä seurata"
+
+
+
+
 

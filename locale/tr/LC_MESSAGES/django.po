@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Sihirdar ismi..."
 
@@ -54,8 +53,8 @@ msgstr "Hesap ID (kimliği)"
 msgid "Lookup name by Account ID"
 msgstr "Hesap ID'den(kimliğinden) LoL ismi arama"
 
-msgid "Invalid Account ID"
-msgstr "Geçersiz hesap ID(kimliği)"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Sihirdar Seviyesi Sıralaması"
@@ -75,8 +74,17 @@ msgstr "Üç Harfli İsimler"
 msgid "Four Letter Names"
 msgstr "Dört Harfli İsimler"
 
-msgid "All Available Names"
-msgstr "Bütün Boştaki İsimler"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Semboller:"
 
 msgid "Lists"
 msgstr "Listeler"
@@ -186,6 +194,12 @@ msgstr "Bu bölüm,  <strong>LoL Names.GG</strong> ve nasıl kullanıldığı ha
 msgid "Frequently Asked Questions"
 msgstr "Sıkça Sorulan Sorular"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Yanlış çeviriyi nereden bildirebilirim ?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Listeler ne sıklıkla güncellenir?"
 
@@ -233,9 +247,6 @@ msgstr "Yanlış çeviriyi nereden bildirebilirim ?"
 
 msgid "Contact me here."
 msgstr "Bana buradan ulaşabilirsin."
-
-msgid "Where should I report a bug?"
-msgstr "Hataları nereden bildirmeliyim?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Neden Xayah ve Rakan uyumlu çift isimler izinli?"
@@ -414,14 +425,14 @@ msgstr "Son Oyun"
 msgid "Last active"
 msgstr "Son aktif"
 
-msgid "Click and bookmark to track"
-msgstr "İzlemek için tıkla ve işaretle"
-
-msgid "Summoner ID"
-msgstr "Sihirdar ID (kimliği)"
-
 msgid "Level"
 msgstr "Seviye"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "İzlemek için tıkla ve işaretle"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s kullanımda değil!"
@@ -435,8 +446,8 @@ msgstr "Hesap ID (kimliği) kullanarak Sihirdar ismi arayın"
 msgid "LoL Name by Account ID"
 msgstr "Hesap ID'den (kimliğinden) LoL ismi"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Bir hesap ID'sini (kimliğini) kullanarak bir kullanıcı adı arayın. Bir sihirdarın hesap ID'sini (kimliğini) girin ve kullanıcı adlarını bulun."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Hesap ID bulundu!"
@@ -510,11 +521,23 @@ msgstr "League Of Legendst'taki en yüksek seviye"
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Hangi oyuncunun League of Legends'ta en yüksek seviyeye sahip olduğunu arayın. Sıralamalar dünya çapında veya bölgeye göre sıralanabilir. Sihirdar seviyesi liderlik sıralamasını gör "
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Bu afiş en az günde bir kez güncellenir. Bu sayfayı işaretleyin ve yeni güncellemeler için daha sonra tekrar kontrol edin."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Ayrıca, katılımcı <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">isim denetleyicisine</a> veya <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">yaklaşan süresi sona ermiş isimlerin listelerine</a> de göz <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">atın</a> ."
+
+msgid "Rank"
+msgstr "Tekli Derece"
+
+msgid "Icon"
+msgstr "Simge"
 
 msgid "Summoner Name"
 msgstr "Sihirdar Ismi"
@@ -591,11 +614,11 @@ msgstr "%(name)s'in yazıcısı ne zaman müsait olduğunu görün!."
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "En iyi League Of Legends Isimleri. İnaktif isim kontrol edici , hazır listeler ve popüler aramalar"
 
-msgid "LoL Name Checker"
-msgstr "LoL İsim kontrol edici"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "İyi bir isim bulmak zor , biz bunu kolaylaştırıyoruz! LoL Names GG bir League Of Legends ürünüdür , veri tabanı zaten mevcut olan kullanılabilir isimlerden oluşur ve aramalara göre yenileri eklenir. LoL Names GG güzel bir isim bulmak için harika bir yer. Örnek olarak bizim 3 harfli isimlerimize bakabilir veya hayalindeki ismi aratabilirsin.  müsait olduğunda sana söyleyelim!"
+
+msgid "LoL Name Checker"
+msgstr "LoL İsim kontrol edici"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Kullanıma açık sihirdar isimlerini bitmeden bulmak için bu siteyi kullanın"
@@ -816,9 +839,6 @@ msgstr "League of Legends'taki en çok ve en çok kullanılan summoner simgeleri
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Bu tablo, tüm bölgelerdeki geçerli yama için League of Legends'taki en çok kullanılan ve en nadir bulunan tüm simgeleri gösterir."
 
-msgid "Icon"
-msgstr "Simge"
-
 msgid "Number"
 msgstr "Sayı"
 
@@ -908,4 +928,8 @@ msgstr "1. Adım: Arama Hesabı Kimliği"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "2. Adım: Takip etmek için Hesap Kimliği ve yer işaretiyle arayın"
+
+
+
+
 

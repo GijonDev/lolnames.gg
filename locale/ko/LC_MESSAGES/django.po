@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "소환사 이름..."
 
@@ -54,8 +53,8 @@ msgstr "계정 ID 찾기"
 msgid "Lookup name by Account ID"
 msgstr "계정 ID별로 LoL 이름"
 
-msgid "Invalid Account ID"
-msgstr "계정 ID로 검색"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "소명자 레벨 높은 점수"
@@ -75,8 +74,17 @@ msgstr "3 개의 편지 이름"
 msgid "Four Letter Names"
 msgstr "LoL 소환사 이름"
 
-msgid "All Available Names"
-msgstr "사용 가능한 모든 이름"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "기호 :"
 
 msgid "Lists"
 msgstr "기울기"
@@ -186,6 +194,12 @@ msgstr "이 섹션에는이 웹 사이트 및 그 사용과 관련된 풍부한 
 msgid "Frequently Asked Questions"
 msgstr "자주 묻는 질문"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "어디에서 부정확 한 번역을보고해야합니까?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "목록은 얼마나 자주 업데이트됩니까?"
 
@@ -233,9 +247,6 @@ msgstr "어디에서 부정확 한 번역을보고해야합니까?"
 
 msgid "Contact me here."
 msgstr "저에게 연락하십시오."
-
-msgid "Where should I report a bug?"
-msgstr "어디에서 버그를보고해야합니까?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Xayah와 Rakan의 챔피언 명칭을 사전에 사용할 수없는 이유는 무엇입니까?"
@@ -414,14 +425,14 @@ msgstr "마지막 게임"
 msgid "Last active"
 msgstr "마지막 활성"
 
-msgid "Click and bookmark to track"
-msgstr "클릭하여 북마크에 추가"
-
-msgid "Summoner ID"
-msgstr "소환사 ID"
-
 msgid "Level"
 msgstr "수평"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "클릭하여 북마크에 추가"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s이 (가) 사용 중이 아닙니다."
@@ -435,8 +446,8 @@ msgstr "계정 ID를 사용하여 소환사 이름을 검색하십시오."
 msgid "LoL Name by Account ID"
 msgstr "계정 ID별로 LoL 이름"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "계정 ID를 사용하여 사용자 이름을 찾습니다. 소환의 계정 ID를 입력하고 사용자 이름을 찾으십시오."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "계정 ID 가 발견되었습니다!"
@@ -510,11 +521,23 @@ msgstr "레전드 오브 리그 (Legends of Legends)의 최상위 소음 레벨!
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "리그 오브 레전드에서 가장 높은 소집자를 추적합니다. 높은 점수는 전 세계적으로 또는 지역별로 정렬하여 표시 할 수 있습니다. Summoner 레벨 리더 보드를 확인하십시오."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "이 리더 보드는 매일 적어도 한 번 업데이트됩니다. 이 페이지를 북마크에 추가하고 나중에 새 업데이트가 있는지 다시 확인하십시오."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "또한 <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">소환 자 이름 검사기</a> 또는 <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">곧 만료되는 이름 목록을</a> 확인하십시오."
+
+msgid "Rank"
+msgstr "솔로 순위"
+
+msgid "Icon"
+msgstr "상"
 
 msgid "Summoner Name"
 msgstr "소환사 이름"
@@ -591,11 +614,11 @@ msgstr "%(name)s이라는 소환사 이름이 언제 나왔는지 확인하십�
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "최고의 리그 오브 레전드 이름. 비활성 이름 검사기, 생성 된 목록 및 인기있는 검색."
 
-msgid "LoL Name Checker"
-msgstr "LoL 소명사 검사기"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "좋은 사용자 이름을 찾는 것이 어렵습니다. LoL Names GG는 리그 오브 레전드 (Legends of Legends) 이름 검사기, 이미 생성 된 이름의 데이터베이스 및 이전 검색을 기반으로 예정된 이름 목록을 제공합니다. LoL Names GG는 최고의 전설 소집사 명을 얻는 완벽한 장소입니다. 예를 들어, 우리의 3 글자 이름 목록을 보거나 당신의 꿈 리그 오브 레전드 (League of Legends) 이름을 입력하면 사용 가능한 시점을 알려 드리겠습니다!"
+
+msgid "LoL Name Checker"
+msgstr "LoL 소명사 검사기"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "이 웹 사이트를 사용하여 소환원 이름이 만료되는시기를 찾으십시오."
@@ -816,9 +839,6 @@ msgstr "리그 오브 레전드에서 가장 많이 사용되는 소모 아이�
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "이 표는 모든 지역의 현재 패치에 대한 리그 오브 레전드에서 가장 많이 사용되는 희귀 한 소환사 아이콘을 보여줍니다."
 
-msgid "Icon"
-msgstr "상"
-
 msgid "Number"
 msgstr "번호"
 
@@ -908,4 +928,8 @@ msgstr "1 단계 : 계정 ID 조회"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "2 단계 : 계정 ID로 검색하고 북마크하여 추적하십시오."
+
+
+
+
 

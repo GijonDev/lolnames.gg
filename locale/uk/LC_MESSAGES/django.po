@@ -8,7 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Summoner name..."
 msgstr "Ім'я супровідника ..."
 
@@ -54,8 +53,8 @@ msgstr "Номер рахунку"
 msgid "Lookup name by Account ID"
 msgstr "Ім'я пошуку за ідентифікатором облікового запису"
 
-msgid "Invalid Account ID"
-msgstr "Недійсний ідентифікатор облікового запису"
+msgid "This is an old account ID. Please search the name again to get a new one"
+msgstr ""
 
 msgid "Summoner Level High Scores"
 msgstr "Вищі рівні підсумків"
@@ -75,8 +74,17 @@ msgstr "Три назви імені"
 msgid "Four Letter Names"
 msgstr "Чотири іменні літери"
 
-msgid "All Available Names"
-msgstr "Усі доступні імена"
+msgid "All"
+msgstr ""
+
+msgid "Only letters"
+msgstr ""
+
+msgid "Only numbers"
+msgstr ""
+
+msgid "With symbols"
+msgstr "Символи:"
 
 msgid "Lists"
 msgstr "Списки"
@@ -186,6 +194,12 @@ msgstr "Цей розділ містить велику кількість ін�
 msgid "Frequently Asked Questions"
 msgstr "Часті запитання"
 
+msgid "Where should I report a bug or make a suggestion?"
+msgstr "Де я повинен повідомити про неправильний переклад?"
+
+msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr ""
+
 msgid "How frequently do the lists update?"
 msgstr "Як часто списки оновлюються?"
 
@@ -233,9 +247,6 @@ msgstr "Де я повинен повідомити про неправильн�
 
 msgid "Contact me here."
 msgstr "Зв'яжіться зі мною тут."
-
-msgid "Where should I report a bug?"
-msgstr "Де я повинен повідомити про помилку?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Чому ніяких попередніх ігор Xayah і Ракан чемпіонів не дозволено?"
@@ -414,14 +425,14 @@ msgstr "Остання гра"
 msgid "Last active"
 msgstr "Останній активний"
 
-msgid "Click and bookmark to track"
-msgstr "Клацніть і закладку для відстеження"
-
-msgid "Summoner ID"
-msgstr "Ідентифікатор виклику"
-
 msgid "Level"
 msgstr "Рівень"
+
+msgid "Track"
+msgstr ""
+
+msgid "Click and bookmark to track"
+msgstr "Клацніть і закладку для відстеження"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s не використовується!"
@@ -435,8 +446,8 @@ msgstr "Шукайте ім'я супровідника за допомогою 
 msgid "LoL Name by Account ID"
 msgstr "Лог Ім'я за ідентифікатором профілю"
 
-msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "Знайдіть ім'я користувача за допомогою ідентифікатора облікового запису. Введіть ідентифікатор облікового запису та знайдіть його ім'я користувача."
+msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
+msgstr ""
 
 msgid "Account ID was found!"
 msgstr "Ідентифікатор облікового запису був знайдений!"
@@ -510,11 +521,23 @@ msgstr "Найкращий рівень суминців у Лізі леген�
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Трек, який має найвищий рівень підписів у Лізі легенд. Кращі результати можуть бути показані в усьому світі або відсортовані по регіонах. Перегляньте таблицю лідерів рівня Summoner."
 
+msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
+msgstr ""
+
+msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
+msgstr ""
+
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "Ця таблиця лідерів оновлюється не рідше одного разу на день. Додайте закладку на цю сторінку та перевірте пізніше нові оновлення."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Також перевірте перевірку імені <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">перевізника</a> або <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">списки майбутніх імен, що закінчуються</a> ."
+
+msgid "Rank"
+msgstr "Соло Ранг"
+
+msgid "Icon"
+msgstr "Іконка"
 
 msgid "Summoner Name"
 msgstr "Ім'я супровідника"
@@ -591,11 +614,11 @@ msgstr "Подивіться, коли ім'я супроводжуючого і
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr "Найкраща назва Ліги Легенд. Неактивна перевірка імені, генеровані списки та популярні пошуки."
 
-msgid "LoL Name Checker"
-msgstr "LoL Ім'я перевірки"
-
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr "Пошук хорошого імені користувача важко, ми спрощуємо його! LoL Names GG надає ім'я перевірки імені 'Ліга легенд', базу даних згенерованих вже доступних імен та список майбутніх імен на основі попередніх пошуків. LoL Names GG - це ідеальне місце, щоб отримати найкращу назву суворої Ліги Легенд. Наприклад, перегляньте наш список трьох букв імен або введіть у свою мрію назву Ліги легенд, і ми повідомимо вас, коли це доступно!"
+
+msgid "LoL Name Checker"
+msgstr "LoL Ім'я перевірки"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Використовуйте цей веб-сайт, щоб знайти, коли закінчиться термін дії імені суматора."
@@ -816,9 +839,6 @@ msgstr "Перегляньте всі найменші та найменш ви�
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
 msgstr "Ця таблиця показує всі найпоширеніші та рідкісні піктограми підписів в Лізі легенд за поточним патчем у всіх регіонах."
 
-msgid "Icon"
-msgstr "Іконка"
-
 msgid "Number"
 msgstr "Номер"
 
@@ -908,4 +928,8 @@ msgstr "Крок 1. Ідентифікатор облікового запису
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Крок 2. Пошук за ідентифікатором облікового запису та закладкою для відстеження"
+
+
+
+
 
