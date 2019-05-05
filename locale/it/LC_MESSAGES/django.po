@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Nome di LoL per ID Utente"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Questo è un vecchio ID account. Per favore cerca di nuovo il nome per ottenerne uno nuovo"
 
 msgid "Summoner Level High Scores"
 msgstr "Livelli evocatore più alti"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Nomi di quattro lettere"
 
 msgid "All"
-msgstr ""
+msgstr "Tutti"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Solo lettere"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Solo numeri"
 
 msgid "With symbols"
 msgstr "simboli:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Dove devo segnalare un errore nella traduzione?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub è la mia opzione pefered. Altrimenti puoi contattarmi su Reddit, Facebook o Twitter. Si prega di includere l'URL in cui si è verificato il bug e quante più informazioni possibili."
 
 msgid "How frequently do the lists update?"
 msgstr "Quanto spesso vengono aggiornate le liste?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Livello"
 
 msgid "Track"
-msgstr ""
+msgstr "Traccia"
 
 msgid "Click and bookmark to track"
 msgstr "Clicca ed aggiungi ai preferiti per tracciare"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "Nome di LoL per ID Utente"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Tieni traccia di un nome di evocatore utilizzando un ID account. Inserisci l'ID dell'account di un evocatore e trova il loro nome utente. Funziona allo stesso modo con cui si faceva il lolking, segnalava la pagina e si conosceva sempre il nome dell'evocatore anche dopo il cambio di nome."
 
 msgid "Account ID was found!"
 msgstr "L'ID account è stato trovato!"

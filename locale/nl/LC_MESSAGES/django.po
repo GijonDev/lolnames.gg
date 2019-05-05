@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Naam opzoek met Account ID"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Dit is een oude account-ID. Zoek opnieuw op de naam om een nieuwe te krijgen"
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level topscores"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Vier letter namen"
 
 msgid "All"
-msgstr ""
+msgstr "Allemaal"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Alleen brieven"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Alleen getallen"
 
 msgid "With symbols"
 msgstr "Symbolen:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Waar zou ik een incorrecte vertaling kunnen rapporteren?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub is mijn pefered optie. Anders kunt u contact met mij opnemen op Reddit, Facebook of Twitter. Vermeld de URL van de fout op en zoveel mogelijk informatie."
 
 msgid "How frequently do the lists update?"
 msgstr "Hoe vaak worden de lijsten bijgewerkt?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Level"
 
 msgid "Track"
-msgstr ""
+msgstr "spoor"
 
 msgid "Click and bookmark to track"
 msgstr "Klik en voeg toe om te volgen"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "LoL Naam op account ID"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Volg een summoner naam met behulp van een account-ID. Voer de account-ID van een Summoner in en vind hun gebruikersnaam. Het werkt op dezelfde manier als vroeger, voeg een bladwijzer toe aan de pagina en u weet altijd de naam van de summoner, zelfs nadat ze naam wijzigen."
 
 msgid "Account ID was found!"
 msgstr "Account-ID gevonden!"

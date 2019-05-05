@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "계정 ID별로 LoL 이름"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "이것은 이전 계정 ID입니다. 새 이름을 찾으려면 이름을 다시 검색하십시오."
 
 msgid "Summoner Level High Scores"
 msgstr "소명자 레벨 높은 점수"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "LoL 소환사 이름"
 
 msgid "All"
-msgstr ""
+msgstr "모든"
 
 msgid "Only letters"
-msgstr ""
+msgstr "글자 만"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "숫자 만"
 
 msgid "With symbols"
 msgstr "기호 :"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "어디에서 부정확 한 번역을보고해야합니까?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub은 내 선택의 여지가있는 옵션입니다. 그렇지 않으면 Reddit, Facebook 또는 Twitter에서 저에게 연락 할 수 있습니다. 버그가 발생한 URL과 최대한 많은 정보를 포함하십시오."
 
 msgid "How frequently do the lists update?"
 msgstr "목록은 얼마나 자주 업데이트됩니까?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "수평"
 
 msgid "Track"
-msgstr ""
+msgstr "선로"
 
 msgid "Click and bookmark to track"
 msgstr "클릭하여 북마크에 추가"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "계정 ID별로 LoL 이름"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "계정 ID를 사용하여 소환사 이름을 추적합니다. 소환의 계정 ID를 입력하고 사용자 이름을 찾으십시오. 그것은 lolking과 같은 방식으로 작동하며 페이지를 북마크에 추가하면 이름을 변경 한 후에도 항상 소속사 이름을 알 수 있습니다."
 
 msgid "Account ID was found!"
 msgstr "계정 ID 가 발견되었습니다!"

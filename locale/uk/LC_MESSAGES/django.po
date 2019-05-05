@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Ім'я пошуку за ідентифікатором облікового запису"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Це старий ідентифікатор облікового запису. Перегляньте ім'я, щоб отримати нове ім'я"
 
 msgid "Summoner Level High Scores"
 msgstr "Вищі рівні підсумків"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Чотири іменні літери"
 
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Лише букви"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Тільки цифри"
 
 msgid "With symbols"
 msgstr "Символи:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Де я повинен повідомити про неправильний переклад?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub - це мій варіант. Інакше ви можете зв'язатися зі мною на Reddit, Facebook або Twitter. Укажіть URL-адресу, на якій сталася помилка, та якомога більше інформації."
 
 msgid "How frequently do the lists update?"
 msgstr "Як часто списки оновлюються?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Рівень"
 
 msgid "Track"
-msgstr ""
+msgstr "Трек"
 
 msgid "Click and bookmark to track"
 msgstr "Клацніть і закладку для відстеження"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "Лог Ім'я за ідентифікатором профілю"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Відстежуйте ім'я призовників, використовуючи ідентифікатор облікового запису. Введіть ідентифікатор облікового запису призовників і знайдіть ім'я користувача. Вона працює так само, як і lolking, закладка сторінки, і ви завжди будете знати ім'я summoner навіть після зміни імені."
 
 msgid "Account ID was found!"
 msgstr "Ідентифікатор облікового запису був знайдений!"

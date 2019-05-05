@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Cauta nume dupa numele contului"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Acesta este un cod vechi al contului. Căutați din nou numele pentru a obține unul nou"
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level si rezultate"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Nume formate din patru litere"
 
 msgid "All"
-msgstr ""
+msgstr "Toate"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Doar litere"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Doar numere"
 
 msgid "With symbols"
 msgstr "simboluri:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Unde ar trebui sa reportez o translatie gresita?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub este opțiunea mea preferată. În caz contrar, puteți să mă contactați pe Reddit, Facebook sau Twitter. Includeți adresa URL la care a apărut eroarea și cât mai multe informații posibil."
 
 msgid "How frequently do the lists update?"
 msgstr "Cat de des aduceti listele cu nume la zi?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Nivelul"
 
 msgid "Track"
-msgstr ""
+msgstr "Urmări"
 
 msgid "Click and bookmark to track"
 msgstr "Faceți clic și marcaj pentru a urmări"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "LoL nume de cont"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Urmăriți un nume summoner utilizând un ID de cont. Introduceți ID-ul unui cont de summoner și găsiți numele de utilizator al acestuia. Funcționează la fel ca și în cazul utilizării lolking, marcând pagina și veți ști întotdeauna numele summonerului chiar și după schimbarea numelui."
 
 msgid "Account ID was found!"
 msgstr "ID-ul contului a fost găsit!"

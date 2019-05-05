@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Sök namn via konto ID"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Detta är ett gammalt konto-ID. Vänligen sök namnet igen för att få en ny"
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level Topplista"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Namn med 4 bokstäver"
 
 msgid "All"
-msgstr ""
+msgstr "Allt"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Endast bokstäver"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Endast siffror"
 
 msgid "With symbols"
 msgstr "Symboler:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Vart kan jag anmäla en felaktig översättning?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub är mitt pefered alternativ. Annars kan du kontakta mig på Reddit, Facebook eller Twitter. Vänligen inkludera webbadressen som felet uppstod på och så mycket information som möjligt."
 
 msgid "How frequently do the lists update?"
 msgstr "Hur ofta uppdateras listorna?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Level"
 
 msgid "Track"
-msgstr ""
+msgstr "Spår"
 
 msgid "Click and bookmark to track"
 msgstr "Klicka och bokmärk för att spåra"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "LoL namn med konto ID"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Spåra ett samtalsnamn med ett konto-ID. Ange en summoners konto-ID och hitta deras användarnamn. Det fungerar på samma sätt som lolking brukade, bokmärke sidan och du kommer alltid att känna till summorns namn även efter namnändringen."
 
 msgid "Account ID was found!"
 msgstr "Konto-ID hittades!"

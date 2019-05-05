@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Имя LoL по идентификатору учетной записи"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Это старый идентификатор аккаунта. Пожалуйста, найдите имя еще раз, чтобы получить новое"
 
 msgid "Summoner Level High Scores"
 msgstr "Таблица лидеров по уровню призывателя"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Имена с четырьмя символами"
 
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Только буквы"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Только цифры"
 
 msgid "With symbols"
 msgstr "Условные обозначения:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Где я должен сообщить о некорректном переводе?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub - мой любимый вариант. В противном случае вы можете связаться со мной на Reddit, Facebook или Twitter. Пожалуйста, укажите URL, на котором произошла ошибка, и как можно больше информации."
 
 msgid "How frequently do the lists update?"
 msgstr "Как часто обновляются списки?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Уровень"
 
 msgid "Track"
-msgstr ""
+msgstr "трек"
 
 msgid "Click and bookmark to track"
 msgstr "Нажмите и отметьте, чтобы следить"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "Имя LoL по идентификатору учетной записи"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Отслеживайте имя призывателя, используя идентификатор учетной записи. Введите идентификатор учетной записи призывателя и найдите его имя пользователя. Он работает так же, как раньше, добавляя в закладки страницу, и вы всегда будете знать имя призывателя даже после его изменения."
 
 msgid "Account ID was found!"
 msgstr "Идентификатор учетной записи был найден!"

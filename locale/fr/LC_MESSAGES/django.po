@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "LoL nom par ID de compte"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Ceci est un ancien identifiant de compte. Veuillez rechercher à nouveau le nom pour en obtenir un nouveau."
 
 msgid "Summoner Level High Scores"
 msgstr "Meilleurs score de niveau d'invocateurs"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Noms avec quatre lettres"
 
 msgid "All"
-msgstr ""
+msgstr "Tout"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Seulement des lettres"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Seulement les chiffres"
 
 msgid "With symbols"
 msgstr "Symboles:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Où dois-je signaler une traduction incorrecte?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub est mon option préférée. Sinon, vous pouvez me contacter sur Reddit, Facebook ou Twitter. Veuillez inclure l'URL sur laquelle le bogue s'est produit et autant d'informations que possible."
 
 msgid "How frequently do the lists update?"
 msgstr "À quelle fréquence les listes se mettent-elles à jour?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Niveau"
 
 msgid "Track"
-msgstr ""
+msgstr "Piste"
 
 msgid "Click and bookmark to track"
 msgstr "Cliquez et ajoutez dans vos favoris pour faire le suivi."
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "LoL nom par ID de compte"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Suivre un nom d'invocateur en utilisant un identifiant de compte. Entrez un identifiant de compte d'invocateur et trouvez son nom d'utilisateur. Cela fonctionne de la même manière que lolking, signetiez la page et vous connaîtrez toujours le nom de l'invocateur même après le changement de nom."
 
 msgid "Account ID was found!"
 msgstr "Le compte a été trouvé!"

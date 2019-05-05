@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Hesap ID'den(kimliğinden) LoL ismi arama"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Bu eski bir hesap kimliğidir. Yenisini almak için lütfen adı tekrar arayın"
 
 msgid "Summoner Level High Scores"
 msgstr "Sihirdar Seviyesi Sıralaması"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Dört Harfli İsimler"
 
 msgid "All"
-msgstr ""
+msgstr "Herşey"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Sadece harfler"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Sadece sayılar"
 
 msgid "With symbols"
 msgstr "Semboller:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Yanlış çeviriyi nereden bildirebilirim ?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub benim tercih ettiğim seçenek. Aksi takdirde Reddit, Facebook veya Twitter üzerinden benimle iletişime geçebilirsiniz. Lütfen hatanın oluştuğu URL'yi ve mümkün olduğunca fazla bilgi ekleyin."
 
 msgid "How frequently do the lists update?"
 msgstr "Listeler ne sıklıkla güncellenir?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Seviye"
 
 msgid "Track"
-msgstr ""
+msgstr "Izlemek"
 
 msgid "Click and bookmark to track"
 msgstr "İzlemek için tıkla ve işaretle"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "Hesap ID'den (kimliğinden) LoL ismi"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Bir hesap kimliği kullanarak bir çağrıcı adını izleyin. Bir müşteri hesap kimliği girin ve kullanıcı adlarını bulun. Alışmakla aynı şekilde çalışır, sayfayı yer imlerine ekler ve isim değiştirdikten sonra bile toplayıcı adını her zaman bilirsiniz."
 
 msgid "Account ID was found!"
 msgstr "Hesap ID bulundu!"

@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Hanapin ang pangalan ng Account ID"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Ito ay isang lumang account ID. Mangyaring maghanap muli ng pangalan upang makakuha ng bago"
 
 msgid "Summoner Level High Scores"
 msgstr "Mataas na Kalidad ng Summoner Level"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Apat na Pangalan ng Liham"
 
 msgid "All"
-msgstr ""
+msgstr "Lahat"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Mga titik lamang"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Mga numero lamang"
 
 msgid "With symbols"
 msgstr "Mga Simbolo:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Saan ako dapat mag-ulat ng maling pagsasalin?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "Ang GitHub ang pinipili ko. Kung hindi, maaari kang makipag-ugnay sa akin sa Reddit, Facebook o Twitter. Mangyaring isama ang URL ang bug na naganap at mas maraming impormasyon hangga't maaari."
 
 msgid "How frequently do the lists update?"
 msgstr "Gaano kadalas ina-update ang mga listahan?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Antas"
 
 msgid "Track"
-msgstr ""
+msgstr "Subaybayan"
 
 msgid "Click and bookmark to track"
 msgstr "Mag-click at mag-bookmark upang subaybayan"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "LoL Name by Account ID"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Subaybayan ang isang pangalan ng summoner gamit ang isang account ID. Magpasok ng ID ng account ng summoner at hanapin ang kanilang username. Ito ay gumagana sa parehong paraan tulad ng lolking ginamit upang, i-bookmark ang pahina at palagi mong malaman ang pangalan ng summoner kahit na pagkatapos ng pangalan ng pagbabago."
 
 msgid "Account ID was found!"
 msgstr "Natagpuan ang ID ng Account!"

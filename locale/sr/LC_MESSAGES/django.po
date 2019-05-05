@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Pretrazi ime po IDu naloga"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Ово је стари ИД рачуна. Поново претражите име да бисте добили нови"
 
 msgid "Summoner Level High Scores"
 msgstr "Najveći nivoi Summonera"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "LOL Imena"
 
 msgid "All"
-msgstr ""
+msgstr "Све"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Само слова"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Само бројеви"
 
 msgid "With symbols"
 msgstr "Симболи:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Gde da prijavim los prevod?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "ГитХуб је моја опција. У супротном можете ме контактирати на Реддит, Фацебоок или Твиттер. Молимо вас да укључите УРЛ адресу на којој се појавио грешка и што више информација."
 
 msgid "How frequently do the lists update?"
 msgstr "Kolko se često ažuriraju liste?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Nivo"
 
 msgid "Track"
-msgstr ""
+msgstr "Трацк"
 
 msgid "Click and bookmark to track"
 msgstr "Klikni na bookmark da pratis"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "LoL ime po ID-u naloga"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Пратите име суммонера користећи ИД налога. Унесите ИД рачуна суммонера и пронађите његово корисничко име. Функционише на исти начин на који је коришћен, означава страницу и увек ћете знати име суммонера чак и након што промените име."
 
 msgid "Account ID was found!"
 msgstr "Идентификован ИД налога %(account_id)s!"

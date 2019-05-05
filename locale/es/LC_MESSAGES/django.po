@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Nombre de invocador por ID de cuenta"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Esta es una ID de cuenta antigua. Por favor, busque el nombre de nuevo para obtener uno nuevo"
 
 msgid "Summoner Level High Scores"
 msgstr "Niveles más altos de invocador"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Nombres de cuatro letras"
 
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Solo cartas"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Sólo números"
 
 msgid "With symbols"
 msgstr "Símbolos:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "¿Dónde debería reportar una traducción incorrecta?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub es mi opción preferida. De lo contrario puedes contactarme en Reddit, Facebook o Twitter. Incluya la URL en la que se produjo el error y la mayor cantidad de información posible."
 
 msgid "How frequently do the lists update?"
 msgstr "¿Con qué frecuencia se actualizan las listas?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Nivel"
 
 msgid "Track"
-msgstr ""
+msgstr "Pista"
 
 msgid "Click and bookmark to track"
 msgstr "Haz clic para rastrear"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "Nombre de LoL según su ID de cuenta."
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Rastrea el nombre de un invocador usando una identificación de cuenta. Ingrese la ID de la cuenta de un invocador y encuentre su nombre de usuario. Funciona de la misma manera en que solía hacerlo, marcar la página y siempre sabrás el nombre del invocador incluso después de que cambien de nombre."
 
 msgid "Account ID was found!"
 msgstr "ID de cuenta encontrado!"

@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "LoL Név felhasználói ID alapján."
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Ez egy régi fiókazonosító. Kérjük, keressen újból egy nevet a névben"
 
 msgid "Summoner Level High Scores"
 msgstr "Szint toplista"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Négy Betűs Nevek"
 
 msgid "All"
-msgstr ""
+msgstr "Minden"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Csak betűk"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Csak számok"
 
 msgid "With symbols"
 msgstr "Szimbólumok:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Hol jelentsek pontatlan fordítást?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "A GitHub az általam választott lehetőség. Ellenkező esetben kapcsolatba léphet velem a Reddit, a Facebook vagy a Twitteren. Kérjük, adja meg az URL-t, amelyen a hiba történt, és amennyire csak lehetséges."
 
 msgid "How frequently do the lists update?"
 msgstr "Milyen gyakran frissülnek a listák?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Szint"
 
 msgid "Track"
-msgstr ""
+msgstr "Vágány"
 
 msgid "Click and bookmark to track"
 msgstr "Kattints és könyvjelzőzz és követéshez"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "LoL Név felhasználói ID alapján."
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Nyomon követheti a summoner nevét egy fiók azonosítóval. Adja meg az idézett fiók azonosítóját és keresse meg felhasználónevét. Ugyanúgy működik, mint a korábban használt lolking, az oldal könyvjelzője, és akkor is mindig ismeri a summoner nevet a változás megnevezése után."
 
 msgid "Account ID was found!"
 msgstr "Fiókazonosító találtak!"

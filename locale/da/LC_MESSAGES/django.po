@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "Find navn ud fra Konto ID"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "Dette er et gammelt konto-id. Venligst søg navnet igen for at få en ny"
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level High Scores"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "Navne med fire bogstaver"
 
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Kun bogstaver"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Kun tal"
 
 msgid "With symbols"
 msgstr "Symboler:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Hvor skal jeg rapportere en forkert oversættelse?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub er min pefered mulighed. Ellers kan du kontakte mig på Reddit, Facebook eller Twitter. Indtast venligst webadressen, hvor fejlen opstod, og så mange oplysninger som muligt."
 
 msgid "How frequently do the lists update?"
 msgstr "Hvor ofte opdaterers listerne?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Level"
 
 msgid "Track"
-msgstr ""
+msgstr "Spore"
 
 msgid "Click and bookmark to track"
 msgstr "Klik og bogmærk for at spore"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "LoL Navn efter Konto ID"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Spor et indkaldelsesnavn ved hjælp af et konto-id. Indtast en indkalders konto-id og find deres brugernavn. Det fungerer på samme måde som lolking plejede at bogmærke siden, og du vil altid kende tilkaldelsesnavnet, selv efter at de navngiver navn."
 
 msgid "Account ID was found!"
 msgstr "Konto ID blev fundet!"

@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "按帐户ID查找名称"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "这是一个旧帐户ID。请再次搜索名称以获取新名称"
 
 msgid "Summoner Level High Scores"
 msgstr "召唤师等级高分"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "四个字母的名字"
 
 msgid "All"
-msgstr ""
+msgstr "所有"
 
 msgid "Only letters"
-msgstr ""
+msgstr "只有信件"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "只有数字"
 
 msgid "With symbols"
 msgstr "符号："
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "我应该在哪里报告错误的翻译？"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub是我的选择。否则你可以通过Reddit，Facebook或Twitter与我联系。请包含发生错误的URL以及尽可能多的信息。"
 
 msgid "How frequently do the lists update?"
 msgstr "列表更新的频率如何？"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "水平"
 
 msgid "Track"
-msgstr ""
+msgstr "跟踪"
 
 msgid "Click and bookmark to track"
 msgstr "点击并添加书签进行跟踪"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "按帐户ID LoL名称"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "使用帐户ID跟踪召唤者姓名。输入召唤者的帐户ID并找到他们的用户名。它的工作方式与lolking相同，为页面添加书签，即使在名称更改后，您也始终知道召唤者名称。"
 
 msgid "Account ID was found!"
 msgstr "找到了帐号"

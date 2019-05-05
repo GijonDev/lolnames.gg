@@ -54,7 +54,7 @@ msgid "Lookup name by Account ID"
 msgstr "LoL Nimi Kasutaja ID kaudu"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr ""
+msgstr "See on vana konto ID. Uue hankimiseks otsige nime uuesti"
 
 msgid "Summoner Level High Scores"
 msgstr "Kasutajanimede Edetabel"
@@ -75,13 +75,13 @@ msgid "Four Letter Names"
 msgstr "LoL Nimed"
 
 msgid "All"
-msgstr ""
+msgstr "Kõik"
 
 msgid "Only letters"
-msgstr ""
+msgstr "Ainult tähed"
 
 msgid "Only numbers"
-msgstr ""
+msgstr "Ainult numbrid"
 
 msgid "With symbols"
 msgstr "Sümbolid:"
@@ -198,7 +198,7 @@ msgid "Where should I report a bug or make a suggestion?"
 msgstr "Kuhu peaksin teavitama väärast tõlkest?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr ""
+msgstr "GitHub on minu eelistatud valik. Vastasel juhul võite minuga ühendust võtta Reddit, Facebook või Twitteris. Palun lisage URL, kus viga ilmnes, ja võimalikult palju teavet."
 
 msgid "How frequently do the lists update?"
 msgstr "Kui tihti nimekirjad uuenduvad?"
@@ -429,7 +429,7 @@ msgid "Level"
 msgstr "Level"
 
 msgid "Track"
-msgstr ""
+msgstr "Rada"
 
 msgid "Click and bookmark to track"
 msgstr "Jälgimiseks klõpsake ja järjehoidjat"
@@ -447,7 +447,7 @@ msgid "LoL Name by Account ID"
 msgstr "LoL Nimi Kasutaja ID kaudu"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr ""
+msgstr "Jälgige summoneri nime konto ID-ga. Sisestage summoner's konto ID ja leidke oma kasutajanimi. See toimib samamoodi nagu lolking, mida varem kasutati, lehe järjehoidja ja sa tead alati summoneri nime isegi pärast nime muutmist."
 
 msgid "Account ID was found!"
 msgstr "Konto ID leiti!"
