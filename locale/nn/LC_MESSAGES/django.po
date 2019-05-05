@@ -169,7 +169,7 @@ msgid "lol nick"
 msgstr "lol nick"
 
 msgid "available league names"
-msgstr ""
+msgstr "tilgjengelige liga navn"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Ofte stilte spørsmål om summoner navn"
