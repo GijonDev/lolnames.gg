@@ -78,7 +78,7 @@ msgid "All"
 msgstr "Allemaal"
 
 msgid "Only letters"
-msgstr "Alleen brieven"
+msgstr "Alleen letters"
 
 msgid "Only numbers"
 msgstr "Alleen getallen"
@@ -258,7 +258,7 @@ msgid "However they banned the accounts of the old names so they will never expi
 msgstr "Maar ze hebben de accounts van de oude namen verbannen zodat ze nooit zullen vervallen."
 
 msgid "Disclaimer"
-msgstr "Disclamer"
+msgstr "Disclaimer"
 
 msgid "lol name generator"
 msgstr "lol naam generator"
@@ -273,13 +273,13 @@ msgid "lol names generator"
 msgstr "lol namen generator"
 
 msgid "League of Legends names generator"
-msgstr "League of Legends benoemt generator"
+msgstr "League of Legends namen generator"
 
 msgid "summoner name generator"
-msgstr "generator voor naamsamenstelling"
+msgstr "summoner name generator"
 
 msgid "league names generator"
-msgstr "competitie namen generator"
+msgstr "league namen generator"
 
 msgid "lol username generator"
 msgstr "lol gebruikersnaam generator"
@@ -303,7 +303,7 @@ msgid "lol nickname generator"
 msgstr "lol bijnaamgenerator"
 
 msgid "lol generator name"
-msgstr "lol naam van de generator"
+msgstr "lol generator naam"
 
 msgid "League of Legends summoner name generator"
 msgstr "Naamgenerator League of Legends"
@@ -336,7 +336,7 @@ msgid "Go"
 msgstr "Ga"
 
 msgid "ERROR:"
-msgstr "FOUT"
+msgstr "FOUT:"
 
 msgid "This will add special characters to names and check to see if they're available."
 msgstr "Dit voegt speciale tekens toe aan namen en kijkt of ze beschikbaar zijn."
@@ -927,7 +927,7 @@ msgid "Step 1: Lookup Account ID"
 msgstr "Stap 1: Account-ID opzoeken"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr "Stap 2: Zoeken op account-ID en bladwijzer om te volgen"
+msgstr "Stap 2: Zoek op Account ID en maak een bladwijzer aan om te volgen"
 
 
 
