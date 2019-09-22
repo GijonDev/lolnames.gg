@@ -9,13 +9,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Summoner name..."
-msgstr "召喚使いの名前..."
+msgstr "サモナーネーム..."
 
 msgid "Invalid name"
 msgstr "無効な名前"
 
 msgid "Invalid characters: "
-msgstr "無効な文字："
+msgstr "無効な文字:"
 
 msgid "Maximum 16 characters"
 msgstr "最大16文字"
@@ -24,25 +24,25 @@ msgid "Must be two or more characters"
 msgstr "2文字以上である必要があります"
 
 msgid "Names can't contain 'riot'"
-msgstr "名前は「暴動」を含むことはできません"
+msgstr "名前に「riot」を入れることはできません"
 
 msgid "This is a problem with Riot's servers"
-msgstr "これはRiotのサーバーで問題です"
+msgstr "Riotサーバーに問題があるようです"
 
 msgid "New Account"
-msgstr "アカウントIDによるLoLの名前"
+msgstr "新しいアカウント"
 
 msgid "Name Change"
-msgstr "名前の変更のみ"
+msgstr "名前の変更"
 
 msgid "Generator"
-msgstr "ジェネレータ"
+msgstr "ジェネレーター"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr "%(num_variants)s種類の中から%(name)sは利用できません。"
+msgstr "%(num_variants)sの中から%(name)sは利用できません。"
 
 msgid "Summoner name not in use"
-msgstr "使用されていない召喚師名"
+msgstr "このサモナーネームは使われていません"
 
 msgid "Account ID Lookup"
 msgstr "アカウントIDファインダー"
@@ -51,55 +51,55 @@ msgid "Account ID"
 msgstr "アカウントIDファインダー"
 
 msgid "Lookup name by Account ID"
-msgstr "アカウントIDによるLoLの名前"
+msgstr "アカウントIDからアカウントを探す"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
 msgstr "これは古いアカウントIDです。新しい名前を取得するには、名前をもう一度検索してください。"
 
 msgid "Summoner Level High Scores"
-msgstr "召喚師レベルの高得点"
+msgstr "サモナーレベル降順"
 
 msgid "All Upcoming Names"
-msgstr "すべての今後の名前"
+msgstr "今後使える名前"
 
 msgid "Recently Available Names"
-msgstr "最近利用可能な名前"
+msgstr "最近利用可能になった名前"
 
 msgid "Two Letter Names"
-msgstr "LoL サモナー名"
+msgstr "2文字の名前"
 
 msgid "Three Letter Names"
 msgstr "3文字の名前"
 
 msgid "Four Letter Names"
-msgstr "LoL サモナー名"
+msgstr "4文字の名前"
 
 msgid "All"
 msgstr "すべて"
 
 msgid "Only letters"
-msgstr "手紙だけ"
+msgstr "特殊文字のみ"
 
 msgid "Only numbers"
 msgstr "数字のみ"
 
 msgid "With symbols"
-msgstr "シンボル："
+msgstr "記号"
 
 msgid "Lists"
 msgstr "リスト"
 
 msgid "No active game for %(name)s"
-msgstr "%(name)sのアクティブゲームはありません"
+msgstr "%(name)sはアクティブではありません"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr "%(region)sに %(name)s という名前の召喚師はいません。"
+msgstr "%(region)s に %(name)s というサモナーはいません。"
 
 msgid "Perfect Pickems"
-msgstr "完璧なピケム"
+msgstr "完璧なPickems"
 
 msgid "LoL Names"
-msgstr "LoL サモナー名"
+msgstr "LoL サモナーネーム"
 
 msgid "Checker"
 msgstr "チェッカー"
@@ -126,10 +126,10 @@ msgid "Statistics"
 msgstr "統計"
 
 msgid "Summoner Levels"
-msgstr "召喚師レベル"
+msgstr "サモナーレベル"
 
 msgid "Summoner Icons"
-msgstr "召喚獣のアイコン"
+msgstr "サモナーのアイコン"
 
 msgid "FAQ"
 msgstr "よくある質問"
@@ -138,34 +138,34 @@ msgid "Languages"
 msgstr "言語"
 
 msgid "lol name checker"
-msgstr "笑名チェッカー"
+msgstr "LoL名前チェッカー"
 
 msgid "league name checker"
 msgstr "リーグ名チェッカー"
 
 msgid "lol names"
-msgstr "笑名"
+msgstr "LoL names"
 
 msgid "lolnamechecker"
-msgstr "lolnamechecker"
+msgstr "lol ネームチェッカー"
 
 msgid "League of Legends name checker"
 msgstr "リーグオブレジェンドの名前チェッカー"
 
 msgid "lol name check"
-msgstr "笑名のチェック"
+msgstr "LoLの名前チェック"
 
 msgid "league names"
 msgstr "リーグ名"
 
 msgid "name checker lol"
-msgstr "名前チェッカー笑"
+msgstr "LoL名前チェッカー"
 
 msgid "League of Legends names"
 msgstr "リーグオブレジェンズの名前"
 
 msgid "summoner name checker"
-msgstr "召喚師名チェッカー"
+msgstr "サモナーネームチェッカー"
 
 msgid "league name availability"
 msgstr "リーグ名可用性"
@@ -174,16 +174,16 @@ msgid "lol name availability"
 msgstr "名前の可用性"
 
 msgid "lol nick"
-msgstr "笑ったニックネーム"
+msgstr "LoLニックネーム"
 
 msgid "available league names"
 msgstr "利用可能なリーグ名"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr "召喚者の名前に関するよくある質問"
+msgstr "サモナーネームに関するよくある質問"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr "League of Legends Summonerの名前変更ルールに関するよくある質問です。"
+msgstr "サモナーネームの名前変更ルールに関するよくある質問です。"
 
 msgid "Close"
 msgstr "閉じる"
@@ -237,13 +237,13 @@ msgid "Normally names are cleaned up at midnight UTC. However, in some cases I'v
 msgstr "通常、名前はUTCの午前0時にクリーンアップされます。しかし、場合によっては48時間かかったことがわかりました。リストされている日に数時間ごとにチェックしてください。"
 
 msgid "Can you remove a name from a list for me?"
-msgstr "あなたは私のためにリストから名前を削除できますか？"
+msgstr "あなたは私の名前をリストから削除できますか？"
 
 msgid "No. All the names are automatically scanned."
 msgstr "いいえ、すべての名前が自動的にスキャンされます。"
 
 msgid "Where should I report an incorrect translation?"
-msgstr "どこで正しくない翻訳を報告すべきですか？"
+msgstr "どこで間違った翻訳を報告すべきですか？"
 
 msgid "Contact me here."
 msgstr "私に連絡してください。"
@@ -252,7 +252,7 @@ msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "プレXayahとRakanのチャンピオン名が許可されていないのはなぜですか？"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr "暴動は、もはや新しいチャンピオンの名前を予約しないと言いました。"
+msgstr "Riotは、新しいチャンピオンの名前を予約しないと言いました。"
 
 msgid "However they banned the accounts of the old names so they will never expire."
 msgstr "しかし、彼らは古い名前のアカウントを禁止し、期限切れになることはありません。"
@@ -261,7 +261,7 @@ msgid "Disclaimer"
 msgstr "免責事項"
 
 msgid "lol name generator"
-msgstr "笑名ジェネレータ"
+msgstr "LoL名前ジェネレータ"
 
 msgid "League of Legends name generator"
 msgstr "リーグオブレジェンドネームジェネレータ"
@@ -270,25 +270,25 @@ msgid "league name generator"
 msgstr "リーグ名ジェネレータ"
 
 msgid "lol names generator"
-msgstr "笑名ジェネレータ"
+msgstr "LoL名ジェネレータ"
 
 msgid "League of Legends names generator"
 msgstr "リーグオブレジェンズネームジェネレータ"
 
 msgid "summoner name generator"
-msgstr "召喚者名ジェネレータ"
+msgstr "サモナーネームジェネレータ"
 
 msgid "league names generator"
 msgstr "リーグ名ジェネレータ"
 
 msgid "lol username generator"
-msgstr "笑usernameの発電機"
+msgstr "LoLユーザーネームジェネレーター"
 
 msgid "name generator lol"
 msgstr "名前ジェネレータLOL"
 
 msgid "lol ign generator"
-msgstr "笑Igジェネレータ"
+msgstr "LoL IGNジェネレータ"
 
 msgid "League of Legends username generator"
 msgstr "リーグの伝説のユーザー名ジェネレータ"
@@ -297,25 +297,25 @@ msgid "lol club tag generator"
 msgstr "クラブタグジェネレータ"
 
 msgid "lol summoner name generator"
-msgstr "笑召喚隊の名前ジェネレータ"
+msgstr "サモナーネームジェネレータ"
 
 msgid "lol nickname generator"
-msgstr "笑ニックネームジェネレータ"
+msgstr "LoLニックネームジェネレータ"
 
 msgid "lol generator name"
-msgstr "笑ジェネレータ名"
+msgstr "LoL名前ジェネレータ"
 
 msgid "League of Legends summoner name generator"
-msgstr "リーグオブレジェンズ召喚士名ジェネレータ"
+msgstr "リーグオブレジェンズサモナーネームジェネレータ"
 
 msgid "lol nicknames generator"
-msgstr "笑ニックネームジェネレータ"
+msgstr "LoLニックネームジェネレータ"
 
 msgid "ign generator lol"
-msgstr "IgジェネレータLOL"
+msgstr "IGN ジェネレータ LOL"
 
 msgid "lol nick generator"
-msgstr "笑ニックジェネレータ"
+msgstr "LoLニックジェネレータ"
 
 msgid "League of Legends special characters"
 msgstr "リーグオブレジェンドの特殊キャラクター"
@@ -324,19 +324,19 @@ msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "'%(name)s'に特殊文字を追加し、利用可能な文字を確認してください！"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr "最高のリーグオブリージェネレーションの名前ジェネレータ！それを使用して、任意の名前に特殊文字を追加し、使用可能な文字を表示します。"
+msgstr "最高のリーグオブレジェンズの名前ジェネレーター！任意の名前に特殊文字を追加し、使用可能な文字を表示します。"
 
 msgid "LoL Name Generator"
-msgstr "LoL サモナー名ジェネレータ"
+msgstr "LoL名前ジェネレータ"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr "レジェンズの最高召喚召喚士の名前ジェネレータ。ジェネレータは自動的にリーグオブリーグの名前に特殊文字を追加し、それらがフリーであるかどうかを確認します。"
+msgstr "リーグオブレジェンズのサモナーネームジェネレーター。ジェネレーターは自動で名前に特殊文字を追加し、それらが使用可能かどうかを確認します。"
 
 msgid "Go"
 msgstr "検索"
 
 msgid "ERROR:"
-msgstr "エラー："
+msgstr "エラー:"
 
 msgid "This will add special characters to names and check to see if they're available."
 msgstr "これにより、名前に特殊文字が追加され、使用可能かどうかがチェックされます。"
@@ -345,76 +345,76 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "League of Legends Summonerの名前で許可され、英語の文字のように見えるすべての大文字と小文字の特殊文字のリスト。"
 
 msgid "Lower case:"
-msgstr "小文字："
+msgstr "小文字:"
 
 msgid "Upper case:"
-msgstr "大文字："
+msgstr "大文字:"
 
 msgid "Symbols:"
-msgstr "シンボル："
+msgstr "記号:"
 
 msgid "Account ID Finder"
 msgstr "アカウントIDファインダー"
 
 msgid "lol id"
-msgstr "ロールID"
+msgstr "LoL ID"
 
 msgid "summoner id"
-msgstr "召喚者ID"
+msgstr "サモナーID"
 
 msgid "lol account finder"
-msgstr "LOLアカウントファインダー"
+msgstr "LoLアカウントファインダー"
 
 msgid "account finder"
 msgstr "アカウントファインダー"
 
 msgid "lol id finder"
-msgstr "笑IDファインダー"
+msgstr "LoL IDファインダー"
 
 msgid "lol summoner id"
-msgstr "笑召喚者ID"
+msgstr "LoL サモナーID"
 
 msgid "League of Legends account id"
-msgstr "リーグの伝説のアカウントID"
+msgstr "リーグオブレジェンズのアカウントID"
 
 msgid "lol account id"
-msgstr "笑アカウントID"
+msgstr "LoL アカウントID"
 
 msgid "summoner id lol"
-msgstr "召喚兵ID爆笑"
+msgstr "サモナーID LoL"
 
 msgid "League of Legends id search"
-msgstr "リーグの伝説のIDの検索"
+msgstr "リーグオブレジェンズのID検索"
 
 msgid "League of Legends summoner id"
-msgstr "リーグオブレジェンズの召喚兵士ID"
+msgstr "リーグオブレジェンズのサモナーID"
 
 msgid "lol id search"
-msgstr "笑IDの検索"
+msgstr "LoL IDの検索"
 
 msgid "League of Legends account lookup"
 msgstr "リーグオブレジェンドのアカウント検索"
 
 msgid "League of Legends id"
-msgstr "リーグの伝説のid"
+msgstr "リーグオブレジェンズのid"
 
 msgid "summoner id League of Legends"
-msgstr "Summoner idリーグオブリーグ"
+msgstr "サモナーID リーグオブレジェンズ"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr "%(name)sのアカウントIDと召喚状のIDを参照してください！"
+msgstr "%(name)sのアカウントIDとサモナーのIDを参照してください！"
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr "召喚者のアカウントIDと召喚兵IDを検索します。"
+msgstr "サモナーのアカウントIDとサモナーIDを検索します。"
 
 msgid "LoL Account ID Finder"
 msgstr "LoLアカウントIDファインダー"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr "召喚者の名前を入力し、アカウントIDを探します。彼らが名前を変更する場合、アカウントIDは同じままです。"
+msgstr "サモナーの名前を入力し、アカウントIDを探します。名前が変更されてもアカウントIDは変わりません。"
 
 msgid "Search"
-msgstr "サーチ"
+msgstr "検索"
 
 msgid "%(display_name)s was found!"
 msgstr "%(display_name)sが見つかりました！"
@@ -423,7 +423,7 @@ msgid "Last game"
 msgstr "最後の試合"
 
 msgid "Last active"
-msgstr "最後にログインした時"
+msgstr "最終ログイン"
 
 msgid "Level"
 msgstr "レベル"
@@ -432,22 +432,22 @@ msgid "Track"
 msgstr "トラック"
 
 msgid "Click and bookmark to track"
-msgstr "クリックしてブックマークしてトラックする"
+msgstr "クリックでブックマークしトラックする"
 
 msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)sは使用されていません！"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr "どの召喚者の名前がアカウントID %(account_id)sに属しているかを確認してください！"
+msgstr "どのサモナーの名前がアカウントID %(account_id)sに属しているかを確認してください！"
 
 msgid "Search for a summoner name using an account ID."
-msgstr "アカウントIDを使用して召喚者の名前を検索します。"
+msgstr "アカウントIDを使ってサモナーの名前を検索します。"
 
 msgid "LoL Name by Account ID"
 msgstr "アカウントIDによるLoLの名前"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr "アカウントIDを使用して召喚者の名前を追跡します。召喚者のアカウントIDを入力して、そのユーザー名を見つけます。これは、ページをブックマークしたり、名前を変更した後でも召喚状の名前を知っているのと同じように機能します。"
+msgstr "アカウントIDを使用してサモナーの名前を追跡します。サモナーのアカウントIDを入力して、そのユーザー名を見つけます。ページをブックマークしたり、名前を変更した後でもサモナーの名前を知っているのと同じように機能します。"
 
 msgid "Account ID was found!"
 msgstr "アカウントID が見つかりました！"
@@ -468,70 +468,70 @@ msgid "%(account_id)s is not owned!"
 msgstr "%(account_id)sは所有していません！"
 
 msgid "highest level in League of Legends"
-msgstr "リーグオブリーグ最高レベル"
+msgstr "リーグオブレジェンズ最高レベル"
 
 msgid "lol highest level"
-msgstr "笑最高のレベル"
+msgstr "LoL最高レベル"
 
 msgid "highest League of Legends level"
-msgstr "リーグ最高レベルのリーグ"
+msgstr "リーグオブレジェンズ最高レベル"
 
 msgid "highest level in lol"
-msgstr "最高レベルの笑"
+msgstr "LoLの最高レベル"
 
 msgid "highest league level"
 msgstr "最高レベル"
 
 msgid "highest level on League of Legends"
-msgstr "Legends of Legendsの最高レベル"
+msgstr "リーグオブレジェンズの最高レベル"
 
 msgid "highest level league player"
-msgstr "最高レベルのリーグ選手"
+msgstr "最高レベルのLoLプレイヤー"
 
 msgid "top level lol"
-msgstr "トップレベルの笑"
+msgstr "LoLトップレベル"
 
 msgid "highest level lol player"
-msgstr "最高レベルの笑いプレイヤー"
+msgstr "最高レベルのLoLプレイヤー"
 
 msgid "lol level"
-msgstr "笑レベル"
+msgstr "LoLレベル"
 
 msgid "League of Legends highest level player"
-msgstr "リーグ最高級レベルのリーグ"
+msgstr "最高レベルのリーグオブレジェンズプレイヤー"
 
 msgid "who is the highest level in League of Legends"
 msgstr "レジェンドオブレジェンズの最高レベル"
 
 msgid "what is the highest level in League of Legends"
-msgstr "Legends of Legendsの最高レベルは何ですか？"
+msgstr "リーグオブレジェンズの最高レベルは何ですか？"
 
 msgid "highest level in League of Legends right now"
-msgstr "リーグオブリーグ最高レベル"
+msgstr "リーグオブレジェンズ最高レベル"
 
 msgid "summoner level leaderboard"
-msgstr "召喚レベルリーダー"
+msgstr "サモナーレベルリーダー"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "世界のトップ%(number)s召喚レベルを見てください！"
+msgstr "世界のトップ%(number)sサモナーレベルを見てください！"
 
 msgid "The top summoner level in League of Legends!"
-msgstr "Legends of Legendsのトップ召喚レベル！"
+msgstr "リーグオブレジェンズのトップサモナーレベル！"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr "リーグオブレジェンドで最高の召喚レベルを持つ人を追跡します。高得点は、世界規模で表示することも、地域別に表示することもできます。サモナーレベルのリーダーボードを参照してください。"
+msgstr "リーグオブレジェンドで最高のサモナーレベルの人を追跡します。世界規模で表示することも、地域別に表示することもできます。サモナーレベルのリーダーボードを参照してください。"
 
 msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
-msgstr ""
+msgstr "現在 %(top.display_name)s は世界で一番のサモナーレベルの %(top.level)s レベルです！"
 
 msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
-msgstr ""
+msgstr "現在 %(top.display_name)s は %(top.region|upper)s で一番のサモナーレベルの %(top.level)s レベルです!"
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
 msgstr "このリーダーボードは少なくとも1日1回更新されます。このページをブックマークし、後で新しいアップデートを確認してください。"
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr "また、 <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">召喚者名チェッカー</a>や<a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">今後の有効期限のある名前のリスト</a>もチェックしてください。"
+msgstr "また、 <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">サモナーネームチェッカー</a>や<a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">今後の有効期限のある名前のリスト</a>もチェックしてください。"
 
 msgid "Rank"
 msgstr "ソロランク"
@@ -540,10 +540,10 @@ msgid "Icon"
 msgstr "アイコン"
 
 msgid "Summoner Name"
-msgstr "召喚使いの名前"
+msgstr "サモナーネーム"
 
 msgid "Region"
-msgstr "領域"
+msgstr "地域"
 
 msgid "Current Level"
 msgstr "現在のレベル"
@@ -555,73 +555,73 @@ msgid "League of Legends names list"
 msgstr "リーグオブレジェンズの名前リスト"
 
 msgid "names for lol"
-msgstr "笑の名前"
+msgstr "LoLの名前"
 
 msgid "lol nicknames"
-msgstr "笑ニックネーム"
+msgstr "LoLニックネーム"
 
 msgid "names for League of Legends"
-msgstr "Legends of Legendsの名前"
+msgstr "リーグオブレジェンズの名前"
 
 msgid "best lol names"
-msgstr "最高の名前"
+msgstr "最高のLoLの名前"
 
 msgid "League of Legends nicknames"
-msgstr "リーグの伝説のニックネーム"
+msgstr "リーグオブレジェンズのニックネーム"
 
 msgid "lol names list"
-msgstr "笑名のリスト"
+msgstr "LoLの名前リスト"
 
 msgid "best name in lol"
-msgstr "笑いの中で最高の名前"
+msgstr "LoLの中で一番の名前"
 
 msgid "League of Legends names available"
 msgstr "リーグオブレジェンズの名前が利用可能"
 
 msgid "cool League of Legends names"
-msgstr "レジェンド名のクールなリーグ"
+msgstr "かっこいいリーグオブレジェンズの名前"
 
 msgid "cool lol names"
-msgstr "クールな名前"
+msgstr "クールなLoLの名前"
 
 msgid "lol name list"
-msgstr "笑名のリスト"
+msgstr "LoLの名前のリスト"
 
 msgid "nicknames for lol"
-msgstr "LOLのニックネーム"
+msgstr "LoLのニックネーム"
 
 msgid "best names for lol"
-msgstr "笑いのためのベストネーム"
+msgstr "LoLのベストネーム"
 
 msgid "name for lol"
-msgstr "笑の名前"
+msgstr "LoLの名前"
 
 msgid "nicknames for League of Legends"
-msgstr "Legends of Legendsのニックネーム"
+msgstr "リーグオブレジェンズのニックネーム"
 
 msgid "best lol names list"
-msgstr "最高のリスト名リスト"
+msgstr "LoLの名前のリスト"
 
 msgid "best names for League of Legends"
-msgstr "Legends of Legendsのベストネーム"
+msgstr "リーグオブレジェンズのベストネーム"
 
 msgid "lol inactive names"
-msgstr "匿名の名前を忘れる"
+msgstr "LoLの非アクティブな名前"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr "召喚者の名前%(name)sが利用可能なときを参照してください！"
+msgstr "%(name)sというサモナーネームが利用可能か確認する"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
-msgstr "最高のリーグオブリーグの名前。 非アクティブな名前チェッカー、生成されたリスト、一般的な検索"
+msgstr "一番のリーグオブレジェンズの名前。 非アクティブな名前チェッカー、生成されたリスト、一般的な検索"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "良いユーザー名を見つけることは難しいです、我々はそれを簡単に！ LoL Names GGは、Legends of Legendsの名前チェッカー、生成された既に使用可能な名前のデータベース、および以前の検索に基づいた今後の名前のリストを提供します。 LoL Names GGは、Legends Summonsの最高のリーグ名を得るのに最適な場所です。 たとえば、3つの文字名のリストを表示したり、夢のリーグオブリーグの名前を入力してください。利用可能なときにお知らせします。"
+msgstr "良いユーザー名を見つけることは難しいですが、我々はそれを簡単に！ LoL Names GGは、リーグオブレジェンズの名前チェッカー、生成された使用可能な名前のデータベース、および以前の検索に基づいた今後の名前のリストを提供します。 LoL Names GGは、Legends Summonsの一番のサモナーネームを得るのに最適な場所です。 たとえば、3文字の名前のリストを表示したり、夢のリーグオブレジェンズの名前を入力してください。利用可能なときにお知らせします。"
 
 msgid "LoL Name Checker"
-msgstr "LoL サモナー名チェッカー"
+msgstr "LoL サモナーネームチェッカー"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr "このウェブサイトを使用して、召喚者の名前の有効期限が切れる時期を確認してください。"
+msgstr "このウェブサイトを使用して、サモナーの名前の有効期限が切れる時期を確認してください。"
 
 msgid "%(name)s is available!"
 msgstr "%(name)sは利用可能です。"
@@ -636,13 +636,13 @@ msgid "%(name)s is available in %(days)s days."
 msgstr "%(name)sは%(days)s日後にご利用いただけます。"
 
 msgid "It takes %(months)s months for cleanup"
-msgstr "クリーンアップに%(months)sヶ月かかる"
+msgstr "クリーンアップに%(months)sヶ月かかります"
 
 msgid "Cleanup date (if inactive)"
 msgstr "クリーンアップの日付（非アクティブの場合）"
 
 msgid "Current level:"
-msgstr "現在のレベル："
+msgstr "現在のレベル:"
 
 msgid "Read FAQs"
 msgstr "FAQを読む"
@@ -654,7 +654,7 @@ msgid "%(name)s is probably available!"
 msgstr "おそらく%(name)sは利用可能です。"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr "しかし、彼らは古い名前のアカウントを禁止し、期限切れになることはありません。"
+msgstr "この名前が現在使用できない場合、名前を使用中のアカウントはBANされています。永遠に利用可能になることはありません。"
 
 msgid "Add Special Characters"
 msgstr "特殊文字を追加する"
@@ -669,40 +669,40 @@ msgid "It is available for new accounts."
 msgstr "新しいアカウントで利用できます。"
 
 msgid "league of legends names list"
-msgstr "伝説名簿のリーグ"
+msgstr "リーグオブレジェンズの名前リスト"
 
 msgid "names for league of legends"
-msgstr "伝説のリーグの名前"
+msgstr "リーグオブレジェンズの名前"
 
 msgid "league of legends nicknames"
-msgstr "伝説のニックネームのリーグ"
+msgstr "リーグオブレジェンズのニックネーム"
 
 msgid "league of legends names available"
-msgstr "伝説の名前のリーグ"
+msgstr "リーグオブレジェンズの利用可能な名前"
 
 msgid "cool league of legends names"
-msgstr "伝説の名前のクールなリーグ"
+msgstr "クールなリーグオブレジェンズの名前"
 
 msgid "nicknames for league of legends"
-msgstr "伝説のリーグのニックネーム"
+msgstr "リーグオブレジェンズのニックネーム"
 
 msgid "best names for league of legends"
-msgstr "伝説のリーグのベストネーム"
+msgstr "リーグオブレジェンズのベストな名前"
 
 msgid "Lists of all the best summoner names!"
-msgstr "すべての最高のサモナー名のリスト！"
+msgstr "最高のサモナーネームのリスト！"
 
 msgid "Select a list and region"
 msgstr "リストと地域を選択する"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr "現在利用可能な最高の伝説リーグ召喚兵の名前の定期的に更新された、キュレーションされたリスト。 すべての最高の召喚者名を持つリストを見つけます。"
+msgstr "現在利用可能な最高のサモナーネームの定期的に更新された、キュレーションされたリスト。 最高のサモナーネームを持つリストを見つけます。"
 
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr "名前のリストと利用可能な場合はいつ参照してください！(%(page_title)s)"
 
 msgid "Name"
-msgstr "サモナー名"
+msgstr "サモナーネーム"
 
 msgid "Type"
 msgstr "タイプ"
@@ -726,70 +726,70 @@ msgid "Active Match Lookup"
 msgstr "アクティブな一致の検索"
 
 msgid "lol match lookup"
-msgstr "笑い一致の検索"
+msgstr "LoL一致の検索"
 
 msgid "active match lol"
 msgstr "アクティブマッチLOL"
 
 msgid "lol active match"
-msgstr "笑アクティブマッチ"
+msgstr "LoLアクティブマッチ"
 
 msgid "lol lookup"
-msgstr "笑い検索"
+msgstr "LoL検索"
 
 msgid "lol current match lookup"
-msgstr "笑現在の検索一致"
+msgstr "LoL現在の検索一致"
 
 msgid "lol game lookup"
-msgstr "笑ゲームのルックアップ"
+msgstr "LoLゲームのルックアップ"
 
 msgid "see current League of Legends match details"
-msgstr "現在のリーグオブリーグ戦詳細を見る"
+msgstr "現在のリーグオブレジェンズ戦詳細を見る"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr "あなたの対戦相手のランク、勝率、レベルなど、あなたの現在のリーグオブリーグの詳細を参照してください。"
+msgstr "あなたの対戦相手のランク、勝率、レベルなど、あなたの現在のリーグオブレジェンズの詳細を参照してください。"
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr "このページを使用して、現在ゲーム中の召喚兵のアクティブな試合の詳細を検索します。"
+msgstr "このページを使用して、現在ゲーム中のサモナーのアクティブな試合の詳細を検索します。"
 
 msgid "Summoner"
-msgstr "召喚師"
+msgstr "サモナー"
 
 msgid "Champion"
 msgstr "チャンピオン"
 
 msgid "Spells"
-msgstr "呪文"
+msgstr "サモナースペル"
 
 msgid "Solo Rank"
 msgstr "ソロランク"
 
 msgid "Winratio/Total"
-msgstr "Winratio / Total"
+msgstr "Winレート / トータル"
 
 msgid "Runes"
 msgstr "ルーン"
 
 msgid "Pick'em"
-msgstr "ピックアップ"
+msgstr "Pick'em"
 
 msgid "perfect pick'ems"
-msgstr "完璧なピックアップ"
+msgstr "完璧なPick'em"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "レジェンド・オブ・レジェンズ・ワールド・チャンピオンシップ（2018年リーグ）のグループステージで、完璧なピックアップと647完璧なピックアップを揃えた唯一のプレーヤーをご覧ください"
+msgstr "レジェンド・オブ・レジェンズ・ワールド・チャンピオンシップ（2018年リーグ）のグループステージで、完璧なPick'emと647の完璧なPick'emを揃えた唯一のプレーヤーをご覧ください"
 
 msgid "<p>Number of perfect scores: <b>0</b>"
-msgstr "<p>完璧なスコアの数： <b>0</b>"
+msgstr "<p>完璧なスコアの数: <b>0</b>"
 
 msgid "<p><b>0</b> players with perfect pick'ems from group stage picked Invictus Gaming to win! At least 1 person picked every other team. See the pie charts for more details."
-msgstr "<p>グループステージから完璧なピックアップを得た<b>0</b>人のプレイヤーがInvictus Gamingを獲得！他のすべてのチームを少なくとも1人は選んだ。詳細は、円グラフを参照してください。"
+msgstr "<p>グループステージから完璧なPick'emを得た<b>0</b>人のプレイヤーがInvictus Gamingを獲得！他のすべてのチームを少なくとも1人は選んだ。詳細は、円グラフを参照してください。"
 
 msgid "<p>Highest possible scores: <b>124</b> total, <b>64</b> group and <b>60</b> knockout. The current highest knockout score is <b>35</b>.</p>"
-msgstr "<p>最高得点： <b>124</b>合計、 <b>64</b>グループ、 <b>60</b>ノックアウト。現在の最高ノックアウトスコアは<b>35</b>です。 </p>"
+msgstr "<p>最高得点: <b>124</b>合計、 <b>64</b>グループ、 <b>60</b>ノックアウト。現在の最高ノックアウトスコアは<b>35</b>です。 </p>"
 
 msgid "Pick'em Link"
-msgstr "ピックアップリンク"
+msgstr "Pick'em リンク"
 
 msgid "Total"
 msgstr "合計"
@@ -810,34 +810,34 @@ msgid "All Player Predictions (outer) compared with 64 points (inner)"
 msgstr "すべてのプレイヤー予測（外側）が64ポイント（内側）"
 
 msgid "Summoner Icon Statistics"
-msgstr "召喚獣のアイコンの統計"
+msgstr "サモナーのアイコンの統計"
 
 msgid "lol summoner icons"
-msgstr "笑召喚アイコン"
+msgstr "LoLサモナーアイコン"
 
 msgid "League of Legends summoner icons"
 msgstr "リーグオブレジェンズサモナーアイコン"
 
 msgid "lol icon"
-msgstr "笑アイコン"
+msgstr "LoLアイコン"
 
 msgid "summoner icons"
-msgstr "召喚獣のアイコン"
+msgstr "サモナーのアイコン"
 
 msgid "summoner icon"
 msgstr "サモナーアイコン"
 
 msgid "lol icon usage"
-msgstr "笑アイコンの使用法"
+msgstr "LoLアイコンの使用法"
 
 msgid "most popular League of Legends icons"
-msgstr "最も人気のあるLegends of Legendsアイコン"
+msgstr "最も人気のあるリーグオブレジェンズのアイコン"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr "リーグオブリーグで最も多く使用されている召喚獣アイコン"
+msgstr "リーグオブレジェンズで最も多く使用されているサモナーアイコン"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr "この表には、すべての地域の現在のパッチのリーグオブレジェンドで最もよく使用されている召喚獣のアイコンが表示されています。"
+msgstr "この表には、すべての地域の現在のパッチのリーグオブレジェンドで最もよく使用されているサモナーのアイコンが表示されています。"
 
 msgid "Number"
 msgstr "数"
@@ -846,40 +846,40 @@ msgid "Usage"
 msgstr "使用法"
 
 msgid "Summoner Level Statistics"
-msgstr "召喚レベルの統計"
+msgstr "サモナーレベルの統計"
 
 msgid "summoner statistics"
-msgstr "召喚獣の統計"
+msgstr "サモナーの統計"
 
 msgid "lol summoner statistics"
-msgstr "笑召喚獣の統計"
+msgstr "LoLサモナーの統計"
 
 msgid "lol statistics"
-msgstr "笑統計"
+msgstr "LoL統計"
 
 msgid "lol summoner level"
-msgstr "笑召喚レベル"
+msgstr "LoLサモナーレベル"
 
 msgid "level in lol"
-msgstr "レベルは笑"
+msgstr "LoLのレベル"
 
 msgid "summoner statistics lol"
-msgstr "召喚獣の統計情報"
+msgstr "サモナーの統計情報"
 
 msgid "statistics lol"
-msgstr "統計情報"
+msgstr "LoLの統計情報"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr "すべてのLeague of Legends Summonerレベルの統計を見る"
+msgstr "すべてのリーグオブレジェンズのサモナーレベルの統計を見る"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr "このグラフは、すべての地域のレベル100と125の間のすべての召喚者を比較します。"
+msgstr "このグラフは、すべての地域のレベル100と125の間のすべてのサモナーを比較します。"
 
 msgid "Summoner level distribution by region"
 msgstr "地域別サモナーレベルの分布"
 
 msgid "Number of Summoners"
-msgstr "召喚人の数"
+msgstr "サモナー人の数"
 
 msgid "lol name change history"
 msgstr "名前変更履歴"
@@ -888,7 +888,7 @@ msgid "league name change history"
 msgstr "リーグ名変更履歴"
 
 msgid "lol name history"
-msgstr "笑名の歴史"
+msgstr "LoLの名前の歴史"
 
 msgid "League of Legends previous names"
 msgstr "リーグオブレジェンドの旧名称"
@@ -909,25 +909,25 @@ msgid "league name history"
 msgstr "リーグ名履歴"
 
 msgid "summoner name history"
-msgstr "召喚師名履歴"
+msgstr "サモナーネーム履歴"
 
 msgid "lol name change"
 msgstr "名前の変更"
 
 msgid "lol name tracker"
-msgstr "笑名トラッカー"
+msgstr "LoLの名前トラッカー"
 
 msgid "league name change tracker"
-msgstr "リーグ名変更トラッカー"
+msgstr "LoLの名前変更トラッカー"
 
 msgid "Track League of Legends name changes!"
-msgstr "League of Legends Summonerの名前変更ルールに関するよくある質問です。"
+msgstr "リーグオブレジェンズのサモナーの名前変更ルールに関するよくある質問です。"
 
 msgid "Step 1: Lookup Account ID"
-msgstr "ステップ1：アカウントIDを検索する"
+msgstr "ステップ1: アカウントIDを検索する"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr "ステップ2：アカウントIDで検索してトラックにブックマークする"
+msgstr "ステップ2: アカウントIDで検索してトラックにブックマークする"
 
 
 
