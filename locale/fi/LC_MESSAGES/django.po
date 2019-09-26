@@ -9,13 +9,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Summoner name..."
-msgstr "Kutsu nimi ..."
+msgstr "Summoner nimi ..."
 
 msgid "Invalid name"
 msgstr "Epäkelpo nimi"
 
 msgid "Invalid characters: "
-msgstr "Virheelliset merkit:"
+msgstr "Virheellisiä merkkejä:"
 
 msgid "Maximum 16 characters"
 msgstr "Enintään 16 merkkiä"
@@ -24,67 +24,67 @@ msgid "Must be two or more characters"
 msgstr "Vähintään kaksi merkkiä"
 
 msgid "Names can't contain 'riot'"
-msgstr "Nimet eivät voi sisältää 'mellakkaa'"
+msgstr "Nimet eivät voi sisältää 'riot'"
 
 msgid "This is a problem with Riot's servers"
-msgstr "Tämä on ongelma Rioton palvelimilla"
+msgstr "Ongelma on Riotin palvelimilla"
 
 msgid "New Account"
-msgstr "Uusi tili"
+msgstr "Uusi käyttäjä"
 
 msgid "Name Change"
-msgstr "Nimen vaihto"
+msgstr "Nimenvaihto"
 
 msgid "Generator"
 msgstr "Generaattori"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr "Ei ole käytettävissä %(name)s, %(num_variants)s variantista."
+msgstr "Ei ole käytettävissä %(name)s, %(num_variants)s variantille."
 
 msgid "Summoner name not in use"
-msgstr "Kutsu nimi ei käytössä"
+msgstr "Summoner-nimi ei ole käytössä"
 
 msgid "Account ID Lookup"
-msgstr "Tili-tunnuksen haku"
+msgstr "Käyttäjätunnuksen haku"
 
 msgid "Account ID"
-msgstr "Tilin tunnus"
+msgstr "Käyttäjätunnus"
 
 msgid "Lookup name by Account ID"
-msgstr "Haku nimen tilitunnuksella"
+msgstr "Hae nimi Käyttäjätunnuksen perusteella"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr "Tämä on vanha käyttäjätunnus. Hae uudestaan nimi uudelleen"
+msgstr "Tämä on vanha käyttäjätunnus. Hae käyttäjätunnus uudestaan uuden saamiseksi"
 
 msgid "Summoner Level High Scores"
-msgstr "Summoner Level High Scores"
+msgstr "Summoner taso huipputulokset"
 
 msgid "All Upcoming Names"
 msgstr "Kaikki tulevat nimet"
 
 msgid "Recently Available Names"
-msgstr "Äskettäin saatavilla olevat nimet"
+msgstr "Lähiaikoina saatavilla olevat nimet"
 
 msgid "Two Letter Names"
-msgstr "Kaksi kirjainta nimet"
+msgstr "Kahden kirjaimen nimet"
 
 msgid "Three Letter Names"
-msgstr "Kolme kirjainta"
+msgstr "Kolmen kirjaimen nimet"
 
 msgid "Four Letter Names"
-msgstr "Neljä kirjainta"
+msgstr "Neljän kirjaimen nimet"
 
 msgid "All"
-msgstr "Kaikki"
+msgstr "Kaikki nimet"
 
 msgid "Only letters"
-msgstr "Vain kirjaimet"
+msgstr "Vain kirjaimia"
 
 msgid "Only numbers"
-msgstr "Vain numerot"
+msgstr "Vain numeroita"
 
 msgid "With symbols"
-msgstr "Symbolit:"
+msgstr "Symbolien kanssa"
 
 msgid "Lists"
 msgstr "Listat"
@@ -93,10 +93,10 @@ msgid "No active game for %(name)s"
 msgstr "Ei aktiivista peliä %(name)s"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr "Ei summoner nimeä \"%(name)s\" alueelta %(region)s."
+msgstr "Ei summoneriä tällä nimellä \"%(name)s\" alueelta %(region)s."
 
 msgid "Perfect Pickems"
-msgstr "Perfect Pickems"
+msgstr "Loistavat Pickemit"
 
 msgid "LoL Names"
 msgstr "LoL Nimet"
@@ -111,82 +111,82 @@ msgid "Tools"
 msgstr "Työkalut"
 
 msgid "Lookup Match Details"
-msgstr "Hakutaulukon tiedot"
+msgstr "Hae ottelun tiedot"
 
 msgid "Track Name Changes"
-msgstr "Raidan nimenmuutokset"
+msgstr "Seuraa nimenmuutoksia"
 
 msgid "Lookup Account ID"
-msgstr "Haku-tunnuksen tunnus"
+msgstr "Hae Käyttäjätunnus"
 
 msgid "Search by Account ID"
-msgstr "Haku tilitunnuksella"
+msgstr "Hae Käyttäjätunnuksen mukaan"
 
 msgid "Statistics"
-msgstr "tilasto"
+msgstr "tilastot"
 
 msgid "Summoner Levels"
 msgstr "Summoner-tasot"
 
 msgid "Summoner Icons"
-msgstr "Kutsu kuvakkeet"
+msgstr "Summoner-kuvakkeet"
 
 msgid "FAQ"
-msgstr "Ohje"
+msgstr "UKK"
 
 msgid "Languages"
-msgstr "Kieli (kielet"
+msgstr "Kieli (kielet)"
 
 msgid "lol name checker"
-msgstr "lol nimi checker"
+msgstr "lol nimen tarkistaja"
 
 msgid "league name checker"
-msgstr "liigan nimi tarkistaa"
+msgstr "league nimen tarkistaja"
 
 msgid "lol names"
 msgstr "lol nimiä"
 
 msgid "lolnamechecker"
-msgstr "lolnamechecker"
+msgstr "lolnimitarkistaja"
 
 msgid "League of Legends name checker"
-msgstr "League of Legends nimimerkki"
+msgstr "League of Legends nimen tarkistaja"
 
 msgid "lol name check"
-msgstr "lol nimi tarkistaa"
+msgstr "lol nimi tarkistus"
 
 msgid "league names"
-msgstr "liigan nimiä"
+msgstr "league nimiä"
 
 msgid "name checker lol"
-msgstr "nimi tarkistaa lol"
+msgstr "nimen tarkistus lol"
 
 msgid "League of Legends names"
 msgstr "League of Legends nimet"
 
 msgid "summoner name checker"
-msgstr "summoner name checker"
+msgstr "summoner nimitarkistaja"
 
 msgid "league name availability"
-msgstr "liigan nimi saatavuus"
+msgstr "league nimen saatavuus"
 
 msgid "lol name availability"
-msgstr "lol nimi saatavuus"
+msgstr "lol nimen saatavuus"
 
 msgid "lol nick"
-msgstr "lol nick"
+msgstr "lol nimimerkki"
 
 msgid "available league names"
-msgstr "käytettävissä olevia liigan nimiä"
+msgstr "käytettävissä olevat league nimet"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr "Usein kysytyt kysymykset summon nimet"
+msgstr "Usein kysytyt kysymykset summoner nimistä"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr "Usein kysytyt kysymykset League of Legends summoner name change rulesista."
+msgstr "Usein kysytyt kysymykset League of Legends summoner-nimen vaihdon säännöistä."
 
 msgid "Close"
-msgstr "kiinni"
+msgstr "lopeta"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
 msgstr "Tämä osio sisältää runsaasti tietoa, joka liittyy <strong>LoL Names.GG: hen</strong> ja sen käyttöön. Jos et löydä vastausta kysymykseesi, <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">ota yhteyttä minuun</a> ."
@@ -195,46 +195,46 @@ msgid "Frequently Asked Questions"
 msgstr "Usein Kysytyt Kysymykset"
 
 msgid "Where should I report a bug or make a suggestion?"
-msgstr "Mistä ilmoitan väärän käännöksen?"
+msgstr "Minne ilmoitan bugin tai lähetän ehdotuksia?"
 
-msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr "GitHub on haluttu vaihtoehto. Muuten voit ottaa minuun yhteyttä Redditissä, Facebookissa tai Twitterissä. Ole hyvä ja sisällytä URL-osoite, johon vika tapahtui, ja mahdollisimman paljon tietoa."
+msgid "GitHub is my preferred option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
+msgstr "GitHub on ensisijainen vaihtoehtoni. Muuten voit ottaa minuun yhteyttä Redditissä, Facebookissa tai Twitterissä. Ole hyvä ja liitä URL-osoite, jossa bugi tapahtui, ja liitä mukaan lisätietoa mahdollisimman paljon."
 
 msgid "How frequently do the lists update?"
 msgstr "Kuinka usein luettelot päivittyvät?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr "Listat päivittyvät noin kerran tunnissa. Täysi tarkistus suoritetaan joka viikko."
+msgstr "Listat päivittyvät noin kerran tunnissa. Täydellinen tarkistus suoritetaan joka viikko."
 
 msgid "Why can't I take a name on a new account?"
-msgstr "Miksi en voi nimetä uutta tiliä?"
+msgstr "Miksi en voi ottaa nimeä uudelle tilille?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "Jos nimi on jo ottanut tilin, voit saada sen vain nimenmuutoksen kautta. Nämä nimet näytetään vihreällä taustalla. Jos nykyinen käyttäjä ei ota nimeä, voit ottaa sen uudessa tilissä. Nämä nimet näytetään sinisellä pohjalla."
+msgstr "Jos nimi on jo otettu käyttöön, voi sen saada käyttöön vain nimenmuutoksen kautta. Nämä nimet näytetään vihreän taustan kanssa. Jos nimi ei ole käytössä, voit ottaa sen käyttöön uudella käyttäjällä. Nämä nimet näytetään sinisen taustan kanssa."
 
 msgid "What if the account is banned?"
-msgstr "Entä jos tili on kielletty?"
+msgstr "Entä jos tili on bannittu?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
-msgstr "Jos tili on kielletty, se voi olla vapaana vihreällä taustalla, mutta se ei ole käytettävissä loputtomiin, ellei Riot muuta politiikkaansa kiellettyihin tileihin."
+msgstr "Jos tili on bannittu, se voi näkyä käytettävissä olevana vihreän taustan kanssa, mutta se on pysyvästi ei saatavilla, ellei Riot muuta politiikkaansa bannittuja tilejä koskien."
 
 msgid "How can I get a 2 letter name?"
-msgstr "Kuinka saan 2-kirjaimen nimen?"
+msgstr "Kuinka saan kaksi kirjaimisen nimen?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr "League of Legends -nimisten nimien vähimmäissignaalit ovat 3. Voit asettaa merkkien väliin tilaa korjata tämä."
+msgstr "League of Legends käyttäjänimien vähimmäismerkkimäärä on 3. Voit lyödä merkkien väliin välilyönnin korjataksesi tämän."
 
 msgid "What timezone is used?"
-msgstr "Mitä aikavyöhykettä käytetään?"
+msgstr "Mikä aikavyöhyke on käytössä?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Kaikki aikavyöhykkeet ovat UTC. Käytä tätä <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">aikavyöhykkeen muuntimen</a> säätääksesi ne paikalliseen aikaan."
+msgstr "Kaikki aikavyöhykkeet ovat UTC:n mukaan. Käytä tätä <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">aikavyöhykkeen muuntajaa</a> säätääksesi ne paikalliseen aikaan."
 
 msgid "When exactly will the name become available?"
-msgstr "Milloin nimi tulee nimenomaan?"
+msgstr "Milloin tarkalleen nimi tulee saataville?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr "Yleensä nimet puhdistetaan keskiyöllä UTC: ssä. Joissakin tapauksissa olen kuitenkin huomannut, että se on kestänyt 48 tuntia. Tarkista muutaman tunnin välein päivänä, jona se on listattu."
+msgstr "Yleensä nimet putsataan keskiyöllä UTC:n mukaan. Joissakin tapauksissa olen kuitenkin huomannut, että se on kestänyt yli 48 tuntia. Tarkista tilanne muutaman tunnin välein päivänä, jolloin se on listattu."
 
 msgid "Can you remove a name from a list for me?"
 msgstr "Voitteko poistaa nimen luettelosta minulle?"
@@ -243,22 +243,22 @@ msgid "No. All the names are automatically scanned."
 msgstr "Ei. Kaikki nimet skannataan automaattisesti."
 
 msgid "Where should I report an incorrect translation?"
-msgstr "Mistä ilmoitan väärän käännöksen?"
+msgstr "Minne ilmoitan väärästä käännöksestä?"
 
 msgid "Contact me here."
-msgstr "Ota yhteyttä tänne."
+msgstr "Ota yhteyttä täällä."
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr "Miksi Xayah- ja Rakan-mestareiden nimet eivät ole sallittuja?"
+msgstr "Miksi ennen Xayah- ja Rakania ilmsetyneet champion-nimet eivät ole sallittuja?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr "Riot on sanonut, että he eivät enää varoita uusia mestareita."
+msgstr "Riot on sanonut, että he eivät enää varaa uusien championien nimiä."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr "He kielsivät kuitenkin vanhojen nimien tilit, jotta he eivät koskaan pääse."
+msgstr "He kuitenkin bannivat vanhojen nimien tilit, jotta he eivät koskaan vanhene."
 
 msgid "Disclaimer"
-msgstr "Vastuuvapauslauseke"
+msgstr "Erotuslausuma"
 
 msgid "lol name generator"
 msgstr "lol nimi generaattori"
@@ -267,19 +267,19 @@ msgid "League of Legends name generator"
 msgstr "League of Legends -nimi generaattori"
 
 msgid "league name generator"
-msgstr "liigan nimi generaattori"
+msgstr "leaguea nimi generaattori"
 
 msgid "lol names generator"
-msgstr "lol nimet generaattori"
+msgstr "lol nimien generaattori"
 
 msgid "League of Legends names generator"
 msgstr "League of Legends nimien generaattori"
 
 msgid "summoner name generator"
-msgstr "summoner name generator"
+msgstr "summoner nimi generator"
 
 msgid "league names generator"
-msgstr "liigan nimien generaattori"
+msgstr "league nimien generaattori"
 
 msgid "lol username generator"
 msgstr "lol käyttäjätunnus generaattori"
@@ -291,10 +291,10 @@ msgid "lol ign generator"
 msgstr "lol ign generaattori"
 
 msgid "League of Legends username generator"
-msgstr "League of Legends username generator"
+msgstr "League of Legends käyttäjänimi generaattori"
 
 msgid "lol club tag generator"
-msgstr "lol klubin tunnisteen generaattori"
+msgstr "lol klub-tunnisteen generaattori"
 
 msgid "lol summoner name generator"
 msgstr "lol summoner nimi generaattori"
@@ -303,7 +303,7 @@ msgid "lol nickname generator"
 msgstr "lol lempinimi generaattori"
 
 msgid "lol generator name"
-msgstr "lol generaattorin nimi"
+msgstr "lol generaattori nimi"
 
 msgid "League of Legends summoner name generator"
 msgstr "League of Legends summoner nimi generaattori"
@@ -315,112 +315,112 @@ msgid "ign generator lol"
 msgstr "ign generaattori lol"
 
 msgid "lol nick generator"
-msgstr "lol nick generaattori"
+msgstr "lol nimimerkki generaattori"
 
 msgid "League of Legends special characters"
-msgstr "League of Legends erikoismerkkejä"
+msgstr "League of Legends erikoismerkit"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr "Lisää erikoismerkkejä nimeen '%(name)s' ja näe, mitkä ovat käytettävissä!"
+msgstr "Lisää erikoismerkkejä nimeen '%(name)s' ja katso, mitkä ovat saatavilla!"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr "Paras League of Legends nimi generaattori! Käytä sitä lisätäksesi erikoismerkkejä mihin tahansa nimeen ja näyttämään, jotka ovat käytettävissä."
+msgstr "Paras League of Legends nimi generaattori! Käytä sitä lisätäksesi erikoismerkkejä mihin tahansa nimeen ja katso, mitkä ovat käytettävissä."
 
 msgid "LoL Name Generator"
-msgstr "LoL Name Generator"
+msgstr "LoL Nimi Generaattori"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr "Paras League of Legends summoner-nimen generaattori. Generaattori lisää automaattisesti erikoismerkit League of Legends -nimisiin nimiin ja tarkistaa, ovatko he vapaat."
+msgstr "Paras League of Legends summoner-nimen generaattori. Generaattori lisää automaattisesti erikoismerkit League of Legends -nimiin ja tarkistaa, ovatko ne saatavilla."
 
 msgid "Go"
-msgstr "Mennä"
+msgstr "Mene"
 
 msgid "ERROR:"
 msgstr "VIRHE:"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr "Tämä lisää erikoismerkkejä nimiin ja tarkistaa, ovatko ne käytettävissä."
+msgstr "Tämä lisää erikoismerkkejä nimiin ja tarkistaa, ovatko ne saatavilla."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr "Luettelo kaikista isoista ja pienistä erikoismerkistä, jotka ovat sallittuja League of Legends -sarjassa ja jotka näyttävät englantilaisilta kirjaimilta."
+msgstr "Luettelo kaikista isoista ja pienistä erikoismerkistä, jotka ovat sallittuja League of Legends summoner nimissä ja jotka näyttävät englantilaisilta kirjaimilta."
 
 msgid "Lower case:"
 msgstr "Pienet kirjaimet:"
 
 msgid "Upper case:"
-msgstr "Ylempi tapaus:"
+msgstr "Isot kirjaimet:"
 
 msgid "Symbols:"
 msgstr "Symbolit:"
 
 msgid "Account ID Finder"
-msgstr "Tilitunnushakija"
+msgstr "Käyttäjätunnushakija"
 
 msgid "lol id"
-msgstr "lol id"
+msgstr "lol tunnus"
 
 msgid "summoner id"
-msgstr "summoner id"
+msgstr "summoner tunnus"
 
 msgid "lol account finder"
-msgstr "lol-tilin etsin"
+msgstr "lol-tili etsijä"
 
 msgid "account finder"
 msgstr "tili etsijä"
 
 msgid "lol id finder"
-msgstr "lol id finder"
+msgstr "lol tunnus etsijä"
 
 msgid "lol summoner id"
-msgstr "lol summoner id"
+msgstr "lol summoner tunnus"
 
 msgid "League of Legends account id"
-msgstr "League of Legends -tilin tunnus"
+msgstr "League of Legends käyttäjätunnus"
 
 msgid "lol account id"
 msgstr "lol tilin tunnus"
 
 msgid "summoner id lol"
-msgstr "summoner id lol"
+msgstr "summoner tunnus lol"
 
 msgid "League of Legends id search"
-msgstr "League of Legends -haku"
+msgstr "League of Legends tunnus-haku"
 
 msgid "League of Legends summoner id"
-msgstr "League of Legends summoner id"
+msgstr "League of Legends summoner tunnus"
 
 msgid "lol id search"
-msgstr "lol id haku"
+msgstr "lol tunnus haku"
 
 msgid "League of Legends account lookup"
-msgstr "League of Legends -tilin tarkastus"
+msgstr "League of Legends tunnuksen tarkastus"
 
 msgid "League of Legends id"
-msgstr "League of Legends id"
+msgstr "League of Legends tunnus"
 
 msgid "summoner id League of Legends"
-msgstr "summoner id League of Legends"
+msgstr "summoner tunnus League of Legends"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr "Katso %(name)s -tilin tunnus ja kutsun tunnus!"
+msgstr "Katso %(name)s Käyttäjätunnus ja Summoner tunnus!"
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr "Etsi kutsujan tilin tunnus ja kutsun tunnus."
+msgstr "Etsi summonerin käyttäjätunnus ja summoner tunnus."
 
 msgid "LoL Account ID Finder"
-msgstr "LoL-tilinumerohakija"
+msgstr "LoL Käyttäjänimietsijä"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr "Anna summonin nimi ja löydä käyttäjätunnuksesi. Jos nimesi muutetaan, tilitunnus pysyy samana."
+msgstr "Anna summonin nimi ja löydä heidän käyttäjätunnuksensa. Jos he muuttavat nimeään, käyttäjänimi pysyy samana."
 
 msgid "Search"
-msgstr "Hae"
+msgstr "Etsi"
 
 msgid "%(display_name)s was found!"
-msgstr "%(display_name)s löytyi!"
+msgstr "%(display_name) löytyi!"
 
 msgid "Last game"
-msgstr "Viimeinen peli"
+msgstr "Viimeisin peli"
 
 msgid "Last active"
 msgstr "Viimeksi aktiivinen"
@@ -429,28 +429,28 @@ msgid "Level"
 msgstr "Taso"
 
 msgid "Track"
-msgstr "Seurata"
+msgstr "Seuraa"
 
 msgid "Click and bookmark to track"
-msgstr "Napsauta ja valitse kirjanmerkki"
+msgstr "Napsauta ja kirjanmerkkaa seurataksesi"
 
 msgid "%(summoner_name)s is not in use!"
-msgstr "%(summoner_name)s ei ole käytössä!"
+msgstr "%(summoner_name) ei ole käytössä!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr "Katso, mitä kutsunimi kuuluu tilin tunnusnumeroon %(account_id)s!"
+msgstr "Katso, mikä summoner nimi kuuluu tilin tunnusnumeroon %(account_id)s!"
 
 msgid "Search for a summoner name using an account ID."
-msgstr "Etsi summonin nimi tilin tunnuksella."
+msgstr "Etsi summoner nimi käyttäjätunnuksella."
 
 msgid "LoL Name by Account ID"
-msgstr "LoL-nimi tilin tunnuksella"
+msgstr "LoL nimi käyttäjätunnuksen perusteella"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr "Seuraa summonerin nimeä tilin tunnuksella. Anna summoner-tunnus ja etsi käyttäjätunnus. Se toimii samalla tavalla kuin lolkingin tapana, kirjanmerkin sivu ja tiedät aina summonerin nimen myös sen jälkeen, kun ne on muutettu."
+msgstr "Seuraa summonerin nimeä käyttäjätunnuksella. Anna summonerin käyttäjätunnus ja etsi heidän käyttäjänimi. Se toimii samalla tavalla kuin lolkingilla oli tapana, kirjanmerkkaa sivu ja tiedät aina summonerin nimen myös sen jälkeen, kun he vaihtavat nimeä."
 
 msgid "Account ID was found!"
-msgstr "Tilin tunnus löytyi!"
+msgstr "Käyttäjätunnus löytyi!"
 
 msgid "Current Name"
 msgstr "Nykyinen nimi"
@@ -468,79 +468,79 @@ msgid "%(account_id)s is not owned!"
 msgstr "%(account_id)s ei ole omistuksessa!"
 
 msgid "highest level in League of Legends"
-msgstr "korkeimmalla tasolla League of Legends"
+msgstr "korkeimmalla tasolla League of Legendsissä"
 
 msgid "lol highest level"
-msgstr "lol korkeimmalla tasolla"
+msgstr "lol korkein taso"
 
 msgid "highest League of Legends level"
-msgstr "korkeimman League of Legends -tason"
+msgstr "korkein League of Legends -taso"
 
 msgid "highest level in lol"
-msgstr "korkein lol: ssa"
+msgstr "korkein taso lol:ssa"
 
 msgid "highest league level"
-msgstr "korkein liigan taso"
+msgstr "korkein league taso"
 
 msgid "highest level on League of Legends"
-msgstr "korkeimmalla tasolla League of Legends"
+msgstr "korkein taso League of Legends"
 
 msgid "highest level league player"
-msgstr "korkeimman tason liigan pelaaja"
+msgstr "korkein taso league pelaaja"
 
 msgid "top level lol"
-msgstr "ylätaso lol"
+msgstr "korkein taso lol"
 
 msgid "highest level lol player"
-msgstr "korkeimman tason lol pelaaja"
+msgstr "korkein taso lol pelaaja"
 
 msgid "lol level"
-msgstr "lol tasolla"
+msgstr "lol taso"
 
 msgid "League of Legends highest level player"
 msgstr "League of Legendsin korkeimman tason soitin"
 
 msgid "who is the highest level in League of Legends"
-msgstr "joka on League of Legendsin korkein taso"
+msgstr "kuka on League of Legendsin korkeimalla tasolla"
 
 msgid "what is the highest level in League of Legends"
 msgstr "mikä on League of Legendsin korkein taso"
 
 msgid "highest level in League of Legends right now"
-msgstr "korkeimmalla tasolla League of Legendsissä juuri nyt"
+msgstr "korkein taso League of Legendsissä juuri nyt"
 
 msgid "summoner level leaderboard"
-msgstr "summoner level leaderboard"
+msgstr "summoner level pistetaulukko"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "Katso maailman %(number)s huippukokoonpanot!"
+msgstr "Katso maailman top %(number)s summoner tasot!"
 
 msgid "The top summoner level in League of Legends!"
-msgstr "Legenda-liigassa ylhäältä kutsuttu taso!"
+msgstr "Korkein summoner taso League of Legends:ssä!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr "Seuraa kenellä on korkein kutsutaso League of Legendsissa. Korkeat tulokset voidaan näyttää maailmanlaajuisiksi tai lajitella alueittain. Katso summoner tason tulostauluja."
+msgstr "Seuraa sitä kenellä on korkein summoner taso League of Legendsissa. Huipputulokset voidaan näyttää maailmanlaajuisena tai lajitella alueittain. Katso summoner taso tulostauluja."
 
 msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
-msgstr ""
+msgstr "Tällä hetkellä %(top.display_name)s on korkein summoner taso maailmassa tasolla  %(top.level)s!"
 
 msgid "Currently %(top.display_name)s has the highest summoner level in %(top.region|upper)s at level %(top.level)s!"
-msgstr ""
+msgstr "Tällä hetkellä %(top.display_name)s on korkein summoner taso %(top.region|upper)s tasolla %(top.level)s!"
 
 msgid "This leaderboard updates at least once daily. Bookmark this page and check back later for new updates."
-msgstr "Tämä leaderboard päivittyy vähintään kerran päivässä. Merkitse tämä sivu ja tarkista myöhemmin uudet päivitykset."
+msgstr "Tämä leaderboard päivittyy vähintään kerran päivässä. Kirjanmerkka tämä sivu ja tule myöhemmin takaisin tarkistamaan uudet päivitykset."
 
 msgid "Also check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr "Tarkista myös <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">kutsujan nimen tarkistus</a> tai <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">luettelot tulevista vanhentuneista nimistä</a> ."
+msgstr "Käy myös katsomassa <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner nimen tarkistus</a> tai <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">luettelot tulevista vanhentuvista nimistä</a> ."
 
 msgid "Rank"
-msgstr "Solo Rank"
+msgstr "Sijoitus"
 
 msgid "Icon"
-msgstr "ikoni"
+msgstr "Ikoni"
 
 msgid "Summoner Name"
-msgstr "Kutsu nimi"
+msgstr "Summoner nimi"
 
 msgid "Region"
 msgstr "alue"
@@ -555,13 +555,13 @@ msgid "League of Legends names list"
 msgstr "League of Legends nimiluettelo"
 
 msgid "names for lol"
-msgstr "nimet lol: lle"
+msgstr "nimet lol:lle"
 
 msgid "lol nicknames"
 msgstr "lol lempinimiä"
 
 msgid "names for League of Legends"
-msgstr "nimiä League of Legends"
+msgstr "nimiä League of Legends:iin"
 
 msgid "best lol names"
 msgstr "parhaat lol-nimet"
@@ -570,58 +570,58 @@ msgid "League of Legends nicknames"
 msgstr "League of Legends lempinimiä"
 
 msgid "lol names list"
-msgstr "lol-nimien luettelo"
+msgstr "lol-nimiluettelo"
 
 msgid "best name in lol"
 msgstr "paras nimi lol: ssa"
 
 msgid "League of Legends names available"
-msgstr "League of Legends -nimisiä nimiä"
+msgstr "League of Legends saatavilla olevat nimet"
 
 msgid "cool League of Legends names"
-msgstr "viileä League of Legends nimet"
+msgstr "siistejä League of Legends nimiä"
 
 msgid "cool lol names"
-msgstr "cool lol nimiä"
+msgstr "siistejä lol nimiä"
 
 msgid "lol name list"
-msgstr "lol nimi"
+msgstr "lol nimilista"
 
 msgid "nicknames for lol"
-msgstr "lol: n lempinimet"
+msgstr "lempinimet lol:iin"
 
 msgid "best names for lol"
-msgstr "parhaat lol: n nimet"
+msgstr "parhaat nimet lol:iin"
 
 msgid "name for lol"
-msgstr "nimi lol: lle"
+msgstr "nimi lol:iin"
 
 msgid "nicknames for League of Legends"
-msgstr "liigan legendoja"
+msgstr "nimimerkkejä League of Legends:iin"
 
 msgid "best lol names list"
-msgstr "paras lol-nimien luettelo"
+msgstr "parhaat lol-nimet luettelo"
 
 msgid "best names for League of Legends"
-msgstr "legendaarien parhaat nimet"
+msgstr "parhaat nimet League of Legends:iin"
 
 msgid "lol inactive names"
-msgstr "lol ei-aktiivisia nimiä"
+msgstr "lol ei-aktiiviset nimet"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr "Katso, kun kutsujan nimi %(name)s on käytettävissä!"
+msgstr "Katso, milloin kutsujan nimi %(name)s on saatavilla!"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
-msgstr "Paras League of Legends nimet. Ei-aktiivinen nimi tarkistaja, luodut luettelot ja suosittuja hakuja."
+msgstr "Parhaat League of Legends nimet. Ei-aktiivisien nimien tarkistaja, luodut luettelot ja suosittut haut."
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "Hyvän käyttäjätunnuksen löytäminen on kovaa, teemme sen helposti! LoL-nimet GG tarjoaa League of Legends -nimi-tarkistajan, tietokannan jo tuotetuista nimeistä ja luettelon tulevista nimistä aiempien hakujen perusteella. LoL Names GG on täydellinen paikka saada paras League of Legends summoner nimi. Voit esimerkiksi nähdä luettelon kolmesta kirjaimesta tai kirjoittaa Dream of Legends nimesi, ja kerromme, milloin se on käytettävissä!"
+msgstr "Hyvän käyttäjätunnuksen keksiminen on vaikeaa, me teemme siitä helppoa! LoL Names GG tarjoaa League of Legends nimentarkistajan, tietokannan jo saatavilla olevista nimistä ja luettelon tulevista nimistä aiempien hakujen perusteella. LoL Names GG on täydellinen paikka saadaksesi parhaan League of Legends summoner nimen. Voit esimerkiksi katsoa listamme kolmen kirjaimen nimistä tai kirjoittaa unelmiesi League of Legends nimen, ja kerromme, milloin se on saatavilla!"
 
 msgid "LoL Name Checker"
-msgstr "LoL Name Checker"
+msgstr "LoL Nimitarkistaja"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr "Käytä tämän verkkosivuston avulla, kun kutsujan nimi vanhenee."
+msgstr "Käytä tätä verkkosivustoa saadaksesi tietää milloin summoner nimi vanhenee."
 
 msgid "%(name)s is available!"
 msgstr "%(name)s on käytettävissä!"
@@ -633,10 +633,10 @@ msgid "Cleanup date was"
 msgstr "Puhdistuspäivä oli"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr "%(name)s on käytettävissä %(days)s päivää."
+msgstr "%(name)s on käytettävissä %(days)s päivän kuluttua."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr "Siihen tarvitaan %(months)s kuukautta"
+msgstr "Siihen menee %(months)s kuukautta"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Puhdistuspäivä (jos ei käytössä)"
@@ -651,10 +651,10 @@ msgid "Add to Calendar"
 msgstr "Lisää kalenteriin"
 
 msgid "%(name)s is probably available!"
-msgstr "%(name)s on luultavasti saatavilla!"
+msgstr "%(name)s on todennäköisesti saatavilla!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr "Jos tätä nimeä ei voida ottaa nyt, tili on melkein varmasti kielletty ja nimi ei koskaan vanhene."
+msgstr "Jos tätä nimeä ei voi käyttää nyt, tili on melkein varmasti bannattu ja nimi ei vanhene koskaan ."
 
 msgid "Add Special Characters"
 msgstr "Lisää erikoismerkkejä"
@@ -663,43 +663,43 @@ msgid "%(summoner_name)s is available!"
 msgstr "%(summoner_name)s on käytettävissä!"
 
 msgid "This name currently isn't used."
-msgstr "Tätä nimeä ei tällä hetkellä käytetä."
+msgstr "Tämä nimi ei ole tällä hetkellä käytössä."
 
 msgid "It is available for new accounts."
-msgstr "Se on käytettävissä uusille tileille."
+msgstr "Se on saatavailla uusila tileillä."
 
 msgid "league of legends names list"
-msgstr "legenda-nimien luettelo"
+msgstr "League of Legends nimiluettelo"
 
 msgid "names for league of legends"
-msgstr "nimiä legendoihin"
+msgstr "nimiä League of Legends:iin"
 
 msgid "league of legends nicknames"
-msgstr "liigan legendoja lempinimiä"
+msgstr "league of legends lempinimiä"
 
 msgid "league of legends names available"
-msgstr "legenda-nimien yhdistelmä"
+msgstr "league of legends nimiä saatavilla"
 
 msgid "cool league of legends names"
-msgstr "viileä liitto legendoiden nimiä"
+msgstr "siistejä league of legends nimiä"
 
 msgid "nicknames for league of legends"
-msgstr "lempinimiä legendojen liigalle"
+msgstr "lempinimiä league of legends:iin"
 
 msgid "best names for league of legends"
-msgstr "paras nimi legenda-liigaan"
+msgstr "parhaat nimet league of legends:iin"
 
 msgid "Lists of all the best summoner names!"
-msgstr "Listat kaikkien parhaiden summon nimiä!"
+msgstr "Listat kaikista parhaista summoner nimistä!"
 
 msgid "Select a list and region"
-msgstr "Valitse luettelo ja alue"
+msgstr "Valitse lista ja alue"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr "Säännöllisesti päivitettävät, kuratuimmat luettelot parhaillaan saatavilla olevista League of Legend summoner-nimistä. Etsi luettelot kaikkien parhaiden summonien nimet."
+msgstr "Säännöllisesti päivitetyt, kuratoidut listat parhaista saatavilla olevista League of Legend summoner-nimistä. Etsi listat joihin kuuluvat kaikki parhaat summoner-nimet ."
 
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr "Katso luettelo %(page_title)s ja kun ne ovat käytettävissä!"
+msgstr "Katso luettelot %(page_title)s ja milloin ne ovat saatavilla!"
 
 msgid "Name"
 msgstr "Nimi"
@@ -714,16 +714,16 @@ msgid "Recheck"
 msgstr "Tarkista uudelleen"
 
 msgid "Name change only"
-msgstr "Vain nimi"
+msgstr "Vain nimenvaihto"
 
 msgid "Click to update"
 msgstr "Päivitä napsauttamalla"
 
 msgid "New accounts or name change"
-msgstr "Uudet tilit tai nimenmuutos"
+msgstr "Uudet käyttäjät tai nimenmuutos"
 
 msgid "Active Match Lookup"
-msgstr "Aktiivinen hakutarkkailu"
+msgstr "Aktiivinen ottelu haku"
 
 msgid "lol match lookup"
 msgstr "lol haku"
@@ -738,16 +738,16 @@ msgid "lol lookup"
 msgstr "lol-haku"
 
 msgid "lol current match lookup"
-msgstr "lol nykyinen hakutarkistus"
+msgstr "lol nykyinen ottelu haku"
 
 msgid "lol game lookup"
-msgstr "lol pelin haku"
+msgstr "lol ottelu haku"
 
 msgid "see current League of Legends match details"
-msgstr "katso nykyinen League of Legends -ottelun tiedot"
+msgstr "katso nykyisen League of Legends -ottelun tiedot"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr "Katso nykyinen League of Legends -messutiedot, mukaan lukien vastustajasi sijoitus, voitto-suhde ja taso."
+msgstr "Katso nykyisen League of Legends -otteluiedot, mukaan lukien vastustajasi sijoitus, voitto-suhde ja taso."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Tämän sivun avulla voit etsiä aktiivisen ottelun tietoja pelaajille, jotka ovat tällä hetkellä pelissä."
@@ -756,19 +756,19 @@ msgid "Summoner"
 msgstr "Summoner"
 
 msgid "Champion"
-msgstr "Mestari"
+msgstr "Champion"
 
 msgid "Spells"
-msgstr "loitsuja"
+msgstr "Loitsut"
 
 msgid "Solo Rank"
-msgstr "Solo Rank"
+msgstr "Soolo sijoitus"
 
 msgid "Winratio/Total"
-msgstr "Winratio / yhteensä"
+msgstr "Voittosuhde / yhteensä"
 
 msgid "Runes"
-msgstr "riimut"
+msgstr "Riimut"
 
 msgid "Pick'em"
 msgstr "Pick'em"
@@ -777,19 +777,19 @@ msgid "perfect pick'ems"
 msgstr "täydellinen pick'ems"
 
 msgid "See the only player that still has a chance at perfect pick'ems plus all 647 perfect pickems from the group stage of the League of Legends World Championship 2018"
-msgstr "Katso ainoa pelaaja, jolla on vielä mahdollisuus täydellisistä pick'emsista sekä kaikki 647 täydellistä bändiä League of Legends World Championship 2018 -ryhmän vaiheesta"
+msgstr "Katso ainoa pelaaja, jolla on vielä mahdollisuus täydellisissä pick'emsissä sekä kaikki 647 täydellistä pick'emiä League of Legends World Championship 2018 lohkovaiheesta"
 
 msgid "<p>Number of perfect scores: <b>0</b>"
 msgstr "<p> Täydellisten pisteiden määrä: <b>0</b>"
 
 msgid "<p><b>0</b> players with perfect pick'ems from group stage picked Invictus Gaming to win! At least 1 person picked every other team. See the pie charts for more details."
-msgstr "<p> <b>0</b> pelaajaa, joilla on täydellinen pick'ems ryhmätasolta poimittu Invictus Gaming voittaa! Vähintään yksi henkilö otti vastaan ​​joka toinen joukkue. Katso piireistä lisätietoja."
+msgstr "<p> <b>0</b> pelaajaa, joilla on täydellinen pick'ems lohkovaiheessa, valitsivat Invictus Gaming voittavan! Vähintään yksi henkilö valitsi ​​joka toisen joukkueen. Katso piiraskuvioista lisätietoja."
 
 msgid "<p>Highest possible scores: <b>124</b> total, <b>64</b> group and <b>60</b> knockout. The current highest knockout score is <b>35</b>.</p>"
-msgstr "<p> Suurin mahdollinen pisteytys: <b>124</b> yhteensä, <b>64</b> ryhmä ja <b>60</b> knockout. Nykyinen korkein noppa pisteet on <b>35</b> . </p>"
+msgstr "<p> Suurin mahdollinen pisteytys: <b>124</b> yhteensä, <b>64</b> ryhmä ja <b>60</b> tyrmäys. Nykyinen korkein tyrmäys pistemäärä on <b>35</b>.</p>"
 
 msgid "Pick'em Link"
-msgstr "Pick'em Link"
+msgstr "Pick'em Linkki"
 
 msgid "Total"
 msgstr "Kaikki yhteensä"
@@ -804,13 +804,13 @@ msgid "Predicted Winner"
 msgstr "Ennustettu voittaja"
 
 msgid "Group Stage 50+ Points Predictions (outer) compared with 64 points (inner)"
-msgstr "Ryhmävaihe 50 + pistemääräiset ennusteet (ulompi) verrattuna 64 pisteeseen (sisäinen)"
+msgstr "Lohkiaihe 50 + pistemääräiset ennusteet (ulompi) verrattuna 64 pisteeseen (sisäinen)"
 
 msgid "All Player Predictions (outer) compared with 64 points (inner)"
-msgstr "Kaikki pelaajan ennusteet (ulkoinen) verrattuna 64 pisteeseen (sisäinen)"
+msgstr "Kaikki pelaaja ennusteet (ulkoinen) verrattuna 64 pisteeseen (sisäinen)"
 
 msgid "Summoner Icon Statistics"
-msgstr "Summoner Icon Tilastot"
+msgstr "Summoner Kuvake Tilastot"
 
 msgid "lol summoner icons"
 msgstr "lol summoner kuvakkeet"
@@ -831,13 +831,13 @@ msgid "lol icon usage"
 msgstr "lol-kuvakkeen käyttö"
 
 msgid "most popular League of Legends icons"
-msgstr "suosituin League of Legends -kuvakkeet"
+msgstr "suosituimat League of Legends -kuvakkeet"
 
 msgid "See all the most and least used summoner icons in League of Legends"
-msgstr "Katso kaikki eniten ja vähiten käyttämättömät summoner-kuvakkeet League of Legendsissa"
+msgstr "Katso kaikki eniten ja vähiten käytetyt summoner-kuvakkeet League of Legendsissa"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr "Tässä taulukossa näytetään kaikki legendaarisimmat legendaariset ja harvinaisimmat summonikuvakkeet nykyisen laastarin yli kaikilla alueilla."
+msgstr "Tässä taulukossa näytetään kaikki nykyisen muutostiedoston legendaarisimmat ja harvinaisimmat summoner-kuvakkeet kaikilta alueilta."
 
 msgid "Number"
 msgstr "Määrä"
@@ -846,7 +846,7 @@ msgid "Usage"
 msgstr "Käyttö"
 
 msgid "Summoner Level Statistics"
-msgstr "Summoner Level Statistics"
+msgstr "Summoner Taso Tilastot"
 
 msgid "summoner statistics"
 msgstr "summoner tilastot"
@@ -858,10 +858,10 @@ msgid "lol statistics"
 msgstr "lol tilastot"
 
 msgid "lol summoner level"
-msgstr "lol summoner tasolla"
+msgstr "lol summoner taso"
 
 msgid "level in lol"
-msgstr "tason lol: ssa"
+msgstr "tason lol:ssa"
 
 msgid "summoner statistics lol"
 msgstr "summoner tilastot lol"
@@ -870,19 +870,19 @@ msgid "statistics lol"
 msgstr "tilastot lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr "Katso kaikki League of Legends summoner-tason tilastot"
+msgstr "Katso kaikki League of Legends summoner-taso tilastot"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr "Tämä kaavio vertailee kaikkia summia 100 ja 125 välillä kaikilla alueilla."
+msgstr "Tämä kaavio vertailee kaikkia summonereita tason 100 ja 125 kaikilta alueilta."
 
 msgid "Summoner level distribution by region"
 msgstr "Summoner-tason jakautuminen alueittain"
 
 msgid "Number of Summoners"
-msgstr "Kutsuvien lukumäärä"
+msgstr "Summonerien lukumäärä"
 
 msgid "lol name change history"
-msgstr "lol nimi muutoksen historia"
+msgstr "lol nimenmuutos historia"
 
 msgid "league name change history"
 msgstr "liigan nimen muutoshistoria"
@@ -891,45 +891,40 @@ msgid "lol name history"
 msgstr "lol nimi historia"
 
 msgid "League of Legends previous names"
-msgstr "League of Legends aiemmat nimet"
+msgstr "League of Legends aikaisemmat nimet"
 
 msgid "League of Legends name change history"
-msgstr "League of Legendsin nimi muuttaa historiaa"
+msgstr "League of Legendsin nimenmuutos historia"
 
 msgid "lol previous names"
-msgstr "lol edelliset nimet"
+msgstr "lol aikaisemmat nimet"
 
 msgid "League of Legends name history"
-msgstr "League of Legends -historiaa"
+msgstr "League of Legends nimi historia"
 
 msgid "League of Legends name change"
-msgstr "League of Legendsin nimi muutoksesta"
+msgstr "League of Legendsin nimenmuutos"
 
 msgid "league name history"
-msgstr "liigan nimihistoria"
+msgstr "league nimihistoria"
 
 msgid "summoner name history"
-msgstr "summoner name history"
+msgstr "summoner nimihistoria"
 
 msgid "lol name change"
-msgstr "lol nimen muutos"
+msgstr "lol nimenmuutos"
 
 msgid "lol name tracker"
-msgstr "lol nimi tracker"
+msgstr "lol nimiseurain"
 
 msgid "league name change tracker"
-msgstr "liigan nimenmuutoksen seuranta"
+msgstr "liigan nimenmuutoksenseurain"
 
 msgid "Track League of Legends name changes!"
-msgstr "Seuraa League of Legends -nimisiä nimiä muutoksista!"
+msgstr "Seuraa League of Legends nimenmuutoksia!"
 
 msgid "Step 1: Lookup Account ID"
-msgstr "Vaihe 1: Lookup Account ID"
+msgstr "Vaihe 1: Etsi käyttäjätunnus"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
-msgstr "Vaihe 2: Hae tilityyppistä ja kirjanmerkkistä seurata"
-
-
-
-
-
+msgstr "Vaihe 2: Hae käyttäjätunnuksen ja kirjanmerkin mukaan"

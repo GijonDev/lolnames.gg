@@ -18,7 +18,7 @@ Click the link to the text file with the translations
 | de | [German](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/de/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | es | [Spanish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/es/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | et | [Estonian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/et/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
-| fi | [Finnish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fi/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| fi | [Finnish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fi/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | fr | [French](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fr/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | hu | [Hungarian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/hu/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | id | [Indonesian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/id/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
@@ -76,3 +76,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Danish - Anonymous, [Tinggaard](https://github.com/Tinggaard)
   * Norwegian - [Setsu_Trash](https://twitter.com/Setsu_Trash)
   * Japanese - [S4WA](https://github.com/S4WA)
+  * Finnish - [FreeRangeClone](https://www.reddit.com/user/FreeRangeClone)
