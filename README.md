@@ -59,7 +59,7 @@ I'm open to questions anytime.
 Contributors will be listed here and on the website if you wish. A link to social media or your website can be included.
 
   * English - [LoLNamesGG](https://twitter.com/LoLNamesGG)
-  * Portuguese - Anonymous, João Lima
+  * Portuguese - Anonymous, João Lima, [PxLucasF](https://github.com/PxLucasF)
   * Italian - [OmegaDestroyer67](https://www.reddit.com/user/OmegaDestroyer67)
   * French - [roisorcier](https://www.reddit.com/user/roisorcier), [GABIG4B1](https://www.reddit.com/user/GABIG4B1)
   * Spanish - [AlanBitsch](https://www.reddit.com/user/AlanBitsch), [ferrytiuu](https://www.reddit.com/user/ferrytiuu), [VortexGutter](https://www.reddit.com/user/VortexGutter), [GijonDev](https://github.com/GijonDev)
