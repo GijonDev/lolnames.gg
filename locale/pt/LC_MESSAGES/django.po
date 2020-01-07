@@ -330,7 +330,7 @@ msgid "LoL Name Generator"
 msgstr "Gerador de nomes de LoL"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr "O melhor gerador de nome de invocador para League of Legends. O gerador adiciona automaticamente caracteres especiais aos nomes e verifica se eles estão disponíveis."
+msgstr "O melhor Gerador de Nomes da League of Legends Invocador. O gerador adiciona automaticamente caracteres especiais aos nomes de League of Legends e verifica se eles estão disponíveis."
 
 msgid "Go"
 msgstr "Ir"
