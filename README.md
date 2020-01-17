@@ -19,7 +19,7 @@ Click the link to the text file with the translations
 | es | [Spanish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/es/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | et | [Estonian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/et/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | fi | [Finnish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fi/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
-| fr | [French](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fr/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| fr | [French](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fr/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | hu | [Hungarian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/hu/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | id | [Indonesian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/id/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | it | [Italian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/it/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
