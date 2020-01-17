@@ -30,10 +30,10 @@ msgid "This is a problem with Riot's servers"
 msgstr "Il y a un problème avec les serveurs de jeu Riot"
 
 msgid "New Account"
-msgstr "LoL nom par ID de compte"
+msgstr "Nouveau compte"
 
 msgid "Name Change"
-msgstr "Traquez le changement de noms"
+msgstr "Changer de nom"
 
 msgid "Generator"
 msgstr "Générateur"
@@ -48,13 +48,13 @@ msgid "Account ID Lookup"
 msgstr "Détecteur d'identifiant de compte"
 
 msgid "Account ID"
-msgstr "D'identifiant de compte"
+msgstr "Identifiant de compte"
 
 msgid "Lookup name by Account ID"
-msgstr "LoL nom par ID de compte"
+msgstr "Rechercher les noms par ID de compte"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr "Ceci est un ancien identifiant de compte. Veuillez rechercher à nouveau le nom pour en obtenir un nouveau."
+msgstr "C'est un ancien identifiant de compte. Veuillez chercher le nom à nouveau pour en obtenir un nouveau"
 
 msgid "Summoner Level High Scores"
 msgstr "Meilleurs score de niveau d'invocateurs"
@@ -75,16 +75,16 @@ msgid "Four Letter Names"
 msgstr "Noms avec quatre lettres"
 
 msgid "All"
-msgstr "Tout"
+msgstr "Tous"
 
 msgid "Only letters"
-msgstr "Seulement des lettres"
+msgstr "Lettres uniquement"
 
 msgid "Only numbers"
-msgstr "Seulement les chiffres"
+msgstr "Chiffres uniquement"
 
 msgid "With symbols"
-msgstr "Symboles:"
+msgstr "Avec des symboles:"
 
 msgid "Lists"
 msgstr "Listes"
@@ -111,7 +111,7 @@ msgid "Tools"
 msgstr "Outils"
 
 msgid "Lookup Match Details"
-msgstr "Voir les détails de la partie active"
+msgstr "Voir les détails de la partie"
 
 msgid "Track Name Changes"
 msgstr "Traquez le changement de noms"
@@ -126,7 +126,7 @@ msgid "Statistics"
 msgstr "Statistiques"
 
 msgid "Summoner Levels"
-msgstr "Meilleurs score de niveau d'invocateurs"
+msgstr "Niveaux de l'invocateurs"
 
 msgid "Summoner Icons"
 msgstr "Icone d'Invocateur"
@@ -189,34 +189,34 @@ msgid "Close"
 msgstr "Fermer"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr "Cette section contient une foule d'informations, liées à <strong> LoL Names.GG </ strong> et son utilisation. Si vous ne trouvez pas une réponse à votre question, n'hésitez pas à <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">me contacter</a>."
+msgstr "Cette section contient une foule d'informations, relatives aux noms <forts>LoL.GG</strong> et à leur utilisation. Si vous ne trouvez pas de réponse à votre question, n'hésitez pas à <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contactez-moi</a>."
 
 msgid "Frequently Asked Questions"
 msgstr "Questions fréquemment posées"
 
 msgid "Where should I report a bug or make a suggestion?"
-msgstr "Où dois-je signaler une traduction incorrecte?"
+msgstr "Où dois-je signaler un bug ou faire une suggestion ?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr "GitHub est mon option préférée. Sinon, vous pouvez me contacter sur Reddit, Facebook ou Twitter. Veuillez inclure l'URL sur laquelle le bogue s'est produit et autant d'informations que possible."
+msgstr "GitHub est mon option préférée. Sinon, vous pouvez me contacter sur Reddit, Facebook ou Twitter. Veuillez inclure l'URL sur laquelle le bug s'est produit et autant d'informations que possible"
 
 msgid "How frequently do the lists update?"
 msgstr "À quelle fréquence les listes se mettent-elles à jour?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr "Les listes seront mises à jour une fois par semaine. C'est parce qu'il faut des centaines de milliers de requêtes et doit être mis en cache."
+msgstr "Les listes seront mises à jour environ une fois par heure. Un rescan complet est effectué chaque semaine."
 
 msgid "Why can't I take a name on a new account?"
 msgstr "Pourquoi ne puis-je pas prendre un nom sur un nouveau compte?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "Si un nom est déjà pris par un compte, vous ne pouvez l'obtenir que par un changement de nom. Ces noms sont affichés avec un fond vert. Si un nom n'est pas pris par un utilisateur actuel, vous pouvez l'utiliser sur un nouveau compte. Ces noms sont affichés avec un fond bleu."
+msgstr "Si un nom est déjà pris par un compte, vous ne pouvez l'obtenir que par un changement de nom. Ces noms sont affichés sur un fond vert. Si un nom n'est pas pris par un utilisateur actuel, vous pouvez le prendre sur un nouveau compte. Ces noms sont affichés sur un fond bleu"
 
 msgid "What if the account is banned?"
 msgstr "Et si le compte est banni?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
-msgstr "Si le compte est banni, il peut être montré comme étant disponible avec un fond vert, mais il restera indéfiniment indisponible, sauf si Riot modifie sa politique sur les comptes bannis."
+msgstr "Si le compte est banni, il peut être montré comme étant libre avec un fond vert, cependant il restera indisponible indéfiniment à moins que Riot ne change sa politique sur les comptes bannis."
 
 msgid "How can I get a 2 letter name?"
 msgstr "Comment puis-je obtenir un nom de 2 lettres?"
@@ -228,13 +228,13 @@ msgid "What timezone is used?"
 msgstr "Quel fuseau horaire est utilisé?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "Tous les fuseaux horaires sont en UTC. Utilisez ce <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">convertisseur de fuseau horaire</a> pour les ajustés à votre heure locale."
+msgstr "Tous les fuseaux horaires sont en UTC. Utilisez ce <a href=\"https://www.timeanddate.com/worldclock/converter.html?p1=1440\" target=\"_blank\" rel=\"noopener\">convertisseur de fuseau horaire</a> pour les ajuster à votre heure locale."
 
 msgid "When exactly will the name become available?"
 msgstr "Quand exactement le nom sera-t-il disponible?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr "Normalement les noms sont disponible a minuit UTC, cependant, dans certains cas j'ai vu que cela pouvait prendre 48 heures, vérifié de temps en temps le jour de sa disponibilité"
+msgstr "Normalement, les noms sont nettoyés à minuit UTC. Cependant, dans certains cas, j'ai trouvé que cela prenait 48 heures. Vérifiez toutes les quelques heures le jour où il est listé."
 
 msgid "Can you remove a name from a list for me?"
 msgstr "Pouvez-vous supprimer un nom d'une liste pour moi?"
@@ -423,7 +423,7 @@ msgid "Last game"
 msgstr "Dernier match"
 
 msgid "Last active"
-msgstr "Dernier actif"
+msgstr "Dernière activité"
 
 msgid "Level"
 msgstr "Niveau"
@@ -615,7 +615,7 @@ msgid "The best League of Legends names. Inactive name checker, generated lists 
 msgstr "Les meilleurs noms de League of Legends. Vérificateur de nom inactif, listes générées et recherches populaires."
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "Trouver un bon nom d'utilisateur est difficile, nous le facilitons! LoL Names GG fournit un contrôleur de nom League of Legends, une base de données des noms déjà disponibles générés et une liste de noms à venir basée sur les recherches précédentes. LoL Names GG est l'endroit idéal pour obtenir le meilleur nom d'invocateur de League of Legends. Par exemple, consultez notre liste de noms de trois lettres ou tapez votre nom de League of Legends de rêve et nous vous informerons quand il sera disponible!"
+msgstr "Trouver un bon nom d'utilisateur est difficile, nous le rendons facile ! LoL Names GG fournit un vérificateur de noms de la League of Legends, une base de données des noms déjà générés et une liste des noms à venir basée sur les recherches précédentes. LoL Names GG est l'endroit idéal pour obtenir le meilleur nom d'invocateur de League of Legends. Par exemple, consultez notre liste de noms de trois lettres ou tapez le nom de League of Legends de vos rêves et nous vous ferons savoir quand il sera disponible"
 
 msgid "LoL Name Checker"
 msgstr "LoL vérificateur de nom"
