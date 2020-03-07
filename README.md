@@ -24,7 +24,7 @@ Click the link to the text file with the translations
 | id | [Indonesian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/id/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | it | [Italian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/it/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | ja | [Japanese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ja/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
-| ko | [Korean](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ko/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| ko | [Korean](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ko/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | ms | [Malay](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ms/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | nl | [Dutch](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nl/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | nn | [Norwegian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nn/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
@@ -77,3 +77,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Norwegian - [Setsu_Trash](https://twitter.com/Setsu_Trash)
   * Japanese - [S4WA](https://github.com/S4WA)
   * Finnish - [FreeRangeClone](https://www.reddit.com/user/FreeRangeClone)
+  * Korean - [앱등이](https://twitter.com/10ve_me_please)
