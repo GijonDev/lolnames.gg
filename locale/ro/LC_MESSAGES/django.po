@@ -339,7 +339,7 @@ msgid "ERROR:"
 msgstr "Eroare:"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr "Această unealtă va adăuga automat caractere speciale la numele de ivocator și va verifica disponibilitatea lor."
+msgstr "Această unealtă va adăuga automat caractere speciale la numele de invocator și va verifica disponibilitatea lor."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
 msgstr "O listă cu toate caracterele speciale mari si mici care sunt utilizabile în numele de invocator și arata ca litere din alfabetul englez."
@@ -639,7 +639,7 @@ msgid "It takes %(months)s months for cleanup"
 msgstr "Este nevoie de %(months)s de luni pentru eliberare"
 
 msgid "Cleanup date (if inactive)"
-msgstr "Data de eliberare (dacă contrul nu este activ)"
+msgstr "Data de eliberare (dacă contul nu este activ)"
 
 msgid "Current level:"
 msgstr "Nivelul actual:"
@@ -654,7 +654,7 @@ msgid "%(name)s is probably available!"
 msgstr "%(name)s este probabil disponibil!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr "Daca numelă nu poate fi folosit acum, cel mai probabil contul a fost banat și numele nu va deveni niciodată utilizabil."
+msgstr "Daca numele nu poate fi folosit acum, cel mai probabil contul a fost banat și numele nu va deveni niciodată utilizabil."
 
 msgid "Add Special Characters"
 msgstr "Adaugă caractere speciale"
