@@ -30,7 +30,7 @@ Click the link to the text file with the translations
 | nn | [Norwegian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nn/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | pl | [Polish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pl/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
-| ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
+| ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
 | ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | ✔ 100.00% | ❌ |
 | sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | ✔ 100.00% | ✔ |
@@ -78,3 +78,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Japanese - [S4WA](https://github.com/S4WA)
   * Finnish - [FreeRangeClone](https://www.reddit.com/user/FreeRangeClone)
   * Korean - [앱등이](https://twitter.com/10ve_me_please)
+  * Romanian - [WoophRadu](https://github.com/WoophRadu)
