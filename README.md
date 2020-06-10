@@ -71,7 +71,7 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
   * German - [fvcxy](https://www.reddit.com/user/fvcxy), [YFnepc](https://www.reddit.com/user/YFnepc)
   * Romanian - [AngelJimi](https://www.youtube.com/channel/UC6Qfp0zLBK03eYPnXRL2Gug)
-  * Dutch - Stefan Schrauwen, [meesvandongen](https://github.com/meesvandongen)
+  * Dutch - Stefan Schrauwen, [meesvandongen](https://github.com/meesvandongen), [WRESTLING_PANCAKE](reddit.com/user/WRESTLING_PANCAKE)
   * Russian - [sadloveii](https://www.reddit.com/user/sadloveii)
   * Danish - Anonymous, [Tinggaard](https://github.com/Tinggaard)
   * Norwegian - [Setsu_Trash](https://twitter.com/Setsu_Trash)

@@ -42,7 +42,7 @@ msgid "None available for %(name)s, out of %(num_variants)s variants."
 msgstr "Niets beschikbaar voor %(name)s, van de %(num_variants)s varianten."
 
 msgid "Summoner name not in use"
-msgstr "Summoner naam niet in gebruik"
+msgstr "Summoner naam is niet in gebruik"
 
 msgid "Account ID Lookup"
 msgstr "Account ID opzoeken"
@@ -51,28 +51,28 @@ msgid "Account ID"
 msgstr "Account ID"
 
 msgid "Lookup name by Account ID"
-msgstr "Naam opzoek met Account ID"
+msgstr "Naam opzoeken met Account ID"
 
 msgid "This is an old account ID. Please search the name again to get a new one"
-msgstr "Dit is een oude account-ID. Zoek opnieuw op de naam om een nieuwe te krijgen"
+msgstr "Dit is een oud account-ID. Voer de zoekopdracht opnieuw uit om een nieuw ID te krijgen"
 
 msgid "Summoner Level High Scores"
 msgstr "Summoner Level topscores"
 
 msgid "All Upcoming Names"
-msgstr "Alle aankomende namen"
+msgstr "Alle vrijkomende namen"
 
 msgid "Recently Available Names"
 msgstr "Recent vrijgekomen namen"
 
 msgid "Two Letter Names"
-msgstr "Twee letter namen"
+msgstr "Tweeletterige namen"
 
 msgid "Three Letter Names"
-msgstr "Drie letter namen"
+msgstr "Drieletterige namen"
 
 msgid "Four Letter Names"
-msgstr "Vier letter namen"
+msgstr "Vierletterig namen"
 
 msgid "All"
 msgstr "Allemaal"
@@ -84,16 +84,16 @@ msgid "Only numbers"
 msgstr "Alleen getallen"
 
 msgid "With symbols"
-msgstr "Symbolen:"
+msgstr "Met symbolen:"
 
 msgid "Lists"
 msgstr "Lijsten"
 
 msgid "No active game for %(name)s"
-msgstr "Geen actief spel voor %(name)s"
+msgstr "%(name)s is momenteel niet actief"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr "Geen summoner met naam \"%(name)s\" op %(region)s."
+msgstr "Geen summoner met naam \"%(name)s\" im %(region)s."
 
 msgid "Perfect Pickems"
 msgstr "Perfecte Pickems"
@@ -102,7 +102,7 @@ msgid "LoL Names"
 msgstr "LoL namen"
 
 msgid "Checker"
-msgstr "Nakijker"
+msgstr "Controleur"
 
 msgid "Highscores"
 msgstr "Topscores"
@@ -156,7 +156,7 @@ msgid "lol name check"
 msgstr "lol naam controleren"
 
 msgid "league names"
-msgstr "competitie namen"
+msgstr "league namen"
 
 msgid "name checker lol"
 msgstr "naam checker lol"
@@ -177,7 +177,7 @@ msgid "lol nick"
 msgstr "lol nick"
 
 msgid "available league names"
-msgstr "beschikbare competitie namen"
+msgstr "beschikbare league namen"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Veelgestelde vragen over summoner namen"
@@ -189,16 +189,16 @@ msgid "Close"
 msgstr "Sluiten"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr "Deze sectie bevat veel informatie, gerelateerd aan <strong>LoL Names.GG</string> en zijn gebruik. Als je niet een antwoord kan vinden op je vraag, voel je vrij om mij te <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contacteren</a>."
+msgstr "Deze sectie bevat informatie gerelateerd aan <strong>LoL Names.GG</string> en zijn gebruik. Als je geen antwoord kan vinden op je vraag, kan je me via <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contacteren</a>."
 
 msgid "Frequently Asked Questions"
 msgstr "Veelgestelde vragen"
 
 msgid "Where should I report a bug or make a suggestion?"
-msgstr "Waar zou ik een incorrecte vertaling kunnen rapporteren?"
+msgstr "Waar moet ik een incorrecte vertaling kunnen rapporteren?"
 
 msgid "GitHub is my pefered option. Otherwise you can contact me on Reddit, Facebook or Twitter. Please include the URL the bug occured on and as much information as possible."
-msgstr "GitHub is mijn pefered optie. Anders kunt u contact met mij opnemen op Reddit, Facebook of Twitter. Vermeld de URL van de fout op en zoveel mogelijk informatie."
+msgstr "GitHub is mijn voorkeur. Anders kan je contact opnemen op Reddit, Facebook of Twitter. Vermeld de URL waar de fout plaats vond, en zoveel mogelijk informatie."
 
 msgid "How frequently do the lists update?"
 msgstr "Hoe vaak worden de lijsten bijgewerkt?"
@@ -210,19 +210,19 @@ msgid "Why can't I take a name on a new account?"
 msgstr "Waarom kan ik een naam niet nemen op een nieuw account?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "Als een naam al is geregistreerd door een account kunt u deze alleen verkrijgen via een naamswijziging. Deze namen worden weergegeven met een groene achtergrond. Als een naam niet door een huidige gebruiker is geregistreerd, kunt u deze op een gloednieuw account zetten. Deze namen worden getoond met een blauwe achtergrond."
+msgstr "Als een naam al is geregistreerd door een account kan je deze alleen verkrijgen via een naamswijziging. Deze namen worden weergegeven met een groene achtergrond. Als een naam niet door een huidige gebruiker is geregistreerd, kan je deze op een gloednieuw account zetten. Deze namen worden vertoond met een blauwe achtergrond."
 
 msgid "What if the account is banned?"
-msgstr "Wat als het account is verbannen?"
+msgstr "Wat als het account verbannen is?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
-msgstr "Als het account is verbannen is het mogelijk dat het wordt getoont als ‘niet gebruikt’ met een groene achtergrond, maar het blijft voor altijd onbeschikbaar tenzij Riot hun beleid over verbannen accounts verandert."
+msgstr "Als het account is verbannenm is het mogelijk dat het wordt vertoont als ‘niet gebruikt’ met een groene achtergrond, maar het blijft voor altijd onbeschikbaar tenzij Riot hun beleid over verbannen accounts verandert."
 
 msgid "How can I get a 2 letter name?"
 msgstr "Hoe kan ik een naam van 2 letters verkrijgen?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr "De minimum tekens voor League of Legends namen zijn 3. U kunt een spatie tussen de tekens plaatsen om dit te verhelpen."
+msgstr "Het minimum aantal tekens voor League of Legends namen is 3. Je kan een spatie tussen de tekens plaatsen om dit te verhelpen."
 
 msgid "What timezone is used?"
 msgstr "Welke tijdzone wordt gebruikt"
@@ -234,13 +234,13 @@ msgid "When exactly will the name become available?"
 msgstr "Wanneer zal de naam precies beschikbaar worden?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr "Normaal worden namen opgeschoond op middernacht UTC. Maar, in sommige gevallen can het 48 uur duren. Controleer elke paar uur op de dag dat het is gelijst."
+msgstr "Normaal worden namen opgeschoond om middernacht UTC. In sommige gevallen kan het 48 uur duren. Controleer elke paar uur op de dag dat het is vermeld."
 
 msgid "Can you remove a name from a list for me?"
-msgstr "Kun je een naam verwijderen van de lijst voor mij?"
+msgstr "Kan je een naam verwijderen van de lijst voor mij?"
 
 msgid "No. All the names are automatically scanned."
-msgstr "Nee. Alle namen zijn automatisch gescanned."
+msgstr "Nee. Alle namen worden automatisch gevonden."
 
 msgid "Where should I report an incorrect translation?"
 msgstr "Waar zou ik een incorrecte vertaling kunnen rapporteren?"
@@ -249,7 +249,7 @@ msgid "Contact me here."
 msgstr "Contacteer mij hier."
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr "Waarom zijn geen namen van champions toegestaan voor Xayah en Rakan?"
+msgstr "Waarom zijn geen namen van karakters toegestaan voor Xayah en Rakan?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
 msgstr "Riot heeft gezegd dat ze niet langer namen reserveren van nieuwe champions."
@@ -342,7 +342,7 @@ msgid "This will add special characters to names and check to see if they're ava
 msgstr "Dit voegt speciale tekens toe aan namen en kijkt of ze beschikbaar zijn."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr "Een lijst van alle grote en kleine speciale letter die toegestaan zijn in League of Legends summoner namen en eruit zien als engelse letters."
+msgstr "Een lijst van alle grote en kleine speciale letter die toegestaan zijn in League of Legends summoner namen, en eruit zien als engelse letters."
 
 msgid "Lower case:"
 msgstr "Kleine letters:"
@@ -411,7 +411,7 @@ msgid "LoL Account ID Finder"
 msgstr "LoL Account ID Zoeker"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr "Voer een summoner naam in en vind de account ID. Als ze hun naam veranderen blijft de account ID hetzelfde."
+msgstr "Voer een summoner naam in en vind het account ID. Als ze hun naam veranderen blijft het account ID hetzelfde."
 
 msgid "Search"
 msgstr "Zoeken"
@@ -438,16 +438,16 @@ msgid "%(summoner_name)s is not in use!"
 msgstr "%(summoner_name)s is niet in gebruik!"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr "Zie welke summoner naam bij de account ID hoort %(account_id)s!"
+msgstr "Zie welke summoner naam bij het account ID hoort %(account_id)s!"
 
 msgid "Search for a summoner name using an account ID."
-msgstr "Zoek voor een summoner naam met gebruik van een account ID."
+msgstr "Zoek voor een summoner naam met behulp van een account ID."
 
 msgid "LoL Name by Account ID"
 msgstr "LoL Naam op account ID"
 
 msgid "Track a summoner name using an account ID. Enter a summoner's account ID and find their username. It works the same way as lolking used to, bookmark the page and you'll always know the summoner name even after they name change."
-msgstr "Volg een summoner naam met behulp van een account-ID. Voer de account-ID van een Summoner in en vind hun gebruikersnaam. Het werkt op dezelfde manier als vroeger, voeg een bladwijzer toe aan de pagina en u weet altijd de naam van de summoner, zelfs nadat ze naam wijzigen."
+msgstr "Volg een summoner naam met behulp van een account-ID. Voer het account-ID van een Summoner in en vind hun gebruikersnaam. Het werkt op dezelfde manier als vroeger, voeg een bladwijzer toe aan de pagina en u weet altijd de naam van de summoner, zelfs nadat ze hun naam wijzigen."
 
 msgid "Account ID was found!"
 msgstr "Account-ID gevonden!"
@@ -462,52 +462,52 @@ msgid "Coming soon!"
 msgstr "Binnenkort beschikbaar!"
 
 msgid "Current level"
-msgstr "Huidig niveau"
+msgstr "Huidig level"
 
 msgid "%(account_id)s is not owned!"
 msgstr "%(account_id)s is geen eigendom!"
 
 msgid "highest level in League of Legends"
-msgstr "hoogste niveau in League of Legends"
+msgstr "hoogste level in League of Legends"
 
 msgid "lol highest level"
-msgstr "lol hoogste niveau"
+msgstr "lol hoogste level"
 
 msgid "highest League of Legends level"
-msgstr "hoogste niveau van League of Legends"
+msgstr "hoogste level van League of Legends"
 
 msgid "highest level in lol"
-msgstr "hoogste niveau in lol"
+msgstr "hoogste level in lol"
 
 msgid "highest league level"
-msgstr "hoogste niveau"
+msgstr "hoogste level"
 
 msgid "highest level on League of Legends"
-msgstr "hoogste niveau op League of Legends"
+msgstr "hoogste level op League of Legends"
 
 msgid "highest level league player"
-msgstr "hoogste niveau league-speler"
+msgstr "hoogste level league-speler"
 
 msgid "top level lol"
-msgstr "topniveau lol"
+msgstr "toplevel lol"
 
 msgid "highest level lol player"
-msgstr "hoogste niveau lol speler"
+msgstr "hoogste level lol speler"
 
 msgid "lol level"
-msgstr "lol niveau"
+msgstr "lol level"
 
 msgid "League of Legends highest level player"
-msgstr "League of Legends speler van het hoogste niveau"
+msgstr "League of Legends speler met het hoogste level"
 
 msgid "who is the highest level in League of Legends"
-msgstr "wie is het hoogste niveau in League of Legends"
+msgstr "wie is het hoogste level in League of Legends"
 
 msgid "what is the highest level in League of Legends"
-msgstr "wat is het hoogste niveau in League of Legends"
+msgstr "wat is het hoogste level in League of Legends"
 
 msgid "highest level in League of Legends right now"
-msgstr "hoogste niveau in League of Legends op dit moment"
+msgstr "hoogste level in League of Legends op dit moment"
 
 msgid "summoner level leaderboard"
 msgstr "summoner level leaderboard"
@@ -519,7 +519,7 @@ msgid "The top summoner level in League of Legends!"
 msgstr "De top summoner level in League of Legends!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr "Volg wie het hoogste summoner level heeft in League of Legends. De hoogste scores kunnen worden laten zien als wereldwijd of gesorteerd op regio. Zie de summoner lever scoreborden."
+msgstr "Volg wie het hoogste summoner level heeft in League of Legends. De hoogste levels kunnen worden worden gesorteerd per regio. Zie de summoner lever scoreborden."
 
 msgid "Currently %(top.display_name)s has the highest summoner level in the world at level %(top.level)s!"
 msgstr ""
@@ -621,7 +621,7 @@ msgid "LoL Name Checker"
 msgstr "LoL Namen Nakijker"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr "Gebruik deze website om te vinden wanneer een summoner naam vervalt."
+msgstr "Gebruik deze website om uit te vinden wanneer een summoner naam vervalt."
 
 msgid "%(name)s is available!"
 msgstr "%(name)s is beschikbaar!"
@@ -636,7 +636,7 @@ msgid "%(name)s is available in %(days)s days."
 msgstr "%(name)s is beschikbaar na %(days)s dagen."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr "Het duurt %(months)s maanden om op te ruimen"
+msgstr "Het duurt %(months)s maanden om vrij te komen"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Opschoondatum (indien niet actief)"
@@ -654,7 +654,7 @@ msgid "%(name)s is probably available!"
 msgstr "%(name)s is waarschijnlijk beschikbaar!"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr "Als deze naam niet gekozen kan worden is het account bijna zeker verbannen en de naam zal nooit vervallen"
+msgstr "Als deze naam niet gekozen kan worden, is het account bijna zeker verbannen en zal de naam nooit vervallen"
 
 msgid "Add Special Characters"
 msgstr "Voeg speciale tekens toe"
@@ -666,7 +666,7 @@ msgid "This name currently isn't used."
 msgstr "Deze naam wordt momenteel niet gebruikt."
 
 msgid "It is available for new accounts."
-msgstr "Het is beschikbaar voor nieuwe accounts."
+msgstr "Deze naam is beschikbaar voor nieuwe accounts."
 
 msgid "league of legends names list"
 msgstr "lijst met legendes namen"
@@ -696,7 +696,7 @@ msgid "Select a list and region"
 msgstr "Selecteer een lijst en regio"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr "Regelmatig bijgewerkt, gecureerde lijsten van de beste beschikbare League of Legends summoner namen. Vind lijsten met de beste summoner namen."
+msgstr "Regelmatig bijgewerkte en gecureerde lijsten van de beste beschikbare League of Legends summoner namen. Hier vind je lijsten met de beste summoner namen."
 
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr "Zie een lijst van %(page_title)s en wanneer ze beschikbaar zijn!"
@@ -708,19 +708,19 @@ msgid "Type"
 msgstr "Type"
 
 msgid "Availability (days)"
-msgstr "Beschikbaarheid (days)"
+msgstr "Beschikbaarheid (in dagen)"
 
 msgid "Recheck"
 msgstr "Opnieuw nakijken"
 
 msgid "Name change only"
-msgstr "Alleen naam veranderingen"
+msgstr "Alleen naamsveranderingen"
 
 msgid "Click to update"
 msgstr "Klik om te updaten"
 
 msgid "New accounts or name change"
-msgstr "Nieuwe accounts of naam verandering"
+msgstr "Nieuwe accounts of naamsverandering"
 
 msgid "Active Match Lookup"
 msgstr "Actieve Match zoeken"
@@ -747,7 +747,7 @@ msgid "see current League of Legends match details"
 msgstr "bekijk de wedstrijddetails van League of Legends"
 
 msgid "See your current League of Legends match details including your opponents rank, win ratio and level."
-msgstr "Bekijk je huidige League of Legends-wedstrijddetails, inclusief je rang, winratio en niveau."
+msgstr "Bekijk je huidige League of Legends-wedstrijddetails, inclusief je rang, winratio en level."
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Gebruik deze pagina om te zoeken voor de actieve match details voor summoners op dit moment in game."
@@ -837,7 +837,7 @@ msgid "See all the most and least used summoner icons in League of Legends"
 msgstr "Bekijk de meest en minst gebruikte Summoner-pictogrammen in League of Legends"
 
 msgid "This table shows all the most used and rarest summoner icons in League of Legends for the current patch across all regions."
-msgstr "Deze tabel toont alle meest gebruikte en meest zeldzame summoner-pictogrammen in League of Legends voor de huidige patch in alle regio's."
+msgstr "Deze tabel toont de meest gebruikte en de meest zeldzame summoner-pictogrammen in League of Legends voor de huidige patch in alle regio's."
 
 msgid "Number"
 msgstr "Aantal"
@@ -870,10 +870,10 @@ msgid "statistics lol"
 msgstr "statistieken lol"
 
 msgid "See all the League of Legends summoner level statistics"
-msgstr "Bekijk alle statistieken van de League of Legends summoner-level"
+msgstr "Bekijk alle League of Legends summoner level statistieken"
 
 msgid "This graph compares all the summoners between level 100 and 125 across all regions."
-msgstr "Deze grafiek vergelijkt alle summoners tussen niveau 100 en 125 in alle regio's."
+msgstr "Deze grafiek vergelijkt alle summoners tussen level 100 en 125 in alle regio's."
 
 msgid "Summoner level distribution by region"
 msgstr "Summoner level distributie op regio"
@@ -928,8 +928,6 @@ msgstr "Stap 1: Account-ID opzoeken"
 
 msgid "Step 2: Search by Account ID and bookmark to track"
 msgstr "Stap 2: Zoek op Account ID en maak een bladwijzer aan om te volgen"
-
-
 
 
 
