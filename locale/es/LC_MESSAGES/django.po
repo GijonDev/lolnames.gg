@@ -78,13 +78,13 @@ msgid "All"
 msgstr "Todos"
 
 msgid "Only letters"
-msgstr "Solo cartas"
+msgstr "Solo letras"
 
 msgid "Only numbers"
 msgstr "Sólo números"
 
 msgid "With symbols"
-msgstr "Símbolos:"
+msgstr "Con símbolos"
 
 msgid "Lists"
 msgstr "Listas"
@@ -213,7 +213,7 @@ msgid "If a name is already taken by an account you can only obtain it via a nam
 msgstr "Si un nombre ha sido usado ya en una cuenta, solo puedes obtenerlo mediante un cambio de nombre. Estos nombres se muestran con un fondo verde. Si un nombre no ha sido usado nunca, puedes elegirlo para una cuenta nueva. Estos nombres se muestran con un fondo azul."
 
 msgid "What if the account is banned?"
-msgstr "¿Y qué si la cuenta está suspendida?"
+msgstr "¿Y si la cuenta está suspendida?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailable indefinitely unless Riot changes their policy on banned accounts."
 msgstr "Si la cuenta está suspendida se mostrará entonces como \"Libre\", con un fondo verde. Sin embargo, no va a volver a estar disponible nunca, a no ser que Riot cambie su política de cuentas suspendidas."
@@ -222,7 +222,7 @@ msgid "How can I get a 2 letter name?"
 msgstr "¿Cómo puedo obtener un nombre de 2 letras?"
 
 msgid "The minimum characters for League of Legends names are 3. You can put a space between the characters to fix this."
-msgstr "Los caracteres mínimos para los nombres de League of Legends son 3. Puedes poner un espacio entre los personajes para arreglar esto."
+msgstr "Los caracteres mínimos para los nombres de League of Legends son 3. Puedes poner un espacio entre los carácteres para solucionarlo."
 
 msgid "What timezone is used?"
 msgstr "¿Qué zona horaria se usa?"
@@ -255,13 +255,13 @@ msgid "Riot has said they will no longer reserve names of new champions."
 msgstr "Riot ya dijo que no va a reservar los nombres de nuevos campeones."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr "Igualmente, las cuentas con los nombres anteriores han sido baneadas así que nunca expirarán"
+msgstr "Igualmente, las cuentas con los nombres anteriores han sido baneadas así que nunca expirarán."
 
 msgid "Disclaimer"
 msgstr "Renuncia de Garantías"
 
 msgid "lol name generator"
-msgstr "lol nombre generador"
+msgstr "generador de nombre del lol"
 
 msgid "League of Legends name generator"
 msgstr "Generador de nombres de League of Legends"
@@ -369,7 +369,7 @@ msgid "account finder"
 msgstr "buscador de cuentas"
 
 msgid "lol id finder"
-msgstr "lol id buscador"
+msgstr "lol buscador de id"
 
 msgid "lol summoner id"
 msgstr "ID de invocador lol"
@@ -420,7 +420,7 @@ msgid "%(display_name)s was found!"
 msgstr "Se encontró %(display_name)s!"
 
 msgid "Last game"
-msgstr "Último juego"
+msgstr "Última partida"
 
 msgid "Last active"
 msgstr "Activo por última vez"
@@ -462,7 +462,7 @@ msgid "Coming soon!"
 msgstr "¡Próximamente!"
 
 msgid "Current level"
-msgstr "Nivel actual"
+msgstr "Nivel actual:"
 
 msgid "%(account_id)s is not owned!"
 msgstr "%(account_id)s está libre!"
@@ -495,7 +495,7 @@ msgid "highest level lol player"
 msgstr "jugador de lol con nivel más alto"
 
 msgid "lol level"
-msgstr "lol nivel"
+msgstr "nivel del lol"
 
 msgid "League of Legends highest level player"
 msgstr "Jugador de más alto nivel de League of Legends"
@@ -549,7 +549,7 @@ msgid "Current Level"
 msgstr "Nivel actual"
 
 msgid "Check now"
-msgstr "Revisalo ahora"
+msgstr "Revísalo ahora"
 
 msgid "League of Legends names list"
 msgstr "Lista de nombres de League of Legends"
@@ -627,16 +627,16 @@ msgid "%(name)s is available!"
 msgstr "%(name)s está disponible!"
 
 msgid "It took %(months)s months for cleanup"
-msgstr "Llevó %(months)s meses para la limpieza"
+msgstr "Tardó %(months)s meses en limpiarse"
 
 msgid "Cleanup date was"
-msgstr "Fecha de limpieza fue"
+msgstr "La fecha de limpieza fue"
 
 msgid "%(name)s is available in %(days)s days."
-msgstr "%(name)s está disponible en %(days)s días."
+msgstr "%(name)s estará disponible en %(days)s días."
 
 msgid "It takes %(months)s months for cleanup"
-msgstr "Se tarda %(months)s meses para la limpieza"
+msgstr "Los nombres se limpian en %(months)s meses"
 
 msgid "Cleanup date (if inactive)"
 msgstr "Fecha de limpieza (si está inactivo)"
